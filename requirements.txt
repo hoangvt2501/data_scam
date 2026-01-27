@@ -1,3 +1,9 @@
 pandas
 openai
 tqdm
+torch
+transformers
+tqdm
+python-dotenv
+sentencepiece
+protobuf

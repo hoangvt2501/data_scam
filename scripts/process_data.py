@@ -6,7 +6,6 @@ from openai import OpenAI
 from tqdm import tqdm
 from scam_config import SCAM_GROUPS
 
-# Cấu hình đường dẫn
 INPUT_FILE = r"f:\Projetcs\data_scam\raw\BothBosu\agent_conversation_all.csv"
 OUTPUT_FILE = r"f:\Projetcs\data_scam\processed\agent_conversation_vietnamese.csv"
 
@@ -38,7 +37,7 @@ def process_dialogue(dialogue):
     prompt = get_add_info_prompt()
     try:
         response = client.chat.completions.create(
-            model="gpt-4o", # Hoặc gpt-3.5-turbo nếu muốn tiết kiệm
+            model="gpt-4o",
             messages=[
                 {"role": "system", "content": prompt},
                 {"role": "user", "content": f"Hội thoại cần xử lý:\n{dialogue}"}
@@ -52,10 +51,8 @@ def process_dialogue(dialogue):
         return None
 
 def main():
-    # Tạo thư mục output nếu chưa có
     os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
 
-    # Đọc dữ liệu
     if not os.path.exists(INPUT_FILE):
         print(f"File không tồn tại: {INPUT_FILE}")
         return
@@ -63,17 +60,14 @@ def main():
     df = pd.read_csv(INPUT_FILE)
     print(f"Đã tải {len(df)} dòng dữ liệu.")
 
-    # Kiểm tra xem đã có file output chưa để resume
-    start_idx = 0
+   
     if os.path.exists(OUTPUT_FILE):
         df_existing = pd.read_csv(OUTPUT_FILE)
         start_idx = len(df_existing)
         print(f"Tiếp tục từ dòng {start_idx}...")
     else:
-        # Khởi tạo file với header
         pd.DataFrame(columns=['original_dialogue', 'vietnamese_dialogue', 'scam_type_id', 'scam_type_name', 'explanation', 'original_personality', 'original_type', 'original_labels']).to_csv(OUTPUT_FILE, index=False)
 
-    # Xử lý từng dòng
     for i in tqdm(range(start_idx, len(df))):
         row = df.iloc[i]
         original_dialogue = row['dialogue']
@@ -91,14 +85,11 @@ def main():
                 'original_type': row.get('type', ''),
                 'original_labels': row.get('labels', '')
             }
-            
-            # Lưu ngay lập tức (append mode)
             pd.DataFrame([new_row]).to_csv(OUTPUT_FILE, mode='a', header=False, index=False)
         else:
-            # Ghi lại lỗi hoặc skip
+
             pass
         
-        # Tránh rate limit
         time.sleep(0.5)
 
 if __name__ == "__main__":

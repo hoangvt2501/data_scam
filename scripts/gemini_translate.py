@@ -14,21 +14,33 @@ MAX_RETRIES = 3
 
 
 def translate_single(dialogue, client):
-    prompt = f"""Dịch đoạn hội thoại này sang tiếng Việt tự nhiên:
+    prompt = f"""Bạn là một chuyên gia bản địa hóa ngôn ngữ. 
+Nhiệm vụ: Dịch đoạn hội thoại lừa đảo qua điện thoại (scam call) sau sang tiếng Việt.
 
-RULES:
-- "Innocent:" → "Người nhận cuộc gọi:"
+YÊU CẦU PHONG CÁCH (QUAN TRỌNG):
+1. VĂN NÓI TỰ NHIÊN: 
+   - Dùng ngữ điệu hội thoại đời thường của người Việt. 
+   - Sử dụng từ đệm phù hợp: "ạ, vâng, dạ, à, ừ, nhé, nha, hả, chứ...".
+   - Câu văn có thể rút gọn chủ ngữ nếu ngữ cảnh cho phép.
+   
+2. NGỮ KHÍ NHÂN VẬT:
+   - Suspect: Giọng điệu nghiêm trọng, đe dọa, gấp gáp hoặc dụ dỗ chuyên nghiệp.
+   - Innocent: Giọng điệu lo lắng, bối rối, ngây thơ hoặc nghi ngờ.
+
+QUY TẮC THUẬT NGỮ (LOCALIZATION):
+- Giữ cấu trúc hội thoại
+- "Innocent:" → "Người nhận cuộc gọi:" 
 - "Suspect:" → "Kẻ lừa đảo:"
-- Social Security Administration → Cơ quan Bảo hiểm Xã hội
-- social security number → mã số BHXH/CCCD
-- Officer → Cán bộ
-- ma'am/sir → chị/anh
-- Federal Trade Commission → Ủy ban Thương mại Liên bang
-- Xưng hô tự nhiên theo văn hóa VN
+- "Social Security Administration" → "Cơ quan Bảo hiểm Xã hội" hoặc "Bộ Công an" (tùy ngữ cảnh dọa nạt)
+- "social security number" → "số Căn cước công dân (CCCD)" hoặc "mã số định danh"
+- "Officer" → "Cán bộ" hoặc "Thanh tra"
+- "ma'am/sir" → "anh/chị" (xưng hô linh hoạt theo ngữ cảnh, không cứng nhắc)
+- "Federal Trade Commission" → "Ủy ban Thương mại" hoặc "Cục Quản lý"
 
-CHỈ TRẢ VỀ BẢN DỊCH, KHÔNG THÊM GÌ:
+INPUT DIALOGUE:
+{dialogue}
 
-{dialogue}"""
+OUTPUT (Chỉ trả về nội dung dịch, không giải thích):"""
     
     try:
         response = client.models.generate_content(
@@ -204,8 +216,8 @@ if __name__ == "__main__":
         print("❌ Chưa set GEMINI_API_KEY trong .env!")
         exit(1)
     
-    input_csv = r"F:\Projetcs\data_scam\raw\BothBosu\agent_conversation_all.csv"
-    output_json = r"F:\Projetcs\data_scam\processed\agent_conversation_all.json"
+    input_csv = r"C:\Users\admin\Desktop\Hoangvt\data_scam\raw\BothBosu\agent_conversation_all.csv"
+    output_json = r"C:\Users\admin\Desktop\Hoangvt\data_scam\processed\agent_conversation_all.json"
     
     print("\n" + "="*70)
     print("CHỌN CHẾ ĐỘ:")

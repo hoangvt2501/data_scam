@@ -6,50 +6,45 @@ from tqdm import tqdm
 from dotenv import load_dotenv
 from openai import OpenAI
 
-# ================== LOAD ENV ==================
 load_dotenv()
 
-# ================== CONFIG ==================
-REQUEST_DELAY = 1        # nghỉ giữa các request
-RETRY_DELAY = 30         # nghỉ khi rate limit
+REQUEST_DELAY = 1       
+RETRY_DELAY = 30       
 MAX_RETRIES = 3
 
 MODEL_NAME = "openai/gpt-4o-mini"
 BASE_URL = "https://openrouter.ai/api/v1"
 
 
-# ================== PROMPT ==================
 def build_translation_prompt(dialogue: str) -> str:
     return f"""
-Bạn là một biên dịch viên chuyên nghiệp, chuyên dịch các đoạn hội thoại lừa đảo qua điện thoại
+Bạn là một phiên dịch viên chuyên nghiệp, chuyên dịch các đoạn hội thoại lừa đảo qua điện thoại
 (phone scam / fraud call) từ tiếng Anh sang tiếng Việt.
 
-MỤC TIÊU:
-- Bản dịch tự nhiên như người Việt nói
-- Giữ đúng ngữ cảnh lừa đảo
+YÊU CẦU PHONG CÁCH (QUAN TRỌNG):
+1. VĂN NÓI TỰ NHIÊN: 
+   - Dùng ngữ điệu hội thoại đời thường của người Việt. 
+   - Sử dụng từ đệm phù hợp: "ạ, vâng, dạ, à, ừ, nhé, nha, hả, chứ...".
+   - Câu văn có thể rút gọn chủ ngữ nếu ngữ cảnh cho phép.
+   
+2. NGỮ KHÍ NHÂN VẬT:
+   - Suspect: Giọng điệu nghiêm trọng, đe dọa, gấp gáp hoặc dụ dỗ chuyên nghiệp.
+   - Innocent: Giọng điệu lo lắng, bối rối, ngây thơ hoặc nghi ngờ.
 
-QUY TẮC:
-- "Innocent:" → "Người nhận cuộc gọi:"
-- "Suspect:" → "Kẻ lừa đảo:"
-- Officer → Cán bộ
-- ma'am / sir → chị / anh
-- Social Security Administration → Cơ quan Bảo hiểm Xã hội
-- social security number → mã số BHXH / CCCD
-- Federal Trade Commission → Ủy ban Thương mại Liên bang
-
-YÊU CẦU:
+QUY TẮC THUẬT NGỮ (LOCALIZATION):
 - Giữ cấu trúc hội thoại
-- Thể hiện rõ giọng đe dọa / thao túng nếu có
-- KHÔNG giải thích
-- KHÔNG thêm nội dung
-- CHỈ TRẢ VỀ BẢN DỊCH
+- "Innocent:" → "Người nhận cuộc gọi:" 
+- "Suspect:" → "Kẻ lừa đảo:"
+- "Social Security Administration" → "Cơ quan Bảo hiểm Xã hội" hoặc "Bộ Công an" (tùy ngữ cảnh dọa nạt)
+- "social security number" → "số Căn cước công dân (CCCD)" hoặc "mã số định danh"
+- "Officer" → "Cán bộ" hoặc "Thanh tra"
+- "ma'am/sir" → "anh/chị" (xưng hô linh hoạt theo ngữ cảnh, không cứng nhắc)
+- "Federal Trade Commission" → "Ủy ban Thương mại" hoặc "Cục Quản lý"
 
 HỘI THOẠI:
 {dialogue}
 """.strip()
 
-
-# ================== TRANSLATE ONE ==================
 def translate_single(dialogue: str, client: OpenAI) -> str:
     prompt = build_translation_prompt(dialogue)
 
@@ -68,8 +63,6 @@ def translate_single(dialogue: str, client: OpenAI) -> str:
             raise Exception("RATE_LIMIT")
         raise e
 
-
-# ================== IO HELPERS ==================
 def load_progress(path):
     if not os.path.exists(path):
         return []
@@ -89,7 +82,6 @@ def save_one(path, record):
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
-# ================== MAIN PROCESS ==================
 def process_csv(csv_file, output_json, api_key, test_mode=False):
     client = OpenAI(api_key=api_key, base_url=BASE_URL)
 
@@ -177,15 +169,13 @@ def process_csv(csv_file, output_json, api_key, test_mode=False):
 
     return load_progress(output_json), errors
 
-
-# ================== ENTRY ==================
 if __name__ == "__main__":
     API_KEY = os.getenv("OPENROUTER_API_KEY")
     if not API_KEY:
         raise RuntimeError("❌ Chưa set OPENROUTER_API_KEY")
 
-    input_csv = r"F:\Projetcs\data_scam\raw\BothBosu\agent_conversation_all.csv"
-    output_json = r"F:\Projetcs\data_scam\processed\agent_conversation_all.json"
+    input_csv = r"C:\Users\admin\Desktop\Hoangvt\data_scam\raw\BothBosu\agent_conversation_all.csv"
+    output_json = r"C:\Users\admin\Desktop\Hoangvt\data_scam\processed\agent_conversation_all.json"
 
     print("1. TEST MODE (10 dòng)")
     print("2. FULL MODE")
