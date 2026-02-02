@@ -1,0 +1,2590 @@
+================================================================================
+TRANSLATION LOG
+================================================================================
+
+✅ Record ID 2 (Index 1) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 15:44:20
+
+✅ Record ID 66 (Index 65) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 15:44:50
+
+✅ Record ID 194 (Index 193) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 15:45:17
+
+✅ Record ID 496 (Index 495) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 15:45:36
+
+✅ Record ID 497 (Index 496) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 15:46:00
+
+✅ Record ID 498 (Index 497) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 15:46:25
+
+✅ Record ID 499 (Index 498) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 15:46:38
+
+✅ Record ID 500 (Index 499) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 15:47:08
+
+✅ Record ID 501 (Index 500) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 15:47:28
+
+✅ Record ID 502 (Index 501) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 15:47:38
+
+✅ Record ID 503 (Index 502) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 15:47:54
+
+✅ Record ID 504 (Index 503) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 15:48:17
+
+✅ Record ID 505 (Index 504) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 15:48:42
+
+✅ Record ID 506 (Index 505) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 15:48:57
+
+✅ Record ID 507 (Index 506) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 15:49:13
+
+✅ Record ID 508 (Index 507) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 15:49:24
+
+✅ Record ID 509 (Index 508) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 15:49:44
+
+✅ Record ID 510 (Index 509) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 15:49:53
+
+✅ Record ID 511 (Index 510) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 15:50:18
+
+✅ Record ID 512 (Index 511) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 15:50:33
+
+✅ Record ID 513 (Index 512) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 15:50:55
+
+✅ Record ID 514 (Index 513) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 15:51:19
+
+✅ Record ID 515 (Index 514) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 15:51:43
+
+✅ Record ID 516 (Index 515) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 15:51:55
+
+✅ Record ID 517 (Index 516) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 15:52:10
+
+✅ Record ID 518 (Index 517) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 15:52:24
+
+✅ Record ID 519 (Index 518) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 15:52:36
+
+✅ Record ID 520 (Index 519) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 15:52:50
+
+✅ Record ID 521 (Index 520) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 15:53:04
+
+✅ Record ID 522 (Index 521) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 15:53:18
+
+✅ Record ID 523 (Index 522) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 15:53:41
+
+✅ Record ID 524 (Index 523) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 15:54:00
+
+✅ Record ID 525 (Index 524) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 15:54:08
+
+✅ Record ID 526 (Index 525) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 15:54:27
+
+✅ Record ID 527 (Index 526) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 15:54:42
+
+✅ Record ID 528 (Index 527) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 15:55:02
+
+✅ Record ID 529 (Index 528) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 15:55:23
+
+✅ Record ID 530 (Index 529) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 15:55:43
+
+✅ Record ID 531 (Index 530) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 15:55:53
+
+✅ Record ID 532 (Index 531) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 15:56:02
+
+✅ Record ID 533 (Index 532) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 15:56:12
+
+✅ Record ID 534 (Index 533) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 15:56:24
+
+✅ Record ID 535 (Index 534) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 15:56:44
+
+✅ Record ID 536 (Index 535) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 15:56:54
+
+✅ Record ID 537 (Index 536) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 15:57:17
+
+✅ Record ID 538 (Index 537) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 15:57:28
+
+✅ Record ID 539 (Index 538) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 15:57:39
+
+✅ Record ID 540 (Index 539) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 15:58:01
+
+✅ Record ID 541 (Index 540) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 15:58:20
+
+✅ Record ID 542 (Index 541) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 15:58:42
+
+✅ Record ID 543 (Index 542) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 15:58:53
+
+✅ Record ID 544 (Index 543) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 15:59:16
+
+✅ Record ID 545 (Index 544) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 15:59:30
+
+✅ Record ID 546 (Index 545) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 15:59:42
+
+✅ Record ID 547 (Index 546) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:00:04
+
+✅ Record ID 548 (Index 547) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:00:27
+
+✅ Record ID 549 (Index 548) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:00:38
+
+✅ Record ID 550 (Index 549) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:00:59
+
+✅ Record ID 551 (Index 550) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:01:10
+
+✅ Record ID 552 (Index 551) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:01:31
+
+✅ Record ID 553 (Index 552) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:01:53
+
+✅ Record ID 554 (Index 553) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:02:12
+
+✅ Record ID 555 (Index 554) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:02:34
+
+✅ Record ID 556 (Index 555) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:02:54
+
+✅ Record ID 557 (Index 556) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:03:07
+
+✅ Record ID 558 (Index 557) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:03:25
+
+✅ Record ID 559 (Index 558) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:03:49
+
+✅ Record ID 560 (Index 559) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:04:13
+
+✅ Record ID 561 (Index 560) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:04:27
+
+✅ Record ID 562 (Index 561) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:04:51
+
+✅ Record ID 563 (Index 562) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:05:04
+
+✅ Record ID 564 (Index 563) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:05:25
+
+✅ Record ID 565 (Index 564) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:05:48
+
+✅ Record ID 566 (Index 565) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:06:07
+
+✅ Record ID 567 (Index 566) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:06:16
+
+✅ Record ID 568 (Index 567) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:06:29
+
+✅ Record ID 569 (Index 568) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:06:55
+
+✅ Record ID 570 (Index 569) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:07:08
+
+✅ Record ID 571 (Index 570) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:07:33
+
+✅ Record ID 572 (Index 571) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:07:55
+
+✅ Record ID 573 (Index 572) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:08:09
+
+✅ Record ID 574 (Index 573) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:08:31
+
+✅ Record ID 575 (Index 574) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:08:42
+
+✅ Record ID 576 (Index 575) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:09:01
+
+✅ Record ID 577 (Index 576) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:09:15
+
+✅ Record ID 578 (Index 577) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:09:28
+
+✅ Record ID 579 (Index 578) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:09:50
+
+✅ Record ID 580 (Index 579) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:10:07
+
+✅ Record ID 581 (Index 580) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:10:29
+
+✅ Record ID 582 (Index 581) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:10:42
+
+✅ Record ID 583 (Index 582) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:11:06
+
+✅ Record ID 584 (Index 583) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:11:20
+
+✅ Record ID 585 (Index 584) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:11:43
+
+✅ Record ID 586 (Index 585) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:12:06
+
+✅ Record ID 587 (Index 586) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:12:30
+
+✅ Record ID 588 (Index 587) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:12:44
+
+✅ Record ID 589 (Index 588) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:12:55
+
+✅ Record ID 590 (Index 589) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:13:16
+
+✅ Record ID 591 (Index 590) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:13:25
+
+✅ Record ID 592 (Index 591) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:13:40
+
+✅ Record ID 593 (Index 592) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:13:53
+
+✅ Record ID 594 (Index 593) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:14:13
+
+✅ Record ID 595 (Index 594) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:14:35
+
+✅ Record ID 596 (Index 595) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:14:49
+
+✅ Record ID 597 (Index 596) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:15:04
+
+✅ Record ID 598 (Index 597) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:15:19
+
+✅ Record ID 599 (Index 598) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:15:38
+
+✅ Record ID 600 (Index 599) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:15:51
+
+✅ Record ID 601 (Index 600) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:16:04
+
+✅ Record ID 602 (Index 601) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:16:27
+
+✅ Record ID 603 (Index 602) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:16:51
+
+✅ Record ID 604 (Index 603) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:17:13
+
+✅ Record ID 605 (Index 604) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:17:30
+
+✅ Record ID 606 (Index 605) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:17:49
+
+✅ Record ID 607 (Index 606) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:18:02
+
+✅ Record ID 608 (Index 607) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:18:19
+
+✅ Record ID 609 (Index 608) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:18:31
+
+✅ Record ID 610 (Index 609) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:18:52
+
+✅ Record ID 611 (Index 610) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:19:17
+
+✅ Record ID 612 (Index 611) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:19:42
+
+✅ Record ID 613 (Index 612) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:19:55
+
+✅ Record ID 614 (Index 613) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:20:06
+
+✅ Record ID 615 (Index 614) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:20:24
+
+✅ Record ID 616 (Index 615) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:20:37
+
+✅ Record ID 617 (Index 616) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:20:48
+
+✅ Record ID 618 (Index 617) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:21:07
+
+✅ Record ID 619 (Index 618) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:21:28
+
+✅ Record ID 620 (Index 619) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:21:50
+
+✅ Record ID 621 (Index 620) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:22:00
+
+✅ Record ID 622 (Index 621) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:22:14
+
+✅ Record ID 623 (Index 622) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:22:37
+
+✅ Record ID 624 (Index 623) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:22:47
+
+✅ Record ID 625 (Index 624) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:22:57
+
+✅ Record ID 626 (Index 625) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:23:09
+
+✅ Record ID 627 (Index 626) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:23:31
+
+✅ Record ID 628 (Index 627) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:23:52
+
+✅ Record ID 629 (Index 628) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:24:13
+
+✅ Record ID 630 (Index 629) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:24:34
+
+✅ Record ID 631 (Index 630) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:25:02
+
+✅ Record ID 632 (Index 631) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:25:17
+
+✅ Record ID 633 (Index 632) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:25:48
+
+✅ Record ID 634 (Index 633) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:26:04
+
+✅ Record ID 635 (Index 634) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:26:34
+
+✅ Record ID 636 (Index 635) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:26:58
+
+✅ Record ID 637 (Index 636) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:27:21
+
+✅ Record ID 638 (Index 637) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:27:37
+
+✅ Record ID 639 (Index 638) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:28:04
+
+✅ Record ID 640 (Index 639) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:28:16
+
+✅ Record ID 641 (Index 640) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:28:30
+
+✅ Record ID 642 (Index 641) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:28:45
+
+✅ Record ID 643 (Index 642) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:29:06
+
+✅ Record ID 644 (Index 643) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:29:21
+
+✅ Record ID 645 (Index 644) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:29:34
+
+✅ Record ID 646 (Index 645) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:29:44
+
+✅ Record ID 647 (Index 646) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:30:08
+
+✅ Record ID 648 (Index 647) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:30:34
+
+✅ Record ID 649 (Index 648) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:30:45
+
+✅ Record ID 650 (Index 649) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:31:06
+
+✅ Record ID 651 (Index 650) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:31:17
+
+✅ Record ID 652 (Index 651) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:31:33
+
+✅ Record ID 653 (Index 652) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:31:55
+
+✅ Record ID 654 (Index 653) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:32:21
+
+✅ Record ID 655 (Index 654) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:32:49
+
+✅ Record ID 656 (Index 655) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:33:15
+
+✅ Record ID 657 (Index 656) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:33:29
+
+✅ Record ID 658 (Index 657) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:33:52
+
+✅ Record ID 659 (Index 658) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:34:18
+
+✅ Record ID 660 (Index 659) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:34:41
+
+✅ Record ID 661 (Index 660) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:34:55
+
+✅ Record ID 662 (Index 661) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:35:22
+
+✅ Record ID 663 (Index 662) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:35:39
+
+✅ Record ID 664 (Index 663) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:36:05
+
+✅ Record ID 665 (Index 664) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:36:30
+
+✅ Record ID 666 (Index 665) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:36:42
+
+✅ Record ID 667 (Index 666) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:37:08
+
+✅ Record ID 668 (Index 667) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:37:27
+
+✅ Record ID 669 (Index 668) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:37:51
+
+✅ Record ID 670 (Index 669) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:38:01
+
+✅ Record ID 671 (Index 670) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:38:26
+
+✅ Record ID 672 (Index 671) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:38:54
+
+✅ Record ID 673 (Index 672) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:39:07
+
+✅ Record ID 674 (Index 673) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:39:33
+
+✅ Record ID 675 (Index 674) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:39:45
+
+✅ Record ID 676 (Index 675) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:40:09
+
+✅ Record ID 677 (Index 676) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:40:36
+
+✅ Record ID 678 (Index 677) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:40:45
+
+✅ Record ID 679 (Index 678) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:41:09
+
+✅ Record ID 680 (Index 679) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:41:36
+
+✅ Record ID 681 (Index 680) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:41:46
+
+✅ Record ID 682 (Index 681) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:42:04
+
+✅ Record ID 683 (Index 682) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:42:15
+
+✅ Record ID 684 (Index 683) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:42:36
+
+✅ Record ID 685 (Index 684) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:42:55
+
+✅ Record ID 686 (Index 685) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:43:09
+
+✅ Record ID 687 (Index 686) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:43:31
+
+✅ Record ID 688 (Index 687) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:43:45
+
+✅ Record ID 689 (Index 688) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:43:57
+
+✅ Record ID 690 (Index 689) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:44:25
+
+✅ Record ID 691 (Index 690) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:44:48
+
+✅ Record ID 692 (Index 691) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:45:03
+
+✅ Record ID 693 (Index 692) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:45:18
+
+✅ Record ID 694 (Index 693) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:45:39
+
+✅ Record ID 695 (Index 694) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:45:51
+
+✅ Record ID 696 (Index 695) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:46:14
+
+✅ Record ID 697 (Index 696) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:46:36
+
+✅ Record ID 698 (Index 697) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:46:57
+
+✅ Record ID 699 (Index 698) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:47:06
+
+✅ Record ID 700 (Index 699) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:47:20
+
+✅ Record ID 701 (Index 700) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:47:43
+
+✅ Record ID 702 (Index 701) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:48:01
+
+✅ Record ID 703 (Index 702) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:48:17
+
+✅ Record ID 704 (Index 703) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:48:37
+
+✅ Record ID 705 (Index 704) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:48:49
+
+✅ Record ID 706 (Index 705) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:49:25
+
+✅ Record ID 707 (Index 706) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:49:57
+
+✅ Record ID 708 (Index 707) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:50:14
+
+✅ Record ID 709 (Index 708) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:50:34
+
+✅ Record ID 710 (Index 709) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:50:55
+
+✅ Record ID 711 (Index 710) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:51:16
+
+✅ Record ID 712 (Index 711) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:51:49
+
+✅ Record ID 713 (Index 712) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:52:26
+
+✅ Record ID 714 (Index 713) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:53:00
+
+✅ Record ID 715 (Index 714) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:53:09
+
+✅ Record ID 716 (Index 715) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:53:35
+
+✅ Record ID 717 (Index 716) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:53:54
+
+✅ Record ID 718 (Index 717) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:54:16
+
+✅ Record ID 719 (Index 718) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:54:27
+
+✅ Record ID 720 (Index 719) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:54:49
+
+✅ Record ID 721 (Index 720) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:55:13
+
+✅ Record ID 722 (Index 721) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:55:33
+
+✅ Record ID 723 (Index 722) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:55:57
+
+✅ Record ID 724 (Index 723) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:56:08
+
+✅ Record ID 725 (Index 724) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:56:20
+
+✅ Record ID 726 (Index 725) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:56:42
+
+✅ Record ID 727 (Index 726) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:57:07
+
+✅ Record ID 728 (Index 727) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:57:32
+
+✅ Record ID 729 (Index 728) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:57:46
+
+✅ Record ID 730 (Index 729) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:58:11
+
+✅ Record ID 731 (Index 730) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 16:58:37
+
+✅ Record ID 732 (Index 731) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:59:05
+
+✅ Record ID 733 (Index 732) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:59:26
+
+✅ Record ID 734 (Index 733) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 16:59:54
+
+✅ Record ID 735 (Index 734) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:00:21
+
+✅ Record ID 736 (Index 735) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:00:45
+
+✅ Record ID 737 (Index 736) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:01:00
+
+✅ Record ID 738 (Index 737) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:01:23
+
+✅ Record ID 739 (Index 738) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:01:49
+
+✅ Record ID 740 (Index 739) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:02:15
+
+✅ Record ID 741 (Index 740) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:02:39
+
+✅ Record ID 742 (Index 741) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:03:06
+
+✅ Record ID 743 (Index 742) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:03:21
+
+✅ Record ID 744 (Index 743) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:03:35
+
+✅ Record ID 745 (Index 744) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:03:46
+
+✅ Record ID 746 (Index 745) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:04:11
+
+✅ Record ID 747 (Index 746) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:04:34
+
+✅ Record ID 748 (Index 747) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:04:53
+
+✅ Record ID 749 (Index 748) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:05:21
+
+✅ Record ID 750 (Index 749) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:05:36
+
+✅ Record ID 751 (Index 750) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:05:48
+
+✅ Record ID 752 (Index 751) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:06:04
+
+✅ Record ID 753 (Index 752) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:06:26
+
+✅ Record ID 754 (Index 753) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:06:38
+
+✅ Record ID 755 (Index 754) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:06:56
+
+✅ Record ID 756 (Index 755) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:07:22
+
+✅ Record ID 757 (Index 756) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:07:33
+
+✅ Record ID 758 (Index 757) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:08:00
+
+✅ Record ID 759 (Index 758) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:08:20
+
+✅ Record ID 760 (Index 759) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:08:36
+
+✅ Record ID 761 (Index 760) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:08:58
+
+✅ Record ID 762 (Index 761) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:09:22
+
+✅ Record ID 763 (Index 762) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:09:49
+
+✅ Record ID 764 (Index 763) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:10:05
+
+✅ Record ID 765 (Index 764) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:10:19
+
+✅ Record ID 766 (Index 765) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:10:43
+
+✅ Record ID 767 (Index 766) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:11:08
+
+✅ Record ID 768 (Index 767) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:11:26
+
+✅ Record ID 769 (Index 768) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:11:55
+
+✅ Record ID 770 (Index 769) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:12:19
+
+✅ Record ID 771 (Index 770) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:12:49
+
+✅ Record ID 772 (Index 771) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:13:14
+
+✅ Record ID 773 (Index 772) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:13:36
+
+✅ Record ID 774 (Index 773) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:13:46
+
+✅ Record ID 775 (Index 774) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:14:08
+
+✅ Record ID 776 (Index 775) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:14:31
+
+✅ Record ID 777 (Index 776) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:14:55
+
+✅ Record ID 778 (Index 777) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:15:05
+
+✅ Record ID 779 (Index 778) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:15:30
+
+✅ Record ID 780 (Index 779) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:15:45
+
+✅ Record ID 781 (Index 780) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:16:05
+
+✅ Record ID 782 (Index 781) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:16:20
+
+✅ Record ID 783 (Index 782) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:16:34
+
+✅ Record ID 784 (Index 783) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:16:45
+
+✅ Record ID 785 (Index 784) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:17:11
+
+✅ Record ID 786 (Index 785) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:17:22
+
+✅ Record ID 787 (Index 786) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:17:34
+
+✅ Record ID 788 (Index 787) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:17:48
+
+✅ Record ID 789 (Index 788) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:18:08
+
+✅ Record ID 790 (Index 789) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:18:21
+
+✅ Record ID 791 (Index 790) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:18:35
+
+✅ Record ID 792 (Index 791) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:19:00
+
+✅ Record ID 793 (Index 792) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:19:23
+
+✅ Record ID 794 (Index 793) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:19:46
+
+✅ Record ID 795 (Index 794) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:20:05
+
+✅ Record ID 796 (Index 795) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:20:29
+
+✅ Record ID 797 (Index 796) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:20:45
+
+✅ Record ID 798 (Index 797) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:20:56
+
+✅ Record ID 799 (Index 798) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:21:23
+
+✅ Record ID 800 (Index 799) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:21:50
+
+✅ Record ID 801 (Index 800) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:22:14
+
+✅ Record ID 802 (Index 801) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:22:39
+
+✅ Record ID 803 (Index 802) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:23:04
+
+✅ Record ID 804 (Index 803) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:23:20
+
+✅ Record ID 805 (Index 804) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:23:34
+
+✅ Record ID 806 (Index 805) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:23:46
+
+✅ Record ID 807 (Index 806) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:24:07
+
+✅ Record ID 808 (Index 807) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:24:31
+
+✅ Record ID 809 (Index 808) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:24:57
+
+✅ Record ID 810 (Index 809) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:25:28
+
+✅ Record ID 811 (Index 810) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:25:50
+
+✅ Record ID 812 (Index 811) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:26:15
+
+✅ Record ID 813 (Index 812) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:26:31
+
+✅ Record ID 814 (Index 813) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:26:44
+
+✅ Record ID 815 (Index 814) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:27:04
+
+✅ Record ID 816 (Index 815) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:27:18
+
+✅ Record ID 817 (Index 816) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:27:41
+
+✅ Record ID 818 (Index 817) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:28:01
+
+✅ Record ID 819 (Index 818) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:28:28
+
+✅ Record ID 820 (Index 819) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:28:53
+
+✅ Record ID 821 (Index 820) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:29:15
+
+✅ Record ID 822 (Index 821) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:29:36
+
+✅ Record ID 823 (Index 822) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:29:49
+
+✅ Record ID 824 (Index 823) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:30:11
+
+✅ Record ID 825 (Index 824) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:30:35
+
+✅ Record ID 826 (Index 825) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:31:00
+
+✅ Record ID 827 (Index 826) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:31:10
+
+✅ Record ID 828 (Index 827) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:31:34
+
+✅ Record ID 829 (Index 828) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:31:59
+
+✅ Record ID 830 (Index 829) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:32:25
+
+✅ Record ID 831 (Index 830) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:32:49
+
+✅ Record ID 832 (Index 831) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:33:15
+
+✅ Record ID 833 (Index 832) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:33:29
+
+✅ Record ID 834 (Index 833) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:33:43
+
+✅ Record ID 835 (Index 834) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:34:08
+
+✅ Record ID 836 (Index 835) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:34:23
+
+✅ Record ID 837 (Index 836) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:34:34
+
+✅ Record ID 838 (Index 837) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:34:51
+
+✅ Record ID 839 (Index 838) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:35:02
+
+✅ Record ID 840 (Index 839) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:35:29
+
+✅ Record ID 841 (Index 840) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:35:53
+
+✅ Record ID 842 (Index 841) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:36:08
+
+✅ Record ID 843 (Index 842) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:36:22
+
+✅ Record ID 844 (Index 843) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:36:39
+
+✅ Record ID 845 (Index 844) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:36:55
+
+✅ Record ID 846 (Index 845) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:37:08
+
+✅ Record ID 847 (Index 846) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:37:20
+
+✅ Record ID 848 (Index 847) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:37:33
+
+✅ Record ID 849 (Index 848) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:37:58
+
+✅ Record ID 850 (Index 849) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:38:10
+
+✅ Record ID 851 (Index 850) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:38:36
+
+✅ Record ID 852 (Index 851) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:39:04
+
+✅ Record ID 853 (Index 852) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:39:31
+
+✅ Record ID 854 (Index 853) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:39:55
+
+✅ Record ID 855 (Index 854) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:40:17
+
+✅ Record ID 856 (Index 855) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:40:28
+
+✅ Record ID 857 (Index 856) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:40:52
+
+✅ Record ID 858 (Index 857) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:41:17
+
+✅ Record ID 859 (Index 858) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:41:31
+
+✅ Record ID 860 (Index 859) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:41:44
+
+✅ Record ID 861 (Index 860) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:41:56
+
+✅ Record ID 862 (Index 861) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:42:19
+
+✅ Record ID 863 (Index 862) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:42:48
+
+✅ Record ID 864 (Index 863) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:43:10
+
+✅ Record ID 865 (Index 864) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:43:35
+
+✅ Record ID 866 (Index 865) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:43:51
+
+✅ Record ID 867 (Index 866) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:44:15
+
+✅ Record ID 868 (Index 867) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:44:28
+
+✅ Record ID 869 (Index 868) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:44:54
+
+✅ Record ID 870 (Index 869) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:45:06
+
+✅ Record ID 871 (Index 870) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:45:19
+
+✅ Record ID 872 (Index 871) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:45:43
+
+✅ Record ID 873 (Index 872) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:46:08
+
+✅ Record ID 874 (Index 873) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:46:19
+
+✅ Record ID 875 (Index 874) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:46:41
+
+✅ Record ID 876 (Index 875) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:47:05
+
+✅ Record ID 877 (Index 876) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:47:28
+
+✅ Record ID 878 (Index 877) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:47:43
+
+✅ Record ID 879 (Index 878) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:48:06
+
+✅ Record ID 880 (Index 879) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:48:30
+
+✅ Record ID 881 (Index 880) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:48:53
+
+✅ Record ID 882 (Index 881) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:49:05
+
+✅ Record ID 883 (Index 882) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:49:27
+
+✅ Record ID 884 (Index 883) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:49:43
+
+✅ Record ID 885 (Index 884) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:50:10
+
+✅ Record ID 886 (Index 885) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:50:28
+
+✅ Record ID 887 (Index 886) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:50:57
+
+✅ Record ID 888 (Index 887) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:51:21
+
+✅ Record ID 889 (Index 888) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:51:36
+
+✅ Record ID 890 (Index 889) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:51:46
+
+✅ Record ID 891 (Index 890) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:52:11
+
+✅ Record ID 892 (Index 891) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:52:34
+
+✅ Record ID 893 (Index 892) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:52:55
+
+✅ Record ID 894 (Index 893) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:53:17
+
+✅ Record ID 895 (Index 894) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:53:44
+
+✅ Record ID 896 (Index 895) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:54:01
+
+✅ Record ID 897 (Index 896) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:54:22
+
+✅ Record ID 898 (Index 897) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:54:45
+
+✅ Record ID 899 (Index 898) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:55:12
+
+✅ Record ID 900 (Index 899) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:55:39
+
+✅ Record ID 901 (Index 900) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:56:04
+
+✅ Record ID 902 (Index 901) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:56:15
+
+✅ Record ID 903 (Index 902) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:56:39
+
+✅ Record ID 904 (Index 903) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:57:06
+
+✅ Record ID 905 (Index 904) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:57:32
+
+✅ Record ID 906 (Index 905) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:57:57
+
+✅ Record ID 907 (Index 906) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:58:23
+
+✅ Record ID 908 (Index 907) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:58:45
+
+✅ Record ID 909 (Index 908) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:59:06
+
+✅ Record ID 910 (Index 909) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 17:59:25
+
+✅ Record ID 911 (Index 910) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 17:59:53
+
+✅ Record ID 912 (Index 911) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 18:00:22
+
+✅ Record ID 913 (Index 912) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 18:00:37
+
+✅ Record ID 914 (Index 913) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 18:01:06
+
+✅ Record ID 915 (Index 914) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 18:01:34
+
+✅ Record ID 916 (Index 915) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 18:01:58
+
+✅ Record ID 917 (Index 916) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 18:02:23
+
+✅ Record ID 918 (Index 917) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 18:02:48
+
+✅ Record ID 919 (Index 918) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 18:03:11
+
+✅ Record ID 920 (Index 919) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 18:03:35
+
+✅ Record ID 921 (Index 920) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 18:04:02
+
+✅ Record ID 922 (Index 921) - SUCCESS
+   Dialogue models: opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: hirashiba-mt-tiny-zh-vi
+   Result model: opus-mt-zh-vi
+   Timestamp: 2026-02-02 18:04:25
+
+✅ Record ID 923 (Index 922) - SUCCESS
+   Dialogue models: hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, hirashiba-mt-tiny-zh-vi, opus-mt-zh-vi, opus-mt-zh-vi
+   Thinking model: opus-mt-zh-vi
+   Result model: hirashiba-mt-tiny-zh-vi
+   Timestamp: 2026-02-02 18:04:40
+
