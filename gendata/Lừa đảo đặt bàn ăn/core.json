@@ -1,0 +1,632 @@
+[
+    {
+        "_id": 1,
+        "dialogue": [
+            {
+                "role": "người gọi",
+                "content": "Alo, chào chị. Em là Minh, nhân viên đặt bàn bên Dmaris ạ. Hôm nay chị có nhận được tin nhắn xác nhận đặt bàn sinh nhật ngày 15/2 bên em chưa ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ có rồi, chị gửi thông tin chuyển khoản rồi đúng không?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ đúng rồi ạ. Em thấy chị đã chuyển khoản cọc 2 triệu 5 được 15 phút rồi. Cảm ơn chị đã tin tưởng bên em. Hiện tại bên em đang kiểm tra hệ thống để xác nhận bàn và gửi hóa đơn điện tử cho chị luôn ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Oke. Bao lâu thì xác nhận xong thế em?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ chắc chỉ khoảng 5–10 phút nữa thôi ạ. Mà… em vừa kiểm tra hệ thống thì thấy có chút vấn đề nhỏ ạ. Chị ghi nội dung chuyển khoản là \"Đinh Thị Hương - Dat ban SN 15/02\" đúng không ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ đúng rồi, chị thấy bên em bảo ghi như vậy mà."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ, vâng nhưng vấn đề là bên em dùng phần mềm quản lý tự động, nó yêu cầu nội dung chuyển khoản phải có đúng mã đặt bàn là \"DM20260215-A12\" ở cuối. Chị ghi thiếu phần mã đó nên hệ thống chưa nhận được tiền ạ. Tiền vẫn nằm ở tài khoản trung gian của ngân hàng, chưa vào được tài khoản công ty bên em."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ơ… thế giờ sao? Tiền chị đã chuyển rồi mà."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ chị yên tâm ạ, tiền không mất đâu. Bên em sẽ tiến hành hoàn lại ngay để chị chuyển lại đúng nội dung. Hiện tại kế toán đang xử lý hoàn tiền, chắc khoảng 10–15 phút nữa tiền sẽ về tài khoản chị. Nhưng để nhanh hơn và giữ được ưu đãi đặt trước, chị có thể chuyển lại ngay sau khi nhận được tiền hoàn không ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ… được. Mà sao phức tạp vậy nhỉ?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ tại hệ thống ngân hàng bên em mới nâng cấp, cần phải khớp nội dung chuyển khoản chị ạ. Nhiều khách cũng bị giống chị, nhưng xong xuôi hết rồi. Để em chuyển máy cho chị kế toán xử lý hoàn tiền cho chị luôn nhé, chị ấy sẽ hướng dẫn chi tiết ạ."
+            },
+            {
+                "role": "người gọi",
+                "content": "Alo, chào chị. Em là Hạnh, kế toán trưởng chi nhánh Dmaris đây ạ. Em vừa kiểm tra giao dịch của chị rồi. Đúng là do thiếu mã đặt bàn nên hệ thống chưa ghi nhận. Hiện tại em đã tạo lệnh hoàn tiền về tài khoản chị rồi, chắc 5–10 phút nữa là về. Chị kiểm tra giúp em nhé."
+            },
+            {
+                "role": "người nhận",
+                "content": "Được rồi, để tôi chờ."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ. Mà để em xin lỗi chị trước vì sự cố này. Để bù lại, bên em sẽ tặng thêm một set trang trí sinh nhật mini và giảm thêm 200k trên tổng hóa đơn luôn ạ. Chị yên tâm nhé."
+            },
+            {
+                "role": "người nhận",
+                "content": "Thế à, vậy giờ tôi chuyển lại thế nào?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ chị chờ tiền về rồi em gửi lại thông tin chuyển khoản mới ngay. Nhưng mà… hiện tại hệ thống đang bảo trì một chút, nếu chị chuyển lại vào tài khoản công ty bình thường thì có thể bị lỗi tương tự. Để nhanh và chắc chắn nhất, chị chuyển tạm vào tài khoản cá nhân của giám đốc chi nhánh để em nhập tay vào hệ thống luôn được không ạ? Tên chủ tài khoản vẫn là Công ty TNHH Dmaris Việt Nam, em cam kết có hóa đơn và xác nhận đầy đủ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Tài khoản cá nhân á? Sao lại chuyển tài khoản cá nhân?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ tại giám đốc đứng tên đại diện pháp lý, tài khoản công ty đang bị treo một phần do bảo trì hệ thống ngân hàng. Nhiều khách hàng lớn bên em cũng chuyển qua tài khoản này khi gặp sự cố tương tự, xong xuôi đều có biên nhận và bàn tổ chức bình thường hết ạ. Chị cứ yên tâm, em gửi ảnh chứng từ hoàn tiền và ảnh CMND giám đốc cho chị xem để tin tưởng nhé."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ… để tôi kiểm tra lại đã."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ được ạ. Nhưng chị kiểm tra nhanh giúp em nhé, vì nếu quá 30 phút mà chưa nhận lại tiền thì hệ thống sẽ tự động hủy lệnh hoàn và tiền có thể bị kẹt thêm. Em gửi tin nhắn thông tin tài khoản mới ngay đây ạ. Chị nhận được thì nhắn em liền nhé, em chờ chị."
+            }
+        ]
+    },
+    {
+        "_id": 2,
+        "dialogue": [
+            {
+                "role": "người gọi",
+                "content": "Dạ, em chào chị ạ. Em là Ngọc, bên Dmaris đặt bàn sự kiện đây ạ. Chị là chị Lan đặt bàn sinh nhật ngày 18/2 bên em phải không ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ đúng rồi. Tiền cọc chị gửi lúc nãy rồi đấy."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ em cảm ơn chị nhiều ạ. Em vừa kiểm tra hệ thống thì thấy chị đã chuyển 2 triệu 8 được khoảng 20 phút rồi. Em đang chuẩn bị set up bàn và bánh kem theo yêu cầu của chị đây ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừm."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ chị ơi, tiền về tài khoản rồi, nhưng bên em dùng phần mềm tự động đối chiếu, nó báo nội dung chuyển khoản của chị thiếu mất phần mã đặt bàn. Chị ghi \"Lan - Dat ban SN 18/02\" thôi, thiếu đoạn \"DM250218-L09\" ở cuối nên hệ thống chưa ghi nhận được ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ơ sao lại thiếu? Em bảo ghi như vậy mà."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ tại em quên dặn rõ phần mã ạ, em xin lỗi chị nhiều. Nhưng chị yên tâm nhé, tiền vẫn nằm ở tài khoản trung gian của ngân hàng, không mất đâu ạ. Bên em đang làm thủ tục hoàn lại ngay để chị chuyển lại đúng nội dung thôi ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Thế bao lâu thì tiền về?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ thường thì 5 đến 10 phút là về tài khoản chị rồi ạ. Em vừa tạo lệnh hoàn tiền xong đây. Chị kiểm tra giúp em nhé, nếu về thì chị chuyển lại ngay được không ạ? Để em giữ được ưu đãi đặt trước cho chị."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ, để chị chờ xem."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ. Mà chị ơi… hiện tại hệ thống ngân hàng bên em đang cập nhật, nếu chị chuyển lại vào tài khoản công ty như cũ thì rất dễ bị lỗi tương tự lần nữa. Để nhanh và chắc chắn nhất cho chị, em đề nghị chị chuyển tạm qua tài khoản cá nhân em đang dùng để xử lý khẩn cấp. Tên chủ tài khoản vẫn ghi Công ty TNHH Dmaris Việt Nam, em cam kết có biên nhận và xác nhận đầy đủ sau khi nhận tiền ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Tài khoản cá nhân? Sao lại chuyển tài khoản cá nhân em?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ vì tài khoản công ty đang bị treo tạm thời do bảo trì hệ thống ngân hàng ạ. Nhiều khách hàng bên em gặp trường hợp giống chị cũng chuyển qua tài khoản này, xong xuôi đều tổ chức bình thường, em còn gửi ảnh xác nhận và hóa đơn đầy đủ hết. Chị yên tâm nhé, em gửi tin nhắn thông tin tài khoản ngay đây ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Thôi… để chị kiểm tra tiền hoàn về trước đã."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ được ạ. Nhưng chị kiểm tra nhanh giúp em nhé, vì nếu quá 30 phút mà chưa nhận lại tiền thì hệ thống sẽ tự động hủy lệnh hoàn, tiền có thể bị kẹt thêm một chút. Em vừa gửi tin nhắn thông tin tài khoản mới cho chị rồi ạ. Chị nhận được thì nhắn em ngay nhé, em chờ chị đây ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ… để chị xem."
+            }
+        ]
+    },
+    {
+        "_id": 3,
+        "dialogue": [
+            {
+                "role": "người gọi",
+                "content": "Alo, chào chị ạ. Em là Vy, bên Verde Bistro – bộ phận đặt bàn sự kiện đây ạ. Em gọi theo thông tin chị đặt bàn sinh nhật ngày 25/2 qua tin nhắn trên fanpage ạ. Chị là chị Hương đúng không ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ đúng rồi."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ. Em vừa kiểm tra hệ thống thì bàn chị chọn – bàn tròn 12 người khu vực gần hồ phun nước, view đẹp nhất – hiện đang rất hot. Sáng nay đã có 2 nhóm khác hỏi đặt cùng khung giờ 19h–21h ngày 25/2 rồi ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Thế sao? Hôm qua em bảo còn trống mà."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ tại hôm qua còn 4 bàn ở khu vực đó ạ, nhưng sáng nay có 1 nhóm đặt gấp 1 bàn, rồi nhóm thứ hai vừa nhắn hỏi thêm cách đây 10 phút. Hiện tại chỉ còn đúng 1 bàn đẹp nhất nữa thôi ạ. Để giữ chắc chắn bàn này cho sinh nhật của chị, chị chuyển khoản cọc 1 triệu ngay trong vòng 20–25 phút tới được không ạ? Em sẽ khóa bàn và không cho nhóm khác đặt nữa."
+            },
+            {
+                "role": "người nhận",
+                "content": "Nhanh vậy luôn hả? Để chị chuyển ngay đây."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ em cảm ơn chị nhiều ạ! Em gửi lại thông tin chuyển khoản ngay đây nhé. Tài khoản Công ty TNHH Verde Việt Nam, nội dung chị ghi: \"Hương - Dat ban SN 25/02 - Ban ho phun nuoc\". Chuyển xong chị chụp màn hình gửi em hoặc nói luôn qua điện thoại để em xác nhận và khóa bàn liền ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ, chị chuyển bây giờ."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ chị chuyển nhanh giúp em nhé, vì em đang giữ tạm bàn này cho chị, nhưng nhóm kia nhắn hỏi liên tục. Em sợ họ chuyển khoản trước thì em không giữ được nữa ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Chuyển xong rồi, em kiểm tra đi."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ em kiểm tra ngay đây… Ồ chị ơi, tiền về rồi ạ! Cảm ơn chị nhiều lắm. Em vừa khóa bàn thành công, ghi chú rõ ràng trong hệ thống: bàn tròn 12 người khu vực hồ phun nước, ngày 25/2, 19h–21h, tên chị Hương. Em sẽ gửi tin nhắn xác nhận kèm ảnh bàn và hóa đơn sơ bộ trong 2 phút nữa nhé."
+            },
+            {
+                "role": "người nhận",
+                "content": "Tốt rồi. Còn gì nữa không em?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ hiện tại bàn đã chắc chắn rồi ạ. Em cảm ơn chị nhiều ạ!"
+            }
+        ]
+    },
+    {
+        "_id": 4,
+        "dialogue": [
+            {
+                "role": "người gọi",
+                "content": "Alo, chào chị ạ. Em là Khánh, bên Aurora Lounge – nhà hàng tổ chức sự kiện cao cấp đây ạ. Em gọi theo thông tin chị quan tâm đến đặt bàn sinh nhật qua fanpage hôm qua ạ. Chị là chị Nga phải không ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ đúng rồi. Em giới thiệu xem bên em có gì đặc biệt?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ vâng ạ! Aurora Lounge là nhà hàng phong cách hiện đại kết hợp vườn cây xanh, hồ nước và ánh sáng lung linh, rất phù hợp tổ chức sinh nhật, tiệc gia đình. Bên em có các gói dịch vụ full option từ trang trí, bánh kem, MC dẫn chương trình, đến âm thanh ánh sáng chuyên nghiệp. Đặc biệt khu vực VIP gần hồ nước và sân khấu nhỏ, view cực đẹp, chụp ảnh sống ảo thì hết nấc luôn ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Nghe hay đấy. Giá cả thế nào em?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ gói cơ bản cho 10–12 người là 4 triệu 8, đã bao gồm bàn trang trí, backdrop, bánh kem 2 tầng, nước uống không giới hạn. Nếu chị muốn nâng cấp lên gói Premium thì thêm pháo hoa lạnh, máy chiếu slideshow ảnh kỷ niệm, và set bóng bay cao cấp, tổng chỉ 6 triệu 2 thôi ạ. Hiện tại bên em đang có chương trình ưu đãi đặc biệt: đặt trước 5 ngày được giảm ngay 15% + tặng thêm 1 khay trái cây tươi và 1 set nến sinh nhật cao cấp."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ, chị thích gói Premium. Còn bàn trống ngày 28/2 không em?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ để em kiểm tra ngay ạ… Chị ơi, ngày 28/2 khung 18h30–21h30 hiện chỉ còn đúng 1 bàn VIP gần hồ nước nữa thôi ạ. Sáng nay đã có 1 nhóm khác hỏi đặt rồi, em đang giữ tạm cho chị đây. Nếu chị muốn chắc chắn bàn đẹp nhất này thì chị chuyển khoản cọc 50% là 3 triệu 1 ngay bây giờ để em khóa chỗ và áp dụng ưu đãi giảm 15% luôn ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Nhanh vậy hả? Để chị chuyển."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ em cảm ơn chị nhiều ạ! Em gửi thông tin chuyển khoản ngay đây nhé. Tài khoản Công ty TNHH Aurora Việt Nam, nội dung chị ghi: \"Nga - Dat ban SN 28/02 - VIP ho nuoc\". Chuyển xong chị nhắn em hoặc nói luôn qua điện thoại để em xác nhận và gửi ảnh bàn đã khóa + hóa đơn ưu đãi cho chị liền ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Chuyển rồi em kiểm tra đi."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ em kiểm tra ngay… Ồ chị ơi tiền về rồi ạ! Cảm ơn chị tin tưởng Aurora Lounge. Em vừa khóa bàn VIP thành công, ghi chú đầy đủ: ngày 28/2, 18h30–21h30, gói Premium, tên chị Nga. Em gửi tin nhắn xác nhận kèm ảnh thực tế bàn và hóa đơn giảm giá trong 2 phút nữa nhé."
+            },
+            {
+                "role": "người nhận",
+                "content": "Tốt rồi. Còn gì cần làm thêm không?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ hiện tại bàn và ưu đãi đã chắc chắn rồi ạ. Nhưng mà hôm nay bên em còn có thêm một quà tặng đặc biệt cho khách đặt sớm: nếu chị chuyển nốt phần còn lại hoặc bổ sung 800k để nâng cấp thêm dịch vụ MC chuyên nghiệp + quay clip highlight ngắn, bên em sẽ tặng luôn 1 voucher ăn uống 1 triệu dùng cho lần sau. Ưu đãi này chỉ áp dụng trong hôm nay thôi ạ, chị có muốn em giữ slot này không?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Để chị suy nghĩ thêm chút."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ được ạ. Em gửi chị bảng chi tiết quà tặng và thông tin chuyển khoản bổ sung ngay đây nhé. Nếu chị quyết định thì chị chuyển luôn vào cùng tài khoản, em cập nhật liền để chuẩn bị đầy đủ cho sinh nhật thật hoành tráng. Chị cần gì cứ nhắn em hoặc gọi lại nhé, em chờ tin chị ạ!"
+            }
+        ]
+    },
+    {
+        "_id": 5,
+        "dialogue": [
+            {
+                "role": "người gọi",
+                "content": "Alo, chào anh ạ. Em là Trang, bên Luna Garden – đặt bàn sự kiện đây ạ. Em thấy anh vừa inbox hỏi về đặt bàn sinh nhật, em gọi để tư vấn chi tiết luôn nhé. Anh muốn đặt cho ngày nào ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ, ngày 10/3, sinh nhật bạn mình."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ vâng ạ. Anh muốn đặt ở chi nhánh nào ạ? Bên em có 3 chi nhánh: quận 1 (gần trung tâm), quận 7 (view sông), và Thủ Đức (rộng rãi, có sân vườn). Chi nhánh nào tiện cho anh nhất?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Quận 7 đi, view sông nghe hay."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ tuyệt vời ạ! Chi nhánh quận 7 đang rất được ưa chuộng vì view sông buổi tối đẹp lắm. Anh dự kiến bao nhiêu người ạ? Bên em có bàn từ 8–10 người, 12–15 người, đến bàn VIP 20 người luôn."
+            },
+            {
+                "role": "người nhận",
+                "content": "Khoảng 12–14 người."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ em ghi nhận ạ, bàn cho 12–14 người. Giờ bắt đầu khoảng mấy giờ ạ? Thường bên em hay nhận khung 18h–21h hoặc 19h–22h cho tiệc sinh nhật."
+            },
+            {
+                "role": "người nhận",
+                "content": "19h nhé."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ em note lại: ngày 10/3, 19h, chi nhánh quận 7, bàn 12–14 người. Hiện tại bên em có chương trình ưu đãi đặc biệt cho đặt trước sinh nhật: giảm 15% tổng hóa đơn nếu đặt trước 7 ngày, tặng thêm bánh kem 2kg miễn phí và set trang trí bóng bay cơ bản. Anh muốn gói trang trí cơ bản hay nâng cấp lên gói Premium có backdrop và pháo hoa lạnh luôn ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Gói cơ bản thôi em."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ được ạ. Tổng dự kiến khoảng 5 triệu 2 cho gói cơ bản 14 người, sau khi giảm 15% còn khoảng 4 triệu 4. Để giữ bàn và áp dụng ưu đãi này, anh/chị chuyển khoản cọc 50% tức 2 triệu 2 nhé. Chính sách bên em là hoàn cọc 100% nếu hủy trước 2 tiếng, không mất phí gì hết ạ. Anh yên tâm."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ nghe ổn. Em gửi thông tin chuyển khoản đi."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ em gửi ngay đây ạ. Tài khoản Công ty TNHH Luna Việt Nam, nội dung: \"[Tên anh] - Dat ban SN 10/03 - Quan 7\". Chuyển xong anh nhắn em để em khóa bàn và gửi xác nhận liền nhé."
+            },
+            {
+                "role": "người nhận",
+                "content": "Chuyển rồi đấy."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ em kiểm tra ngay… Ồ tiền về rồi ạ! Cảm ơn anh nhiều. Em vừa khóa bàn thành công cho ngày 10/3, 19h, chi nhánh quận 7. Nhưng mà anh ơi… hiện tại bàn khu vực view sông đẹp nhất đang rất hot, có 1 nhóm khác vừa nhắn hỏi đặt cùng giờ cách đây 5 phút. Để chắc chắn không bị trùng lịch, anh/chị chuyển nốt phần còn lại hoặc bổ sung cọc thêm 1 triệu để em ưu tiên set up sớm và tặng thêm 1 khay trái cây tươi nhé?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Thêm nữa hả?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ không phải thêm cọc đâu ạ, mà là chuyển trước phần còn lại để em chốt full và chuẩn bị sớm. Nếu anh chuyển thêm trong hôm nay, em còn tặng voucher giảm 500k cho lần sau nữa. Ưu đãi này chỉ áp dụng khi đặt và chốt trong ngày thôi ạ. Anh muốn em giữ luôn không ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Để tôi suy nghĩ đã."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ được ạ. Em gửi tin nhắn thông tin chuyển khoản bổ sung và ảnh bàn view sông đang giữ cho anh ngay đây nhé. Nếu quyết định thì anh chuyển luôn để em chốt và chuẩn bị đầy đủ cho sinh nhật thật đẹp. Em chờ tin anh ạ!"
+            }
+        ]
+    },
+    {
+        "_id": 6,
+        "dialogue": [
+            {
+                "role": "người gọi",
+                "content": "Dạ, em chào anh ạ. Em là Đức, bên The Gangs, bộ phận đặt bàn và tổ chức tiệc đây ạ. Em thấy anh vừa inbox hỏi về đặt bàn nhậu nhóm qua fanpage, em gọi lại để tư vấn chi tiết luôn nhé. Anh muốn đặt cho ngày nào ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ, cuối tuần này, thứ 7 ngày 7/2, khoảng 8–10 người."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ vâng ạ. Anh muốn đặt chi nhánh nào ạ? Bên em hiện có 2 chi nhánh chính ở Hà Nội: chi nhánh Nguyễn Chí Thanh (gần trung tâm, chỗ ngồi rộng) và chi nhánh Lê Văn Lương (có phòng riêng, view thoáng). Chi nhánh nào tiện hơn cho nhóm anh?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Nguyễn Chí Thanh đi."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ tuyệt vời ạ! Chi nhánh Nguyễn Chí Thanh đang hot lắm vì có khu vực bàn lớn và âm thanh sôi động. Nhóm anh khoảng 8–10 người đúng không ạ? Giờ bắt đầu dự kiến mấy giờ? Thường bên em hay nhận khung 19h–22h hoặc 20h–23h cho nhóm nhậu."
+            },
+            {
+                "role": "người nhận",
+                "content": "19h nhé."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ em note lại: ngày 7/2, 19h, chi nhánh Nguyễn Chí Thanh, bàn 8–10 người. Hiện tại bên em có chương trình ưu đãi cuối tuần: giảm 10% set nhậu cho nhóm từ 8 người trở lên, tặng thêm 1 tháp bia tươi và 1 đĩa mồi khô đặc biệt. Anh muốn set nhậu cơ bản hay nâng cấp lên set VIP có thêm lẩu, nướng hải sản luôn ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Set cơ bản thôi em."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ được ạ. Tổng set cơ bản cho 10 người khoảng 3 triệu 8, sau giảm 10% còn khoảng 3 triệu 4. Để giữ bàn và áp dụng ưu đãi này, anh chuyển khoản cọc trước 1 triệu 7 nhé (50%). Chính sách bên em rất rõ: hoàn cọc 100% nếu hủy trước 2 tiếng, không mất phí gì hết ạ. Anh yên tâm đặt luôn."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ nghe ổn. Em gửi thông tin chuyển khoản đi."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ em gửi ngay đây ạ. Tài khoản Công ty TNHH The Gangs Hà Nội, nội dung: \"[Tên anh] - Dat ban nhau 07/02 - Nguyen Chi Thanh\". Chuyển xong anh chụp màn hình gửi em hoặc nói luôn qua điện thoại để em xác nhận và khóa bàn liền nhé."
+            },
+            {
+                "role": "người nhận",
+                "content": "Chuyển rồi, kiểm tra đi em."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ em check ngay… Ồ tiền đã được chuyển rồi ạ! Cảm ơn anh tin tưởng The Gangs."
+            }
+        ]
+    },
+    {
+        "_id": 7,
+        "dialogue": [
+            {
+                "role": "người gọi",
+                "content": "Dạ, em chào anh ạ. Em là Phương, bên Kichi-Kichi Hà Nội – bộ phận chăm sóc khách hàng và ưu đãi đặc biệt đây ạ. Em thấy anh vừa comment hỏi về combo khuyến mãi trên fanpage, em gọi lại để tư vấn và hỗ trợ anh mua voucher ngay nhé. Anh đang quan tâm combo nào ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ, combo lẩu băng chuyền 99k/người em đăng hôm nay đúng không?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ đúng rồi ạ! Đây là chương trình flash sale đặc biệt nhân dịp cuối tuần, chỉ áp dụng trong 48 giờ: lẩu băng chuyền 99k/người (tối thiểu 4 người), bao gồm nước uống không giới hạn, không giới hạn món băng chuyền, và tặng thêm 1 phần topping cao cấp miễn phí. Giá gốc là 199k/người, giảm hơn 50% luôn ạ. Anh định đi mấy người?"
+            },
+            {
+                "role": "người nhận",
+                "content": "4 người thôi."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ vâng ạ. Tổng cho 4 người là 396.000 đồng. Để nhận combo này, anh chỉ cần chuyển khoản trước 100% để em xuất voucher điện tử ngay. Voucher sẽ có mã QR, dùng trực tiếp tại quán, không cần đặt bàn trước, đến đâu quét mã ăn luôn. Anh chuyển xong em gửi voucher trong vòng 2 phút ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ, nghe rẻ quá. Em gửi thông tin chuyển khoản đi."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ em gửi ngay đây ạ. Tài khoản Công ty TNHH Kichi Việt Nam, nội dung chuyển khoản ghi: \"[Tên anh] - Mua combo KK 99k - 4 nguoi\". Chuyển 396.000 đồng nhé. Chuyển xong anh chụp màn hình gửi em hoặc đọc số giao dịch để em xác nhận và gửi voucher liền ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Chuyển rồi em kiểm tra đi."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ em kiểm tra ngay… Ồ tiền về rồi ạ! Cảm ơn anh nhiều lắm. Em vừa tạo voucher cho anh rồi. Nhưng mà hiện tại hệ thống đang cập nhật đợt khuyến mãi lớn, voucher của anh đang ở trạng thái chờ kích hoạt. Để kích hoạt mã QR và đảm bảo dùng được ngay cuối tuần này, anh chuyển thêm 50.000 đồng phí xác thực nhé. Số tiền này em sẽ hoàn lại cùng voucher hoặc trừ thẳng vào hóa đơn khi anh đến quán."
+            },
+            {
+                "role": "người nhận",
+                "content": "Sao lại có phí xác thực?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ tại đợt flash sale này lượng khách đăng ký quá đông, hệ thống tự động yêu cầu xác thực thêm để tránh trùng mã hoặc dùng sai. Nhiều anh chị khác cũng phải chuyển phí này, xong là nhận voucher dùng được luôn ạ. Anh chuyển vào cùng tài khoản, nội dung ghi: \"[Tên anh] - Xac thuc voucher KK\". Em cam kết 5 phút sau là gửi voucher đầy đủ, mã QR và hướng dẫn sử dụng luôn ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Thôi để anh kiểm tra lại đã."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ được ạ. Nhưng anh chuyển nhanh giúp em nhé, vì combo 99k chỉ còn 300 suất nữa trong hôm nay thôi ạ. Em gửi tin nhắn thông tin chuyển khoản phí xác thực và ảnh voucher mẫu cho anh xem trước đây. Nếu chuyển thì nhắn em ngay để em kích hoạt liền nhé. Em chờ tin anh ạ!"
+            }
+        ]
+    },
+    {
+        "_id": 8,
+        "dialogue": [
+            {
+                "role": "người gọi",
+                "content": "Alo alo, chào chị ạ. Em là Nam, bên Phở Bò Kobe chi nhánh Hà Nội đây ạ. Em nhận được đơn đặt hàng của chị qua fanpage chính thức vừa nãy: 2 tô phở bò Kobe đặc biệt, 1 phần bánh quẩy, 1 phần chả cốm, tổng 285.000 đồng, giao tận nơi, miễn ship trong nội thành. Em gọi để xác nhận đơn và hỗ trợ chị nhé."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ đúng rồi. Giảm 50% như quảng cáo trên fanpage hả em?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ đúng ạ! Đây là chương trình khuyến mãi đặc biệt trên fanpage Phở Bò Kobe Official: giảm 50–70% cho đơn online, miễn phí ship nội thành Hà Nội. Tổng đơn của chị gốc là 570.000 đồng, sau giảm còn 285.000 đồng. Để xác nhận đơn và chuẩn bị ngay vì bếp đang rất đông, chị chuyển khoản trước toàn bộ 285.000 đồng nhé. Em sẽ gửi mã đơn và thời gian giao hàng dự kiến ngay sau khi nhận tiền."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ, em gửi thông tin chuyển khoản đi."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ em gửi ngay đây ạ. Tài khoản Công ty TNHH Phở Bò Kobe, Ngân hàng Techcombank, số TK … Nội dung chuyển khoản ghi rõ: \"[Tên chị] - Don pho bo kobe - 285k - giao đến Hai Bà Trưng\". Chuyển xong chị chụp màn hình gửi em hoặc đọc số giao dịch để em check và chuẩn bị món liền ạ. Thời gian giao khoảng 25–35 phút thôi."
+            },
+            {
+                "role": "người nhận",
+                "content": "Chuyển rồi đấy, kiểm tra đi em."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ em kiểm tra ngay… Ồ tiền về rồi ạ! Cảm ơn chị nhiều. Em vừa ghi nhận đơn thành công. Hiện tại bếp đang chuẩn bị, shipper sẽ đến trong vòng 30 phút."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ tốt."
+            },
+            {
+                "role": "người gọi",
+                "content": "Nhưng mà chị ơi… hiện tại có rất nhiều đơn cùng lúc, shipper bên em đang quá tải. Để ưu tiên giao đơn của chị nhanh hơn và đảm bảo món nóng hổi, chị chuyển thêm 50.000 đồng phí ưu tiên ship nhé. Phí này em sẽ hoàn lại bằng cách tặng thêm 1 phần quẩy hoặc trừ vào lần sau nếu chị đặt tiếp. Chị chuyển vào cùng tài khoản là được ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Sao lại có phí ưu tiên? Quảng cáo miễn ship mà."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ đúng là miễn ship theo chương trình, nhưng hôm nay lượng đơn tăng đột biến nên shipper phải ưu tiên theo thứ tự. Nhiều anh chị khác cũng chuyển phí này để được giao nhanh trước, em cam kết 10 phút sau là shipper xuất phát ngay. Nếu không chuyển thì vẫn giao bình thường nhưng có thể chậm hơn 15–20 phút ạ. Chị có muốn em ưu tiên không ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Thôi để chị chờ xem đã."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ được ạ. Nhưng chị quyết định sớm giúp em nhé, vì bếp đang chuẩn bị xong rồi, nếu không ưu tiên thì shipper sẽ giao các đơn khác trước. Em vừa gửi ảnh tô phở đang chuẩn bị và tin nhắn phí ưu tiên cho chị rồi ạ. Nếu chuyển thì nhắn em ngay để em đẩy đơn lên đầu hàng nhé. Em chờ tin chị đây ạ!"
+            }
+        ]
+    },
+    {
+        "_id": 9,
+        "dialogue": [
+            {
+                "role": "người gọi",
+                "content": "Dạ nhà hàng Hương Sen xin chào anh ạ. Em là Minh Anh, nhân viên phụ trách đặt bàn tiệc của nhà hàng Hoàng Kim. Em thấy anh vừa để lại thông tin đặt bàn trên fanpage nên em liên hệ xác nhận giúp anh nhé."
+            },
+            {
+                "role": "người nhận",
+                "content": "Anh có nhắn tin hỏi thử thôi, chưa chốt gì cả."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ vâng, hiện tại bên em chỉ còn đúng 1 bàn view hồ cho khung giờ 19h tối nay thôi ạ. Hệ thống chỉ cho phép giữ bàn trong vòng 10 phút nên em cần xác nhận nhanh giúp anh."
+            },
+            {
+                "role": "người nhận",
+                "content": "Bàn cho mấy người và giá bao nhiêu em?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ gói tiêu chuẩn cho 2 người là 7.000.000 đồng, giá niêm yết 8.500.000 đồng chưa VAT. Để giữ bàn, anh cần đặt cọc trước 50% giá trị đơn hàng."
+            },
+            {
+                "role": "người nhận",
+                "content": "Sao giá cao vậy? Với lại anh chuyển khoản cho nhà hàng hay sao?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ hiện tại chuyển vào tài khoản công ty phải chờ 3–5 ngày hệ thống xác nhận nên bên em đang thu cọc qua tài khoản cá nhân để giữ chỗ nhanh cho khách ạ. Đây là quy trình tạm thời của nhà hàng."
+            },
+            {
+                "role": "người nhận",
+                "content": "Tài khoản cá nhân thì anh thấy không yên tâm lắm."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ em hiểu, nhưng nếu quá 30 phút mà chưa cọc thì hệ thống sẽ tự động hủy bàn và nhường cho khách khác anh ạ. Hiện cũng có khách khác đang hỏi bàn này rồi."
+            },
+            {
+                "role": "người nhận",
+                "content": "Thôi để anh gọi trực tiếp lên nhà hàng kiểm tra lại đã."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ vâng, nhưng anh giúp em quyết định sớm vì hệ thống không giữ bàn lâu được ạ."
+            }
+        ]
+    },
+    {
+        "_id": 10,
+        "dialogue": [
+            {
+                "role": "người gọi",
+                "content": "Alo chào anh. Em là Minh, bên khách sạn 5 sao Hilton Hanoi Opera đây ạ. Em gọi từ số tổng đài chính thức 024 3934 3000 ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Alo, vâng có việc gì em?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ, em vừa nhận được hệ thống báo có đặt phòng của anh qua website chính thức và Booking.com lúc 14:35 hôm nay. Đặt phòng Deluxe King view hồ Hoàn Kiếm, check-in ngày mai 06/02/2026, 2 đêm, 1 phòng. Tổng tiền 8.950.000 đồng (đã bao gồm thuế phí và breakfast cho 2 người). Đặt cọc online thành công 30% là 2.685.000 đồng qua thẻ Visa rồi ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ơ tôi không đặt phòng gì cả. Chắc nhầm số rồi em ơi."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ không nhầm đâu ạ, em kiểm tra lại: số điện thoại đăng ký là 0193823823, tên người đặt là Trần Hoàng, địa chỉ thanh toán cũng khớp. Hệ thống ghi nhận giao dịch mã 250206-XXXX57 từ ngân hàng của anh lúc 14:37."
+            },
+            {
+                "role": "người nhận",
+                "content": "Không có thật, tôi không book gì hết. Chắc bị hack thẻ hay sao ấy."
+            },
+            {
+                "role": "người gọi",
+                "content": "Trời ơi… vậy chắc có trường hợp ai đó dùng thông tin của anh để đặt rồi thanh toán nhầm tài khoản khách sạn rồi ạ. Bên em đã nhận được tiền cọc thật, nhưng nếu anh không đặt thì bên em phải hủy phòng và hoàn tiền ngay để tránh khiếu nại với Booking và ngân hàng. Hiện tại hệ thống hoàn tiền online đang lỗi, phải làm thủ tục hoàn thủ công qua chuyển khoản ngược lại thôi ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Vậy giờ làm sao?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ anh cho em xin số tài khoản ngân hàng mà anh đã thanh toán lúc nãy để em báo bộ phận kế toán hoàn lại toàn bộ 2.685.000 trong vòng 5-10 phút nhé. Em đang đứng ở quầy Front Desk đây ạ, làm nhanh để hủy phòng kịp trước 18h check-in policy."
+            },
+            {
+                "role": "người nhận",
+                "content": "Nhưng tôi không chuyển gì cả mà em?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ em hiểu ạ, nhưng tiền đã vào tài khoản khách sạn rồi. Nếu không hoàn lại ngay thì bên em bị ngân hàng phạt giao dịch gian lận, khách sạn cũng mất uy tín với đối tác Booking. Anh đọc giúp em số tài khoản đi ạ, em chuyển lại liền, kèm ảnh sao kê giao dịch nhận tiền để anh đối chiếu. Để chắc chắn hơn, anh chuyển giúp em thêm 45.000 đồng phí hoàn tiền liên ngân hàng nhé, em sẽ chuyển lại nguyên 2.730.000 luôn ạ. Em gửi mã VietQR ngay đây…"
+            },
+            {
+                "role": "người nhận",
+                "content": "Thôi được, tài khoản của tôi là…"
+            }
+        ]
+    }
+]

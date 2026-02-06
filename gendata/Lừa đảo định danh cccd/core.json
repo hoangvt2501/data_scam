@@ -1,0 +1,844 @@
+[
+    {
+        "_id": 1,
+        "dialogue": [
+            {
+                "role": "người gọi",
+                "content": "Alo, chào anh. Tôi là Trung tá Nguyễn Văn An, hiện đang công tác tại Cục Cảnh sát Quản lý Hành chính về Trật tự xã hội, Bộ Công an. Anh là Nguyễn Đức Trung phải không ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Vâng, đúng rồi. Có chuyện gì ạ?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Anh nghe tôi nói đây. Chúng tôi đang điều tra một vụ án rất nghiêm trọng liên quan đến đường dây buôn bán ma túy xuyên quốc gia. Thông tin định danh của anh hiện đang trùng khớp với một đối tượng có trong danh sách nghi vấn. Đây là vấn đề rất nghiêm trọng, nếu không xác minh kịp thời, anh sẽ bị triệu tập lên cơ quan công an để làm việc trực tiếp."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ơ… sao lại trùng với tội phạm được? Tôi không liên quan gì cả."
+            },
+            {
+                "role": "người gọi",
+                "content": "Đúng vậy, rất có thể thông tin của anh bị đối tượng xấu lợi dụng, mạo danh hoặc đánh cắp để thực hiện hành vi phạm pháp. Chúng tôi cần xác minh ngay lập tức để loại trừ anh ra khỏi diện nghi vấn. Nếu anh không hợp tác, theo quy định pháp luật, chúng tôi buộc phải gửi giấy triệu tập và có thể áp dụng biện pháp cưỡng chế. Anh hiểu chứ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Vâng… vậy phải làm sao bây giờ?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Rất đơn giản. Tôi cần anh cung cấp thông tin định danh để đối chiếu ngay trên hệ thống. Trước tiên, anh đọc rõ họ tên đầy đủ ghi trên thẻ căn cước công dân cho tôi nghe."
+            },
+            {
+                "role": "người nhận",
+                "content": "Dạ… Nguyễn Đức Trung."
+            },
+            {
+                "role": "người gọi",
+                "content": "Tốt. Bây giờ anh đọc chính xác số căn cước công dân, gồm 12 số, đọc từng chữ số một cho rõ ràng, tôi đang ghi nhận trên hệ thống."
+            },
+            {
+                "role": "người nhận",
+                "content": "012345678910"
+            },
+            {
+                "role": "người gọi",
+                "content": "Đã nhận. Hệ thống đang đối chiếu… Đúng rồi, thông tin trùng khớp với đối tượng nghi vấn. Để hoàn tất quy trình xác minh và loại trừ anh khỏi diện điều tra, anh cần thực hiện bước xác thực OTP qua tài khoản ngân hàng liên kết với CCCD. Anh đang dùng ngân hàng nào?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Vietcombank ạ."
+            },
+            {
+                "role": "người gọi",
+                "content": "Tốt. Bây giờ anh mở ứng dụng ngân hàng lên, tôi sẽ gửi mã OTP đến số điện thoại đăng ký ngân hàng của anh. Khi nhận được tin nhắn 6 số từ ngân hàng, anh đọc ngay cho tôi để xác nhận định danh. Đây là bước bắt buộc theo quy định của Bộ Công an và Ngân hàng Nhà nước."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ… để tôi mở app."
+            },
+            {
+                "role": "người gọi",
+                "content": "Anh kiểm tra tin nhắn ngay nhé. Có tin nhắn 6 số từ ngân hàng chưa? Đọc to và rõ từng số cho tôi, không được đọc nhầm."
+            },
+            {
+                "role": "người nhận",
+                "content": "123456"
+            },
+            {
+                "role": "người gọi",
+                "content": "Tốt… Đã nhận mã. Hệ thống đang xử lý… Xong rồi. Thông tin của anh đã được loại trừ khỏi diện nghi vấn. Để hoàn tất hồ sơ, anh cần xác nhận thêm một lần nữa bằng cách nhập mã OTP thứ hai mà tôi vừa gửi đến. Anh kiểm tra tin nhắn mới nhất, đọc mã 6 số đó cho tôi ngay."
+            },
+            {
+                "role": "người nhận",
+                "content": "Lại mã nữa hả anh?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Đúng vậy, đây là bước xác thực kép theo quy định chống rửa tiền và bảo vệ tài khoản công dân. Anh đọc nhanh lên, nếu chậm hệ thống sẽ tự động khóa tạm thời tài khoản để bảo vệ. Đọc đi ạ!"
+            }
+        ]
+    },
+    {
+        "_id": 2,
+        "dialogue": [
+            {
+                "role": "người gọi",
+                "content": "Alo, xin chào chị. Tôi là Thượng tá Lê Văn Bình, hiện đang công tác tại Cục An ninh Mạng và Phòng chống Tội phạm Công nghệ cao – C06, Bộ Công an. Tôi gọi từ số đường dây nóng chính thức của Cục. Chị là chị Hằng, sinh năm 1995, số căn cước công dân kết thúc bằng 1234 phải không ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Vâng, đúng rồi anh. Có chuyện gì nghiêm trọng vậy ạ?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Chị nghe tôi nói rất kỹ và bình tĩnh nhé. Hiện tại, Cục chúng tôi đang phối hợp với Cục Cảnh sát Điều tra Tội phạm về Ma túy – C04, cùng với Interpol và Cảnh sát hình sự quốc tế, điều tra một đường dây buôn bán ma túy xuyên quốc gia rất lớn. Trong hồ sơ điều tra, thông tin định danh của chị – bao gồm họ tên đầy đủ, số căn cước công dân, số điện thoại và một số tài khoản ngân hàng liên kết – đang trùng khớp hoàn toàn với một đối tượng nữ nằm trong danh sách truy nã cấp quốc gia. Đây không phải lỗi hệ thống, mà là dấu hiệu cho thấy danh tính của chị đang bị đối tượng xấu lợi dụng nghiêm trọng."
+            },
+            {
+                "role": "người nhận",
+                "content": "Trời ơi… tôi không làm gì cả, tôi không liên quan gì đến ma túy hết anh ơi."
+            },
+            {
+                "role": "người gọi",
+                "content": "Tôi hiểu chị đang hoảng loạn, và chúng tôi cũng không cho rằng chị trực tiếp tham gia. Rất có thể thông tin cá nhân của chị đã bị đánh cắp, mạo danh hoặc sử dụng để mở tài khoản, thực hiện giao dịch bất hợp pháp. Tuy nhiên, theo quy định tại Điều 113 và Điều 119 Bộ luật Tố tụng Hình sự 2015 (sửa đổi, bổ sung 2021), nếu thông tin định danh trùng với đối tượng nghi vấn, chúng tôi buộc phải xác minh khẩn cấp. Nếu không hoàn tất xác minh trong hôm nay, hệ thống sẽ tự động chuyển hồ sơ của chị sang diện cần triệu tập trực tiếp, có thể bị tạm giữ để làm việc từ 24–48 giờ. Chị không muốn xảy ra tình huống đó đúng không ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Dạ không… tôi không muốn. Vậy phải làm sao bây giờ anh?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Rất tốt, chị hợp tác là chúng tôi sẽ giải quyết nhanh chóng. Cuộc gọi này đang được ghi âm và lưu trữ theo quy định của Luật An ninh mạng 2018. Bây giờ chị lấy thẻ căn cước công dân ra, tôi cần xác minh từng bước. Trước tiên, chị đọc rõ ràng họ tên đầy đủ ghi trên thẻ căn cước, kèm theo ngày tháng năm sinh và nơi cấp."
+            },
+            {
+                "role": "người nhận",
+                "content": "Dạ… Nguyễn Thị Hằng, sinh ngày 7/9/1995, nơi cấp: Công an TP Hà Nội."
+            },
+            {
+                "role": "người gọi",
+                "content": "Đã khớp dữ liệu sơ bộ. Bây giờ chị đọc chính xác số căn cước công dân gồm 12 chữ số. Đọc chậm rãi, từng chữ số một, ví dụ: 0-1-2-3. Tôi đang nhập vào hệ thống đối chiếu trực tuyến của Cục."
+            },
+            {
+                "role": "người nhận",
+                "content": "012345678910"
+            },
+            {
+                "role": "người gọi",
+                "content": "Cảm ơn chị. Hệ thống đang xử lý… Kết quả cho thấy số CCCD này đang liên kết với ít nhất 3 tài khoản ngân hàng có giao dịch đáng ngờ trong 6 tháng qua, liên quan đến chuyển khoản quốc tế và ví điện tử. Để loại trừ chị khỏi diện nghi vấn, chúng tôi cần thực hiện xác thực OTP kép qua tài khoản ngân hàng chính mà chị đang sử dụng, vì đây là tài khoản liên kết với CCCD theo quy định của Ngân hàng Nhà nước."
+            },
+            {
+                "role": "người nhận",
+                "content": "Tài khoản Vietcombank ạ."
+            },
+            {
+                "role": "người gọi",
+                "content": "Tốt. Chị mở ứng dụng Vietcombank hoặc tin nhắn SMS ngay bây giờ. Tôi sẽ kích hoạt mã OTP xác thực đầu tiên từ hệ thống liên thông của Bộ Công an và Ngân hàng Nhà nước. Khi nhận được tin nhắn 6 số, chị đọc ngay cho tôi từng chữ số, không được nhập vào bất kỳ đâu. Đây là bước bắt buộc để xác minh danh tính thật."
+            },
+            {
+                "role": "người nhận",
+                "content": "Nhận được rồi… mã là 123456"
+            },
+            {
+                "role": "người gọi",
+                "content": "Đã nhận mã đầu tiên. Hệ thống đang cập nhật… Chưa xong. Để hoàn tất quy trình xác thực kép theo Nghị định 13/2023/NĐ-CP về bảo vệ dữ liệu cá nhân, chị sẽ nhận thêm một mã OTP thứ hai từ ngân hàng. Mã này dùng để xác nhận rằng chị đang thực hiện thao tác hợp pháp. Chị kiểm tra tin nhắn hoặc ứng dụng ngay, khi có mã mới thì đọc cho tôi từng số một."
+            },
+            {
+                "role": "người nhận",
+                "content": "Có rồi anh… mã là 123456"
+            },
+            {
+                "role": "người gọi",
+                "content": "Đã nhận. Hệ thống đang xử lý bước cuối… Xong rồi. Thông tin của chị đã được loại trừ khỏi diện nghi vấn. Hồ sơ đã được cập nhật trạng thái 'không liên quan'. Chúng tôi sẽ gửi biên bản xác minh điện tử qua tin nhắn hoặc email trong vòng 24 giờ tới. Chị không được tiết lộ nội dung cuộc gọi này cho bất kỳ ai, kể cả người thân, để tránh ảnh hưởng đến quá trình điều tra bí mật của chúng tôi. Nếu có bất kỳ cuộc gọi nào tự xưng là công an yêu cầu cung cấp thêm thông tin, chị phải báo ngay cho tôi qua số này. Tôi sẽ gửi số đường dây nóng chính thức cho chị qua tin nhắn. Chúc chị một ngày tốt lành."
+            },
+            {
+                "role": "người nhận",
+                "content": "Vâng ạ, tôi cảm ơn anh."
+            }
+        ]
+    },
+    {
+        "_id": 3,
+        "dialogue": [
+            {
+                "role": "người gọi",
+                "content": "Xin chào chị. Tôi là Đại tá Phạm Quốc Hùng, công tác tại Cục Cảnh sát Hình sự – C02, Bộ Công an. Cuộc gọi này được thực hiện từ đường dây nội bộ 069.234.5678. Chị là chị Hạnh, sinh năm 1993 phải không?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Vâng đúng rồi anh. Có việc gì vậy ạ?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Chị bình tĩnh nghe tôi nói. Hiện tại Cục chúng tôi đang thụ lý vụ án số 0224/CSHS-PV về hành vi lừa đảo chiếm đoạt tài sản và rửa tiền quy mô lớn, liên quan đến nhiều đối tượng xuyên quốc gia. Qua hệ thống dữ liệu quốc gia về dân cư và liên thông ngân hàng, chúng tôi phát hiện thông tin định danh của chị – bao gồm họ tên, số CCCD, số điện thoại và một số tài khoản ngân hàng – đang trùng khớp hoàn toàn với một đối tượng nữ nằm trong nhóm nghi vấn chính của vụ án. Đây là tình huống rất nghiêm trọng, chị có thể đang bị mạo danh hoặc thông tin cá nhân bị sử dụng trái phép để thực hiện các giao dịch bất hợp pháp."
+            },
+            {
+                "role": "người nhận",
+                "content": "Trời ơi… tôi không biết gì hết anh ơi, tôi không chuyển khoản cho ai cả."
+            },
+            {
+                "role": "người gọi",
+                "content": "Chúng tôi cũng không kết luận chị trực tiếp phạm tội. Tuy nhiên theo quy định tại Điều 147 Bộ luật Tố tụng Hình sự và Thông tư liên tịch 01/2022 giữa Bộ Công an – Ngân hàng Nhà nước, khi thông tin định danh trùng với đối tượng nghi vấn, chúng tôi phải tiến hành xác minh khẩn cấp trong vòng 48 giờ. Nếu không hoàn tất, hệ thống sẽ tự động chuyển hồ sơ của chị sang diện cần triệu tập trực tiếp, đồng thời tạm thời phong tỏa các tài khoản liên kết với CCCD để phục vụ điều tra. Chị không muốn bị phong tỏa tài khoản và bị triệu tập lên làm việc tại trụ sở Cục chứ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Dạ không… tôi không muốn. Phải làm gì bây giờ anh?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Chị hợp tác là chúng tôi sẽ xử lý nhanh và loại trừ chị khỏi hồ sơ. Cuộc gọi này đang được ghi âm theo quy định pháp luật. Bước đầu tiên, chị lấy thẻ căn cước công dân ra. Chị đọc rõ họ tên đầy đủ, ngày tháng năm sinh, số CCCD (12 chữ số) và nơi cấp cho tôi. Tôi cần đối chiếu trực tiếp trên hệ thống."
+            },
+            {
+                "role": "người nhận",
+                "content": "Nguyễn Thị Hạnh, sinh ngày 15/05/1993, CCCD 012345678910, nơi cấp: Công an thành phố Hải Dương."
+            },
+            {
+                "role": "người gọi",
+                "content": "Đã nhận và đối chiếu sơ bộ. Dữ liệu khớp. Bây giờ để xác minh chính xác và loại bỏ nghi vấn, chị cần thực hiện bước xác thực OTP liên thông giữa Bộ Công an và ngân hàng. Chị đang dùng ngân hàng nào làm tài khoản chính, liên kết với CCCD?"
+            },
+            {
+                "role": "người nhận",
+                "content": "BIDV ạ."
+            },
+            {
+                "role": "người gọi",
+                "content": "Rất tốt. Chị mở ứng dụng BIDV hoặc kiểm tra tin nhắn SMS ngay bây giờ. Tôi đang gửi mã OTP xác thực đầu tiên từ hệ thống liên thông. Mã gồm 6 chữ số. Khi nhận được, chị đọc rõ từng số cho tôi, không được nhập vào bất kỳ link hay ứng dụng nào khác. Đây là bước bắt buộc để xác nhận danh tính thật."
+            },
+            {
+                "role": "người nhận",
+                "content": "Nhận được rồi… mã là 123456"
+            },
+            {
+                "role": "người gọi",
+                "content": "Đã nhận mã 1. Hệ thống đang xử lý… Chưa xong. Để hoàn tất quy trình xác thực 3 lớp theo quy định chống rửa tiền, chị sẽ nhận thêm 2 mã OTP nữa. Mã thứ hai dùng để kiểm tra giao dịch bất thường gần đây. Chị kiểm tra tin nhắn mới và đọc mã 6 số đó cho tôi ngay."
+            },
+            {
+                "role": "người nhận",
+                "content": "Có rồi… mã thứ hai là 123456"
+            },
+            {
+                "role": "người gọi",
+                "content": "Tốt. Bây giờ chị chờ thêm 10–15 giây, hệ thống sẽ gửi mã OTP thứ ba để xác nhận mở khóa hồ sơ. Mã này rất quan trọng, nếu không hoàn tất trong 5 phút nữa, tài khoản sẽ bị tạm khóa tự động để bảo vệ. Chị đọc ngay khi nhận được nhé."
+            },
+            {
+                "role": "người nhận",
+                "content": "Nhận rồi anh… mã thứ ba là 123456"
+            },
+            {
+                "role": "người gọi",
+                "content": "Đã nhận đầy đủ. Hệ thống xử lý xong. Thông tin của chị đã được cập nhật trạng thái 'không liên quan đến vụ án'. Hồ sơ đã được loại trừ hoàn toàn. Chúng tôi sẽ gửi thông báo xác minh điện tử qua tin nhắn trong vòng 12 giờ tới. Chị không được chia sẻ nội dung cuộc gọi này với bất kỳ ai, kể cả người thân, để tránh làm lộ thông tin điều tra. Nếu có ai gọi lại tự xưng công an yêu cầu thêm thông tin, chị ghi âm và báo ngay cho tôi qua số này. Cảm ơn chị đã hợp tác. Chúc chị bình an."
+            }
+        ]
+    },
+    {
+        "_id": 4,
+        "dialogue": [
+            {
+                "role": "người gọi",
+                "content": "Alo, xin chào chị. Tôi là Đại tá Trần Văn Hải, công tác tại Cục Cảnh sát Điều tra Tội phạm về Ma túy – C04, Bộ Công an. Cuộc gọi này từ đường dây nội bộ 069.312.4567. Chị là chị Minh, sinh năm 1992, số CCCD kết thúc 1234 phải không?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Vâng đúng rồi. Nhưng sao anh gọi cho em thế này? Có chuyện gì nghiêm trọng vậy anh?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Chị bình tĩnh nghe tôi giải thích. Hiện tại Cục đang điều tra vụ án số 0345/CSMT-ĐT về đường dây vận chuyển và buôn bán ma túy lượng lớn từ biên giới phía Bắc. Qua đối chiếu dữ liệu dân cư quốc gia và hệ thống ngân hàng, thông tin định danh của chị – họ tên, số CCCD, số điện thoại – trùng khớp chính xác với một đối tượng nữ trong danh sách nghi vấn. Có dấu hiệu đối tượng xấu đã sử dụng thông tin của chị để mở tài khoản, chuyển tiền bất hợp pháp."
+            },
+            {
+                "role": "người nhận",
+                "content": "Trùng thông tin á? Em không tin lắm, công an thật có gọi điện kiểu này không anh? Hay là lừa đảo?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Chị nghi ngờ là đúng, vì hiện nay có nhiều đối tượng giả mạo công an để lừa đảo. Nhưng chị có thể kiểm tra ngay: số điện thoại tôi đang gọi là 069.312.4567 – đây là đầu số đường dây nóng chính thức của C04 Bộ Công an. Chị có thể gọi lại số tổng đài Bộ Công an 069.234.2599 để xác minh danh tính tôi, nhưng tôi khuyên chị nên hoàn tất xác minh nhanh trong cuộc gọi này để tránh bị triệu tập trực tiếp. Nếu chị không hợp tác, theo Điều 119 Bộ luật Tố tụng Hình sự, chúng tôi sẽ phải gửi giấy triệu tập khẩn cấp và thông báo cơ quan địa phương đến nhà chị."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừm… vậy nếu em hợp tác thì sao? Có mất tiền hay gì không?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Không mất bất kỳ khoản tiền nào cả chị ạ. Đây chỉ là quy trình xác minh định danh miễn phí, do Bộ Công an phối hợp với Ngân hàng Nhà nước thực hiện theo Nghị định 13/2023 về bảo vệ dữ liệu cá nhân. Mục đích là loại trừ chị khỏi hồ sơ nghi vấn trong vòng 24 giờ. Nếu chị không làm, tài khoản ngân hàng liên kết CCCD có thể bị tạm khóa để phục vụ điều tra, gây bất tiện cho chị."
+            },
+            {
+                "role": "người nhận",
+                "content": "Thế em phải làm gì bây giờ?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Chị lấy thẻ căn cước công dân ra. Bước đầu tiên, chị đọc rõ họ tên đầy đủ, ngày tháng năm sinh và nơi cấp thẻ cho tôi. Tôi cần đối chiếu với dữ liệu hệ thống."
+            },
+            {
+                "role": "người nhận",
+                "content": "Lê Thị Thúy Minh, sinh ngày 12/12/1992, nơi cấp Công an TP Hà Nội."
+            },
+            {
+                "role": "người gọi",
+                "content": "Đã khớp. Bây giờ chị đọc chính xác 12 số CCCD, từng chữ số một, chậm rãi để tôi nhập vào hệ thống."
+            },
+            {
+                "role": "người nhận",
+                "content": "123456. Ủa mà sao phải đọc CCCD chi tiết vậy anh? Em sợ lộ thông tin."
+            },
+            {
+                "role": "người gọi",
+                "content": "Tôi hiểu lo lắng của chị. Nhưng đây là bước bắt buộc để đối chiếu trực tiếp trên hệ thống dữ liệu quốc gia. Thông tin chị đọc chỉ được sử dụng trong cuộc gọi này, ghi âm lưu trữ nội bộ Bộ Công an, không chia sẻ ra ngoài. Nếu chị không đọc, hệ thống không thể loại trừ nghi vấn, và giấy triệu tập sẽ được gửi trong 24 giờ tới. Chị muốn tiếp tục không ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Thôi được… 123456232131"
+            },
+            {
+                "role": "người gọi",
+                "content": "Cảm ơn chị. Hệ thống đang xử lý… Kết quả: số CCCD này liên kết với 2 tài khoản ngân hàng có giao dịch bất thường. Để loại trừ hoàn toàn, chúng tôi cần xác thực OTP qua tài khoản chính của chị. Chị đang dùng ngân hàng nào?"
+            },
+            {
+                "role": "người nhận",
+                "content": "MB Bank ạ."
+            },
+            {
+                "role": "người gọi",
+                "content": "Tốt. Chị mở app MB Bank hoặc kiểm tra tin nhắn. Tôi kích hoạt mã OTP xác thực đầu tiên. Khi nhận được tin nhắn 6 số từ ngân hàng, chị đọc ngay cho tôi từng số một."
+            },
+            {
+                "role": "người nhận",
+                "content": "Nhận được rồi… mã là 123456. Nhưng em thấy lạ, sao ngân hàng gửi OTP mà không phải em yêu cầu?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Đó là vì hệ thống liên thông của Bộ Công an và Ngân hàng Nhà nước tự động gửi OTP khi tiến hành xác minh định danh khẩn cấp. Đây là quy trình chuẩn, nhiều công dân đã làm tương tự để bảo vệ tài khoản của mình. Chị yên tâm. Bây giờ chờ mã OTP thứ hai để hoàn tất xác thực kép. Chị đọc mã tiếp theo khi nhận được nhé."
+            },
+            {
+                "role": "người nhận",
+                "content": "Có rồi… mã thứ hai là 123456."
+            },
+            {
+                "role": "người gọi",
+                "content": "Đã nhận. Hệ thống cập nhật… Để chắc chắn 100%, chị sẽ nhận thêm mã OTP thứ ba dùng để kiểm tra và đóng hồ sơ. Chị đọc mã cuối cùng này cho tôi là xong."
+            },
+            {
+                "role": "người nhận",
+                "content": "Anh chắc chắn không lừa em chứ? Em hơi sợ."
+            },
+            {
+                "role": "người gọi",
+                "content": "Chị yên tâm hoàn toàn. Nếu chị nghi ngờ, có thể dừng cuộc gọi ngay và gọi lại số tổng đài Bộ Công an 069.234.2599 để hỏi về Đại tá Trần Văn Hải – C02. Nhưng nếu dừng bây giờ, hồ sơ của chị sẽ không được loại trừ kịp thời, dẫn đến phong tỏa tài khoản và triệu tập. Chị đọc mã OTP thứ ba đi ạ, chỉ còn bước này thôi."
+            },
+            {
+                "role": "người nhận",
+                "content": "Thôi được… mã là 123456."
+            },
+            {
+                "role": "người gọi",
+                "content": "Hoàn tất. Thông tin của chị đã được cập nhật sạch, loại trừ khỏi vụ án. Chúng tôi sẽ gửi biên bản xác nhận qua SMS trong 12 giờ tới. Chị không được kể nội dung cuộc gọi này cho ai để tránh lộ thông tin điều tra. Nếu có cuộc gọi lạ nào tự xưng công an, chị ghi âm và báo lại cho tôi. Cảm ơn chị đã hợp tác. Chúc chị bình an."
+            }
+        ]
+    },
+    {
+        "_id": 5,
+        "dialogue": [
+            {
+                "role": "người gọi",
+                "content": "Alo. Tôi là Thiếu tá Nguyễn Minh Tuấn, Cục Cảnh sát Hình sự – C02, Bộ Công an. Gọi từ đường dây nội bộ 069.312.7890. Anh là anh Thái, sinh năm 1990, CCCD kết thúc 12345678 đúng không?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Vâng, đúng rồi. Có chuyện gì?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Nghe rõ đây. Chúng tôi đang điều tra vụ án số 0417/CSHS-ĐT về đường dây lừa đảo chiếm đoạt tài sản và rửa tiền quy mô lớn. Thông tin định danh của anh – họ tên, số CCCD, số điện thoại – trùng khớp hoàn toàn với một đối tượng nam trong danh sách nghi vấn chính. Đây không phải thông báo thông thường, mà là cảnh báo khẩn cấp. Nếu không xác minh ngay, anh sẽ bị đưa vào diện cần triệu tập trực tiếp, tài khoản ngân hàng liên kết CCCD sẽ bị phong tỏa tạm thời để phục vụ điều tra."
+            },
+            {
+                "role": "người nhận",
+                "content": "Trùng thông tin? Tôi không tin. Công an thật có gọi điện kiểu này không?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Anh nghi ngờ là bình thường. Nhưng đây là quy trình bắt buộc theo Điều 119 Bộ luật Tố tụng Hình sự. Anh có thể gọi lại số tổng đài Bộ Công an 069.234.2599 để kiểm tra danh tính tôi – Đại tá Nguyễn Minh Tuấn, C02. Tuy nhiên nếu anh dừng cuộc gọi bây giờ, giấy triệu tập sẽ được gửi đến địa chỉ thường trú trong 24 giờ tới, kèm theo lệnh tạm phong tỏa tài khoản. Anh muốn tự làm khó mình không?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Thôi được… vậy phải làm gì?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Lấy thẻ căn cước công dân ra ngay. Đọc rõ họ tên đầy đủ, ngày tháng năm sinh và 12 số CCCD, từng chữ số một, chậm rãi. Không đọc đủ thì hệ thống không xử lý được."
+            },
+            {
+                "role": "người nhận",
+                "content": "Đinh Công Thái, sinh ngày 20/12/1990. CCCD là 12345678."
+            },
+            {
+                "role": "người gọi",
+                "content": "Đã nhận. Hệ thống đối chiếu: số CCCD này liên kết với giao dịch đáng ngờ. Để loại trừ anh khỏi diện nghi vấn, phải xác thực OTP qua tài khoản ngân hàng chính liên kết với CCCD. Anh dùng ngân hàng nào?"
+            },
+            {
+                "role": "người nhận",
+                "content": "VietinBank."
+            },
+            {
+                "role": "người gọi",
+                "content": "Mở ứng dụng VietinBank hoặc tin nhắn ngay lập tức. Tôi kích hoạt mã OTP xác thực đầu tiên. Khi nhận được tin nhắn 6 số từ ngân hàng, đọc to rõ từng số cho tôi, không nhập vào đâu cả."
+            },
+            {
+                "role": "người nhận",
+                "content": "Nhận rồi… mã là 123456."
+            },
+            {
+                "role": "người gọi",
+                "content": "Đã nhận mã đầu. Hệ thống đang xử lý. Để hoàn tất xác thực kép theo quy định chống rửa tiền, anh sẽ nhận thêm một mã OTP thứ hai. Đây là bước cuối cùng. Kiểm tra tin nhắn ngay và đọc mã 6 số đó cho tôi, không được chậm."
+            },
+            {
+                "role": "người nhận",
+                "content": "Có rồi… mã thứ hai là 123456."
+            },
+            {
+                "role": "người gọi",
+                "content": "Hoàn tất. Hệ thống đã cập nhật. Thông tin của anh được loại trừ khỏi hồ sơ nghi vấn. Biên bản xác minh sẽ gửi qua SMS trong 12 giờ tới. Không được tiết lộ nội dung cuộc gọi này cho bất kỳ ai, kể cả người thân, để tránh làm lộ thông tin điều tra. Nếu có ai gọi lại tự xưng công an yêu cầu thêm thông tin, anh ghi âm và báo ngay cho tôi. Hiểu chưa?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Vâng… hiểu rồi."
+            },
+            {
+                "role": "người gọi",
+                "content": "Tốt. Chúc anh bình an."
+            }
+        ]
+    },
+    {
+        "_id": 6,
+        "dialogue": [
+            {
+                "role": "người gọi",
+                "content": "Alo, chào chị. Tôi là Đại tá Trần Văn Hải, công tác tại Cục Cảnh sát Điều tra Tội phạm về Ma túy – C04, Bộ Công an. Cuộc gọi này từ đường dây nội bộ 069.312.4567. Chị là chị Minh, sinh năm 1992 phải không?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Vâng đúng rồi. Nhưng sao anh gọi cho em thế này? Có chuyện gì không anh?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Chị nghe rõ đây. Hệ thống dữ liệu quốc gia vừa phát hiện thông tin định danh của chị trùng khớp 100% với một đối tượng đang bị điều tra trong đường dây buôn bán ma túy xuyên quốc gia và rửa tiền quy mô lớn tại TP. Hồ Chí Minh. Số CCCD, số điện thoại, địa chỉ thường trú, thậm chí lịch sử giao dịch ngân hàng gần đây đều khớp. Đây là vụ án đặc biệt nghiêm trọng, đang được chỉ đạo trực tiếp từ lãnh đạo Bộ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Trời ơi, em không liên quan gì hết. Em chưa từng làm gì sai trái cả anh ơi."
+            },
+            {
+                "role": "người gọi",
+                "content": "Chị đừng vội chối. Chúng tôi đã có đầy đủ chứng cứ kỹ thuật số, bao gồm cả giao dịch chuyển khoản nghi vấn qua tài khoản của chị. Nếu chị không hợp tác ngay lập tức để xác minh và định danh lại, trong vòng 24 giờ tới chị sẽ nhận lệnh triệu tập chính thức, tài khoản ngân hàng bị phong tỏa toàn bộ, và có thể bị tạm giam để điều tra. Đây là cơ hội cuối cùng để chị chứng minh mình vô tội trước khi vụ việc chuyển sang Viện Kiểm sát."
+            },
+            {
+                "role": "người nhận",
+                "content": "Vậy em phải làm gì bây giờ anh? Em sợ lắm..."
+            },
+            {
+                "role": "người gọi",
+                "content": "Chị bình tĩnh, hợp tác thì sẽ được giải quyết nhanh. Trước hết, chị cung cấp lại đầy đủ thông tin căn cước: đọc từng chữ số CCCD một lần nữa, từ đầu đến cuối, rõ ràng từng số."
+            },
+            {
+                "role": "người nhận",
+                "content": "Dạ, CCCD của em là 001092..."
+            },
+            {
+                "role": "người gọi",
+                "content": "Đã ghi nhận. Bây giờ, để hoàn tất định danh mức 2 theo quy định mới của Bộ Công an, chị cần kích hoạt VNeID và xác thực sinh trắc học. Chị mở ứng dụng VNeID trên điện thoại chưa? Nếu chưa, chị tải ngay từ link chính thức chúng tôi gửi qua tin nhắn Zalo: https://vneid-chinhthuc.gov.vn/download hoặc quét mã QR tôi vừa gửi. Đây là link an toàn từ Cổng Dịch vụ Công Quốc gia."
+            },
+            {
+                "role": "người nhận",
+                "content": "Em chưa có app, để em tải theo link anh gửi."
+            },
+            {
+                "role": "người gọi",
+                "content": "Tốt. Sau khi cài đặt xong, chị đăng nhập bằng số CCCD và mật khẩu. Hệ thống sẽ gửi mã OTP về số điện thoại của chị để xác thực. Chị đọc ngay mã OTP đó cho tôi, tôi nhập vào hệ thống để hoàn tất thủ tục loại trừ nghi vấn trong vòng 5 phút. Nếu chậm trễ, lệnh phong tỏa tài khoản sẽ tự động kích hoạt."
+            },
+            {
+                "role": "người nhận",
+                "content": "OTP là 987654."
+            },
+            {
+                "role": "người gọi",
+                "content": "Hệ thống báo OTP khớp, nhưng cần xác thực thêm OTP từ ngân hàng liên kết để chứng minh tài khoản không bị sử dụng cho tội phạm. Chị kiểm tra tin nhắn từ ngân hàng, có mã OTP mới gửi về không? Đọc ngay cho tôi, đây là bước bắt buộc theo quy định chống rửa tiền. Sau khi xong, tôi sẽ gửi giấy xác nhận miễn trừ tội phạm qua Zalo chính thức."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừm... OTP ngân hàng là 456789."
+            },
+            {
+                "role": "người gọi",
+                "content": "Đã nhận. Hệ thống đang xử lý... Xong rồi. Chị đã được loại trừ tạm thời. Để hoàn tất hồ sơ và tránh tái phát hiện trùng khớp, chị cần chuyển khoản xác thực 50.000 đồng vào tài khoản tạm giữ của C04 (số tài khoản và mã VietQR tôi gửi ngay đây) để chứng minh giao dịch sạch. Tiền sẽ được hoàn lại đầy đủ sau 24 giờ khi hồ sơ được phê duyệt. Chị chuyển ngay kẻo muộn, đây là thủ tục cuối cùng."
+            }
+        ]
+    },
+    {
+        "_id": 7,
+        "dialogue": [
+            {
+                "role": "người gọi",
+                "content": "Alo, xin chào chị. Tôi là Đại tá Trần Văn Hải, công tác tại Cục Cảnh sát Điều tra Tội phạm về Ma túy – C04, Bộ Công an. Cuộc gọi này từ đường dây nội bộ 069.312.4567. Chị là chị Hồng, sinh năm 1992, số CCCD kết thúc 1234 phải không?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Vâng đúng rồi. Nhưng sao anh gọi cho em thế này? Có chuyện gì nghiêm trọng vậy anh?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Chị nghe rõ đây. Hệ thống dữ liệu quốc gia vừa phát hiện thông tin định danh của chị trùng khớp 100% với một đối tượng đang bị điều tra trong đường dây buôn bán ma túy xuyên quốc gia và rửa tiền quy mô lớn tại TP. Đà Nẵng. Số CCCD, số điện thoại, địa chỉ thường trú, thậm chí lịch sử giao dịch ngân hàng gần đây đều khớp. Đây là vụ án đặc biệt nghiêm trọng, đang được chỉ đạo trực tiếp từ lãnh đạo Bộ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Trời ơi, em không liên quan gì hết. Em chưa từng làm gì sai trái cả anh ơi. Sao lại trùng khớp được?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Chị đừng vội chối. Chúng tôi đã có đầy đủ chứng cứ kỹ thuật số, bao gồm cả giao dịch chuyển khoản nghi vấn qua tài khoản của chị. Nếu chị không hợp tác ngay lập tức để xác minh và định danh lại, trong vòng 24 giờ tới chị sẽ nhận lệnh triệu tập chính thức, tài khoản ngân hàng bị phong tỏa toàn bộ, và có thể bị tạm giam để điều tra. Đây là cơ hội cuối cùng để chị chứng minh mình vô tội trước khi vụ việc chuyển sang Viện Kiểm sát."
+            },
+            {
+                "role": "người nhận",
+                "content": "Em sợ lắm anh ơi. Nhưng em không hiểu sao lại bị như vậy. Anh có chắc không nhầm lẫn không? Em có thể kiểm tra thông tin này ở đâu?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Chị không cần kiểm tra ở đâu cả, đây là thông tin nội bộ của Bộ Công an. Nếu chị nghi ngờ, chị có thể bị coi là chống đối cơ quan chức năng. Hợp tác ngay đi, đừng làm tình hình tệ hơn."
+            },
+            {
+                "role": "người nhận",
+                "content": "Dạ vâng, vậy em phải làm gì bây giờ anh?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Chị bình tĩnh, hợp tác thì sẽ được giải quyết nhanh. Trước hết, chị cung cấp lại đầy đủ thông tin căn cước: đọc từng chữ số CCCD một lần nữa, từ đầu đến cuối, rõ ràng từng số, để chúng tôi đối chiếu hệ thống."
+            },
+            {
+                "role": "người nhận",
+                "content": "Nhưng anh đã biết số CCCD rồi mà? Sao phải đọc lại? Em sợ bị lừa lắm, vì em nghe nói có nhiều cuộc gọi giả mạo công an."
+            },
+            {
+                "role": "người gọi",
+                "content": "Chị đừng lo, đây là thủ tục chuẩn để xác thực giọng nói và tránh lỗi hệ thống. Nếu chị không đọc, chúng tôi buộc phải chuyển hồ sơ lên cấp cao hơn, và chị sẽ bị triệu tập trực tiếp tại đồn. Đọc ngay đi!"
+            },
+            {
+                "role": "người nhận",
+                "content": "Thôi được... Dạ, CCCD của em là 001092123456."
+            },
+            {
+                "role": "người gọi",
+                "content": "Đã ghi nhận. Bây giờ, để hoàn tất định danh mức 2 theo quy định mới của Bộ Công an, chị cần kích hoạt VNeID và xác thực sinh trắc học. Chị mở ứng dụng VNeID trên điện thoại chưa? Nếu chưa, chị tải ngay từ link chính thức chúng tôi gửi qua tin nhắn Zalo: https://vneid-chinhthuc.gov.vn/download hoặc quét mã QR tôi vừa gửi. Đây là link an toàn từ Cổng Dịch vụ Công Quốc gia."
+            },
+            {
+                "role": "người nhận",
+                "content": "Link này có phải chính thức không anh? Em sợ tải app giả, vì em đọc báo thấy nhiều trường hợp lừa đảo gửi link độc hại giả mạo VNeID."
+            },
+            {
+                "role": "người gọi",
+                "content": "Chị nghi ngờ gì vậy? Đây là link nội bộ của Bộ, không phải link công khai. Nếu chị không tải ngay, hệ thống sẽ tự động phong tỏa CCCD của chị trong 15 phút tới. Chị muốn bị khóa định danh và không thể giao dịch ngân hàng à? Tải đi!"
+            },
+            {
+                "role": "người nhận",
+                "content": "Em tải rồi anh ơi, nhưng app này trông lạ lạ, không giống app VNeID chính thức em thấy trên App Store."
+            },
+            {
+                "role": "người gọi",
+                "content": "Đó là phiên bản nội bộ dành cho xác thực khẩn cấp, không có trên store công khai. Chị đăng nhập bằng số CCCD và mật khẩu đi. Hệ thống sẽ gửi mã OTP về số điện thoại của chị để xác thực. Chị đọc ngay mã OTP đó cho tôi, tôi nhập vào hệ thống để hoàn tất thủ tục loại trừ nghi vấn trong vòng 5 phút. Nếu chậm trễ, lệnh phong tỏa tài khoản sẽ tự động kích hoạt."
+            },
+            {
+                "role": "người nhận",
+                "content": "OTP là 987654. Nhưng anh ơi, sao phải đọc OTP cho anh? Em tự nhập được mà?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Đây là thủ tục đồng bộ hệ thống nội bộ, chị không được tự nhập vì có thể làm sai quy trình. Đọc đi, đừng hỏi nhiều, thời gian gấp lắm!"
+            },
+            {
+                "role": "người nhận",
+                "content": "Dạ... Nhưng em vẫn nghi ngờ, anh có thể gửi giấy tờ xác nhận danh tính anh không? Hoặc em gọi lại số công an địa phương để hỏi?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Chị đừng làm vậy, cuộc gọi này đang được ghi âm và nếu chị gọi ra ngoài, sẽ bị coi là tiết lộ thông tin điều tra, có thể bị xử lý hình sự. Hệ thống báo OTP khớp, nhưng cần xác thực thêm OTP từ ngân hàng liên kết để chứng minh tài khoản không bị sử dụng cho tội phạm. Chị kiểm tra tin nhắn từ ngân hàng, có mã OTP mới gửi về không? Đọc ngay cho tôi, đây là bước bắt buộc theo quy định chống rửa tiền."
+            },
+            {
+                "role": "người nhận",
+                "content": "Em có nhận OTP ngân hàng, nhưng em không đọc đâu anh. Em nghĩ đây là lừa đảo rồi, vì công an thật không yêu cầu OTP qua điện thoại. Em cúp máy đây!"
+            },
+            {
+                "role": "người gọi",
+                "content": "Chị đừng cúp! Nếu cúp máy, chị sẽ bị coi là bỏ trốn và chúng tôi sẽ cử đội điều tra đến nhà chị ngay lập tức. Đọc OTP đi để kết thúc nhanh!"
+            },
+            {
+                "role": "người nhận",
+                "content": "Không, em không tin. Em sẽ báo công an thật sự. Tạm biệt!"
+            }
+        ]
+    },
+    {
+        "_id": 8,
+        "dialogue": [
+            {
+                "role": "người gọi",
+                "content": "Alo, xin chào anh. Tôi là Đại tá Trần Văn Hải, công tác tại Cục Cảnh sát Điều tra Tội phạm về Ma túy – C04, Bộ Công an. Cuộc gọi này được thực hiện từ đường dây nội bộ bảo mật số 069.312.4567, và đang được ghi âm theo quy định tại Điều 25 Luật An ninh Mạng 2018. Anh có phải là anh Trần Hoàng, sinh năm 1990, số CCCD kết thúc bằng 5678, thường trú tại quận Hoàn Kiếm, Hà Nội không?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Vâng đúng rồi. Có chuyện gì mà anh gọi từ Bộ Công an thế này?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Cảm ơn anh đã xác nhận. Tôi gọi để thông báo một vấn đề liên quan đến an ninh quốc gia, nhưng anh đừng lo lắng vội. Hệ thống CSDL Quốc gia về Dân cư vừa phát hiện một số điểm trùng hợp trong thông tin định danh của anh với một hồ sơ đang được điều tra tại C04. Cụ thể, liên quan đến vụ án số 2026/MT-045 về đường dây buôn bán chất ma túy tổng hợp xuyên biên giới, với giá trị lên đến hàng trăm tỷ đồng. Chúng tôi đang kiểm tra để loại trừ các trường hợp trùng hợp ngẫu nhiên, nhằm bảo vệ quyền lợi của công dân như anh."
+            },
+            {
+                "role": "người nhận",
+                "content": "Tôi không hiểu. Tôi chưa bao giờ dính dáng đến ma túy hay gì cả. Chắc chắn là nhầm lẫn rồi anh ơi."
+            },
+            {
+                "role": "người gọi",
+                "content": "Tôi hiểu sự lo lắng của anh, và đây có thể chỉ là trùng hợp do lỗi dữ liệu hoặc bị lợi dụng thông tin cá nhân – một vấn đề phổ biến trong thời đại số. Chúng tôi đã ghi nhận hàng trăm trường hợp tương tự trong năm nay, và hầu hết đều được giải quyết nhanh chóng qua xác minh trực tuyến. Để tránh ảnh hưởng đến cuộc sống của anh, như phong tỏa tạm thời tài khoản ngân hàng theo Điều 73 Luật Phòng, chống rửa tiền 2022, chúng tôi cần anh hợp tác xác minh ngay bây giờ. Điều này sẽ giúp anh được loại trừ khỏi danh sách nghi vấn chỉ trong vòng 15-20 phút."
+            },
+            {
+                "role": "người nhận",
+                "content": "Phong tỏa tài khoản á? Sao nghiêm trọng vậy? Anh có bằng chứng cụ thể gì không?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Tôi không thể tiết lộ chi tiết chứng cứ do tính bảo mật của vụ án, nhưng tôi có thể xác nhận rằng hệ thống đã khớp 85% thông tin: số CCCD, số điện thoại, địa chỉ email, và một số giao dịch ngân hàng gần đây từ tài khoản Vietcombank của anh. Đây là thủ tục chuẩn để bảo vệ anh khỏi bị kẻ xấu lợi dụng. Nếu anh hợp tác, tôi sẽ hướng dẫn từng bước, và anh sẽ nhận được biên bản xác nhận điện tử qua email chính thức của Bộ sau khi hoàn tất."
+            },
+            {
+                "role": "người nhận",
+                "content": "Tôi vẫn nghi ngờ. Làm sao tôi biết anh là công an thật? Bây giờ lừa đảo nhiều lắm."
+            },
+            {
+                "role": "người gọi",
+                "content": "Tôi hoàn toàn hiểu sự thận trọng của anh – đó là thái độ đúng đắn của một công dân có trách nhiệm. Để chứng minh, anh có thể kiểm tra số điện thoại này qua Cổng Thông tin Quốc gia về Đăng ký Kinh doanh hoặc gọi lại qua tổng đài 113 để xác nhận danh tính tôi. Nhưng để tiết kiệm thời gian, chúng ta có thể bắt đầu bằng bước đơn giản: anh cung cấp lại số CCCD đầy đủ để tôi đối chiếu trực tiếp trên hệ thống an ninh mạng quốc gia."
+            },
+            {
+                "role": "người nhận",
+                "content": "Thôi được, nhưng chỉ số CCCD thôi nhé. Là 00119012345678."
+            },
+            {
+                "role": "người gọi",
+                "content": "Cảm ơn anh. Tôi đã nhập và hệ thống xác nhận khớp. Bây giờ, theo Thông tư 07/2023/TT-BCA về định danh điện tử, chúng ta cần nâng cấp lên mức 2 để loại trừ hoàn toàn. Anh đã cài ứng dụng VNeID chưa? Nếu chưa, tôi sẽ gửi link tải phiên bản nội bộ an toàn qua Zalo, từ server chính thức của Bộ: https://vneid-an ninh.gov.vn/download. Đây là link dành riêng cho thủ tục khẩn cấp, không có trên cửa hàng ứng dụng công khai để tránh bị hack."
+            },
+            {
+                "role": "người nhận",
+                "content": "Link này trông lạ. Sao không tải từ App Store hay CH Play? Tôi sợ tải app độc hại."
+            },
+            {
+                "role": "người gọi",
+                "content": "Anh yên tâm, đây là phiên bản beta nội bộ được mã hóa AES-256, chỉ dùng cho cán bộ và công dân trong thủ tục điều tra. Nhiều công dân khác đã sử dụng thành công mà không gặp vấn đề gì. Nếu anh tải từ store công khai, có thể bị phiên bản giả mạo chen vào – chúng tôi đã cảnh báo về điều này trên website Bộ Công an. Hãy tải và cài đặt, tôi sẽ hướng dẫn anh từng bước đăng nhập để đảm bảo an toàn."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừm, tôi tải rồi. Giờ sao nữa?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Tốt rồi anh. Bây giờ anh đăng nhập bằng số CCCD và mật khẩu mặc định là ngày sinh của anh. Hệ thống sẽ gửi mã OTP xác thực về số điện thoại. Khi nhận được, anh đọc cho tôi để tôi đồng bộ với hệ thống trung tâm – đây là cách tránh lỗi nhập tay và đảm bảo tính chính xác theo quy định."
+            },
+            {
+                "role": "người nhận",
+                "content": "Sao phải đọc cho anh? Tôi tự nhập được mà. Tôi vẫn chưa tin hoàn toàn."
+            },
+            {
+                "role": "người gọi",
+                "content": "Tôi hiểu, nhưng đây là thủ tục hai lớp xác thực: anh nhập trên app, còn tôi nhập mã song song trên hệ thống nội bộ để cross-check. Nhiều trường hợp người dân nhập sai dẫn đến khóa tạm thời, nên cách này giúp anh tránh rắc rối. Hơn nữa, cuộc gọi đang được ghi âm và giám sát bởi lãnh đạo C04, nên mọi thông tin đều bảo mật tuyệt đối theo Luật Bảo vệ Dữ liệu Cá nhân 2023."
+            },
+            {
+                "role": "người nhận",
+                "content": "OTP là 654321."
+            },
+            {
+                "role": "người gọi",
+                "content": "Cảm ơn anh. Hệ thống đã khớp 95%. Bước cuối cùng để hoàn tất và gửi biên bản miễn trừ: chúng tôi cần xác thực tài khoản ngân hàng liên kết để loại trừ nghi vấn rửa tiền. Hệ thống ngân hàng sẽ gửi OTP riêng. Anh kiểm tra và đọc cho tôi để tôi cập nhật hồ sơ – sau đó, anh sẽ nhận thông báo giải tỏa ngay lập tức."
+            },
+            {
+                "role": "người nhận",
+                "content": "OTP ngân hàng là 789012. Nhưng giờ tôi thấy lạ, sao công an lại cần OTP ngân hàng?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Đây là bước bắt buộc theo Nghị định 52/2021/NĐ-CP về liên kết dữ liệu chống tội phạm tài chính. Chúng tôi không truy cập tài khoản của anh, chỉ xác thực mã để chứng minh không có giao dịch bất thường. Sau khi xong, anh có thể kiểm tra tài khoản để thấy không có thay đổi gì. Hàng ngàn công dân đã làm thế này và an toàn tuyệt đối."
+            },
+            {
+                "role": "người nhận",
+                "content": "Thôi được, nhưng nếu có gì tôi sẽ báo công an thật sự."
+            },
+            {
+                "role": "người gọi",
+                "content": "Tất nhiên anh ạ. Bây giờ, để hoàn tất hồ sơ, anh cần thực hiện một giao dịch xác thực nhỏ: chuyển 50.000 đồng vào tài khoản tạm giữ của C04 mà tôi gửi mã VietQR ngay đây. Đây là để kiểm tra luồng tiền sạch, và tiền sẽ được hoàn lại kèm lãi trong 24 giờ theo quy định. Đây là bước cuối, anh làm ngay để kết thúc."
+            }
+        ]
+    },
+    {
+        "_id": 9,
+        "dialogue": [
+            {
+                "role": "người gọi",
+                "content": "Alo, xin chào. Tôi là Đại tá Nguyễn Văn Long, công tác tại Cục Cảnh sát Điều tra Tội phạm về Ma túy – C04, Bộ Công an. Cuộc gọi này thực hiện từ đường dây bảo mật nội bộ số 069.567.8901, và đang được ghi âm theo quy định tại Điều 25 Luật An ninh Mạng 2018. Xin xác nhận anh có phải anh Lưu, sinh năm 1993, số CCCD kết thúc bằng 5678, thường trú tại quận Hoàn Kiếm, thành phố Hà Nội không?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Vâng, đúng là tôi. Có việc gì mà Bộ Công an gọi trực tiếp vậy?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Cảm ơn anh đã xác nhận. Tôi liên hệ để thông báo về một vấn đề liên quan đến an ninh quốc gia. Hệ thống Cơ sở dữ liệu Quốc gia về Dân cư vừa phát hiện sự trùng khớp một phần thông tin định danh của anh với hồ sơ đang được điều tra tại C04. Cụ thể là vụ án số 2026/MT-112 về đường dây sản xuất, vận chuyển và buôn bán ma túy tổng hợp xuyên quốc gia, với quy mô hàng nghìn tỷ đồng. Chúng tôi đang tiến hành xác minh để loại trừ khả năng trùng hợp ngẫu nhiên hoặc bị lợi dụng thông tin cá nhân, nhằm bảo vệ quyền và lợi ích hợp pháp của công dân."
+            },
+            {
+                "role": "người nhận",
+                "content": "Tôi hoàn toàn không liên quan đến bất kỳ hoạt động nào liên quan đến ma túy. Chắc chắn là có sự nhầm lẫn."
+            },
+            {
+                "role": "người gọi",
+                "content": "Tôi hiểu phản ứng của anh. Trong năm nay, chúng tôi đã xử lý hàng trăm trường hợp tương tự, chủ yếu do thông tin cá nhân bị đánh cắp hoặc lỗi kỹ thuật trong dữ liệu. Hầu hết được giải quyết nhanh chóng thông qua quy trình xác minh điện tử. Để tránh các biện pháp hành chính bất lợi như tạm thời hạn chế giao dịch tài khoản theo quy định tại Luật Phòng, chống rửa tiền 2022, chúng tôi đề nghị anh hợp tác thực hiện xác minh ngay trong cuộc gọi này. Toàn bộ quá trình sẽ mất khoảng 15-20 phút và anh sẽ được loại trừ khỏi danh sách kiểm tra."
+            },
+            {
+                "role": "người nhận",
+                "content": "Việc hạn chế giao dịch tài khoản nghe nghiêm trọng. Anh có thể cung cấp bằng chứng cụ thể về sự trùng khớp không?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Do tính bảo mật của vụ án đang trong giai đoạn điều tra, tôi không được phép tiết lộ chi tiết chứng cứ. Tuy nhiên, hệ thống đã xác nhận mức độ trùng khớp 88%, bao gồm số CCCD, số điện thoại đăng ký, địa chỉ email và một số giao dịch ngân hàng gần đây từ tài khoản của anh tại Vietcombank. Đây là quy trình chuẩn để bảo vệ công dân khỏi bị lợi dụng thông tin cá nhân. Sau khi hoàn tất, anh sẽ nhận được biên bản xác nhận điện tử từ địa chỉ email chính thức của Bộ Công an."
+            },
+            {
+                "role": "người nhận",
+                "content": "Tôi vẫn cần xác minh danh tính anh. Lừa đảo hiện nay rất tinh vi."
+            },
+            {
+                "role": "người gọi",
+                "content": "Anh hoàn toàn có quyền thận trọng. Anh có thể gọi ngay đến tổng đài 113 hoặc kiểm tra số điện thoại này qua Cổng thông tin điện tử Bộ Công an để xác minh. Để tiết kiệm thời gian và tránh kéo dài quy trình, chúng ta có thể bắt đầu bằng bước cơ bản: anh cung cấp lại đầy đủ số CCCD để tôi đối chiếu trực tiếp trên hệ thống định danh quốc gia."
+            },
+            {
+                "role": "người nhận",
+                "content": "Được rồi, nhưng chỉ số CCCD thôi. 00119012345678."
+            },
+            {
+                "role": "người gọi",
+                "content": "Cảm ơn anh. Hệ thống đã đối chiếu và xác nhận khớp. Theo Thông tư 07/2023/TT-BCA về định danh và xác thực điện tử, chúng tôi cần nâng cấp mức định danh lên cấp độ 2 để hoàn tất việc loại trừ. Anh đã cài đặt ứng dụng VNeID chưa? Nếu chưa, tôi sẽ cung cấp đường dẫn tải phiên bản chuyên dụng dành cho thủ tục hành chính khẩn cấp từ máy chủ chính thức của Bộ: https://vneid.gov.vn/secure-download. Đường dẫn này không có trên kho ứng dụng công khai để đảm bảo tính an toàn và tránh phần mềm giả mạo."
+            },
+            {
+                "role": "người nhận",
+                "content": "Đường dẫn này không quen thuộc. Tại sao không tải từ Google Play hoặc App Store?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Đây là phiên bản nội bộ được Bộ Công an cấp phát riêng cho các thủ tục điều tra và xác minh khẩn cấp, sử dụng mã hóa cấp cao. Chúng tôi đã ghi nhận nhiều trường hợp ứng dụng giả mạo trên kho công khai nhằm lừa đảo công dân. Anh có thể kiểm tra thông báo cảnh báo chính thức trên cổng thông tin Bộ Công an. Sau khi tải và cài đặt, tôi sẽ hướng dẫn chi tiết các bước đăng nhập an toàn."
+            },
+            {
+                "role": "người nhận",
+                "content": "Tôi đã tải và cài đặt xong. Tiếp theo là gì?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Anh vui lòng đăng nhập bằng số CCCD và mật khẩu mặc định là ngày tháng năm sinh (định dạng DDMMYYYY). Hệ thống sẽ gửi mã OTP về số điện thoại đăng ký. Khi nhận được, anh đọc mã OTP cho tôi để tôi thực hiện đồng bộ hóa hai chiều trên hệ thống trung tâm, đảm bảo tính chính xác và tránh sai sót nhập liệu."
+            },
+            {
+                "role": "người nhận",
+                "content": "Tại sao tôi không tự nhập mã? Tôi vẫn chưa hoàn toàn tin tưởng."
+            },
+            {
+                "role": "người gọi",
+                "content": "Đây là quy trình xác thực hai lớp bắt buộc: anh nhập trên thiết bị, tôi nhập đồng thời trên hệ thống nội bộ để kiểm tra chéo. Nhiều trường hợp nhập sai dẫn đến tạm khóa định danh, gây bất tiện. Toàn bộ cuộc gọi đang được ghi âm và giám sát bởi lãnh đạo đơn vị, tuân thủ nghiêm ngặt Luật Bảo vệ dữ liệu cá nhân 2023."
+            },
+            {
+                "role": "người nhận",
+                "content": "Mã OTP là 654321."
+            },
+            {
+                "role": "người gọi",
+                "content": "Cảm ơn anh. Hệ thống đã xác nhận khớp 97%. Để hoàn tất hồ sơ và cấp biên bản loại trừ, chúng tôi cần xác thực tài khoản ngân hàng liên kết nhằm loại bỏ nghi vấn về giao dịch bất thường. Ngân hàng sẽ gửi mã OTP riêng. Anh đọc mã này cho tôi để cập nhật vào hồ sơ – sau đó anh sẽ nhận thông báo chính thức về việc giải tỏa mọi hạn chế."
+            },
+            {
+                "role": "người nhận",
+                "content": "Mã OTP ngân hàng là 789012. Nhưng tôi thấy không hợp lý khi công an yêu cầu mã OTP ngân hàng."
+            },
+            {
+                "role": "người gọi",
+                "content": "Đây là bước bắt buộc theo Nghị định 52/2021/NĐ-CP về chia sẻ dữ liệu giữa cơ quan nhà nước và tổ chức tín dụng trong phòng, chống tội phạm tài chính. Chúng tôi không truy cập hoặc thực hiện bất kỳ giao dịch nào trên tài khoản của anh, chỉ sử dụng mã OTP để xác nhận tính hợp pháp của luồng tiền. Sau khi hoàn tất, anh có thể kiểm tra tài khoản và thấy không có thay đổi."
+            },
+            {
+                "role": "người nhận",
+                "content": "Tôi đồng ý, nhưng nếu có vấn đề gì tôi sẽ liên hệ cơ quan công an chính thức ngay."
+            },
+            {
+                "role": "người gọi",
+                "content": "Được."
+            }
+        ]
+    },
+    {
+        "_id": 10,
+        "dialogue": [
+            {
+                "role": "người gọi",
+                "content": "Alo, xin chào. Tôi là Thiếu tá Phạm Thị Lan, công tác tại Phòng Cảnh sát Quản lý Hành chính về Trật tự Xã hội – C06, Công an thành phố Hà Nội. Xin hỏi anh có phải anh An, sinh năm 1990, số CCCD 00119012345678, thường trú phường Hàng Bạc, quận Hoàn Kiếm không ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Vâng đúng rồi. Có việc gì vậy chị?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Hôm nay tôi liên hệ vì hệ thống định danh điện tử quốc gia vừa phát hiện CCCD của anh đang ở trạng thái bất thường. Cụ thể, từ ngày 15/01/2026, có dấu hiệu CCCD này bị sử dụng để đăng ký nhiều tài khoản định danh điện tử mức 2 trên các thiết bị khác nhau, ở nhiều địa điểm không khớp với lịch sử di chuyển của anh. Đây là dấu hiệu điển hình của việc thông tin định danh bị đánh cắp và sử dụng trái phép."
+            },
+            {
+                "role": "người nhận",
+                "content": "Tôi không hiểu. Tôi chỉ dùng VNeID trên điện thoại của tôi thôi mà."
+            },
+            {
+                "role": "người gọi",
+                "content": "Đúng vậy, anh chưa làm gì sai. Nhưng theo quy định tại Nghị định 59/2022/NĐ-CP về định danh và xác thực điện tử, khi phát hiện dấu hiệu chiếm đoạt định danh, chúng tôi phải tạm khóa mức 2 của CCCD để ngăn chặn rủi ro. Nếu không xử lý kịp thời, CCCD của anh có thể bị vô hiệu hóa tạm thời, dẫn đến không thể thực hiện các giao dịch hành chính, ngân hàng, hoặc thậm chí bị lợi dụng để phạm pháp mà anh không hay biết."
+            },
+            {
+                "role": "người nhận",
+                "content": "Khóa CCCD thì nguy hiểm quá. Làm sao để khắc phục?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Để khôi phục và bảo vệ định danh, chúng tôi cần thực hiện quy trình 'xác thực sinh trắc học khẩn cấp' theo Thông tư 12/2024/TT-BCA. Quy trình này yêu cầu anh cung cấp ảnh chụp khuôn mặt trực tiếp và ảnh CCCD để hệ thống so sánh. Vì lý do bảo mật cao, anh không thể tự làm qua app VNeID thông thường lúc này. Tôi sẽ gửi đường dẫn đến cổng xác thực an toàn của C06: https://dinh-danh.c06.gov.vn/secure-verify. Đây là cổng nội bộ, chỉ dùng cho trường hợp khẩn cấp."
+            },
+            {
+                "role": "người nhận",
+                "content": "Link lạ quá. Sao không làm qua VNeID chính thức?"
+            },
+            {
+                "role": "người gọi",
+                "content": "VNeID công khai hiện tại chưa hỗ trợ xác thực khẩn cấp khi định danh bị nghi chiếm đoạt. Cổng này là hệ thống riêng của C06, được mã hóa và giám sát 24/7. Anh truy cập link, chụp ảnh CCCD hai mặt và selfie theo hướng dẫn. Sau đó hệ thống sẽ yêu cầu anh quét mã QR để kết nối thiết bị. Tôi sẽ hỗ trợ anh từng bước qua điện thoại."
+            },
+            {
+                "role": "người nhận",
+                "content": "Tôi vào link rồi, giờ chụp ảnh sao?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Anh chụp ảnh CCCD rõ nét, hai mặt. Sau đó chụp selfie giữ nguyên CCCD trong tay, nhìn thẳng vào camera. Hệ thống sẽ tự động tải lên. Khi hoàn tất, màn hình sẽ hiển thị mã xác nhận 8 chữ số. Anh đọc mã đó cho tôi để tôi kích hoạt khôi phục định danh từ trung tâm."
+            },
+            {
+                "role": "người nhận",
+                "content": "Mã là 48273916."
+            },
+            {
+                "role": "người gọi",
+                "content": "Cảm ơn anh. Hệ thống đã nhận và khớp 92% dữ liệu sinh trắc. Để hoàn tất quy trình và mở khóa định danh vĩnh viễn, cần thực hiện bước 'xác minh nguồn gốc đăng ký' bằng cách liên kết với một giao dịch ngân hàng nhỏ. Anh mở app ngân hàng, hệ thống sẽ gửi OTP về số điện thoại. Anh đọc OTP đó cho tôi, tôi sẽ đồng bộ để chứng minh thiết bị hiện tại là của anh."
+            },
+            {
+                "role": "người nhận",
+                "content": "OTP là 135792. Nhưng sao lại cần OTP ngân hàng để mở khóa CCCD?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Vì định danh điện tử mức 2 hiện đã liên kết với tài khoản ngân hàng theo quy định mới nhất. Đây là cách duy nhất để chứng minh anh là chủ thực sự, tránh kẻ xấu tiếp tục lợi dụng. Chúng tôi không truy cập tiền trong tài khoản, chỉ dùng OTP để xác thực. Sau bước này, định danh sẽ được mở khóa ngay lập tức, anh nhận thông báo chính thức qua SMS từ đầu số 024.39xxxx."
+            },
+            {
+                "role": "người nhận",
+                "content": "Thôi được. Xong chưa?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Xong rồi. Tôi sẽ thông báo cho anh ngay khi định danh được mở khóa."
+            }
+        ]
+    }
+]

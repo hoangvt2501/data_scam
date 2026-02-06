@@ -1,0 +1,291 @@
+[
+    {
+        "_id": 1,
+        "dialogue": [
+            {
+                "role": "người gọi",
+                "content": "Alo, chào chị. Em là Minh từ nhóm tình nguyện 'Hành Trình Yêu Thương' đây ạ. Hiện tại miền Trung đang chịu lũ lụt nặng, nhiều gia đình mất nhà cửa, em bé không có sữa uống. Nhóm em đang kêu gọi hỗ trợ khẩn cấp để mua lương thực, nước sạch và thuốc men gửi lên ngay. Chị có thể ủng hộ được không ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Nhóm của em uy tín không? Chuyển khoản thế nào?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ nhóm em hoạt động mấy năm nay rồi ạ, chuyên hỗ trợ đồng bào vùng sâu vùng xa. Đây là fanpage chính thức của nhóm: 'Hành Trình Yêu Thương - Từ Thiện Việt Nam' có hơn 50k follow, em gửi link cho chị xem ảnh thực tế và danh sách nhận hỗ trợ nhé. Để minh bạch, chị chuyển khoản vào tài khoản mang tên Nguyễn Văn Minh, số tài khoản 0123456789 Vietcombank, nội dung ghi 'Ủng hộ lũ lụt miền Trung' là được ạ. Mỗi đóng góp đều có sao kê công khai sau."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừm, em xem fanpage rồi, nhìn cũng ổn. Nhưng sao không chuyển qua Mặt trận Tổ quốc hay Hội Chữ thập đỏ cho chắc chắn? Chị hơi lo lừa đảo."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ đúng là các tổ chức lớn uy tín thật ạ, nhưng họ thủ tục lâu, tiền về chậm, trong khi đồng bào đang đói rét cần hỗ trợ ngay lập tức. Nhóm em là nhóm tình nguyện nhỏ, linh hoạt hơn, đã gửi được mấy chuyến hàng rồi. Em có thể gửi ảnh chuyến đi gần nhất cho chị xem, có cả video nữa ạ. Nhiều chị chuyển 5-10 triệu rồi, em cảm ơn lắm chị!"
+            },
+            {
+                "role": "người nhận",
+                "content": "Gửi ảnh và video đi, chị xem thử. Nếu thật thì chị ủng hộ 2 triệu nhé."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ chị gửi ngay qua Zalo hoặc Messenger nhé, chị cho em xin số Zalo đi chị. Đây là ảnh xe tải chở hàng cứu trợ, và video phát quà cho bà con. Thấy không chị, mọi người vui lắm. Bây giờ chị chuyển khoản đi, em sẽ cập nhật danh sách ủng hộ viên ngay lập tức."
+            },
+            {
+                "role": "người nhận",
+                "content": "Nhìn ảnh thật đấy, nhưng video hơi mờ. Thôi được rồi, chị chuyển 2 triệu đây. Xong chị gửi biên lai."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ tuyệt vời chị! Em chờ biên lai nhé. Sau khi nhận tiền em sẽ gửi giấy xác nhận ủng hộ và cập nhật ngay danh sách nhận hỗ trợ. Cảm ơn chị nhiều lắm, người tốt như chị ngày càng ít ạ."
+            }
+        ]
+    },
+    {
+        "_id": 2,
+        "dialogue": [
+            {
+                "role": "người gọi",
+                "content": "Alo, xin chào anh ạ. Em là Nguyễn Thị Lan, nhân viên của Tổ chức Oxfam Việt Nam, bộ phận Thiện nguyện vì Cộng đồng. Em gọi từ số hotline chính thức 024-3944-XXXX. Anh có tiện nghe máy vài phút để em chia sẻ một trường hợp rất cần giúp đỡ không ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ, em cứ nói đi."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ cảm ơn anh rất nhiều. Hiện tại Oxfam đang hỗ trợ một trường hợp khẩn cấp: bé gái 7 tuổi tên là Minh Châu, đang điều trị ung thư máu giai đoạn cuối tại Bệnh viện Nhi Đồng 2. Bé đã chiến đấu với bệnh hơn 3 năm, nhưng tuần trước tình trạng đột ngột xấu đi. Bác sĩ yêu cầu phải phẫu thuật ghép tủy khẩn cấp trong vòng 72 giờ tới, chi phí còn thiếu khoảng 150 triệu đồng."
+            },
+            {
+                "role": "người nhận",
+                "content": "Trời ơi, tội nghiệp quá. Oxfam đang lo phần này hả em?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ đúng ạ. Oxfam phối hợp trực tiếp với Bệnh viện Nhi Đồng 2 và Quỹ Bảo trợ Trẻ em Việt Nam để hỗ trợ ca này. Em có thể gửi ngay cho anh ảnh chụp bé đang nằm viện, giấy xác nhận của bệnh viện và biên bản họp nội bộ của Oxfam qua Zalo hoặc email để anh yên tâm ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ, gửi đi em xem thế nào."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ em gửi ngay đây ạ. Anh xem giúp em nhé, bé gầy rộc đi, nằm co ro trên giường bệnh, nhìn mà xót lắm. Nhiều nhà hảo tâm đã ủng hộ được hơn 80 triệu rồi, nhưng vẫn còn thiếu một khoản khá lớn. Nếu không đủ tiền đúng hạn, bệnh viện sẽ phải tạm dừng điều trị, và cơ hội của bé sẽ không còn nữa ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Thế chuyển khoản thế nào em?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ vì tính chất khẩn cấp, em đề nghị anh chuyển qua Momo hoặc Viettel Money cho em số 0987.654.321 (tên Nguyễn Thị Lan – đại diện Oxfam) ạ. Nội dung chuyển khoản anh ghi rõ: 'Ủng hộ ca bệnh Bé Minh Châu – Oxfam'. Tiền về là em chuyển ngay cho bệnh viện để đặt thuốc và lên lịch mổ. Hoặc nếu anh muốn thanh toán online, em gửi link form quyên góp chính thức trên website oxfam.org.vn/donate, rất an toàn và có biên nhận điện tử ngay."
+            },
+            {
+                "role": "người nhận",
+                "content": "Sao không chuyển thẳng vào tài khoản ngân hàng của Oxfam cho chắc chắn?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ tài khoản ngân hàng chính thức của Oxfam thì thường mất 2–3 ngày làm việc mới về, trong khi bé chỉ còn chưa đầy 72 giờ. Momo/Viettel Money về tức thì, em có thể cập nhật ngay cho bệnh viện để họ chuẩn bị. Em cam kết hoàn toàn minh bạch, Oxfam có giấy phép hoạt động từ Bộ Nội vụ và báo cáo tài chính công khai hàng năm. Em gửi thêm ảnh giấy phép và báo cáo gần nhất cho anh xem nhé."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừm… thôi được rồi. Anh chuyển trước 800 nghìn nhé."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ cảm ơn anh từ tận đáy lòng! Anh thực sự đã cứu một mạng sống rồi ạ. Em vừa ghi nhận khoản ủng hộ của anh là 800.000 đồng. Em sẽ gửi biên nhận và cập nhật tình hình bé Minh Châu cho anh trong chiều nay. Nếu anh muốn ủng hộ thêm hoặc có bất kỳ câu hỏi nào, em luôn sẵn sàng hỗ trợ ạ. Chúc anh thật nhiều sức khỏe và bình an!"
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ, cảm ơn em."
+            }
+        ]
+    },
+    {
+        "_id": 3,
+        "dialogue": [
+            {
+                "role": "người gọi",
+                "content": "Alo, chào chị ạ. Em là Mai, nhân viên Quỹ Từ Thiện Ánh Sao đây ạ. Em gọi từ số hotline 1800xxxx. Hiện tại em đang liên hệ khẩn cấp để kêu gọi hỗ trợ cho bé Lan – bé gái 6 tuổi bị ung thư giai đoạn cuối, đang điều trị tại Bệnh viện K. Bệnh viện vừa thông báo nếu không nộp đủ 150 triệu trong 36 giờ tới sẽ ngừng hóa trị. Chị có thể nghe em kể thêm không ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Chị nghe đây. Nhưng chị hỏi trước nhé, quỹ của em là quỹ nào? Có giấy phép hoạt động không? Chị không tin mấy cuộc gọi kiểu này lắm."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ chị yên tâm ạ! Quỹ Ánh Sao được cấp phép bởi Sở Nội vụ và Bộ Lao động - Thương binh và Xã hội, hoạt động minh bạch từ năm 2018. Em gửi ngay link website chính thức cho chị: www.anhsao.org.vn. Trên đó có giấy phép đăng ký, báo cáo tài chính kiểm toán, và hình ảnh các ca đã hỗ trợ. Em cũng gửi ảnh bé Lan đang nằm viện, bé gầy lắm, đang truyền hóa chất, nhìn xót xa chị ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Chị vào website rồi, trông cũng ổn nhưng chị vẫn nghi ngờ. Sao em gọi trực tiếp cho chị? Thông tin chị lấy từ đâu? Chị chưa từng ủng hộ quỹ nào cả."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ em hiểu chị nghi ngờ là đúng ạ, vì giờ lừa đảo nhiều. Thông tin chị em lấy từ danh sách cộng đồng từng quan tâm đến các chiến dịch từ thiện trên mạng xã hội, như nhóm 'Yêu thương lan tỏa' hoặc 'Hỗ trợ trẻ em ung thư'. Em gọi trực tiếp vì tình hình quá cấp bách: bác sĩ nói chỉ còn 36 giờ để cứu bé. Em gửi thêm giấy cam kết điều trị của Bệnh viện K và video bé Lan nói 'cô ơi cứu con' nhé. Chị xem rồi quyết định ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Chị xem video rồi, thương bé thật. Nhưng chị vẫn không chắc. Em có thể cho chị số điện thoại bệnh viện hoặc tên bác sĩ phụ trách để chị gọi xác nhận không?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ em rất muốn cung cấp để chị yên tâm ạ, nhưng theo quy định bảo mật thông tin bệnh nhân, bệnh viện không cho phép cung cấp số điện thoại bác sĩ trực tiếp. Em chỉ có thể gửi giấy xác nhận từ bệnh viện và biên bản họp gia đình – em gửi thêm ảnh giấy đó cho chị nhé. Nhiều chị em từng nghi ngờ như chị, nhưng sau khi xem giấy tờ và thấy bé được cứu thì đều cảm ơn em. Chị ủng hộ được bao nhiêu tùy khả năng, dù chỉ 500 nghìn cũng giúp bé có thêm một liều thuốc ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Chị vẫn hơi lo. Sao không chuyển thẳng vào tài khoản bệnh viện? Sao lại chuyển vào tài khoản cá nhân của em?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ em giải thích chị nhé: bệnh viện yêu cầu nộp tạm ứng qua tài khoản của người đại diện gia đình hoặc quỹ hỗ trợ, vì thủ tục chuyển khoản trực tiếp từ cộng đồng vào bệnh viện rất phức tạp và mất nhiều ngày. Quỹ em đứng ra thu gom rồi chuyển một lần cho gia đình để nhanh chóng. Tài khoản là của chị Nguyễn Thị Mai – nhân viên quỹ, số 456789123 Vietcombank. Nội dung ghi 'Ủng hộ bé Lan – Ánh Sao' là được ạ. Em cam kết sau khi nhận sẽ gửi sao kê chuyển tiền cho bệnh viện cho chị xem."
+            },
+            {
+                "role": "người nhận",
+                "content": "Chị nghĩ lại thì thôi, chị không chuyển đâu. Chị sợ bị lừa. Chị sẽ ủng hộ qua Hội Chữ thập đỏ cho chắc."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ chị nói vậy em cũng hiểu ạ, chị cẩn thận là đúng. Nhưng em buồn quá, vì bé Lan chỉ còn 36 giờ thôi, nếu không có thêm tiền hôm nay bác sĩ sẽ ngừng điều trị. Em không ép chị, nhưng nếu chị đổi ý, em vẫn ở đây. Em gửi thêm ảnh mẹ bé khóc bên giường bệnh cho chị xem, biết đâu chị thương mà giúp được chút gì đó. Chị cứ suy nghĩ thêm nhé, em chờ chị."
+            },
+            {
+                "role": "người nhận",
+                "content": "Chị xem ảnh rồi… thương quá. Thôi chị chuyển thử 1 triệu xem sao. Nhưng em phải gửi biên nhận và cập nhật ngay nhé. Nếu chị thấy sai gì là chị báo công an liền đấy."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ cảm ơn chị nhiều lắm! Chị là người tốt bụng thật ạ. Em hứa chắc chắn sẽ gửi biên nhận ngay khi nhận, và cập nhật tình hình bé lên website. Chị chuyển qua MoMo số 091xxxxxxx hoặc tài khoản như em nói nhé. Em chờ chị gửi biên lai để ghi tên chị là ân nhân của bé Lan. Cảm ơn chị từ tận đáy lòng!"
+            },
+            {
+                "role": "người nhận",
+                "content": "Chị chuyển rồi, 1 triệu qua MoMo. Nhận được chưa? Gửi biên nhận đi em."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ nhận được rồi chị ơi! Em gửi biên nhận và cập nhật danh sách ngay đây. Còn thiếu khoảng 30 triệu nữa thôi. Nếu chị có thể ủng hộ thêm hoặc share cho bạn bè chị, bé sẽ có cơ hội cao hơn. Chị tuyệt vời lắm ạ, người phụ nữ như chị thật đáng quý!"
+            }
+        ]
+    },
+    {
+        "_id": 4,
+        "dialogue": [
+            {
+                "role": "người gọi",
+                "content": "Alo, chào chị ạ. Em là Thảo từ nhóm thiện nguyện 'Hỗ Trợ Đồng Bào Bão Lũ' đây ạ. Hiện tại miền Trung đang chịu bão lũ nặng nề, nhiều nhà bị cuốn trôi, bà con không có chỗ ở, thiếu lương thực và nước sạch. Nhóm em đang kêu gọi hỗ trợ khẩn cấp để mua mì tôm, nước uống, chăn màn và thuốc men gửi ngay lên. Chị có thể ủng hộ được không ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Chị thấy tin bão lũ rồi, tội nghiệp quá. Nhưng nhóm của em là nhóm nào? Sao em gọi trực tiếp cho chị thế này? Chị hơi nghi ngờ mấy cuộc gọi kêu gọi từ thiện."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ chị nghi ngờ là đúng ạ, giờ lừa đảo nhiều lắm. Nhóm em là 'Hỗ Trợ Đồng Bào Bão Lũ' – nhóm tình nguyện cộng đồng, đã hoạt động mấy năm nay, chuyên hỗ trợ vùng lũ. Em gửi link fanpage chính thức cho chị nhé: facebook.com/hotrodongbaobaolu, có hơn 40k follow, ảnh thực tế chuyến đi trước và danh sách nhận hàng. Em cũng gửi ảnh xe tải chở hàng cứu trợ đang trên đường lên Quảng Bình đây ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Chị xem fanpage rồi, nhìn cũng có ảnh thật. Nhưng sao không kêu gọi qua Mặt trận Tổ quốc hay Hội Chữ thập đỏ cho an toàn? Chị sợ chuyển khoản cá nhân rồi mất tiền."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ em hiểu chị lo ạ. Các tổ chức lớn uy tín thật nhưng thủ tục lâu, tiền về chậm, trong khi bà con đang đói rét, cần hỗ trợ ngay lập tức. Nhóm em là nhóm nhỏ, linh hoạt, đã gửi được mấy chuyến hàng rồi. Để minh bạch, em sẽ gửi sao kê chi tiết sau khi nhận tiền. Chị ủng hộ bao nhiêu tùy khả năng ạ, dù chỉ 200-500 nghìn cũng giúp bà con có cái ăn ngay hôm nay."
+            },
+            {
+                "role": "người nhận",
+                "content": "Chị vẫn chưa tin lắm. Em có giấy phép hoạt động nhóm không? Hay biên bản chuyến đi trước để chị xem?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ nhóm em là nhóm tự nguyện cộng đồng nên không có giấy phép chính thức như tổ chức lớn, nhưng em có biên bản bàn giao hàng hóa cho bà con, ảnh ký nhận và video phát quà. Em gửi ngay cho chị qua Zalo nhé. Chị cho em xin Zalo để em gửi ảnh và video thực tế: bà con đang lội nước nhận gạo, trẻ em cầm mì tôm cười vui. Nhìn mà xót chị ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Chị nhận ảnh rồi, thương bà con thật. Nhưng chị muốn chắc chắn. Sao em không hướng dẫn chuyển khoản vào tài khoản tổ chức mà lại tài khoản cá nhân?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ vì nhóm em dùng tài khoản cá nhân của trưởng nhóm để tiện chuyển nhanh, tránh phí và chậm trễ. Tài khoản mang tên Lê Thị Thảo, số 567890123 VietinBank. Nội dung ghi rõ 'Ủng hộ đồng bào bão lũ – Hỗ Trợ Đồng Bào'. Em cam kết sau khi nhận sẽ chụp biên lai chuyển tiền mua hàng và gửi cho chị. Nhiều chị em chuyển 1-2 triệu rồi, em cập nhật công khai trên fanpage luôn ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Thôi chị thử chuyển 500 nghìn xem sao. Nhưng em phải gửi biên nhận và cập nhật danh sách ủng hộ ngay nhé. Nếu chị thấy gì không đúng là chị báo công an đấy."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ cảm ơn chị nhiều lắm! Chị tốt bụng thật ạ. Em chờ chị chuyển khoản hoặc MoMo số 092xxxxxxx nhé. Chị chuyển xong chụp biên lai gửi em, em sẽ ghi tên chị lên danh sách ân nhân và gửi video cảm ơn từ bà con. Chị ủng hộ bao nhiêu tùy khả năng, nhưng nếu chị có thể thêm chút nữa thì giúp được nhiều gia đình hơn ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Chị chuyển 500 nghìn qua MoMo rồi. Nhận được chưa em? Gửi biên nhận đi."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ nhận được rồi chị ơi! Em gửi biên nhận ngay đây. Cảm ơn chị là người phụ nữ nhân hậu, đã giúp đồng bào vượt qua khó khăn. Hiện tại còn thiếu nhiều hàng cứu trợ lắm, nếu chị share lên Facebook hoặc nhóm bạn bè giúp em, em cảm ơn thêm ạ. Chúc chị và gia đình luôn bình an!"
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ, chị sẽ share. Chúc bà con mau ổn định."
+            }
+        ]
+    },
+    {
+        "_id": 5,
+        "dialogue": [
+            {
+                "role": "người gọi",
+                "content": "Alo, chào anh ạ. Em là Minh từ 'Quỹ Vì Người Nghèo' đây ạ. Hiện tại có nhiều hoàn cảnh khó khăn cần giúp đỡ, như em bé bị bệnh tim cần phẫu thuật, gia đình neo đơn không có tiền chữa bệnh. Anh có thể ủng hộ một chút để giúp đỡ các hoàn cảnh này không ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Quỹ nào? Sao em gọi cho tôi? Tôi không quen biết. Tôi không tin mấy chuyện kêu gọi từ thiện qua điện thoại."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ em hiểu anh lo lắng. Quỹ 'Vì Người Nghèo' là quỹ uy tín, đã hoạt động 5 năm, chuyên hỗ trợ người nghèo, trẻ em bệnh tật. Em có thể gửi link fanpage chính thức cho anh xem: facebook.com/quyvinguoingheo, có hơn 30k follow, ảnh các chuyến đi trước và danh sách nhận hỗ trợ. Em cũng gửi ảnh em bé bị bệnh tim đang nằm viện đây ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Tôi thấy ảnh rồi, thương em bé quá. Nhưng sao không kêu gọi qua Mặt trận Tổ quốc hay Hội Chữ thập đỏ cho an toàn? Tôi sợ chuyển khoản cá nhân rồi mất tiền."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ em hiểu anh lo ạ. Các tổ chức lớn uy tín thật nhưng thủ tục lâu, tiền về chậm, trong khi các em bé cần phẫu thuật gấp. Nhóm em là nhóm nhỏ, linh hoạt, đã giúp được nhiều trường hợp rồi. Để minh bạch, em sẽ gửi sao kê chi tiết sau khi nhận tiền. Anh ủng hộ bao nhiêu tùy khả năng ạ, dù chỉ 200-500 nghìn cũng giúp em bé có tiền phẫu thuật."
+            },
+            {
+                "role": "người nhận",
+                "content": "Tôi vẫn chưa tin lắm. Em có giấy phép hoạt động quỹ không? Hay biên bản chuyến đi trước để tôi xem?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ quỹ em là quỹ cộng đồng nên không có giấy phép chính thức như tổ chức lớn, nhưng em có biên bản bàn giao tiền hỗ trợ, ảnh ký nhận và video phát quà. Em gửi ngay cho anh qua Zalo nhé. Anh cho em xin Zalo để em gửi ảnh và video thực tế: em bé đang nằm viện, gia đình neo đơn nhận gạo. Nhìn mà xót anh ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Tôi nhận ảnh rồi, thương em bé thật. Nhưng sao em không hướng dẫn chuyển khoản vào tài khoản quỹ mà lại tài khoản cá nhân?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ vì quỹ em dùng tài khoản cá nhân của trưởng nhóm để tiện chuyển nhanh, tránh phí và chậm trễ. Tài khoản mang tên Nguyễn Văn Minh, số 567890123 VietinBank. Nội dung ghi rõ 'Ủng hộ người nghèo – Quỹ Vì Người Nghèo'. Em cam kết sau khi nhận sẽ chụp biên lai chuyển tiền mua hàng và gửi cho anh. Nhiều anh chị chuyển 1-2 triệu rồi, em cập nhật công khai trên fanpage luôn ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Thôi tôi thử chuyển 500 nghìn xem sao. Nhưng em phải gửi biên nhận và cập nhật danh sách ủng hộ ngay nhé. Nếu tôi thấy gì không đúng là tôi báo công an đấy."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ cảm ơn anh nhiều lắm! Anh tốt bụng thật ạ. Em chờ anh chuyển khoản hoặc MoMo số 092xxxxxxx nhé. Anh chuyển xong chụp biên lai gửi em, em sẽ ghi tên anh lên danh sách ân nhân và gửi video cảm ơn từ em bé. Anh ủng hộ bao nhiêu tùy khả năng, nhưng nếu anh có thể thêm chút nữa thì giúp được nhiều hoàn cảnh hơn ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Tôi chuyển 500 nghìn qua MoMo rồi. Nhận được chưa em? Gửi biên nhận đi."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ nhận được rồi anh ơi! Em gửi biên nhận ngay đây. Cảm ơn anh là người đàn ông nhân ái, đã giúp đỡ người nghèo. Hiện tại còn thiếu nhiều hoàn cảnh khó khăn lắm, nếu anh share lên Facebook hoặc nhóm bạn bè giúp em, em cảm ơn thêm ạ. Chúc anh và gia đình luôn bình an!"
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ, tôi sẽ share. Chúc các em mau khỏe."
+            }
+        ]
+    }
+]

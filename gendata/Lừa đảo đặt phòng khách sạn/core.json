@@ -1,0 +1,748 @@
+[
+    {
+        "_id": 1,
+        "dialogue": [
+            {
+                "role": "người gọi",
+                "content": "Alo, chào chị ạ. Em là Minh từ bộ phận đặt phòng khách sạn Golden Star Hà Nội đây ạ. Chị vừa đặt phòng online mã đặt phòng GS-456789 phải không ạ? Em gọi xác nhận và hỗ trợ chị thanh toán để giữ phòng nhé."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ơ, chị chưa đặt phòng nào cả. Chị chỉ mới xem trên Booking.com thôi mà. Sao anh gọi cho chị?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ chắc chị vừa đặt qua hệ thống đối tác của chúng em rồi ạ. Mã đặt phòng GS-456789, tên chị Trần Thị Lan, check-in ngày 10/2/2026, phòng Deluxe view hồ, giá 1.850.000đ/đêm. Hệ thống tự động gửi xác nhận nhưng có thể chị chưa thấy email. Em gọi để xác nhận thông tin và hướng dẫn thanh toán đặt cọc 50% để giữ phòng nhé chị."
+            },
+            {
+                "role": "người nhận",
+                "content": "Chị không đặt mà. Chị nghi lắm, chắc nhầm số rồi. Chị chưa nhập thông tin cá nhân hay thanh toán gì cả."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ không nhầm đâu chị ạ. Em thấy thông tin chị đầy đủ: số điện thoại 09x.xxx.xxxx, email lantran92@gmail.com. Có thể chị đặt qua app hoặc web đối tác, hệ thống tự động lưu. Nhiều khách cũng hay quên vì đặt nhanh. Giờ phòng đang hot, nếu không thanh toán đặt cọc trong hôm nay thì hệ thống sẽ hủy tự động. Chị muốn giữ phòng không ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Chị vẫn không nhớ đã đặt. Em gửi lại email xác nhận hoặc mã đặt phòng chi tiết đi, chị kiểm tra."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ em gửi ngay qua tin nhắn Zalo hoặc SMS cho chị nhé. Đây là hóa đơn tạm tính: 1 đêm 1.850.000đ, đặt cọc 50% là 925.000đ. Chị chuyển khoản vào tài khoản công ty: Công ty TNHH Du lịch Golden Star, số tài khoản 0011001234567 Vietcombank. Nội dung: 'Đặt cọc phòng GS-456789 - Trần Thị Lan'. Hoặc chị chuyển qua MoMo số 0987654321 cho nhanh ạ. Em gửi ảnh hóa đơn và ảnh phòng cho chị xem luôn nhé."
+            },
+            {
+                "role": "người nhận",
+                "content": "Chị không chuyển đâu. Chị sẽ vào website chính thức của khách sạn Golden Star để kiểm tra và đặt lại nếu cần. Số này lạ lắm, chị không tin."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ chị cẩn thận là đúng ạ. Nhưng nếu chị vào website chính thức thì mã đặt phòng này sẽ không hiển thị vì đặt qua đối tác. Nhiều khách bị hủy phòng vì không thanh toán kịp, tiếc lắm. Em gửi ảnh phòng Deluxe view hồ và ảnh hóa đơn chính thức cho chị xem trước nhé. Chị chuyển xong em xác nhận ngay và gửi voucher check-in. Chị ủng hộ em giữ phòng giúp chị đi ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Không, chị không chuyển tiền qua số lạ. Nếu thật thì chị sẽ đến trực tiếp khách sạn hoặc đặt qua Booking.com. Cảm ơn anh."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ chị suy nghĩ thêm nhé, vì chỉ còn 2 tiếng nữa hệ thống sẽ hủy. Em tiếc cho chị vì phòng view đẹp đang full. Nếu chị đổi ý cứ gọi lại số này ạ. Chúc chị ngày tốt lành!"
+            }
+        ]
+    },
+    {
+        "_id": 2,
+        "dialogue": [
+            {
+                "role": "người gọi",
+                "content": "Alo, chào chị ạ. Em là Linh từ bộ phận hỗ trợ khách hàng của Booking.com đây ạ. Chị có phải chị Nguyễn Thị Lan vừa đặt phòng khách sạn Hoàng Kim, Hà Nội qua Booking.com không ạ? Mã đặt phòng BK-789012345, check-in ngày mai ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ơ, đúng là chị vừa đặt phòng Hoàng Kim qua Booking thật. Nhưng sao em gọi chị? Chị đã thanh toán xong bằng thẻ rồi mà."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ vâng chị ạ, em gọi vì hệ thống bên Booking đang gặp sự cố nghiêm trọng từ sáng nay. Server thanh toán bị lỗi, dẫn đến charge nhầm số tiền cao hơn giá phòng rất nhiều – cụ thể là charge gấp đôi, khoảng 3.700.000đ thay vì 1.850.000đ/đêm. Em gọi để hỗ trợ chị hoàn tiền phần thừa ngay lập tức ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Trời ơi, sao lại thế? Chị kiểm tra tài khoản ngân hàng chưa thấy trừ gì thêm cả. Chị lo quá."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ chị yên tâm, vì lỗi hệ thống nên tiền chưa trừ hết ngay, nhưng sẽ trừ trong vài giờ tới nếu không xử lý. Để hoàn tiền phần thừa và giữ nguyên đặt phòng cho chị, em cần hỗ trợ chị xác thực giao dịch hoàn tiền. Em gửi link refund chính thức qua SMS ngay bây giờ nhé. Chị kiểm tra tin nhắn SMS từ số 1900xxxx hoặc Zalo Official Booking.com."
+            },
+            {
+                "role": "người nhận",
+                "content": "Chị nhận được tin nhắn rồi, có link refund. Nhưng chị sợ lừa đảo, chị vào Booking.com kiểm tra trước đã."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ chị kiểm tra là đúng ạ, nhưng vì lỗi server nên trang Booking.com đang tạm gián đoạn cập nhật giao dịch, chị vào sẽ không thấy thay đổi ngay. Link em gửi là link refund an toàn từ hệ thống Booking, chỉ cần chị click vào, điền thông tin thẻ (để hệ thống xác minh và hoàn tiền phần thừa). Sau đó hệ thống sẽ gửi mã OTP về điện thoại chị để xác thực. Chị làm theo hướng dẫn trên link nhé, mất chưa tới 2 phút là xong ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Chị click rồi, trang hiện form yêu cầu số thẻ, tên chủ thẻ, ngày hết hạn, CVV và số điện thoại. Chị nhập thử nhé?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ đúng rồi chị ạ, nhập đầy đủ thông tin thẻ như chị đã dùng để đặt phòng. Sau khi submit, hệ thống sẽ gửi mã OTP về số điện thoại chị trong vòng 10-30 giây. Chị kiểm tra tin nhắn SMS hoặc ứng dụng ngân hàng nhé. Khi có OTP, chị nhập vào ô bên dưới trên trang để hoàn tất xác thực hoàn tiền. Em đang theo dõi bên này, chị cứ làm thoải mái ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Chị nhận được OTP rồi: 482917. Chị nhập đây. Xong rồi, trang báo 'Giao dịch hoàn tiền đang xử lý'."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ tuyệt vời chị ạ! Hệ thống đang xử lý, trong 5-10 phút nữa tiền thừa sẽ hoàn về tài khoản chị. Đặt phòng của chị vẫn giữ nguyên, chị cứ check-in bình thường. Em gửi thêm xác nhận hoàn tiền qua email chị nhé. Cảm ơn chị đã hợp tác, chúc chị có kỳ nghỉ vui vẻ tại khách sạn Hoàng Kim ạ!"
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ, cảm ơn em. Chị chờ tiền về."
+            }
+        ]
+    },
+    {
+        "_id": 3,
+        "dialogue": [
+            {
+                "role": "người gọi",
+                "content": "Alo, chào chị ạ. Em là Hương từ bộ phận đặt phòng khách sạn Imperial Hanoi đây ạ. Chị có phải chị Nguyễn Thị Lan vừa đặt phòng Executive Suite qua Agoda, mã đặt phòng IMP-1234567, check-in ngày 20/2/2026 không ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ đúng rồi, chị vừa đặt phòng Imperial thật. Sao em gọi chị? Chị đã thanh toán đầy đủ bằng thẻ rồi mà."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ vâng chị ạ, em gọi vì hệ thống thanh toán của khách sạn và Agoda đang gặp sự cố lớn từ chiều nay. Server bị lỗi kỹ thuật, dẫn đến charge nhầm số tiền cao hơn giá phòng thực tế – chị bị trừ khoảng 5.400.000đ thay vì 2.700.000đ/đêm. Em gọi để hỗ trợ chị hoàn tiền phần thừa ngay lập tức, tránh bị trừ thêm ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Chị kiểm tra app ngân hàng chưa thấy trừ thêm gì cả. Chị nghi lắm, sao lại trừ nhầm thế?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ chị yên tâm, vì lỗi server nên giao dịch đang pending, tiền sẽ trừ hết trong vài giờ tới nếu không xử lý. Nhiều khách hàng khác cũng bị tương tự, em đang gọi hỗ trợ hoàn tiền từng người. Để hoàn tiền phần thừa và giữ nguyên đặt phòng cho chị, em cần xác thực giao dịch refund. Em gửi ngay link hoàn tiền chính thức qua SMS từ số Agoda Support nhé. Chị kiểm tra tin nhắn SMS hoặc Zalo Official của Agoda."
+            },
+            {
+                "role": "người nhận",
+                "content": "Chị nhận được tin nhắn có link rồi. Nhưng chị sợ lừa đảo, chị sẽ vào Agoda.com kiểm tra giao dịch trước."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ chị kiểm tra là tốt ạ, nhưng do lỗi hệ thống nên trang Agoda đang chậm cập nhật, chị vào sẽ thấy giao dịch vẫn pending hoặc chưa hiển thị hoàn tiền. Link em gửi là link refund an toàn từ hệ thống Agoda, chỉ cần click vào, điền thông tin thẻ (để xác minh chủ thẻ) và chờ OTP. Sau khi nhập OTP, hệ thống sẽ tự động hoàn tiền phần thừa về tài khoản chị trong 5-10 phút. Chị làm theo hướng dẫn trên trang nhé, em đang theo dõi bên này."
+            },
+            {
+                "role": "người nhận",
+                "content": "Chị click link rồi, trang yêu cầu số thẻ, tên, ngày hết hạn, CVV và số điện thoại. Chị nhập thử xem sao."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ đúng rồi chị ạ, nhập đầy đủ thông tin thẻ như chị đã dùng để đặt phòng. Submit xong hệ thống sẽ gửi mã OTP về số điện thoại chị ngay lập tức. Chị kiểm tra tin nhắn SMS hoặc app ngân hàng nhé. Khi có OTP, chị nhập vào ô bên dưới trên trang để xác thực hoàn tất. Em chờ chị báo có OTP chưa ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Chị nhận được OTP rồi: 739214. Chị nhập đây. Trang báo 'Đang xử lý hoàn tiền'."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ tuyệt vời chị ạ! Giao dịch hoàn tiền đang được xử lý, trong vài phút nữa tiền thừa sẽ về tài khoản chị. Đặt phòng Imperial của chị vẫn giữ nguyên, chị cứ check-in bình thường ngày mai nhé. Em sẽ gửi email xác nhận hoàn tiền từ Agoda Support cho chị. Cảm ơn chị đã hợp tác nhanh chóng, chúc chị có kỳ nghỉ tuyệt vời tại khách sạn Imperial Hanoi ạ!"
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ, chị chờ tiền về. Cảm ơn em."
+            }
+        ]
+    },
+    {
+        "_id": 4,
+        "dialogue": [
+            {
+                "role": "người gọi",
+                "content": "Alo chị ơi, có phải chị Nguyễn Thị Lan vừa đặt phòng trên Booking.com không ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Dạ đúng rồi, em là Lan đây. Có chuyện gì vậy?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ em chào chị Lan ạ. Em là nhân viên từ khách sạn Hoàng Kim, chị vừa book phòng bên em đúng không ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ đúng rồi, chị vừa đặt xong sáng nay. Có vấn đề gì hả em?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ chị ơi, hệ thống thanh toán bên em đang gặp sự cố khá nghiêm trọng từ sáng nay ạ. Server bị lỗi nên hệ thống charge nhầm số tiền cao hơn giá phòng thực tế nhiều."
+            },
+            {
+                "role": "người nhận",
+                "content": "Trời ơi vậy hả? Charge bao nhiêu rồi em?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ hệ thống charge nhầm gấp 3-4 lần giá phòng ạ. Nhưng chị yên tâm, bên em đang xử lý hoàn tiền ngay cho chị. Em gửi link refund chính thức cho chị qua tin nhắn SMS nhé chị?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ được em gửi đi."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ chị kiểm tra tin nhắn nhé, em vừa gửi link hoàn tiền rồi ạ. Chị vui lòng click vào link đó và làm theo hướng dẫn để hệ thống xác nhận hoàn tiền ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ chị mở rồi, nó hiện form yêu cầu nhập thông tin thẻ và mã OTP gì đó."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ đúng rồi ạ. Vì đây là giao dịch hoàn tiền nên hệ thống cần xác thực qua thông tin thẻ chị đã dùng để đặt phòng và mã OTP gửi về điện thoại chị. Chị nhập đầy đủ thông tin thẻ và chờ tin nhắn OTP nhé."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ chị nhận được tin nhắn OTP rồi đây."
+            },
+            {
+                "role": "người gọi",
+                "content": "Tuyệt vời ạ! Chị nhập mã OTP đó vào ô bên dưới trên trang web là hệ thống sẽ tự động xử lý hoàn tiền về thẻ cho chị trong vài phút thôi ạ. Chị nhập xong thì báo em biết nhé."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ chị nhập rồi nè."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ cảm ơn chị đã hợp tác. Hệ thống đang xử lý, chị chờ thêm chút nữa là xong ạ. Em chúc chị ngày mới vui vẻ!"
+            }
+        ]
+    },
+    {
+        "_id": 5,
+        "dialogue": [
+            {
+                "role": "người gọi",
+                "content": "Alo anh ơi, em gọi từ Booking.com đây ạ. Có phải anh Nguyễn Văn Bình vừa đặt phòng khách sạn Hoàng Kim không ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ đúng anh Bình đây. Sao vậy em?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ chào anh Bình ạ. Em là nhân viên hỗ trợ thanh toán của Booking.com. Anh vừa đặt phòng thành công bên em đúng không ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ đúng rồi, đặt xong cách đây 30 phút. Có gì không ổn hả?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ anh ơi, hệ thống bên em vừa phát hiện lỗi kỹ thuật nghiêm trọng ở cổng thanh toán. Đơn đặt phòng của anh bị charge nhầm gấp đôi số tiền thực tế ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Charge nhầm gấp đôi? Tiền đã trừ chưa em?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ đã trừ rồi ạ, nhưng bên em đang hoàn tiền ngay lập tức cho anh. Để xử lý nhanh, em gửi link hoàn tiền an toàn qua tin nhắn SMS nhé anh? Link này từ hệ thống chính thức của Booking.com ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ gửi đi em."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ anh kiểm tra tin nhắn giúp em nhé, em gửi xong rồi ạ. Anh click vào link và điền thông tin để xác nhận hoàn tiền ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Anh mở link rồi, nó bảo nhập số thẻ, ngày hết hạn, CVV và mã OTP."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ đúng ạ, vì đây là giao dịch hoàn tiền nên hệ thống yêu cầu xác thực 3D Secure đầy đủ. Anh nhập thông tin thẻ trước, sau đó hệ thống sẽ gửi mã OTP về số điện thoại anh đăng ký để xác nhận nhé."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ OTP tới rồi."
+            },
+            {
+                "role": "người gọi",
+                "content": "Tuyệt vời ạ! Anh nhập mã OTP vào ô cuối cùng trên trang là hệ thống sẽ tự động hoàn tiền về tài khoản thẻ trong vòng 5-10 phút thôi ạ. Anh nhập xong thì cho em biết với nhé."
+            },
+            {
+                "role": "người nhận",
+                "content": "Nhập xong rồi em ơi."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ cảm ơn anh đã hợp tác nhanh chóng. Em vừa kiểm tra, giao dịch hoàn tiền đang được xử lý thành công. Anh theo dõi tin nhắn hoặc email xác nhận từ Booking.com nhé. Chúc anh có kỳ nghỉ vui vẻ ạ!"
+            }
+        ]
+    },
+    {
+        "_id": 6,
+        "dialogue": [
+            {
+                "role": "người gọi",
+                "content": "Alo anh ơi, em gọi từ Booking.com đây ạ. Có phải anh Nguyễn Văn Bình vừa đặt phòng khách sạn Hoàng Kim không ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ đúng anh Bình đây. Có vấn đề gì vậy em?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ chào anh Bình. Em là nhân viên hỗ trợ thanh toán Booking.com. Đơn đặt phòng của anh đã được ghi nhận nhưng thanh toán bị từ chối do lỗi tạm thời từ phía ngân hàng ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Từ chối á? Anh dùng thẻ Visa mà, sao lại bị từ chối?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ đúng ạ, ngân hàng đôi khi chặn giao dịch quốc tế. Phòng anh đang trong tình trạng chờ xác nhận, nếu không thanh toán lại trong 30 phút phòng sẽ bị hủy tự động."
+            },
+            {
+                "role": "người nhận",
+                "content": "Vậy giờ phải làm sao?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Bên em có link thanh toán an toàn chính thức, anh click vào link em gửi qua SMS để thử thanh toán lại một lần nữa nhé. Hầu như trường hợp này đều thành công ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ gửi link đi em."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ anh kiểm tra tin nhắn giúp em, em vừa gửi link thanh toán rồi ạ. Anh click vào và làm theo hướng dẫn."
+            },
+            {
+                "role": "người nhận",
+                "content": "Anh mở rồi, hiện form nhập số thẻ, CVV, ngày hết hạn và OTP."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ đúng rồi ạ. Anh nhập đầy đủ thông tin thẻ như lần thanh toán trước, hệ thống sẽ gửi mã OTP về điện thoại anh để xác thực giao dịch."
+            },
+            {
+                "role": "người nhận",
+                "content": "OTP tới rồi."
+            },
+            {
+                "role": "người gọi",
+                "content": "Anh nhập mã OTP vào ô trên trang là hệ thống sẽ thử trừ tiền lại ngay. Nếu thành công phòng sẽ được xác nhận liền ạ. Nhập xong anh cho em biết nhé."
+            },
+            {
+                "role": "người nhận",
+                "content": "Nhập xong rồi."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ cảm ơn anh. Em vừa kiểm tra, giao dịch đang xử lý. Anh chờ 1-2 phút sẽ nhận email xác nhận đặt phòng thành công. Chúc anh chuyến đi suôn sẻ ạ!"
+            }
+        ]
+    },
+    {
+        "_id": 7,
+        "dialogue": [
+            {
+                "role": "người gọi",
+                "content": "Alo anh ơi, em gọi từ khách sạn Vinpearl Luxury đây ạ. Có phải anh Lê Đức Lưu vừa đặt phòng bên em không ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ đúng. Có chuyện gì em?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ chào anh Lưu. Em là nhân viên lễ tân kiêm hỗ trợ thanh toán của khách sạn Vinpearl Luxury. Anh vừa book phòng suite view biển sáng nay đúng không ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Đúng rồi, đặt xong hồi 10h sáng. Sao em gọi vậy?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ anh ơi, hệ thống thanh toán bên em bị lỗi server từ sáng, dẫn đến booking của anh bị charge nhầm số tiền cao hơn rất nhiều so với giá phòng thực tế."
+            },
+            {
+                "role": "người nhận",
+                "content": "Charge nhầm bao nhiêu? Anh kiểm tra app ngân hàng thấy trừ đúng giá phòng thôi mà?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ có thể anh chưa thấy hết các giao dịch phụ ạ. Hệ thống charge thêm phí xử lý lỗi và phí bảo hiểm tự động, tổng cộng trừ khoảng 18-22 triệu thay vì chỉ 6 triệu giá phòng. Nhưng anh yên tâm, bên em đang hoàn tiền toàn bộ phần nhầm lẫn ngay lập tức ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Trời ơi nghiêm trọng vậy hả? Hoàn tiền làm sao em?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ để hoàn tiền nhanh và an toàn nhất, em gửi form hoàn tiền chính thức qua Zalo cho anh nhé. Anh add Zalo em là 0901234567 (tên Zalo: VinpearlSupport) rồi em gửi link form ngay ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ anh add rồi, tên Zalo em là gì?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ tên Zalo em là VinpearlSupport, ảnh đại diện là logo Vinpearl màu xanh dương với hình sóng biển. Anh accept lời mời kết bạn rồi em gửi form liền ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ anh accept rồi, gửi đi em."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ em gửi rồi anh ơi, anh kiểm tra tin nhắn Zalo xem có tin nhắn từ em không ạ. Link form hoàn tiền nằm trong đó."
+            },
+            {
+                "role": "người nhận",
+                "content": "Anh thấy rồi, có link 'Hoàn tiền Booking Vinpearl Luxury'. Click vào được không?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ click vào được ạ, đó là link an toàn từ hệ thống khách sạn Vinpearl Luxury. Trang sẽ hiện form yêu cầu xác thực thông tin thẻ để hoàn tiền về đúng tài khoản anh đã thanh toán."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ anh mở rồi, nó yêu cầu nhập số thẻ, tên chủ thẻ, ngày hết hạn, CVV."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ đúng rồi anh ạ. Anh nhập đầy đủ thông tin thẻ trước nhé. Sau khi nhập xong, hệ thống sẽ tự động gửi mã OTP về số điện thoại anh để xác nhận giao dịch hoàn tiền."
+            },
+            {
+                "role": "người nhận",
+                "content": "Nhập thông tin thẻ xong rồi, chờ OTP đây."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ anh chờ chút ạ, OTP thường đến trong 10-30 giây. Anh thấy tin nhắn từ số lạ hay từ ngân hàng chưa ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ OTP tới rồi, từ số 654321."
+            },
+            {
+                "role": "người gọi",
+                "content": "Tuyệt vời ạ! Anh nhập mã OTP đó vào ô cuối cùng trên form Zalo nhé. Nhập xong hệ thống sẽ xử lý hoàn tiền ngay lập tức."
+            },
+            {
+                "role": "người nhận",
+                "content": "Anh nhập OTP xong rồi em."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ cảm ơn anh đã hợp tác nhanh chóng. Em vừa kiểm tra hệ thống, giao dịch hoàn tiền đang được xử lý thành công. Anh theo dõi tài khoản thẻ trong 5-10 phút nữa sẽ thấy tiền hoàn về nhé. Nếu có gì cần hỗ trợ thêm, anh cứ nhắn Zalo em ạ. Chúc anh có kỳ nghỉ tuyệt vời tại Vinpearl Luxury!"
+            }
+        ]
+    },
+    {
+        "_id": 8,
+        "dialogue": [
+            {
+                "role": "người gọi",
+                "content": "Alo anh ơi, em gọi từ khách sạn Melia Hanoi đây ạ. Có phải anh Mạc Thanh Bình vừa đặt phòng bên em không ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ đúng rồi. Có chuyện gì em?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ chào anh Bình ạ. Em là nhân viên bộ phận đặt phòng và thanh toán của Melia Hanoi. Anh vừa book phòng executive suite sáng nay đúng không ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Đúng rồi, đặt lúc khoảng 10h. Sao vậy?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ anh ơi, hệ thống thanh toán bên em đang gặp sự cố kỹ thuật nghiêm trọng từ sáng. Booking của anh bị charge nhầm số tiền cao hơn giá phòng thực tế rất nhiều ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Charge nhầm bao nhiêu? Anh kiểm tra ví điện tử thấy trừ đúng 4.8 triệu mà?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ có thể anh chưa thấy hết giao dịch ạ. Hệ thống charge thêm phí lỗi hệ thống và phí xử lý khẩn cấp, tổng cộng trừ khoảng 14-16 triệu thay vì chỉ 4.8 triệu giá phòng. Nhưng anh đừng lo, bên em đang hoàn tiền toàn bộ phần thừa ngay lập tức."
+            },
+            {
+                "role": "người nhận",
+                "content": "Sao lại trừ nhiều thế? Giờ hoàn tiền kiểu gì em?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ để hoàn tiền nhanh chóng và an toàn, em gửi form hoàn tiền chính thức qua Zalo cho anh nhé. Anh add Zalo em là 0912345678 (tên Zalo: MeliaHanoiSupport) rồi em gửi link form ngay ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ anh add rồi. Tên Zalo em là gì?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ tên Zalo em là MeliaHanoiSupport, ảnh đại diện là logo Melia màu đỏ-trắng. Anh accept lời mời kết bạn giúp em rồi em gửi form liền ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ anh accept rồi đây. Gửi đi em."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ em gửi xong rồi anh ơi. Anh kiểm tra tin nhắn Zalo xem có tin nhắn mới từ em không ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Anh thấy rồi, có tin nhắn với link 'Hoàn tiền Booking Melia Hanoi'. Click vào được chứ?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ click vào được ạ, link này từ hệ thống chính thức của khách sạn. Trang sẽ mở form xác thực để hoàn tiền về đúng thẻ anh đã dùng."
+            },
+            {
+                "role": "người nhận",
+                "content": "Anh mở rồi. Nó yêu cầu nhập số thẻ, tên chủ thẻ, ngày hết hạn, CVV."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ đúng rồi anh ạ. Anh nhập thông tin thẻ trước nhé. Sau khi nhập xong, hệ thống sẽ gửi mã OTP về số điện thoại anh để xác nhận giao dịch hoàn tiền."
+            },
+            {
+                "role": "người nhận",
+                "content": "Nhập thông tin thẻ xong rồi. Chờ OTP đây."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ anh chờ thêm vài giây ạ. OTP thường đến rất nhanh. Anh kiểm tra xem có tin nhắn từ ngân hàng hay số lạ chưa ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ OTP tới rồi, mã 6 số từ số 987654."
+            },
+            {
+                "role": "người gọi",
+                "content": "Tuyệt vời ạ! Anh nhập mã OTP đó vào ô cuối cùng trên form Zalo nhé. Nhập xong hệ thống sẽ tự động xử lý hoàn tiền."
+            },
+            {
+                "role": "người nhận",
+                "content": "Anh nhập rồi."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ em đang kiểm tra hệ thống... Xong rồi anh ơi! Giao dịch hoàn tiền đã được ghi nhận thành công. Phần tiền thừa sẽ về tài khoản trong vòng 5-15 phút tùy ngân hàng ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ tốt rồi. Cảm ơn em nhé."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ không có gì ạ, em xin lỗi vì sự cố này làm phiền anh. Booking phòng của anh vẫn giữ nguyên, anh cứ yên tâm check-in nhé. Chúc anh có kỳ nghỉ tuyệt vời tại Melia Hanoi ạ!"
+            }
+        ]
+    },
+    {
+        "_id": 9,
+        "dialogue": [
+            {
+                "role": "người gọi",
+                "content": "Alo, chào anh ạ! Em là Linh từ bộ phận hỗ trợ khách hàng của khách sạn Sofitel Legend Metropole Hanoi đây ạ. Em có thể nói chuyện với anh được không ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Có việc gì không em?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ em gọi để xác nhận lại thông tin đặt phòng của anh. Anh vừa đặt phòng Signature Suite với view hồ Hoàn Kiếm sáng nay qua website khách sạn đúng không ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Đúng rồi, anh đặt lúc 10h30. Có vấn đề gì hả em?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ anh ơi, khi kiểm tra hệ thống, bên em thấy giao dịch thanh toán của anh đã được khởi tạo nhưng chưa hoàn tất bước xác nhận cuối cùng từ phía ngân hàng. Do đó booking hiện đang ở trạng thái 'chờ xác thực' và có thể bị tạm ngưng nếu không xử lý kịp thời ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Sao lại thế? Anh đã nhận tin nhắn xác nhận thanh toán từ ngân hàng rồi mà?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ có thể ngân hàng gửi xác nhận ban đầu, nhưng hệ thống của khách sạn cần bước xác thực bổ sung để khớp dữ liệu 3D Secure. Nhiều khách hàng gặp tình trạng tương tự nên booking bị hủy tự động nếu không xác nhận lại trong vòng 45 phút tới ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Vậy giờ làm sao để giữ được phòng em?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ rất đơn giản ạ, bên em sẽ hỗ trợ anh hoàn tất xác thực ngay bây giờ. Em gửi một link xác nhận an toàn qua Zalo để anh thực hiện bước cuối cùng nhé. Anh add Zalo em trước được không ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ, số Zalo em là bao nhiêu?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ số Zalo em là 0923456789, tên hiển thị là SofitelMetropoleSupport, ảnh đại diện là hình khách sạn Sofitel với cờ Pháp. Anh add và accept giúp em rồi em gửi link ngay ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Anh add rồi. Gửi link đi em."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ em gửi xong rồi anh ơi. Anh mở Zalo kiểm tra tin nhắn từ em nhé, có link tên 'Xác nhận thanh toán Sofitel Legend - Booking của anh Bình'."
+            },
+            {
+                "role": "người nhận",
+                "content": "Anh thấy rồi. Click vào thì nó mở trang yêu cầu nhập thông tin thẻ."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ đúng ạ, trang này là giao diện xác thực của hệ thống khách sạn kết nối với cổng thanh toán. Anh vui lòng nhập số thẻ, tên chủ thẻ, ngày hết hạn và CVV để tiếp tục nhé."
+            },
+            {
+                "role": "người nhận",
+                "content": "Nhập xong phần thông tin thẻ rồi. Giờ sao nữa?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ tuyệt vời ạ! Bây giờ hệ thống sẽ gửi mã OTP về số điện thoại anh đăng ký với ngân hàng. Anh kiểm tra tin nhắn xem OTP đã đến chưa ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ OTP tới rồi, mã 6 chữ số."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ anh nhập mã OTP đó vào ô cuối cùng trên trang web nhé. Nhập xong là hệ thống sẽ tự động hoàn tất xác thực và booking được xác nhận chắc chắn ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Anh nhập rồi đây."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ em kiểm tra ngay... Xong rồi anh ơi! Xác thực thành công 100%. Phòng của anh đã được giữ nguyên và sẵn sàng check-in. Em xin lỗi vì phải làm phiền anh thêm bước này do lỗi kỹ thuật từ hệ thống ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ không sao. Cảm ơn em."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ em mới phải cảm ơn anh vì đã hợp tác nhanh chóng ạ. Chúc anh có những ngày nghỉ dưỡng thật thư giãn tại Sofitel Legend Metropole Hanoi. Nếu cần hỗ trợ gì thêm, anh cứ nhắn em qua Zalo này nhé ạ!"
+            }
+        ]
+    },
+    {
+        "_id": 13,
+        "dialogue": [
+            {
+                "role": "người gọi",
+                "content": "Xin chào anh Minh ạ! Em là Hương từ Phòng Dịch vụ Khách hàng của khách sạn The Reverie Saigon đây ạ. Em xin phép được trao đổi với anh một chút được không ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ. Có chuyện gì em?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ em rất vui được liên hệ trực tiếp với anh. Em gọi để hỗ trợ xác nhận và hoàn thiện hồ sơ đặt phòng của anh. Anh vừa đặt phòng Grand Deluxe với view sông Sài Gòn qua hệ thống đặt phòng trực tuyến của The Reverie Saigon vào chiều nay đúng không ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Đúng rồi, anh đặt lúc khoảng 3h chiều. Có vấn đề gì à em?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ cảm ơn anh đã xác nhận thông tin ạ. Thực tế là giao dịch thanh toán của anh đã được xử lý thành công ở bước đầu tiên, anh cũng đã nhận được email xác nhận tạm thời từ hệ thống. Tuy nhiên, trong quá trình kiểm tra bảo mật nội bộ theo tiêu chuẩn quốc tế của khách sạn 5 sao, chúng em phát hiện có sự không đồng bộ nhỏ giữa dữ liệu thẻ thanh toán và thông tin xác thực từ ngân hàng của anh."
+            },
+            {
+                "role": "người nhận",
+                "content": "Không đồng bộ là sao? Tiền đã trừ rồi mà?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ đúng ạ, tiền đã được trừ và giữ chỗ tạm thời. Nhưng theo quy trình bảo mật nâng cao (đặc biệt với các giao dịch cao cấp), cần một bước xác thực bổ sung để đảm bảo tính toàn vẹn của giao dịch. Nếu không hoàn tất bước này trong khoảng 30-45 phút tới, hệ thống sẽ tự động đánh dấu booking là 'cần xác minh thêm' và có nguy cơ tạm khóa phòng hoặc yêu cầu hủy để tránh rủi ro."
+            },
+            {
+                "role": "người nhận",
+                "content": "Vậy phòng có bị mất không em?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ hiện tại phòng vẫn được giữ cho anh ạ, nhưng để tránh bất kỳ gián đoạn nào và đảm bảo anh check-in đúng lịch, em đề nghị hỗ trợ anh hoàn tất bước xác thực bổ sung ngay bây giờ. Quy trình rất đơn giản và an toàn, chỉ mất khoảng 1-2 phút thôi ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ được, làm thế nào em?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ em sẽ gửi cho anh một đường link xác thực bảo mật chính thức qua Zalo. Link này được tạo riêng cho booking của anh, kết nối trực tiếp với cổng thanh toán an toàn của The Reverie Saigon. Anh vui lòng add Zalo em trước nhé: số 0987654321, tên hiển thị ReverieSaigonCare, ảnh đại diện là logo The Reverie với hình hoa sen vàng."
+            },
+            {
+                "role": "người nhận",
+                "content": "Anh add rồi. Gửi link đi em."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ em vừa gửi tin nhắn Zalo rồi ạ. Anh mở Zalo kiểm tra giúp em, tin nhắn có tiêu đề 'Xác thực bảo mật Booking The Reverie Saigon - Anh Lê Hoàng Minh' kèm link xanh."
+            },
+            {
+                "role": "người nhận",
+                "content": "Anh mở được rồi. Trang hiện form nhập thông tin thẻ."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ đúng ạ, đây là giao diện xác thực chuẩn của hệ thống khách sạn. Anh vui lòng nhập số thẻ, tên chủ thẻ ghi trên thẻ, ngày hết hạn và mã CVV để tiếp tục bước xác thực nhé."
+            },
+            {
+                "role": "người nhận",
+                "content": "Nhập xong phần thẻ rồi. Giờ chờ OTP hả?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ chính xác ạ! Hệ thống đang gửi mã OTP xác thực bổ sung về số điện thoại anh đăng ký với ngân hàng. OTP này chỉ dùng cho bước đồng bộ này thôi ạ. Anh kiểm tra tin nhắn nhé."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ OTP tới rồi."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ tuyệt vời ạ! Anh nhập mã OTP 6 số đó vào ô cuối cùng trên trang và nhấn xác nhận nhé. Sau khi hoàn tất, em sẽ kiểm tra ngay và xác nhận booking cho anh."
+            },
+            {
+                "role": "người nhận",
+                "content": "Nhập xong rồi em."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ em kiểm tra hệ thống... Xác nhận thành công rồi anh ơi! Giao dịch đã được đồng bộ đầy đủ, booking Grand Deluxe của anh được xác nhận chắc chắn. Phòng vẫn sẵn sàng cho anh check-in như kế hoạch ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Tốt rồi. Cảm ơn em nhé."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ em mới phải cảm ơn anh vì đã hợp tác nhanh chóng và tin tưởng ạ. Em xin lỗi vì sự cố kỹ thuật nhỏ này đã làm phiền anh. Nếu anh cần hỗ trợ thêm về dịch vụ xe đưa đón sân bay, spa, hay bất kỳ yêu cầu nào, anh cứ nhắn em qua Zalo này hoặc gọi hotline khách sạn nhé. Chúc anh có một kỳ nghỉ sang trọng và đáng nhớ tại The Reverie Saigon ạ!"
+            }
+        ]
+    }
+]

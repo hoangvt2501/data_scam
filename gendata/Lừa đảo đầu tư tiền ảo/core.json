@@ -1,0 +1,197 @@
+[
+    {
+        "_id": 1,
+        "dialogue": [
+            {
+                "role": "người gọi",
+                "content": "Xin chào anh ạ! Em là Minh từ Công ty Tư vấn Đầu tư CryptoGlobal đây ạ. Em có thể nói chuyện với anh một chút về cơ hội đầu tư không ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ anh đây. Sao em biết số anh? Có chuyện gì vậy?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ chào anh ạ! Em xin lỗi nếu làm phiền anh, em có thông tin anh quan tâm đến đầu tư tiền ảo qua các bài đăng trên mạng xã hội. Bên em là công ty chuyên tư vấn đầu tư, hợp tác với nhiều dự án blockchain lớn như Binance và Ethereum Foundation, và em có giấy phép kinh doanh tiền ảo từ chính phủ Singapore. Em chuyên hỗ trợ các nhà đầu tư mới bắt đầu như anh ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ, anh đang tìm hiểu về tiền ảo. Em tư vấn gì vậy?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ tuyệt vời ạ! Trước tiên, anh có thể cho em biết anh có bao nhiêu vốn dự định đầu tư vào tiền ảo không ạ? Để em tư vấn gói phù hợp nhất."
+            },
+            {
+                "role": "người nhận",
+                "content": "Anh có khoảng 5-10 triệu VND thôi, mới bắt đầu nên thử nhỏ."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ hiểu rồi ạ, mức đó rất phù hợp cho người mới. Em có thông tin nội bộ về một dự án mới cực hot: dự án MetaverseX Token (MVX). Đây là token thế giới ảo kết hợp công nghệ thực tế ảo tích hợp, sử dụng công nghệ bằng chứng cổ phần 2.0, và xử lý hợp đồng thông minh nhanh gấp một nghìn lần Ethereum. Đợt bán token đã bán được tám mươi phần trăm rồi, chỉ còn ba ngày nữa kết thúc vòng bán riêng ạ!"
+            },
+            {
+                "role": "người nhận",
+                "content": "Nghe hấp dẫn đấy. Lợi nhuận thế nào em?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ anh ơi, lợi nhuận siêu cao ạ! Với khóa tài sản, lợi suất hàng năm lên đến ba nghìn sáu trăm năm mươi phần trăm (3650% APY). Tối thiểu năm trăm phần trăm trong ba tháng đầu. Người nổi tiếng như Nguyễn Văn X đã đầu tư mười triệu đô la Mỹ vào dự án này. Tỷ suất lợi nhuận trên vốn đầu tư trung bình ba mươi đến năm mươi phần trăm mỗi tháng, và dự án được đánh giá năm sao trên Trustpilot ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Lợi nhuận cao thế? Mô hình kiếm tiền ra sao?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ mô hình rất thông minh ạ: Anh chỉ cần cài đặt và quên, không cần quản lý hàng ngày. Trí tuệ nhân tạo dự đoán thị trường và tự động giao dịch để tối ưu lợi nhuận. Ngoài ra, anh có thể nâng cấp gói để tăng thu nhập, và mời bạn bè vào thì cả hai đều được thưởng hoa hồng hấp dẫn. Hoa hồng trả hằng ngày vào ví của anh luôn ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Nghe hay. Giờ đầu tư thế nào em?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ dễ lắm ạ! Mức đầu tư tối thiểu là một trăm đô la, tương đương hai phẩy năm triệu việt nam đồng. Anh gửi ETH vào địa chỉ hợp đồng thông minh này: 0x1234abcd... (em gửi chi tiết qua Zalo nhé). Để phí rẻ, anh chuyển trên mạng Binance Smart Chain. Sau khi gửi, anh sẽ nhận token ngay và bắt đầu kiếm lợi nhuận."
+            },
+            {
+                "role": "người nhận",
+                "content": "Zalo em là gì? Gửi địa chỉ đi."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ anh add Zalo em: 0976543210, tên CryptoGlobalSupport. Em gửi địa chỉ hợp đồng và hướng dẫn chi tiết ngay ạ. Anh nhớ bật thông báo để nhận thông báo lợi nhuận hàng ngày nhé!"
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ anh add rồi. Gửi đi em."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ em gửi xong rồi anh ơi. Anh kiểm tra Zalo nhé, có hướng dẫn từng bước. Nếu anh gửi xong thì báo em biết để em hỗ trợ kích hoạt tài khoản và theo dõi lợi nhuận ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Anh gửi rồi đây. Giờ sao nữa?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ tuyệt vời ạ! Em kiểm tra hệ thống... Token đã về ví anh rồi. Lợi nhuận bắt đầu tích lũy ngay hôm nay. Anh theo dõi qua app dự án nhé, và nếu mời bạn bè thì anh nhận thêm bonus 10%. Cảm ơn anh đã tin tưởng đầu tư với em ạ!"
+            }
+        ]
+    },
+    {
+        "_id": 2,
+        "dialogue": [
+            {
+                "role": "người gọi",
+                "content": "Alo, em chào anh ạ. Em là Minh Anh, chuyên gia cố vấn đầu tư tại Blockchain Ventures Việt Nam. Bên em hợp tác trực tiếp với nhiều dự án blockchain lớn. Em gọi từ số hotline chính thức 028-7300-XXXX. Anh có đang tìm kiếm cơ hội đầu tư tiền ảo để sinh lời không ạ?"
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ, có. Em nói xem."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ cảm ơn anh. Bên em có giấy phép kinh doanh tài sản số từ cơ quan quản lý, chuyên hỗ trợ nhà đầu tư mới bắt đầu. Anh hiện tại có bao nhiêu vốn dự định tham gia ạ? Từ 100 USD trở lên là đã có thể đầu tư rồi."
+            },
+            {
+                "role": "người nhận",
+                "content": "Anh có khoảng 5–6 triệu thôi. Dự án gì hay vậy em?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ tuyệt vời ạ. Em giới thiệu dự án MetaVerseX – token thế giới ảo tích hợp công nghệ thực tế ảo (VR/AR), sử dụng cơ chế bằng chứng cổ phần 2.0 (Proof of Stake 2.0). Hợp đồng thông minh xử lý giao dịch nhanh gấp 1.000 lần Ethereum, phí cực thấp. Đợt bán token private sale hiện đã bán được hơn 80%, chỉ còn chưa đầy 3 ngày nữa là kết thúc vòng này thôi ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Nghe hấp dẫn đấy. Lợi nhuận thế nào em?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ lợi nhuận rất cao anh ạ. Với cơ chế staking, lợi suất hàng năm (APY) lên đến 3.650% nếu khóa tài sản. Tối thiểu cũng đạt 500% lợi nhuận trong 3 tháng đầu. Trung bình nhà đầu tư hiện tại đang nhận về 30–50% mỗi tháng trên vốn. Anh biết không, ông Nguyễn Văn X – một nhà đầu tư nổi tiếng đã rót 10 triệu USD vào dự án này từ vòng seed rồi ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Thật không? Sao cao vậy?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ thật ạ. Dự án sử dụng AI dự đoán thị trường và tự động giao dịch 24/7, nên sinh lời ổn định. Anh chỉ cần cài đặt ví, nạp tiền một lần, sau đó hệ thống tự chạy, không cần quản lý gì cả. Lợi nhuận được trả hàng ngày trực tiếp vào ví. Trên Trustpilot dự án đang được đánh giá 5 sao từ hơn 4.000 nhà đầu tư."
+            },
+            {
+                "role": "người nhận",
+                "content": "Nghe ổn. Làm sao để tham gia em?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ rất đơn giản ạ. Mức đầu tư tối thiểu chỉ 100 USD (khoảng 2,5 triệu VND). Anh chuyển ETH hoặc BNB vào địa chỉ hợp đồng thông minh mà em gửi. Nên dùng mạng Binance Smart Chain (BSC) để phí rẻ nhất. Em sẽ gửi địa chỉ hợp đồng và hướng dẫn chi tiết qua Zalo ngay bây giờ nhé."
+            },
+            {
+                "role": "người nhận",
+                "content": "Có cách nào khác không, ví dụ chuyển khoản ngân hàng?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ vì đây là dự án blockchain, nên phải nạp trực tiếp vào smart contract để nhận token và kích hoạt staking ngay lập tức. Chuyển khoản ngân hàng sẽ chậm và không được hưởng ưu đãi private sale. Anh yên tâm, em gửi đầy đủ whitepaper, audit hợp đồng từ công ty kiểm toán uy tín, và ảnh chụp giao dịch thành công của các nhà đầu tư khác cho anh xem ạ."
+            },
+            {
+                "role": "người nhận",
+                "content": "Thôi được, anh thử 3 triệu trước nhé."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ vâng! Anh quyết định rất đúng thời điểm. Em vừa gửi địa chỉ hợp đồng và mã QR qua Zalo rồi ạ. Anh chuyển xong nhớ chụp màn hình gửi em để em kích hoạt gói staking và bật thông báo lợi nhuận hàng ngày cho anh nhé. Cảm ơn anh đã tin tưởng, chúc anh sớm nhận được lợi nhuận khủng ạ!"
+            }
+        ]
+    },
+    {
+        "_id": 3,
+        "dialogue": [
+            {
+                "role": "người gọi",
+                "content": "Chào chị, em là An, chuyên gia cố vấn đầu tư từ công ty CryptoInvest Việt Nam. Bên em là đơn vị hợp tác với nhiều dự án blockchain lớn như Binance, Ethereum và Solana. Chúng em có giấy phép kinh doanh tiền ảo đầy đủ từ chính phủ Mỹ và Singapore. Em chuyên tư vấn cho những nhà đầu tư mới bắt đầu, giúp họ kiếm lợi nhuận an toàn từ thị trường crypto. Chị có đang quan tâm đến việc đầu tư tiền ảo không ạ? Em có thể chia sẻ một số cơ hội hot hiện tại."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ, chị cũng đang tìm hiểu về đầu tư tiền ảo. Em có gì hay giới thiệu không?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ vâng, trước tiên chị cho em hỏi, chị có bao nhiêu vốn dự định đầu tư ạ? Để em tư vấn phù hợp. Em có thông tin nội bộ về một dự án mới cực hot, tên là QuantumVerse Token (QVT). Đây là dự án đang được giới đầu tư lớn chú ý, đợt bán token private sale đã bán được tám mươi phần trăm rồi, sắp hết slot, chỉ còn ba ngày nữa là kết thúc vòng bán riêng thôi ạ. Nếu bỏ lỡ thì tiếc lắm chị ơi."
+            },
+            {
+                "role": "người nhận",
+                "content": "Nghe hấp dẫn đấy. Chị có khoảng 5 triệu VND. Dự án này là gì vậy em?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ, QuantumVerse Token sử dụng công nghệ bằng chứng cổ phần 2.0 (Proof of Stake 2.0), là token dành cho thế giới ảo metaverse với công nghệ thực tế ảo (VR) tích hợp đầy đủ. Nó xử lý hợp đồng thông minh nhanh gấp một nghìn lần so với Ethereum, giúp giao dịch siêu tốc và phí thấp. Dự án này hứa hẹn lợi nhuận phi thực tế nhưng dựa trên công nghệ vững chắc: lợi suất hàng năm lên đến ba nghìn sáu trăm năm mươi phần trăm nếu chị khóa tài sản (staking), và lợi nhuận tối thiểu năm trăm phần trăm chỉ trong ba tháng đầu. Thậm chí, người nổi tiếng Nguyễn Văn X – CEO của một công ty công nghệ lớn – đã đầu tư mười triệu đô la Mỹ vào đây. Tỷ suất lợi nhuận trên vốn đầu tư (ROI) trung bình từ ba mươi đến năm mươi phần trăm mỗi tháng. Dự án còn được đánh giá năm sao trên Trustpilot từ hàng ngàn nhà đầu tư thực tế."
+            },
+            {
+                "role": "người nhận",
+                "content": "Lợi nhuận cao thế? Làm sao mà kiếm được tiền vậy? Có rủi ro không?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ, mô hình kiếm tiền rất đơn giản và an toàn chị ạ. Chị có thể nâng cấp gói đầu tư để tăng thu nhập, ví dụ từ gói cơ bản lên VIP để nhận thêm bonus. Nếu mời bạn bè tham gia, cả chị và bạn bè đều được thưởng hoa hồng ngay lập tức. Đặc biệt, đây là mô hình 'cài đặt và quên' – chị không cần quản lý gì cả, vì hệ thống sử dụng trí tuệ nhân tạo (AI) để dự đoán thị trường và tự động giao dịch, đảm bảo lợi nhuận ổn định. Hoa hồng được trả hằng ngày trực tiếp vào ví của chị. Rủi ro rất thấp vì dự án có giấy phép và công nghệ tiên tiến, tạo cảm giác khan hiếm để khuyến khích đầu tư nhanh."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ừ, nghe ổn. Làm thế nào để tham gia đầu tư vậy em?"
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ, rất dễ chị ơi. Chị chỉ cần gửi ETH (Ethereum) vào địa chỉ hợp đồng thông minh để nhận token QVT ngay lập tức. Mức đầu tư tối thiểu là một trăm đô la, tương đương khoảng hai phẩy năm triệu việt nam đồng. Địa chỉ hợp đồng là: 0xAbCdEf1234567890aBcDeF... (em sẽ gửi link chi tiết qua tin nhắn). Anh/chị nên chuyển trên mạng Binance Smart Chain (BSC) để phí giao dịch rẻ hơn. Sau khi nạp, anh/chị bật thông báo trên app để nhận cập nhật lợi nhuận hàng ngày. Em cam kết hỗ trợ 24/7 nếu có vấn đề gì."
+            },
+            {
+                "role": "người nhận",
+                "content": "Ok, chị sẽ thử đầu tư xem sao. Cảm ơn em nhé."
+            },
+            {
+                "role": "người gọi",
+                "content": "Dạ, chị đầu tư sớm để không bỏ lỡ nhé. Em chờ tin vui từ chị!"
+            }
+        ]
+    }
+]
