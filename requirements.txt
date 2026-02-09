@@ -7,4 +7,4 @@ tqdm
 python-dotenv
 sentencepiece
 protobuf
-transformers
+google-generativeai
