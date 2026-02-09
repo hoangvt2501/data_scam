@@ -1,0 +1,2877 @@
+
+==================================================
+Bắt đầu chuyển đổi: 2026-02-09 13:18:56.542024
+==================================================
+[2026-02-09 13:19:08] Tổng số mẫu cần xử lý: 10
+[2026-02-09 13:19:08] Đang xử lý [1/10] - ID: 154
+[2026-02-09 13:19:24] ✓ Hoàn thành ID: 154 [1/10]
+[2026-02-09 13:19:25] Đang xử lý [2/10] - ID: 155
+[2026-02-09 13:19:51] ✓ Hoàn thành ID: 155 [2/10]
+[2026-02-09 13:19:52] Đang xử lý [3/10] - ID: 156
+[2026-02-09 13:20:11] ✓ Hoàn thành ID: 156 [3/10]
+[2026-02-09 13:20:12] Đang xử lý [4/10] - ID: 157
+[2026-02-09 13:20:27] ✓ Hoàn thành ID: 157 [4/10]
+[2026-02-09 13:20:28] Đang xử lý [5/10] - ID: 158
+[2026-02-09 13:20:53] ✓ Hoàn thành ID: 158 [5/10]
+[2026-02-09 13:20:54] Đang xử lý [6/10] - ID: 159
+[2026-02-09 13:21:07] ✓ Hoàn thành ID: 159 [6/10]
+[2026-02-09 13:21:08] Đang xử lý [7/10] - ID: 160
+[2026-02-09 13:21:22] ✓ Hoàn thành ID: 160 [7/10]
+[2026-02-09 13:21:23] Đang xử lý [8/10] - ID: 161
+[2026-02-09 13:21:49] ✓ Hoàn thành ID: 161 [8/10]
+[2026-02-09 13:21:50] Đang xử lý [9/10] - ID: 162
+[2026-02-09 13:22:02] ✓ Hoàn thành ID: 162 [9/10]
+[2026-02-09 13:22:03] Đang xử lý [10/10] - ID: 163
+[2026-02-09 13:22:25] ✓ Hoàn thành ID: 163 [10/10]
+[2026-02-09 13:22:26] 
+==================================================
+[2026-02-09 13:22:26] KẾT THÚC CHUYỂN ĐỔI
+[2026-02-09 13:22:26] Tổng số: 10
+[2026-02-09 13:22:26] Thành công: 10
+[2026-02-09 13:22:26] Lỗi: 0
+[2026-02-09 13:22:26] ==================================================
+
+
+==================================================
+Bắt đầu chuyển đổi: 2026-02-09 13:22:35.371304
+==================================================
+[2026-02-09 13:22:47] Tổng số mẫu cần xử lý: 12
+[2026-02-09 13:22:47] Đang xử lý [1/12] - ID: 164
+[2026-02-09 13:23:08] ✓ Hoàn thành ID: 164 [1/12]
+[2026-02-09 13:23:09] Đang xử lý [2/12] - ID: 165
+[2026-02-09 13:23:23] ✓ Hoàn thành ID: 165 [2/12]
+[2026-02-09 13:23:24] Đang xử lý [3/12] - ID: 166
+[2026-02-09 13:23:39] ✓ Hoàn thành ID: 166 [3/12]
+[2026-02-09 13:23:40] Đang xử lý [4/12] - ID: 167
+[2026-02-09 13:23:56] ✓ Hoàn thành ID: 167 [4/12]
+[2026-02-09 13:23:57] Đang xử lý [5/12] - ID: 168
+[2026-02-09 13:24:20] ✓ Hoàn thành ID: 168 [5/12]
+[2026-02-09 13:24:21] Đang xử lý [6/12] - ID: 169
+[2026-02-09 13:24:38] ✓ Hoàn thành ID: 169 [6/12]
+[2026-02-09 13:24:39] Đang xử lý [7/12] - ID: 170
+[2026-02-09 13:24:39] Lỗi API (lần 1/3): 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 21.927386183s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 21
+}
+]
+[2026-02-09 13:24:41] Lỗi API (lần 2/3): 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 19.828166332s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 19
+}
+]
+
+==================================================
+Bắt đầu chuyển đổi: 2026-02-09 13:30:53.678627
+==================================================
+[2026-02-09 13:30:57] Tổng số mẫu cần xử lý: 24
+[2026-02-09 13:30:57] Đang xử lý [1/24] - ID: 177
+[2026-02-09 13:31:13] ✓ Hoàn thành ID: 177 [1/24]
+[2026-02-09 13:31:14] Đang xử lý [2/24] - ID: 178
+[2026-02-09 13:31:26] ✓ Hoàn thành ID: 178 [2/24]
+[2026-02-09 13:31:27] Đang xử lý [3/24] - ID: 179
+[2026-02-09 13:31:42] ✓ Hoàn thành ID: 179 [3/24]
+[2026-02-09 13:31:43] Đang xử lý [4/24] - ID: 180
+[2026-02-09 13:32:01] ✓ Hoàn thành ID: 180 [4/24]
+[2026-02-09 13:32:02] Đang xử lý [5/24] - ID: 181
+[2026-02-09 13:32:17] ✓ Hoàn thành ID: 181 [5/24]
+[2026-02-09 13:32:18] Đang xử lý [6/24] - ID: 182
+[2026-02-09 13:32:33] ✓ Hoàn thành ID: 182 [6/24]
+[2026-02-09 13:32:34] Đang xử lý [7/24] - ID: 183
+[2026-02-09 13:32:48] ✓ Hoàn thành ID: 183 [7/24]
+[2026-02-09 13:32:49] Đang xử lý [8/24] - ID: 184
+[2026-02-09 13:33:00] ✓ Hoàn thành ID: 184 [8/24]
+[2026-02-09 13:33:01] Đang xử lý [9/24] - ID: 185
+[2026-02-09 13:33:18] ✓ Hoàn thành ID: 185 [9/24]
+[2026-02-09 13:33:19] Đang xử lý [10/24] - ID: 186
+[2026-02-09 13:33:47] ✓ Hoàn thành ID: 186 [10/24]
+[2026-02-09 13:33:48] Đang xử lý [11/24] - ID: 187
+[2026-02-09 13:34:04] ✓ Hoàn thành ID: 187 [11/24]
+[2026-02-09 13:34:05] Đang xử lý [12/24] - ID: 188
+[2026-02-09 13:34:22] ✓ Hoàn thành ID: 188 [12/24]
+[2026-02-09 13:34:23] Đang xử lý [13/24] - ID: 189
+[2026-02-09 13:34:35] ✓ Hoàn thành ID: 189 [13/24]
+[2026-02-09 13:34:36] Đang xử lý [14/24] - ID: 190
+[2026-02-09 13:34:49] ✓ Hoàn thành ID: 190 [14/24]
+[2026-02-09 13:34:50] Đang xử lý [15/24] - ID: 191
+[2026-02-09 13:35:04] ✓ Hoàn thành ID: 191 [15/24]
+[2026-02-09 13:35:05] Đang xử lý [16/24] - ID: 192
+[2026-02-09 13:35:23] ✓ Hoàn thành ID: 192 [16/24]
+[2026-02-09 13:35:24] Đang xử lý [17/24] - ID: 193
+[2026-02-09 13:35:39] ✓ Hoàn thành ID: 193 [17/24]
+[2026-02-09 13:35:40] Đang xử lý [18/24] - ID: 194
+[2026-02-09 13:35:59] ✓ Hoàn thành ID: 194 [18/24]
+[2026-02-09 13:36:00] Đang xử lý [19/24] - ID: 195
+[2026-02-09 13:36:00] Lỗi API (lần 1/3): 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 1.285401513s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 1
+}
+]
+[2026-02-09 13:36:02] Lỗi API (lần 2/3): 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 59.199215192s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 59
+}
+]
+[2026-02-09 13:36:04] Lỗi API (lần 3/3): 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 57.11843861s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 57
+}
+]
+[2026-02-09 13:36:04] ✗ Lỗi xử lý ID 195: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 57.11843861s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 57
+}
+]
+[2026-02-09 13:36:04] Đang xử lý [20/24] - ID: 196
+[2026-02-09 13:36:04] Lỗi API (lần 1/3): 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 57.026565029s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 57
+}
+]
+
+==================================================
+Bắt đầu chuyển đổi: 2026-02-09 13:44:20.782038
+==================================================
+
+==================================================
+Bắt đầu chuyển đổi: 2026-02-09 13:44:42.304505
+==================================================
+[2026-02-09 13:44:54] Tổng số mẫu cần xử lý: 21
+[2026-02-09 13:44:54] Đang xử lý [1/21] - ID: 201
+[2026-02-09 13:45:10] ✓ Hoàn thành ID: 201 [1/21]
+[2026-02-09 13:45:11] Đang xử lý [2/21] - ID: 202
+[2026-02-09 13:45:24] ✓ Hoàn thành ID: 202 [2/21]
+[2026-02-09 13:45:25] Đang xử lý [3/21] - ID: 203
+[2026-02-09 13:45:45] ✓ Hoàn thành ID: 203 [3/21]
+[2026-02-09 13:45:46] Đang xử lý [4/21] - ID: 204
+[2026-02-09 13:46:00] ✓ Hoàn thành ID: 204 [4/21]
+[2026-02-09 13:46:01] Đang xử lý [5/21] - ID: 205
+[2026-02-09 13:46:14] ✓ Hoàn thành ID: 205 [5/21]
+[2026-02-09 13:46:15] Đang xử lý [6/21] - ID: 206
+[2026-02-09 13:46:32] ✓ Hoàn thành ID: 206 [6/21]
+[2026-02-09 13:46:33] Đang xử lý [7/21] - ID: 207
+[2026-02-09 13:46:51] ✓ Hoàn thành ID: 207 [7/21]
+[2026-02-09 13:46:52] Đang xử lý [8/21] - ID: 208
+[2026-02-09 13:47:08] ✓ Hoàn thành ID: 208 [8/21]
+[2026-02-09 13:47:09] Đang xử lý [9/21] - ID: 209
+[2026-02-09 13:47:27] ✓ Hoàn thành ID: 209 [9/21]
+[2026-02-09 13:47:28] Đang xử lý [10/21] - ID: 210
+[2026-02-09 13:47:45] ✓ Hoàn thành ID: 210 [10/21]
+[2026-02-09 13:47:46] Đang xử lý [11/21] - ID: 211
+[2026-02-09 13:48:01] ✓ Hoàn thành ID: 211 [11/21]
+[2026-02-09 13:48:02] Đang xử lý [12/21] - ID: 212
+[2026-02-09 13:48:19] ✓ Hoàn thành ID: 212 [12/21]
+[2026-02-09 13:48:20] Đang xử lý [13/21] - ID: 213
+[2026-02-09 13:48:35] ✓ Hoàn thành ID: 213 [13/21]
+[2026-02-09 13:48:36] Đang xử lý [14/21] - ID: 214
+[2026-02-09 13:48:54] ✓ Hoàn thành ID: 214 [14/21]
+[2026-02-09 13:48:55] Đang xử lý [15/21] - ID: 215
+[2026-02-09 13:49:08] ✓ Hoàn thành ID: 215 [15/21]
+[2026-02-09 13:49:09] Đang xử lý [16/21] - ID: 216
+[2026-02-09 13:49:24] ✓ Hoàn thành ID: 216 [16/21]
+[2026-02-09 13:49:25] Đang xử lý [17/21] - ID: 217
+[2026-02-09 13:49:50] ✓ Hoàn thành ID: 217 [17/21]
+[2026-02-09 13:49:51] Đang xử lý [18/21] - ID: 218
+[2026-02-09 13:50:03] ✓ Hoàn thành ID: 218 [18/21]
+[2026-02-09 13:50:04] Đang xử lý [19/21] - ID: 219
+[2026-02-09 13:50:35] ✓ Hoàn thành ID: 219 [19/21]
+[2026-02-09 13:50:36] Đang xử lý [20/21] - ID: 220
+[2026-02-09 13:50:36] Lỗi API (lần 1/3): 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 25.20963613s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 25
+}
+]
+[2026-02-09 13:50:38] Lỗi API (lần 2/3): 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 23.130991784s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 23
+}
+]
+
+==================================================
+Bắt đầu chuyển đổi: 2026-02-09 14:05:22.855049
+==================================================
+[2026-02-09 14:05:27] Tổng số mẫu cần xử lý: 27
+[2026-02-09 14:05:27] Đang xử lý [1/27] - ID: 234
+[2026-02-09 14:05:27] Lỗi API (lần 1/3): 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+[2026-02-09 14:05:29] Lỗi API (lần 2/3): 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+[2026-02-09 14:05:31] Lỗi API (lần 3/3): 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+[2026-02-09 14:05:31] ✗ Lỗi xử lý ID 234: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+[2026-02-09 14:05:31] Đang xử lý [2/27] - ID: 235
+[2026-02-09 14:05:32] Lỗi API (lần 1/3): 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+
+==================================================
+Bắt đầu chuyển đổi: 2026-02-09 14:05:55.416910
+==================================================
+[2026-02-09 14:06:00] Tổng số mẫu cần xử lý: 27
+[2026-02-09 14:06:00] Đang xử lý [1/27] - ID: 234
+[2026-02-09 14:06:19] ✓ Hoàn thành ID: 234 [1/27]
+[2026-02-09 14:06:20] Đang xử lý [2/27] - ID: 235
+[2026-02-09 14:06:38] ✓ Hoàn thành ID: 235 [2/27]
+[2026-02-09 14:06:39] Đang xử lý [3/27] - ID: 236
+[2026-02-09 14:06:54] ✓ Hoàn thành ID: 236 [3/27]
+[2026-02-09 14:06:55] Đang xử lý [4/27] - ID: 237
+[2026-02-09 14:07:09] ✓ Hoàn thành ID: 237 [4/27]
+[2026-02-09 14:07:10] Đang xử lý [5/27] - ID: 238
+[2026-02-09 14:07:25] ✓ Hoàn thành ID: 238 [5/27]
+[2026-02-09 14:07:26] Đang xử lý [6/27] - ID: 239
+[2026-02-09 14:07:41] ✓ Hoàn thành ID: 239 [6/27]
+[2026-02-09 14:07:42] Đang xử lý [7/27] - ID: 240
+[2026-02-09 14:08:02] ✓ Hoàn thành ID: 240 [7/27]
+[2026-02-09 14:08:03] Đang xử lý [8/27] - ID: 241
+[2026-02-09 14:08:19] ✓ Hoàn thành ID: 241 [8/27]
+[2026-02-09 14:08:20] Đang xử lý [9/27] - ID: 242
+[2026-02-09 14:08:37] ✓ Hoàn thành ID: 242 [9/27]
+[2026-02-09 14:08:38] Đang xử lý [10/27] - ID: 243
+[2026-02-09 14:08:48] ✓ Hoàn thành ID: 243 [10/27]
+[2026-02-09 14:08:49] Đang xử lý [11/27] - ID: 244
+[2026-02-09 14:09:04] ✓ Hoàn thành ID: 244 [11/27]
+[2026-02-09 14:09:05] Đang xử lý [12/27] - ID: 245
+[2026-02-09 14:09:17] ✓ Hoàn thành ID: 245 [12/27]
+[2026-02-09 14:09:18] Đang xử lý [13/27] - ID: 246
+[2026-02-09 14:09:36] ✓ Hoàn thành ID: 246 [13/27]
+[2026-02-09 14:09:37] Đang xử lý [14/27] - ID: 247
+[2026-02-09 14:09:52] ✓ Hoàn thành ID: 247 [14/27]
+[2026-02-09 14:09:53] Đang xử lý [15/27] - ID: 248
+[2026-02-09 14:10:16] ✓ Hoàn thành ID: 248 [15/27]
+[2026-02-09 14:10:17] Đang xử lý [16/27] - ID: 249
+[2026-02-09 14:10:32] ✓ Hoàn thành ID: 249 [16/27]
+[2026-02-09 14:10:33] Đang xử lý [17/27] - ID: 250
+[2026-02-09 14:10:47] ✓ Hoàn thành ID: 250 [17/27]
+[2026-02-09 14:10:48] Đang xử lý [18/27] - ID: 251
+[2026-02-09 14:11:03] ✓ Hoàn thành ID: 251 [18/27]
+[2026-02-09 14:11:04] Đang xử lý [19/27] - ID: 252
+[2026-02-09 14:11:28] ✓ Hoàn thành ID: 252 [19/27]
+[2026-02-09 14:11:29] Đang xử lý [20/27] - ID: 253
+[2026-02-09 14:11:44] ✓ Hoàn thành ID: 253 [20/27]
+[2026-02-09 14:11:45] Đang xử lý [21/27] - ID: 254
+[2026-02-09 14:11:58] ✓ Hoàn thành ID: 254 [21/27]
+[2026-02-09 14:11:59] Đang xử lý [22/27] - ID: 255
+[2026-02-09 14:12:00] Lỗi API (lần 1/3): 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 1.566080641s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 1
+}
+]
+[2026-02-09 14:12:02] Lỗi API (lần 2/3): 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 59.478690658s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 59
+}
+]
+
+==================================================
+Bắt đầu chuyển đổi: 2026-02-09 14:18:21.386068
+==================================================
+
+==================================================
+Bắt đầu chuyển đổi: 2026-02-09 14:18:28.050851
+==================================================
+[2026-02-09 14:18:45] ID cuối cùng đã xử lý: 254
+[2026-02-09 14:18:45] 🔄 Tự động tiếp tục từ ID: 255
+[2026-02-09 14:18:45] Tổng số mẫu cần xử lý: 3099
+[2026-02-09 14:18:45] Đang xử lý [1/3099] - ID: 255
+[2026-02-09 14:18:46] Lỗi API (lần 1/3): 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions
+[2026-02-09 14:18:49] Lỗi API (lần 2/3): 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions
+[2026-02-09 14:18:53] Lỗi API (lần 3/3): 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions
+[2026-02-09 14:18:53] ✗ Lỗi xử lý ID 255: 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions
+[2026-02-09 14:18:53] Đang xử lý [2/3099] - ID: 256
+[2026-02-09 14:18:54] Lỗi API (lần 1/3): 400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions
+
+==================================================
+Bắt đầu chuyển đổi: 2026-02-09 14:19:41.488161
+==================================================
+[2026-02-09 14:19:42] ID cuối cùng đã xử lý: 254
+[2026-02-09 14:19:42] 🔄 Tự động tiếp tục từ ID: 255
+[2026-02-09 14:19:42] Tổng số mẫu cần xử lý: 3099
+[2026-02-09 14:19:42] Đang xử lý [1/3099] - ID: 255
+[2026-02-09 14:19:44] Lỗi API (lần 1/3): 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+[2026-02-09 14:19:47] Lỗi API (lần 2/3): 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+
+==================================================
+Bắt đầu chuyển đổi: 2026-02-09 14:23:02.382606
+==================================================
+[2026-02-09 14:23:03] ID cuối cùng đã xử lý: 254
+[2026-02-09 14:23:03] 🔄 Tự động tiếp tục từ ID: 255
+[2026-02-09 14:23:03] Tổng số mẫu cần xử lý: 3099
+[2026-02-09 14:23:03] Đang xử lý [1/3099] - ID: 255
+[2026-02-09 14:23:04] Lỗi API (lần 1/3): 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+[2026-02-09 14:23:08] Lỗi API (lần 2/3): 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+
+==================================================
+Bắt đầu chuyển đổi: 2026-02-09 14:28:55.062744
+==================================================
+[2026-02-09 14:28:55] 🤖 Sử dụng model: google/gemini-flash-1.5
+[2026-02-09 14:28:56] ID cuối cùng đã xử lý: 254
+[2026-02-09 14:28:56] 🔄 Tự động tiếp tục từ ID: 255
+[2026-02-09 14:28:56] Tổng số mẫu cần xử lý: 3099
+[2026-02-09 14:28:56] Đang xử lý [1/3099] - ID: 255
+[2026-02-09 14:28:57] HTTP 404: {"error":{"message":"No endpoints found for google/gemini-flash-1.5.","code":404},"user_id":"user_38rqRJZo50BGLNrNDFUcpJPRMQc"}
+[2026-02-09 14:28:57] Lỗi HTTP (lần 1/3): 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+[2026-02-09 14:29:02] HTTP 404: {"error":{"message":"No endpoints found for google/gemini-flash-1.5.","code":404},"user_id":"user_38rqRJZo50BGLNrNDFUcpJPRMQc"}
+[2026-02-09 14:29:02] Lỗi HTTP (lần 2/3): 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+[2026-02-09 14:29:06] HTTP 404: {"error":{"message":"No endpoints found for google/gemini-flash-1.5.","code":404},"user_id":"user_38rqRJZo50BGLNrNDFUcpJPRMQc"}
+[2026-02-09 14:29:06] Lỗi HTTP (lần 3/3): 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+[2026-02-09 14:29:06] ✗ Lỗi xử lý ID 255: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+[2026-02-09 14:29:06] Đang xử lý [2/3099] - ID: 256
+[2026-02-09 14:29:08] HTTP 404: {"error":{"message":"No endpoints found for google/gemini-flash-1.5.","code":404},"user_id":"user_38rqRJZo50BGLNrNDFUcpJPRMQc"}
+[2026-02-09 14:29:08] Lỗi HTTP (lần 1/3): 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+
+==================================================
+Bắt đầu chuyển đổi: 2026-02-09 14:31:48.546649
+==================================================
+[2026-02-09 14:31:48] 🤖 Sử dụng model: google/gemini-3-flash-preview
+[2026-02-09 14:31:50] ID cuối cùng đã xử lý: 254
+[2026-02-09 14:31:50] 🔄 Tự động tiếp tục từ ID: 255
+[2026-02-09 14:31:50] Tổng số mẫu cần xử lý: 3099
+[2026-02-09 14:31:50] Đang xử lý [1/3099] - ID: 255
+[2026-02-09 14:31:58] ✓ Hoàn thành ID: 255 [1/3099]
+[2026-02-09 14:32:00] Đang xử lý [2/3099] - ID: 256
+[2026-02-09 14:32:06] ✓ Hoàn thành ID: 256 [2/3099]
+[2026-02-09 14:32:07] Đang xử lý [3/3099] - ID: 257
+[2026-02-09 14:32:14] ✓ Hoàn thành ID: 257 [3/3099]
+[2026-02-09 14:32:15] Đang xử lý [4/3099] - ID: 258
+[2026-02-09 14:32:22] ✓ Hoàn thành ID: 258 [4/3099]
+[2026-02-09 14:32:23] Đang xử lý [5/3099] - ID: 259
+[2026-02-09 14:32:29] ✓ Hoàn thành ID: 259 [5/3099]
+[2026-02-09 14:32:30] Đang xử lý [6/3099] - ID: 260
+[2026-02-09 14:32:36] ✓ Hoàn thành ID: 260 [6/3099]
+[2026-02-09 14:32:37] Đang xử lý [7/3099] - ID: 261
+[2026-02-09 14:32:55] ✓ Hoàn thành ID: 261 [7/3099]
+[2026-02-09 14:32:56] Đang xử lý [8/3099] - ID: 262
+[2026-02-09 14:33:01] ✓ Hoàn thành ID: 262 [8/3099]
+[2026-02-09 14:33:03] Đang xử lý [9/3099] - ID: 263
+[2026-02-09 14:33:08] ✓ Hoàn thành ID: 263 [9/3099]
+[2026-02-09 14:33:09] Đang xử lý [10/3099] - ID: 264
+[2026-02-09 14:33:28] ✓ Hoàn thành ID: 264 [10/3099]
+[2026-02-09 14:33:29] Đang xử lý [11/3099] - ID: 265
+[2026-02-09 14:33:34] ✓ Hoàn thành ID: 265 [11/3099]
+[2026-02-09 14:33:36] Đang xử lý [12/3099] - ID: 266
+[2026-02-09 14:33:42] ✓ Hoàn thành ID: 266 [12/3099]
+[2026-02-09 14:33:43] Đang xử lý [13/3099] - ID: 267
+[2026-02-09 14:33:50] ✓ Hoàn thành ID: 267 [13/3099]
+[2026-02-09 14:33:51] Đang xử lý [14/3099] - ID: 268
+[2026-02-09 14:34:08] ✓ Hoàn thành ID: 268 [14/3099]
+[2026-02-09 14:34:09] Đang xử lý [15/3099] - ID: 269
+[2026-02-09 14:34:23] ✓ Hoàn thành ID: 269 [15/3099]
+[2026-02-09 14:34:25] Đang xử lý [16/3099] - ID: 270
+[2026-02-09 14:34:31] ✓ Hoàn thành ID: 270 [16/3099]
+[2026-02-09 14:34:32] Đang xử lý [17/3099] - ID: 271
+[2026-02-09 14:34:38] ✓ Hoàn thành ID: 271 [17/3099]
+[2026-02-09 14:34:39] Đang xử lý [18/3099] - ID: 272
+[2026-02-09 14:34:45] ✓ Hoàn thành ID: 272 [18/3099]
+[2026-02-09 14:34:47] Đang xử lý [19/3099] - ID: 273
+[2026-02-09 14:35:04] ✓ Hoàn thành ID: 273 [19/3099]
+[2026-02-09 14:35:06] Đang xử lý [20/3099] - ID: 274
+[2026-02-09 14:35:11] ✓ Hoàn thành ID: 274 [20/3099]
+[2026-02-09 14:35:13] Đang xử lý [21/3099] - ID: 275
+[2026-02-09 14:35:19] ✓ Hoàn thành ID: 275 [21/3099]
+[2026-02-09 14:35:20] Đang xử lý [22/3099] - ID: 276
+[2026-02-09 14:35:26] ✓ Hoàn thành ID: 276 [22/3099]
+[2026-02-09 14:35:27] Đang xử lý [23/3099] - ID: 277
+[2026-02-09 14:35:34] ✓ Hoàn thành ID: 277 [23/3099]
+[2026-02-09 14:35:35] Đang xử lý [24/3099] - ID: 278
+[2026-02-09 14:35:51] ✓ Hoàn thành ID: 278 [24/3099]
+[2026-02-09 14:35:53] Đang xử lý [25/3099] - ID: 279
+[2026-02-09 14:35:58] ✓ Hoàn thành ID: 279 [25/3099]
+[2026-02-09 14:35:59] Đang xử lý [26/3099] - ID: 280
+[2026-02-09 14:36:06] ✓ Hoàn thành ID: 280 [26/3099]
+[2026-02-09 14:36:07] Đang xử lý [27/3099] - ID: 281
+[2026-02-09 14:36:19] ✓ Hoàn thành ID: 281 [27/3099]
+[2026-02-09 14:36:21] Đang xử lý [28/3099] - ID: 282
+[2026-02-09 14:36:26] ✓ Hoàn thành ID: 282 [28/3099]
+[2026-02-09 14:36:27] Đang xử lý [29/3099] - ID: 283
+[2026-02-09 14:36:33] ✓ Hoàn thành ID: 283 [29/3099]
+[2026-02-09 14:36:34] Đang xử lý [30/3099] - ID: 284
+[2026-02-09 14:36:41] ✓ Hoàn thành ID: 284 [30/3099]
+[2026-02-09 14:36:43] Đang xử lý [31/3099] - ID: 285
+[2026-02-09 14:36:49] ✓ Hoàn thành ID: 285 [31/3099]
+[2026-02-09 14:36:50] Đang xử lý [32/3099] - ID: 286
+[2026-02-09 14:36:57] ✓ Hoàn thành ID: 286 [32/3099]
+[2026-02-09 14:36:58] Đang xử lý [33/3099] - ID: 287
+[2026-02-09 14:37:14] ✓ Hoàn thành ID: 287 [33/3099]
+
+==================================================
+Bắt đầu chuyển đổi: 2026-02-09 14:37:48.102963
+==================================================
+[2026-02-09 14:37:48] 🤖 Sử dụng model: google/gemini-2.5-pro-preview
+[2026-02-09 14:37:50] ID cuối cùng đã xử lý: 287
+[2026-02-09 14:37:50] 🔄 Tự động tiếp tục từ ID: 288
+[2026-02-09 14:37:50] Tổng số mẫu cần xử lý: 3066
+[2026-02-09 14:37:50] Đang xử lý [1/3066] - ID: 288
+[2026-02-09 14:38:33] ✓ Hoàn thành ID: 288 [1/3066]
+[2026-02-09 14:38:35] Đang xử lý [2/3066] - ID: 289
+[2026-02-09 14:39:10] ✓ Hoàn thành ID: 289 [2/3066]
+[2026-02-09 14:39:11] Đang xử lý [3/3066] - ID: 290
+
+==================================================
+Bắt đầu chuyển đổi: 2026-02-09 14:39:39.105877
+==================================================
+[2026-02-09 14:39:39] 🤖 Sử dụng model: google/gemini-3-flash-preview
+[2026-02-09 14:39:40] ID cuối cùng đã xử lý: 289
+[2026-02-09 14:39:40] 🔄 Tự động tiếp tục từ ID: 290
+[2026-02-09 14:39:40] Tổng số mẫu cần xử lý: 3064
+[2026-02-09 14:39:40] Đang xử lý [1/3064] - ID: 290
+[2026-02-09 14:39:47] ✓ Hoàn thành ID: 290 [1/3064]
+[2026-02-09 14:39:49] Đang xử lý [2/3064] - ID: 291
+[2026-02-09 14:39:54] ✓ Hoàn thành ID: 291 [2/3064]
+[2026-02-09 14:39:55] Đang xử lý [3/3064] - ID: 292
+[2026-02-09 14:40:01] ✓ Hoàn thành ID: 292 [3/3064]
+[2026-02-09 14:40:03] Đang xử lý [4/3064] - ID: 293
+[2026-02-09 14:40:09] ✓ Hoàn thành ID: 293 [4/3064]
+[2026-02-09 14:40:10] Đang xử lý [5/3064] - ID: 294
+[2026-02-09 14:40:17] ✓ Hoàn thành ID: 294 [5/3064]
+[2026-02-09 14:40:18] Đang xử lý [6/3064] - ID: 295
+[2026-02-09 14:40:23] ✓ Hoàn thành ID: 295 [6/3064]
+[2026-02-09 14:40:25] Đang xử lý [7/3064] - ID: 296
+[2026-02-09 14:40:30] ✓ Hoàn thành ID: 296 [7/3064]
+[2026-02-09 14:40:32] Đang xử lý [8/3064] - ID: 297
+[2026-02-09 14:40:38] ✓ Hoàn thành ID: 297 [8/3064]
+[2026-02-09 14:40:39] Đang xử lý [9/3064] - ID: 298
+[2026-02-09 14:40:46] ✓ Hoàn thành ID: 298 [9/3064]
+[2026-02-09 14:40:48] Đang xử lý [10/3064] - ID: 299
+[2026-02-09 14:40:54] ✓ Hoàn thành ID: 299 [10/3064]
+[2026-02-09 14:40:55] Đang xử lý [11/3064] - ID: 300
+[2026-02-09 14:41:07] ✓ Hoàn thành ID: 300 [11/3064]
+[2026-02-09 14:41:09] Đang xử lý [12/3064] - ID: 301
+[2026-02-09 14:41:14] ✓ Hoàn thành ID: 301 [12/3064]
+[2026-02-09 14:41:16] Đang xử lý [13/3064] - ID: 302
+[2026-02-09 14:41:21] ✓ Hoàn thành ID: 302 [13/3064]
+[2026-02-09 14:41:23] Đang xử lý [14/3064] - ID: 303
+[2026-02-09 14:41:29] ✓ Hoàn thành ID: 303 [14/3064]
+[2026-02-09 14:41:30] Đang xử lý [15/3064] - ID: 304
+[2026-02-09 14:41:36] ✓ Hoàn thành ID: 304 [15/3064]
+[2026-02-09 14:41:38] Đang xử lý [16/3064] - ID: 305
+[2026-02-09 14:41:44] ✓ Hoàn thành ID: 305 [16/3064]
+[2026-02-09 14:41:45] Đang xử lý [17/3064] - ID: 306
+[2026-02-09 14:41:51] ✓ Hoàn thành ID: 306 [17/3064]
+[2026-02-09 14:41:53] Đang xử lý [18/3064] - ID: 307
+[2026-02-09 14:41:58] ✓ Hoàn thành ID: 307 [18/3064]
+[2026-02-09 14:42:00] Đang xử lý [19/3064] - ID: 308
+[2026-02-09 14:42:06] ✓ Hoàn thành ID: 308 [19/3064]
+[2026-02-09 14:42:08] Đang xử lý [20/3064] - ID: 309
+[2026-02-09 14:42:14] ✓ Hoàn thành ID: 309 [20/3064]
+[2026-02-09 14:42:15] Đang xử lý [21/3064] - ID: 310
+[2026-02-09 14:42:21] ✓ Hoàn thành ID: 310 [21/3064]
+[2026-02-09 14:42:23] Đang xử lý [22/3064] - ID: 311
+[2026-02-09 14:42:29] ✓ Hoàn thành ID: 311 [22/3064]
+[2026-02-09 14:42:30] Đang xử lý [23/3064] - ID: 312
+[2026-02-09 14:42:43] ✓ Hoàn thành ID: 312 [23/3064]
+[2026-02-09 14:42:45] Đang xử lý [24/3064] - ID: 313
+[2026-02-09 14:42:50] ✓ Hoàn thành ID: 313 [24/3064]
+[2026-02-09 14:42:52] Đang xử lý [25/3064] - ID: 314
+[2026-02-09 14:42:57] ✓ Hoàn thành ID: 314 [25/3064]
+[2026-02-09 14:42:59] Đang xử lý [26/3064] - ID: 315
+[2026-02-09 14:43:05] ✓ Hoàn thành ID: 315 [26/3064]
+[2026-02-09 14:43:07] Đang xử lý [27/3064] - ID: 316
+[2026-02-09 14:43:20] ✓ Hoàn thành ID: 316 [27/3064]
+[2026-02-09 14:43:22] Đang xử lý [28/3064] - ID: 317
+[2026-02-09 14:43:28] ✓ Hoàn thành ID: 317 [28/3064]
+[2026-02-09 14:43:30] Đang xử lý [29/3064] - ID: 318
+[2026-02-09 14:43:35] Lỗi parse JSON (lần 1/3): Expecting value: line 13 column 5 (char 1335)
+[2026-02-09 14:43:35] Response text: {
+    "dialogue": [
+        {"role": "người gọi", "content": "Alo, em chào anh ạ. Cho em hỏi đây có phải số máy của anh Lý không ạ?"},
+        {"role": "người nghe", "content": "Chào bạn, tôi nghe đây...
+[2026-02-09 14:43:42] ✓ Hoàn thành ID: 318 [29/3064]
+[2026-02-09 14:43:44] Đang xử lý [30/3064] - ID: 319
+[2026-02-09 14:43:50] ✓ Hoàn thành ID: 319 [30/3064]
+[2026-02-09 14:43:51] Đang xử lý [31/3064] - ID: 320
+[2026-02-09 14:44:04] Lỗi khác (lần 1/3): 'choices'
+[2026-02-09 14:44:13] ✓ Hoàn thành ID: 320 [31/3064]
+[2026-02-09 14:44:14] Đang xử lý [32/3064] - ID: 321
+[2026-02-09 14:44:21] ✓ Hoàn thành ID: 321 [32/3064]
+[2026-02-09 14:44:22] Đang xử lý [33/3064] - ID: 322
+[2026-02-09 14:44:36] ✓ Hoàn thành ID: 322 [33/3064]
+[2026-02-09 14:44:38] Đang xử lý [34/3064] - ID: 323
+[2026-02-09 14:44:45] ✓ Hoàn thành ID: 323 [34/3064]
+[2026-02-09 14:44:46] Đang xử lý [35/3064] - ID: 324
+[2026-02-09 14:44:52] ✓ Hoàn thành ID: 324 [35/3064]
+[2026-02-09 14:44:54] Đang xử lý [36/3064] - ID: 325
+[2026-02-09 14:45:00] ✓ Hoàn thành ID: 325 [36/3064]
+[2026-02-09 14:45:01] Đang xử lý [37/3064] - ID: 326
+[2026-02-09 14:45:05] Lỗi parse JSON (lần 1/3): Expecting value: line 9 column 1 (char 44)
+[2026-02-09 14:45:05] ✗ Lỗi xử lý ID 326: local variable 'result_text' referenced before assignment
+[2026-02-09 14:45:05] Đang xử lý [38/3064] - ID: 327
+[2026-02-09 14:45:16] ✓ Hoàn thành ID: 327 [37/3064]
+[2026-02-09 14:45:17] Đang xử lý [39/3064] - ID: 328
+[2026-02-09 14:45:24] ✓ Hoàn thành ID: 328 [38/3064]
+[2026-02-09 14:45:26] Đang xử lý [40/3064] - ID: 329
+[2026-02-09 14:45:33] ✓ Hoàn thành ID: 329 [39/3064]
+[2026-02-09 14:45:34] Đang xử lý [41/3064] - ID: 330
+[2026-02-09 14:45:40] ✓ Hoàn thành ID: 330 [40/3064]
+[2026-02-09 14:45:42] Đang xử lý [42/3064] - ID: 331
+[2026-02-09 14:45:53] ✓ Hoàn thành ID: 331 [41/3064]
+[2026-02-09 14:45:54] Đang xử lý [43/3064] - ID: 332
+[2026-02-09 14:45:59] ✓ Hoàn thành ID: 332 [42/3064]
+[2026-02-09 14:46:01] Đang xử lý [44/3064] - ID: 333
+[2026-02-09 14:46:07] ✓ Hoàn thành ID: 333 [43/3064]
+[2026-02-09 14:46:08] Đang xử lý [45/3064] - ID: 334
+[2026-02-09 14:46:20] ✓ Hoàn thành ID: 334 [44/3064]
+[2026-02-09 14:46:21] Đang xử lý [46/3064] - ID: 335
+[2026-02-09 14:46:28] ✓ Hoàn thành ID: 335 [45/3064]
+[2026-02-09 14:46:30] Đang xử lý [47/3064] - ID: 336
+[2026-02-09 14:46:36] ✓ Hoàn thành ID: 336 [46/3064]
+[2026-02-09 14:46:38] Đang xử lý [48/3064] - ID: 337
+[2026-02-09 14:46:53] ✓ Hoàn thành ID: 337 [47/3064]
+[2026-02-09 14:46:55] Đang xử lý [49/3064] - ID: 338
+[2026-02-09 14:47:00] ✓ Hoàn thành ID: 338 [48/3064]
+[2026-02-09 14:47:02] Đang xử lý [50/3064] - ID: 339
+[2026-02-09 14:47:08] ✓ Hoàn thành ID: 339 [49/3064]
+[2026-02-09 14:47:09] Đang xử lý [51/3064] - ID: 340
+[2026-02-09 14:47:15] ✓ Hoàn thành ID: 340 [50/3064]
+[2026-02-09 14:47:16] Đang xử lý [52/3064] - ID: 341
+[2026-02-09 14:47:23] ✓ Hoàn thành ID: 341 [51/3064]
+[2026-02-09 14:47:25] Đang xử lý [53/3064] - ID: 342
+[2026-02-09 14:47:30] ✓ Hoàn thành ID: 342 [52/3064]
+[2026-02-09 14:47:32] Đang xử lý [54/3064] - ID: 343
+[2026-02-09 14:47:39] ✓ Hoàn thành ID: 343 [53/3064]
+[2026-02-09 14:47:40] Đang xử lý [55/3064] - ID: 344
+[2026-02-09 14:47:45] ✓ Hoàn thành ID: 344 [54/3064]
+[2026-02-09 14:47:47] Đang xử lý [56/3064] - ID: 345
+[2026-02-09 14:47:53] ✓ Hoàn thành ID: 345 [55/3064]
+[2026-02-09 14:47:54] Đang xử lý [57/3064] - ID: 346
+[2026-02-09 14:47:59] ✓ Hoàn thành ID: 346 [56/3064]
+[2026-02-09 14:48:01] Đang xử lý [58/3064] - ID: 347
+[2026-02-09 14:48:07] ✓ Hoàn thành ID: 347 [57/3064]
+[2026-02-09 14:48:09] Đang xử lý [59/3064] - ID: 348
+[2026-02-09 14:48:17] ✓ Hoàn thành ID: 348 [58/3064]
+[2026-02-09 14:48:18] Đang xử lý [60/3064] - ID: 349
+[2026-02-09 14:48:24] ✓ Hoàn thành ID: 349 [59/3064]
+[2026-02-09 14:48:25] Đang xử lý [61/3064] - ID: 350
+[2026-02-09 14:48:36] ✓ Hoàn thành ID: 350 [60/3064]
+[2026-02-09 14:48:38] Đang xử lý [62/3064] - ID: 351
+[2026-02-09 14:48:54] ✓ Hoàn thành ID: 351 [61/3064]
+[2026-02-09 14:48:56] Đang xử lý [63/3064] - ID: 352
+[2026-02-09 14:49:08] ✓ Hoàn thành ID: 352 [62/3064]
+[2026-02-09 14:49:09] Đang xử lý [64/3064] - ID: 353
+[2026-02-09 14:49:16] ✓ Hoàn thành ID: 353 [63/3064]
+[2026-02-09 14:49:18] Đang xử lý [65/3064] - ID: 354
+[2026-02-09 14:49:23] ✓ Hoàn thành ID: 354 [64/3064]
+[2026-02-09 14:49:25] Đang xử lý [66/3064] - ID: 355
+[2026-02-09 14:49:36] ✓ Hoàn thành ID: 355 [65/3064]
+[2026-02-09 14:49:38] Đang xử lý [67/3064] - ID: 356
+[2026-02-09 14:49:44] ✓ Hoàn thành ID: 356 [66/3064]
+[2026-02-09 14:49:46] Đang xử lý [68/3064] - ID: 357
+[2026-02-09 14:49:51] ✓ Hoàn thành ID: 357 [67/3064]
+[2026-02-09 14:49:52] Đang xử lý [69/3064] - ID: 358
+[2026-02-09 14:49:58] ✓ Hoàn thành ID: 358 [68/3064]
+[2026-02-09 14:50:00] Đang xử lý [70/3064] - ID: 359
+[2026-02-09 14:50:15] ✓ Hoàn thành ID: 359 [69/3064]
+[2026-02-09 14:50:16] Đang xử lý [71/3064] - ID: 360
+[2026-02-09 14:50:22] ✓ Hoàn thành ID: 360 [70/3064]
+[2026-02-09 14:50:24] Đang xử lý [72/3064] - ID: 361
+[2026-02-09 14:50:32] ✓ Hoàn thành ID: 361 [71/3064]
+[2026-02-09 14:50:34] Đang xử lý [73/3064] - ID: 362
+[2026-02-09 14:50:40] ✓ Hoàn thành ID: 362 [72/3064]
+[2026-02-09 14:50:41] Đang xử lý [74/3064] - ID: 363
+[2026-02-09 14:50:47] ✓ Hoàn thành ID: 363 [73/3064]
+[2026-02-09 14:50:49] Đang xử lý [75/3064] - ID: 364
+[2026-02-09 14:50:55] ✓ Hoàn thành ID: 364 [74/3064]
+[2026-02-09 14:50:57] Đang xử lý [76/3064] - ID: 365
+[2026-02-09 14:51:06] ✓ Hoàn thành ID: 365 [75/3064]
+[2026-02-09 14:51:08] Đang xử lý [77/3064] - ID: 366
+[2026-02-09 14:51:21] ✓ Hoàn thành ID: 366 [76/3064]
+[2026-02-09 14:51:22] Đang xử lý [78/3064] - ID: 367
+[2026-02-09 14:51:27] ✓ Hoàn thành ID: 367 [77/3064]
+[2026-02-09 14:51:29] Đang xử lý [79/3064] - ID: 368
+[2026-02-09 14:51:40] ✓ Hoàn thành ID: 368 [78/3064]
+[2026-02-09 14:51:42] Đang xử lý [80/3064] - ID: 369
+[2026-02-09 14:51:47] ✓ Hoàn thành ID: 369 [79/3064]
+[2026-02-09 14:51:49] Đang xử lý [81/3064] - ID: 370
+[2026-02-09 14:51:54] ✓ Hoàn thành ID: 370 [80/3064]
+[2026-02-09 14:51:56] Đang xử lý [82/3064] - ID: 371
+[2026-02-09 14:52:01] ✓ Hoàn thành ID: 371 [81/3064]
+[2026-02-09 14:52:03] Đang xử lý [83/3064] - ID: 372
+[2026-02-09 14:52:10] ✓ Hoàn thành ID: 372 [82/3064]
+[2026-02-09 14:52:11] Đang xử lý [84/3064] - ID: 373
+[2026-02-09 14:52:23] ✓ Hoàn thành ID: 373 [83/3064]
+[2026-02-09 14:52:25] Đang xử lý [85/3064] - ID: 374
+[2026-02-09 14:52:32] ✓ Hoàn thành ID: 374 [84/3064]
+[2026-02-09 14:52:33] Đang xử lý [86/3064] - ID: 375
+[2026-02-09 14:52:39] ✓ Hoàn thành ID: 375 [85/3064]
+[2026-02-09 14:52:41] Đang xử lý [87/3064] - ID: 376
+[2026-02-09 14:52:53] ✓ Hoàn thành ID: 376 [86/3064]
+[2026-02-09 14:52:55] Đang xử lý [88/3064] - ID: 377
+[2026-02-09 14:53:12] ✓ Hoàn thành ID: 377 [87/3064]
+[2026-02-09 14:53:13] Đang xử lý [89/3064] - ID: 378
+[2026-02-09 14:53:25] ✓ Hoàn thành ID: 378 [88/3064]
+[2026-02-09 14:53:26] Đang xử lý [90/3064] - ID: 379
+[2026-02-09 14:53:33] ✓ Hoàn thành ID: 379 [89/3064]
+[2026-02-09 14:53:35] Đang xử lý [91/3064] - ID: 380
+[2026-02-09 14:53:41] ✓ Hoàn thành ID: 380 [90/3064]
+[2026-02-09 14:53:42] Đang xử lý [92/3064] - ID: 381
+[2026-02-09 14:53:48] ✓ Hoàn thành ID: 381 [91/3064]
+[2026-02-09 14:53:50] Đang xử lý [93/3064] - ID: 382
+[2026-02-09 14:54:06] ✓ Hoàn thành ID: 382 [92/3064]
+[2026-02-09 14:54:07] Đang xử lý [94/3064] - ID: 383
+[2026-02-09 14:54:25] ✓ Hoàn thành ID: 383 [93/3064]
+[2026-02-09 14:54:27] Đang xử lý [95/3064] - ID: 384
+[2026-02-09 14:54:33] Lỗi parse JSON (lần 1/3): Expecting value: line 1 column 1 (char 0)
+[2026-02-09 14:54:33] Response text: thoughtful
+{
+    "dialogue": [
+        {
+            "role": "người gọi",
+            "content": "Dạ em chào anh, em là nhân viên bên trung tâm tín dụng của ngân hàng BIDV ạ. Bên em vừa triển khai gói...
+[2026-02-09 14:54:41] ✓ Hoàn thành ID: 384 [94/3064]
+[2026-02-09 14:54:42] Đang xử lý [96/3064] - ID: 385
+[2026-02-09 14:54:47] ✓ Hoàn thành ID: 385 [95/3064]
+[2026-02-09 14:54:49] Đang xử lý [97/3064] - ID: 386
+[2026-02-09 14:54:55] ✓ Hoàn thành ID: 386 [96/3064]
+[2026-02-09 14:54:56] Đang xử lý [98/3064] - ID: 387
+[2026-02-09 14:55:13] ✓ Hoàn thành ID: 387 [97/3064]
+[2026-02-09 14:55:15] Đang xử lý [99/3064] - ID: 388
+[2026-02-09 14:55:21] ✓ Hoàn thành ID: 388 [98/3064]
+[2026-02-09 14:55:23] Đang xử lý [100/3064] - ID: 389
+[2026-02-09 14:55:35] ✓ Hoàn thành ID: 389 [99/3064]
+[2026-02-09 14:55:37] Đang xử lý [101/3064] - ID: 390
+[2026-02-09 14:55:42] ✓ Hoàn thành ID: 390 [100/3064]
+[2026-02-09 14:55:44] Đang xử lý [102/3064] - ID: 391
+[2026-02-09 14:56:01] ✓ Hoàn thành ID: 391 [101/3064]
+[2026-02-09 14:56:02] Đang xử lý [103/3064] - ID: 392
+[2026-02-09 14:56:12] ✓ Hoàn thành ID: 392 [102/3064]
+[2026-02-09 14:56:14] Đang xử lý [104/3064] - ID: 393
+[2026-02-09 14:56:30] ✓ Hoàn thành ID: 393 [103/3064]
+[2026-02-09 14:56:32] Đang xử lý [105/3064] - ID: 394
+[2026-02-09 14:56:44] ✓ Hoàn thành ID: 394 [104/3064]
+[2026-02-09 14:56:45] Đang xử lý [106/3064] - ID: 395
+[2026-02-09 14:56:58] ✓ Hoàn thành ID: 395 [105/3064]
+[2026-02-09 14:56:59] Đang xử lý [107/3064] - ID: 396
+
+==================================================
+Bắt đầu chuyển đổi: 2026-02-09 14:59:14.745594
+==================================================
+[2026-02-09 14:59:14] 🤖 Sử dụng model: google/gemini-3-flash-preview
+[2026-02-09 14:59:15] ID cuối cùng đã xử lý: 395
+[2026-02-09 14:59:15] 🔄 Tự động tiếp tục từ ID: 396
+[2026-02-09 14:59:15] Tổng số mẫu cần xử lý: 2958
+[2026-02-09 14:59:15] Đang xử lý [1/2958] - ID: 396
+[2026-02-09 14:59:22] Lỗi parse JSON (lần 1/3): Expecting value: line 1 column 1 (char 0)
+[2026-02-09 14:59:22] Response text: thoughtful
+{
+    "dialogue": [
+        {
+            "role": "người gọi",
+            "content": "Alo ạ?"
+        },
+        {
+            "role": "người nghe",
+            "content": "Alo, ai đấy ạ?"...
+[2026-02-09 14:59:31] ✓ Hoàn thành ID: 396 [1/2958]
+[2026-02-09 14:59:32] Đang xử lý [2/2958] - ID: 397
+[2026-02-09 14:59:40] ✓ Hoàn thành ID: 397 [2/2958]
+[2026-02-09 14:59:41] Đang xử lý [3/2958] - ID: 398
+[2026-02-09 14:59:46] ✓ Hoàn thành ID: 398 [3/2958]
+[2026-02-09 14:59:48] Đang xử lý [4/2958] - ID: 399
+[2026-02-09 14:59:54] ✓ Hoàn thành ID: 399 [4/2958]
+[2026-02-09 14:59:55] Đang xử lý [5/2958] - ID: 400
+[2026-02-09 15:00:03] ✓ Hoàn thành ID: 400 [5/2958]
+[2026-02-09 15:00:04] Đang xử lý [6/2958] - ID: 401
+[2026-02-09 15:00:10] ✓ Hoàn thành ID: 401 [6/2958]
+[2026-02-09 15:00:12] Đang xử lý [7/2958] - ID: 402
+[2026-02-09 15:00:21] HTTP 429: {"error":{"message":"Provider returned error","code":429,"metadata":{"raw":"google/gemini-3-flash-preview is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations","provider_name":"Google AI Studio","is_byok":false}},"user_id":"user_38rqRJZo50BGLNrNDFUcpJPRMQc"}
+[2026-02-09 15:00:21] Lỗi HTTP (lần 1/3): 429 Client Error: Too Many Requests for url: https://openrouter.ai/api/v1/chat/completions
+[2026-02-09 15:00:30] ✓ Hoàn thành ID: 402 [7/2958]
+[2026-02-09 15:00:31] Đang xử lý [8/2958] - ID: 403
+[2026-02-09 15:00:38] ✓ Hoàn thành ID: 403 [8/2958]
+[2026-02-09 15:00:39] Đang xử lý [9/2958] - ID: 404
+[2026-02-09 15:00:45] ✓ Hoàn thành ID: 404 [9/2958]
+[2026-02-09 15:00:47] Đang xử lý [10/2958] - ID: 405
+[2026-02-09 15:00:54] ✓ Hoàn thành ID: 405 [10/2958]
+[2026-02-09 15:00:55] Đang xử lý [11/2958] - ID: 406
+[2026-02-09 15:01:01] ✓ Hoàn thành ID: 406 [11/2958]
+[2026-02-09 15:01:03] Đang xử lý [12/2958] - ID: 407
+[2026-02-09 15:01:09] ✓ Hoàn thành ID: 407 [12/2958]
+[2026-02-09 15:01:11] Đang xử lý [13/2958] - ID: 408
+[2026-02-09 15:01:25] ✓ Hoàn thành ID: 408 [13/2958]
+[2026-02-09 15:01:26] Đang xử lý [14/2958] - ID: 409
+[2026-02-09 15:01:31] ✓ Hoàn thành ID: 409 [14/2958]
+[2026-02-09 15:01:33] Đang xử lý [15/2958] - ID: 410
+[2026-02-09 15:01:40] ✓ Hoàn thành ID: 410 [15/2958]
+[2026-02-09 15:01:41] Đang xử lý [16/2958] - ID: 411
+[2026-02-09 15:01:48] ✓ Hoàn thành ID: 411 [16/2958]
+[2026-02-09 15:01:49] Đang xử lý [17/2958] - ID: 412
+[2026-02-09 15:01:55] ✓ Hoàn thành ID: 412 [17/2958]
+[2026-02-09 15:01:56] Đang xử lý [18/2958] - ID: 413
+[2026-02-09 15:02:05] ✓ Hoàn thành ID: 413 [18/2958]
+[2026-02-09 15:02:06] Đang xử lý [19/2958] - ID: 414
+[2026-02-09 15:02:11] ✓ Hoàn thành ID: 414 [19/2958]
+[2026-02-09 15:02:12] Đang xử lý [20/2958] - ID: 415
+[2026-02-09 15:02:21] ✓ Hoàn thành ID: 415 [20/2958]
+[2026-02-09 15:02:22] Đang xử lý [21/2958] - ID: 416
+[2026-02-09 15:02:39] ✓ Hoàn thành ID: 416 [21/2958]
+[2026-02-09 15:02:41] Đang xử lý [22/2958] - ID: 417
+[2026-02-09 15:02:58] ✓ Hoàn thành ID: 417 [22/2958]
+[2026-02-09 15:02:59] Đang xử lý [23/2958] - ID: 418
+[2026-02-09 15:03:05] ✓ Hoàn thành ID: 418 [23/2958]
+[2026-02-09 15:03:07] Đang xử lý [24/2958] - ID: 419
+[2026-02-09 15:03:13] ✓ Hoàn thành ID: 419 [24/2958]
+[2026-02-09 15:03:14] Đang xử lý [25/2958] - ID: 420
+[2026-02-09 15:03:19] ✓ Hoàn thành ID: 420 [25/2958]
+[2026-02-09 15:03:20] Đang xử lý [26/2958] - ID: 421
+[2026-02-09 15:03:49] ✓ Hoàn thành ID: 421 [26/2958]
+[2026-02-09 15:03:51] Đang xử lý [27/2958] - ID: 422
+[2026-02-09 15:03:58] ✓ Hoàn thành ID: 422 [27/2958]
+[2026-02-09 15:03:59] Đang xử lý [28/2958] - ID: 423
+[2026-02-09 15:04:05] ✓ Hoàn thành ID: 423 [28/2958]
+[2026-02-09 15:04:06] Đang xử lý [29/2958] - ID: 424
+[2026-02-09 15:04:12] ✓ Hoàn thành ID: 424 [29/2958]
+[2026-02-09 15:04:14] Đang xử lý [30/2958] - ID: 425
+[2026-02-09 15:04:20] ✓ Hoàn thành ID: 425 [30/2958]
+[2026-02-09 15:04:21] Đang xử lý [31/2958] - ID: 426
+[2026-02-09 15:04:27] ✓ Hoàn thành ID: 426 [31/2958]
+[2026-02-09 15:04:28] Đang xử lý [32/2958] - ID: 427
+[2026-02-09 15:04:35] ✓ Hoàn thành ID: 427 [32/2958]
+[2026-02-09 15:04:37] Đang xử lý [33/2958] - ID: 428
+[2026-02-09 15:04:44] ✓ Hoàn thành ID: 428 [33/2958]
+[2026-02-09 15:04:45] Đang xử lý [34/2958] - ID: 429
+[2026-02-09 15:04:51] ✓ Hoàn thành ID: 429 [34/2958]
+[2026-02-09 15:04:52] Đang xử lý [35/2958] - ID: 430
+[2026-02-09 15:05:09] ✓ Hoàn thành ID: 430 [35/2958]
+[2026-02-09 15:05:11] Đang xử lý [36/2958] - ID: 431
+[2026-02-09 15:05:18] ✓ Hoàn thành ID: 431 [36/2958]
+[2026-02-09 15:05:20] Đang xử lý [37/2958] - ID: 432
+[2026-02-09 15:05:27] ✓ Hoàn thành ID: 432 [37/2958]
+[2026-02-09 15:05:28] Đang xử lý [38/2958] - ID: 433
+[2026-02-09 15:05:45] ✓ Hoàn thành ID: 433 [38/2958]
+[2026-02-09 15:05:47] Đang xử lý [39/2958] - ID: 434
+[2026-02-09 15:05:59] ✓ Hoàn thành ID: 434 [39/2958]
+[2026-02-09 15:06:00] Đang xử lý [40/2958] - ID: 435
+[2026-02-09 15:06:16] ✓ Hoàn thành ID: 435 [40/2958]
+[2026-02-09 15:06:18] Đang xử lý [41/2958] - ID: 436
+[2026-02-09 15:06:23] ✓ Hoàn thành ID: 436 [41/2958]
+[2026-02-09 15:06:25] Đang xử lý [42/2958] - ID: 437
+[2026-02-09 15:06:31] ✓ Hoàn thành ID: 437 [42/2958]
+[2026-02-09 15:06:33] Đang xử lý [43/2958] - ID: 438
+[2026-02-09 15:06:42] ✓ Hoàn thành ID: 438 [43/2958]
+[2026-02-09 15:06:43] Đang xử lý [44/2958] - ID: 439
+[2026-02-09 15:06:50] ✓ Hoàn thành ID: 439 [44/2958]
+[2026-02-09 15:06:52] Đang xử lý [45/2958] - ID: 440
+[2026-02-09 15:06:58] ✓ Hoàn thành ID: 440 [45/2958]
+[2026-02-09 15:06:59] Đang xử lý [46/2958] - ID: 441
+[2026-02-09 15:07:06] ✓ Hoàn thành ID: 441 [46/2958]
+[2026-02-09 15:07:08] Đang xử lý [47/2958] - ID: 442
+[2026-02-09 15:07:14] ✓ Hoàn thành ID: 442 [47/2958]
+[2026-02-09 15:07:16] Đang xử lý [48/2958] - ID: 443
+[2026-02-09 15:07:22] ✓ Hoàn thành ID: 443 [48/2958]
+[2026-02-09 15:07:23] Đang xử lý [49/2958] - ID: 444
+[2026-02-09 15:07:33] ✓ Hoàn thành ID: 444 [49/2958]
+[2026-02-09 15:07:35] Đang xử lý [50/2958] - ID: 445
+[2026-02-09 15:07:42] ✓ Hoàn thành ID: 445 [50/2958]
+[2026-02-09 15:07:43] Đang xử lý [51/2958] - ID: 446
+[2026-02-09 15:07:51] ✓ Hoàn thành ID: 446 [51/2958]
+[2026-02-09 15:07:53] Đang xử lý [52/2958] - ID: 447
+[2026-02-09 15:08:01] ✓ Hoàn thành ID: 447 [52/2958]
+[2026-02-09 15:08:02] Đang xử lý [53/2958] - ID: 448
+[2026-02-09 15:08:10] ✓ Hoàn thành ID: 448 [53/2958]
+[2026-02-09 15:08:12] Đang xử lý [54/2958] - ID: 449
+[2026-02-09 15:08:20] ✓ Hoàn thành ID: 449 [54/2958]
+[2026-02-09 15:08:21] Đang xử lý [55/2958] - ID: 450
+[2026-02-09 15:08:26] ✓ Hoàn thành ID: 450 [55/2958]
+[2026-02-09 15:08:28] Đang xử lý [56/2958] - ID: 451
+[2026-02-09 15:08:34] ✓ Hoàn thành ID: 451 [56/2958]
+[2026-02-09 15:08:35] Đang xử lý [57/2958] - ID: 452
+[2026-02-09 15:08:41] ✓ Hoàn thành ID: 452 [57/2958]
+[2026-02-09 15:08:43] Đang xử lý [58/2958] - ID: 453
+[2026-02-09 15:08:59] ✓ Hoàn thành ID: 453 [58/2958]
+[2026-02-09 15:09:00] Đang xử lý [59/2958] - ID: 454
+[2026-02-09 15:09:07] ✓ Hoàn thành ID: 454 [59/2958]
+[2026-02-09 15:09:08] Đang xử lý [60/2958] - ID: 455
+[2026-02-09 15:09:14] ✓ Hoàn thành ID: 455 [60/2958]
+[2026-02-09 15:09:16] Đang xử lý [61/2958] - ID: 456
+[2026-02-09 15:09:29] ✓ Hoàn thành ID: 456 [61/2958]
+[2026-02-09 15:09:31] Đang xử lý [62/2958] - ID: 457
+[2026-02-09 15:09:37] ✓ Hoàn thành ID: 457 [62/2958]
+[2026-02-09 15:09:39] Đang xử lý [63/2958] - ID: 458
+[2026-02-09 15:09:57] ✓ Hoàn thành ID: 458 [63/2958]
+[2026-02-09 15:09:58] Đang xử lý [64/2958] - ID: 459
+[2026-02-09 15:10:04] ✓ Hoàn thành ID: 459 [64/2958]
+[2026-02-09 15:10:06] Đang xử lý [65/2958] - ID: 460
+[2026-02-09 15:10:12] Lỗi parse JSON (lần 1/3): Expecting value: line 17 column 5 (char 1912)
+[2026-02-09 15:10:12] Response text: {
+    "dialogue": [
+        {"role": "người gọi", "content": "Alo, dạ em chào anh ạ. Cho em hỏi đây có phải số máy của anh Nam không ạ?"},
+        {"role": "người nghe", "content": "Đúng rồi, ai đấy n...
+[2026-02-09 15:10:22] ✓ Hoàn thành ID: 460 [65/2958]
+[2026-02-09 15:10:23] Đang xử lý [66/2958] - ID: 461
+[2026-02-09 15:10:36] ✓ Hoàn thành ID: 461 [66/2958]
+[2026-02-09 15:10:37] Đang xử lý [67/2958] - ID: 462
+[2026-02-09 15:10:45] ✓ Hoàn thành ID: 462 [67/2958]
+[2026-02-09 15:10:47] Đang xử lý [68/2958] - ID: 463
+[2026-02-09 15:10:53] ✓ Hoàn thành ID: 463 [68/2958]
+[2026-02-09 15:10:55] Đang xử lý [69/2958] - ID: 464
+[2026-02-09 15:11:00] ✓ Hoàn thành ID: 464 [69/2958]
+[2026-02-09 15:11:02] Đang xử lý [70/2958] - ID: 465
+[2026-02-09 15:11:08] ✓ Hoàn thành ID: 465 [70/2958]
+[2026-02-09 15:11:09] Đang xử lý [71/2958] - ID: 466
+[2026-02-09 15:11:17] ✓ Hoàn thành ID: 466 [71/2958]
+[2026-02-09 15:11:19] Đang xử lý [72/2958] - ID: 467
+[2026-02-09 15:11:26] ✓ Hoàn thành ID: 467 [72/2958]
+[2026-02-09 15:11:27] Đang xử lý [73/2958] - ID: 468
+[2026-02-09 15:11:38] ✓ Hoàn thành ID: 468 [73/2958]
+[2026-02-09 15:11:39] Đang xử lý [74/2958] - ID: 469
+[2026-02-09 15:11:45] ✓ Hoàn thành ID: 469 [74/2958]
+[2026-02-09 15:11:47] Đang xử lý [75/2958] - ID: 470
+[2026-02-09 15:11:54] ✓ Hoàn thành ID: 470 [75/2958]
+[2026-02-09 15:11:55] Đang xử lý [76/2958] - ID: 471
+[2026-02-09 15:12:01] ✓ Hoàn thành ID: 471 [76/2958]
+[2026-02-09 15:12:03] Đang xử lý [77/2958] - ID: 472
+[2026-02-09 15:12:10] ✓ Hoàn thành ID: 472 [77/2958]
+[2026-02-09 15:12:11] Đang xử lý [78/2958] - ID: 473
+[2026-02-09 15:12:24] Lỗi parse JSON (lần 1/3): Expecting value: line 15 column 5 (char 1803)
+[2026-02-09 15:12:24] Response text: {
+    "dialogue": [
+        {"role": "người gọi", "content": "Alo ạ, xin chào anh. Em là Linh, nhân viên chăm sóc khách hàng bên sàn đầu tư tài chính Vietcom Capital đây ạ."},
+        {"role": "người ...
+[2026-02-09 15:12:38] ✓ Hoàn thành ID: 473 [78/2958]
+[2026-02-09 15:12:39] Đang xử lý [79/2958] - ID: 474
+[2026-02-09 15:12:46] ✓ Hoàn thành ID: 474 [79/2958]
+[2026-02-09 15:12:48] Đang xử lý [80/2958] - ID: 475
+[2026-02-09 15:12:53] ✓ Hoàn thành ID: 475 [80/2958]
+[2026-02-09 15:12:54] Đang xử lý [81/2958] - ID: 476
+[2026-02-09 15:13:01] ✓ Hoàn thành ID: 476 [81/2958]
+[2026-02-09 15:13:02] Đang xử lý [82/2958] - ID: 477
+[2026-02-09 15:13:07] ✓ Hoàn thành ID: 477 [82/2958]
+[2026-02-09 15:13:09] Đang xử lý [83/2958] - ID: 478
+[2026-02-09 15:13:15] ✓ Hoàn thành ID: 478 [83/2958]
+[2026-02-09 15:13:17] Đang xử lý [84/2958] - ID: 479
+[2026-02-09 15:13:23] ✓ Hoàn thành ID: 479 [84/2958]
+[2026-02-09 15:13:24] Đang xử lý [85/2958] - ID: 480
+[2026-02-09 15:13:30] ✓ Hoàn thành ID: 480 [85/2958]
+[2026-02-09 15:13:32] Đang xử lý [86/2958] - ID: 481
+[2026-02-09 15:13:37] ✓ Hoàn thành ID: 481 [86/2958]
+[2026-02-09 15:13:39] Đang xử lý [87/2958] - ID: 482
+[2026-02-09 15:13:45] ✓ Hoàn thành ID: 482 [87/2958]
+[2026-02-09 15:13:46] Đang xử lý [88/2958] - ID: 483
+[2026-02-09 15:14:05] ✓ Hoàn thành ID: 483 [88/2958]
+[2026-02-09 15:14:06] Đang xử lý [89/2958] - ID: 484
+[2026-02-09 15:14:13] ✓ Hoàn thành ID: 484 [89/2958]
+[2026-02-09 15:14:15] Đang xử lý [90/2958] - ID: 485
+[2026-02-09 15:14:21] ✓ Hoàn thành ID: 485 [90/2958]
+[2026-02-09 15:14:23] Đang xử lý [91/2958] - ID: 486
+[2026-02-09 15:14:29] ✓ Hoàn thành ID: 486 [91/2958]
+[2026-02-09 15:14:31] Đang xử lý [92/2958] - ID: 487
+[2026-02-09 15:14:31] HTTP 500: {"error":{"message":"Internal Server Error","code":500}}
+[2026-02-09 15:14:31] Lỗi HTTP (lần 1/3): 500 Server Error: Internal Server Error for url: https://openrouter.ai/api/v1/chat/completions
+[2026-02-09 15:14:39] ✓ Hoàn thành ID: 487 [92/2958]
+[2026-02-09 15:14:41] Đang xử lý [93/2958] - ID: 488
+[2026-02-09 15:14:50] ✓ Hoàn thành ID: 488 [93/2958]
+[2026-02-09 15:14:52] Đang xử lý [94/2958] - ID: 489
+[2026-02-09 15:14:58] ✓ Hoàn thành ID: 489 [94/2958]
+[2026-02-09 15:15:00] Đang xử lý [95/2958] - ID: 490
+[2026-02-09 15:15:05] ✓ Hoàn thành ID: 490 [95/2958]
+[2026-02-09 15:15:07] Đang xử lý [96/2958] - ID: 491
+[2026-02-09 15:15:13] ✓ Hoàn thành ID: 491 [96/2958]
+[2026-02-09 15:15:14] Đang xử lý [97/2958] - ID: 492
+[2026-02-09 15:15:22] ✓ Hoàn thành ID: 492 [97/2958]
+[2026-02-09 15:15:23] Đang xử lý [98/2958] - ID: 493
+[2026-02-09 15:15:29] ✓ Hoàn thành ID: 493 [98/2958]
+[2026-02-09 15:15:30] Đang xử lý [99/2958] - ID: 494
+[2026-02-09 15:15:37] ✓ Hoàn thành ID: 494 [99/2958]
+[2026-02-09 15:15:39] Đang xử lý [100/2958] - ID: 495
+[2026-02-09 15:15:49] ✓ Hoàn thành ID: 495 [100/2958]
+[2026-02-09 15:15:50] Đang xử lý [101/2958] - ID: 496
+[2026-02-09 15:15:56] ✓ Hoàn thành ID: 496 [101/2958]
+[2026-02-09 15:15:57] Đang xử lý [102/2958] - ID: 497
+[2026-02-09 15:16:03] ✓ Hoàn thành ID: 497 [102/2958]
+[2026-02-09 15:16:04] Đang xử lý [103/2958] - ID: 498
+[2026-02-09 15:16:12] ✓ Hoàn thành ID: 498 [103/2958]
+[2026-02-09 15:16:14] Đang xử lý [104/2958] - ID: 499
+[2026-02-09 15:16:20] ✓ Hoàn thành ID: 499 [104/2958]
+[2026-02-09 15:16:22] Đang xử lý [105/2958] - ID: 500
+[2026-02-09 15:16:30] ✓ Hoàn thành ID: 500 [105/2958]
+[2026-02-09 15:16:32] Đang xử lý [106/2958] - ID: 501
+[2026-02-09 15:16:37] ✓ Hoàn thành ID: 501 [106/2958]
+[2026-02-09 15:16:39] Đang xử lý [107/2958] - ID: 502
+[2026-02-09 15:16:45] ✓ Hoàn thành ID: 502 [107/2958]
+[2026-02-09 15:16:46] Đang xử lý [108/2958] - ID: 503
+[2026-02-09 15:16:52] ✓ Hoàn thành ID: 503 [108/2958]
+[2026-02-09 15:16:54] Đang xử lý [109/2958] - ID: 504
+[2026-02-09 15:17:03] ✓ Hoàn thành ID: 504 [109/2958]
+[2026-02-09 15:17:04] Đang xử lý [110/2958] - ID: 505
+[2026-02-09 15:17:11] ✓ Hoàn thành ID: 505 [110/2958]
+[2026-02-09 15:17:13] Đang xử lý [111/2958] - ID: 506
+[2026-02-09 15:17:19] Lỗi parse JSON (lần 1/3): Expecting value: line 1 column 1 (char 0)
+[2026-02-09 15:17:19] Response text: thoughtful tube invited {
+ "dialogue": [
+  {
+   "role": "người gọi",
+   "content": "Alo{
+    "dialogue": [
+        {
+            "role": "người gọi",
+            "content": "Alo, cho hỏi có phải là Mi...
+[2026-02-09 15:17:27] ✓ Hoàn thành ID: 506 [111/2958]
+[2026-02-09 15:17:29] Đang xử lý [112/2958] - ID: 507
+[2026-02-09 15:17:35] ✓ Hoàn thành ID: 507 [112/2958]
+[2026-02-09 15:17:36] Đang xử lý [113/2958] - ID: 508
+[2026-02-09 15:17:44] ✓ Hoàn thành ID: 508 [113/2958]
+[2026-02-09 15:17:45] Đang xử lý [114/2958] - ID: 509
+[2026-02-09 15:17:51] ✓ Hoàn thành ID: 509 [114/2958]
+[2026-02-09 15:17:53] Đang xử lý [115/2958] - ID: 510
+[2026-02-09 15:17:58] ✓ Hoàn thành ID: 510 [115/2958]
+[2026-02-09 15:17:59] Đang xử lý [116/2958] - ID: 511
+[2026-02-09 15:18:07] ✓ Hoàn thành ID: 511 [116/2958]
+[2026-02-09 15:18:08] Đang xử lý [117/2958] - ID: 512
+[2026-02-09 15:18:14] ✓ Hoàn thành ID: 512 [117/2958]
+[2026-02-09 15:18:16] Đang xử lý [118/2958] - ID: 513
+[2026-02-09 15:18:21] ✓ Hoàn thành ID: 513 [118/2958]
+[2026-02-09 15:18:22] Đang xử lý [119/2958] - ID: 514
+[2026-02-09 15:18:28] ✓ Hoàn thành ID: 514 [119/2958]
+[2026-02-09 15:18:30] Đang xử lý [120/2958] - ID: 515
+[2026-02-09 15:18:38] ✓ Hoàn thành ID: 515 [120/2958]
+[2026-02-09 15:18:39] Đang xử lý [121/2958] - ID: 516
+[2026-02-09 15:18:46] ✓ Hoàn thành ID: 516 [121/2958]
+[2026-02-09 15:18:48] Đang xử lý [122/2958] - ID: 517
+[2026-02-09 15:18:54] ✓ Hoàn thành ID: 517 [122/2958]
+[2026-02-09 15:18:56] Đang xử lý [123/2958] - ID: 518
+[2026-02-09 15:19:02] ✓ Hoàn thành ID: 518 [123/2958]
+[2026-02-09 15:19:04] Đang xử lý [124/2958] - ID: 519
+[2026-02-09 15:19:15] ✓ Hoàn thành ID: 519 [124/2958]
+[2026-02-09 15:19:17] Đang xử lý [125/2958] - ID: 520
+[2026-02-09 15:19:23] ✓ Hoàn thành ID: 520 [125/2958]
+[2026-02-09 15:19:25] Đang xử lý [126/2958] - ID: 521
+[2026-02-09 15:19:33] ✓ Hoàn thành ID: 521 [126/2958]
+[2026-02-09 15:19:34] Đang xử lý [127/2958] - ID: 522
+[2026-02-09 15:19:47] ✓ Hoàn thành ID: 522 [127/2958]
+[2026-02-09 15:19:48] Đang xử lý [128/2958] - ID: 523
+[2026-02-09 15:19:54] ✓ Hoàn thành ID: 523 [128/2958]
+[2026-02-09 15:19:56] Đang xử lý [129/2958] - ID: 524
+[2026-02-09 15:20:03] ✓ Hoàn thành ID: 524 [129/2958]
+[2026-02-09 15:20:05] Đang xử lý [130/2958] - ID: 525
+[2026-02-09 15:20:11] ✓ Hoàn thành ID: 525 [130/2958]
+[2026-02-09 15:20:12] Đang xử lý [131/2958] - ID: 526
+[2026-02-09 15:20:19] ✓ Hoàn thành ID: 526 [131/2958]
+[2026-02-09 15:20:20] Đang xử lý [132/2958] - ID: 527
+[2026-02-09 15:20:37] ✓ Hoàn thành ID: 527 [132/2958]
+[2026-02-09 15:20:39] Đang xử lý [133/2958] - ID: 528
+[2026-02-09 15:20:45] ✓ Hoàn thành ID: 528 [133/2958]
+[2026-02-09 15:20:47] Đang xử lý [134/2958] - ID: 529
+[2026-02-09 15:20:54] ✓ Hoàn thành ID: 529 [134/2958]
+[2026-02-09 15:20:55] Đang xử lý [135/2958] - ID: 530
+[2026-02-09 15:21:04] Lỗi parse JSON (lần 1/3): Expecting value: line 1 column 1 (char 0)
+[2026-02-09 15:21:04] Response text: ...
+[2026-02-09 15:21:13] ✓ Hoàn thành ID: 530 [135/2958]
+[2026-02-09 15:21:15] Đang xử lý [136/2958] - ID: 531
+[2026-02-09 15:21:21] ✓ Hoàn thành ID: 531 [136/2958]
+[2026-02-09 15:21:23] Đang xử lý [137/2958] - ID: 532
+[2026-02-09 15:21:29] ✓ Hoàn thành ID: 532 [137/2958]
+[2026-02-09 15:21:31] Đang xử lý [138/2958] - ID: 533
+[2026-02-09 15:21:37] ✓ Hoàn thành ID: 533 [138/2958]
+[2026-02-09 15:21:39] Đang xử lý [139/2958] - ID: 534
+[2026-02-09 15:21:44] ✓ Hoàn thành ID: 534 [139/2958]
+[2026-02-09 15:21:46] Đang xử lý [140/2958] - ID: 535
+[2026-02-09 15:21:54] ✓ Hoàn thành ID: 535 [140/2958]
+[2026-02-09 15:21:56] Đang xử lý [141/2958] - ID: 536
+[2026-02-09 15:22:05] ✓ Hoàn thành ID: 536 [141/2958]
+[2026-02-09 15:22:07] Đang xử lý [142/2958] - ID: 537
+[2026-02-09 15:22:13] ✓ Hoàn thành ID: 537 [142/2958]
+[2026-02-09 15:22:14] Đang xử lý [143/2958] - ID: 538
+[2026-02-09 15:22:21] ✓ Hoàn thành ID: 538 [143/2958]
+[2026-02-09 15:22:23] Đang xử lý [144/2958] - ID: 539
+[2026-02-09 15:22:29] ✓ Hoàn thành ID: 539 [144/2958]
+[2026-02-09 15:22:30] Đang xử lý [145/2958] - ID: 540
+[2026-02-09 15:22:36] ✓ Hoàn thành ID: 540 [145/2958]
+[2026-02-09 15:22:38] Đang xử lý [146/2958] - ID: 541
+[2026-02-09 15:22:44] ✓ Hoàn thành ID: 541 [146/2958]
+[2026-02-09 15:22:46] Đang xử lý [147/2958] - ID: 542
+[2026-02-09 15:22:52] ✓ Hoàn thành ID: 542 [147/2958]
+[2026-02-09 15:22:53] Đang xử lý [148/2958] - ID: 543
+[2026-02-09 15:22:59] ✓ Hoàn thành ID: 543 [148/2958]
+[2026-02-09 15:23:01] Đang xử lý [149/2958] - ID: 544
+[2026-02-09 15:23:08] ✓ Hoàn thành ID: 544 [149/2958]
+[2026-02-09 15:23:10] Đang xử lý [150/2958] - ID: 545
+[2026-02-09 15:23:15] ✓ Hoàn thành ID: 545 [150/2958]
+[2026-02-09 15:23:17] Đang xử lý [151/2958] - ID: 546
+[2026-02-09 15:23:23] ✓ Hoàn thành ID: 546 [151/2958]
+[2026-02-09 15:23:24] Đang xử lý [152/2958] - ID: 547
+[2026-02-09 15:23:30] ✓ Hoàn thành ID: 547 [152/2958]
+[2026-02-09 15:23:31] Đang xử lý [153/2958] - ID: 548
+[2026-02-09 15:23:38] ✓ Hoàn thành ID: 548 [153/2958]
+[2026-02-09 15:23:40] Đang xử lý [154/2958] - ID: 549
+[2026-02-09 15:23:46] ✓ Hoàn thành ID: 549 [154/2958]
+[2026-02-09 15:23:47] Đang xử lý [155/2958] - ID: 550
+[2026-02-09 15:23:53] ✓ Hoàn thành ID: 550 [155/2958]
+[2026-02-09 15:23:55] Đang xử lý [156/2958] - ID: 551
+[2026-02-09 15:24:01] ✓ Hoàn thành ID: 551 [156/2958]
+[2026-02-09 15:24:02] Đang xử lý [157/2958] - ID: 552
+[2026-02-09 15:24:09] ✓ Hoàn thành ID: 552 [157/2958]
+[2026-02-09 15:24:11] Đang xử lý [158/2958] - ID: 553
+[2026-02-09 15:24:17] ✓ Hoàn thành ID: 553 [158/2958]
+[2026-02-09 15:24:18] Đang xử lý [159/2958] - ID: 554
+[2026-02-09 15:24:26] ✓ Hoàn thành ID: 554 [159/2958]
+[2026-02-09 15:24:27] Đang xử lý [160/2958] - ID: 555
+[2026-02-09 15:24:34] ✓ Hoàn thành ID: 555 [160/2958]
+[2026-02-09 15:24:35] Đang xử lý [161/2958] - ID: 556
+[2026-02-09 15:24:41] ✓ Hoàn thành ID: 556 [161/2958]
+[2026-02-09 15:24:43] Đang xử lý [162/2958] - ID: 557
+[2026-02-09 15:24:52] ✓ Hoàn thành ID: 557 [162/2958]
+[2026-02-09 15:24:53] Đang xử lý [163/2958] - ID: 558
+[2026-02-09 15:24:59] ✓ Hoàn thành ID: 558 [163/2958]
+[2026-02-09 15:25:01] Đang xử lý [164/2958] - ID: 559
+[2026-02-09 15:25:07] ✓ Hoàn thành ID: 559 [164/2958]
+[2026-02-09 15:25:08] Đang xử lý [165/2958] - ID: 560
+[2026-02-09 15:25:15] ✓ Hoàn thành ID: 560 [165/2958]
+[2026-02-09 15:25:17] Đang xử lý [166/2958] - ID: 561
+[2026-02-09 15:25:24] ✓ Hoàn thành ID: 561 [166/2958]
+[2026-02-09 15:25:26] Đang xử lý [167/2958] - ID: 562
+[2026-02-09 15:25:32] ✓ Hoàn thành ID: 562 [167/2958]
+[2026-02-09 15:25:34] Đang xử lý [168/2958] - ID: 563
+[2026-02-09 15:25:39] ✓ Hoàn thành ID: 563 [168/2958]
+[2026-02-09 15:25:41] Đang xử lý [169/2958] - ID: 564
+[2026-02-09 15:25:50] ✓ Hoàn thành ID: 564 [169/2958]
+[2026-02-09 15:25:51] Đang xử lý [170/2958] - ID: 565
+[2026-02-09 15:25:59] ✓ Hoàn thành ID: 565 [170/2958]
+[2026-02-09 15:26:00] Đang xử lý [171/2958] - ID: 566
+[2026-02-09 15:26:06] ✓ Hoàn thành ID: 566 [171/2958]
+[2026-02-09 15:26:07] Đang xử lý [172/2958] - ID: 567
+[2026-02-09 15:26:13] ✓ Hoàn thành ID: 567 [172/2958]
+[2026-02-09 15:26:15] Đang xử lý [173/2958] - ID: 568
+[2026-02-09 15:26:22] ✓ Hoàn thành ID: 568 [173/2958]
+[2026-02-09 15:26:23] Đang xử lý [174/2958] - ID: 569
+[2026-02-09 15:26:31] ✓ Hoàn thành ID: 569 [174/2958]
+[2026-02-09 15:26:32] Đang xử lý [175/2958] - ID: 570
+[2026-02-09 15:26:37] ✓ Hoàn thành ID: 570 [175/2958]
+[2026-02-09 15:26:39] Đang xử lý [176/2958] - ID: 571
+[2026-02-09 15:26:44] ✓ Hoàn thành ID: 571 [176/2958]
+[2026-02-09 15:26:46] Đang xử lý [177/2958] - ID: 572
+[2026-02-09 15:26:51] ✓ Hoàn thành ID: 572 [177/2958]
+[2026-02-09 15:26:53] Đang xử lý [178/2958] - ID: 573
+[2026-02-09 15:26:59] ✓ Hoàn thành ID: 573 [178/2958]
+[2026-02-09 15:27:01] Đang xử lý [179/2958] - ID: 574
+[2026-02-09 15:27:07] ✓ Hoàn thành ID: 574 [179/2958]
+[2026-02-09 15:27:08] Đang xử lý [180/2958] - ID: 575
+[2026-02-09 15:27:15] ✓ Hoàn thành ID: 575 [180/2958]
+[2026-02-09 15:27:16] Đang xử lý [181/2958] - ID: 576
+[2026-02-09 15:27:22] ✓ Hoàn thành ID: 576 [181/2958]
+[2026-02-09 15:27:24] Đang xử lý [182/2958] - ID: 577
+[2026-02-09 15:27:30] ✓ Hoàn thành ID: 577 [182/2958]
+[2026-02-09 15:27:31] Đang xử lý [183/2958] - ID: 578
+[2026-02-09 15:27:37] ✓ Hoàn thành ID: 578 [183/2958]
+[2026-02-09 15:27:39] Đang xử lý [184/2958] - ID: 579
+[2026-02-09 15:27:45] ✓ Hoàn thành ID: 579 [184/2958]
+[2026-02-09 15:27:46] Đang xử lý [185/2958] - ID: 580
+[2026-02-09 15:27:53] ✓ Hoàn thành ID: 580 [185/2958]
+[2026-02-09 15:27:55] Đang xử lý [186/2958] - ID: 581
+[2026-02-09 15:28:01] ✓ Hoàn thành ID: 581 [186/2958]
+[2026-02-09 15:28:03] Đang xử lý [187/2958] - ID: 582
+[2026-02-09 15:28:09] ✓ Hoàn thành ID: 582 [187/2958]
+[2026-02-09 15:28:10] Đang xử lý [188/2958] - ID: 583
+[2026-02-09 15:28:16] ✓ Hoàn thành ID: 583 [188/2958]
+[2026-02-09 15:28:17] Đang xử lý [189/2958] - ID: 584
+[2026-02-09 15:28:23] ✓ Hoàn thành ID: 584 [189/2958]
+[2026-02-09 15:28:25] Đang xử lý [190/2958] - ID: 585
+[2026-02-09 15:28:38] ✓ Hoàn thành ID: 585 [190/2958]
+[2026-02-09 15:28:39] Đang xử lý [191/2958] - ID: 586
+[2026-02-09 15:28:45] ✓ Hoàn thành ID: 586 [191/2958]
+[2026-02-09 15:28:46] Đang xử lý [192/2958] - ID: 587
+[2026-02-09 15:29:01] ✓ Hoàn thành ID: 587 [192/2958]
+[2026-02-09 15:29:03] Đang xử lý [193/2958] - ID: 588
+[2026-02-09 15:29:09] ✓ Hoàn thành ID: 588 [193/2958]
+[2026-02-09 15:29:11] Đang xử lý [194/2958] - ID: 589
+[2026-02-09 15:29:22] ✓ Hoàn thành ID: 589 [194/2958]
+[2026-02-09 15:29:23] Đang xử lý [195/2958] - ID: 590
+[2026-02-09 15:29:35] ✓ Hoàn thành ID: 590 [195/2958]
+[2026-02-09 15:29:37] Đang xử lý [196/2958] - ID: 591
+[2026-02-09 15:29:45] ✓ Hoàn thành ID: 591 [196/2958]
+[2026-02-09 15:29:46] Đang xử lý [197/2958] - ID: 592
+[2026-02-09 15:29:53] ✓ Hoàn thành ID: 592 [197/2958]
+[2026-02-09 15:29:54] Đang xử lý [198/2958] - ID: 593
+[2026-02-09 15:30:01] ✓ Hoàn thành ID: 593 [198/2958]
+[2026-02-09 15:30:02] Đang xử lý [199/2958] - ID: 594
+[2026-02-09 15:30:09] ✓ Hoàn thành ID: 594 [199/2958]
+[2026-02-09 15:30:11] Đang xử lý [200/2958] - ID: 595
+[2026-02-09 15:30:17] ✓ Hoàn thành ID: 595 [200/2958]
+[2026-02-09 15:30:18] Đang xử lý [201/2958] - ID: 596
+[2026-02-09 15:30:25] ✓ Hoàn thành ID: 596 [201/2958]
+[2026-02-09 15:30:26] Đang xử lý [202/2958] - ID: 597
+[2026-02-09 15:30:33] ✓ Hoàn thành ID: 597 [202/2958]
+[2026-02-09 15:30:34] Đang xử lý [203/2958] - ID: 598
+[2026-02-09 15:30:40] ✓ Hoàn thành ID: 598 [203/2958]
+[2026-02-09 15:30:42] Đang xử lý [204/2958] - ID: 599
+[2026-02-09 15:30:49] ✓ Hoàn thành ID: 599 [204/2958]
+[2026-02-09 15:30:50] Đang xử lý [205/2958] - ID: 600
+[2026-02-09 15:30:57] ✓ Hoàn thành ID: 600 [205/2958]
+[2026-02-09 15:30:58] Đang xử lý [206/2958] - ID: 601
+[2026-02-09 15:31:04] ✓ Hoàn thành ID: 601 [206/2958]
+[2026-02-09 15:31:05] Đang xử lý [207/2958] - ID: 602
+[2026-02-09 15:31:13] ✓ Hoàn thành ID: 602 [207/2958]
+[2026-02-09 15:31:15] Đang xử lý [208/2958] - ID: 603
+[2026-02-09 15:31:20] ✓ Hoàn thành ID: 603 [208/2958]
+[2026-02-09 15:31:21] Đang xử lý [209/2958] - ID: 604
+[2026-02-09 15:31:27] ✓ Hoàn thành ID: 604 [209/2958]
+[2026-02-09 15:31:28] Đang xử lý [210/2958] - ID: 605
+[2026-02-09 15:31:34] ✓ Hoàn thành ID: 605 [210/2958]
+[2026-02-09 15:31:36] Đang xử lý [211/2958] - ID: 606
+[2026-02-09 15:31:46] ✓ Hoàn thành ID: 606 [211/2958]
+[2026-02-09 15:31:47] Đang xử lý [212/2958] - ID: 607
+[2026-02-09 15:32:00] ✓ Hoàn thành ID: 607 [212/2958]
+[2026-02-09 15:32:01] Đang xử lý [213/2958] - ID: 608
+[2026-02-09 15:32:07] ✓ Hoàn thành ID: 608 [213/2958]
+[2026-02-09 15:32:09] Đang xử lý [214/2958] - ID: 609
+[2026-02-09 15:32:17] ✓ Hoàn thành ID: 609 [214/2958]
+[2026-02-09 15:32:19] Đang xử lý [215/2958] - ID: 610
+[2026-02-09 15:32:25] ✓ Hoàn thành ID: 610 [215/2958]
+[2026-02-09 15:32:26] Đang xử lý [216/2958] - ID: 611
+[2026-02-09 15:32:32] ✓ Hoàn thành ID: 611 [216/2958]
+[2026-02-09 15:32:34] Đang xử lý [217/2958] - ID: 612
+[2026-02-09 15:32:50] ✓ Hoàn thành ID: 612 [217/2958]
+[2026-02-09 15:32:51] Đang xử lý [218/2958] - ID: 613
+[2026-02-09 15:32:58] ✓ Hoàn thành ID: 613 [218/2958]
+[2026-02-09 15:32:59] Đang xử lý [219/2958] - ID: 614
+[2026-02-09 15:33:28] ✓ Hoàn thành ID: 614 [219/2958]
+[2026-02-09 15:33:30] Đang xử lý [220/2958] - ID: 615
+[2026-02-09 15:33:45] ✓ Hoàn thành ID: 615 [220/2958]
+[2026-02-09 15:33:46] Đang xử lý [221/2958] - ID: 616
+[2026-02-09 15:33:52] ✓ Hoàn thành ID: 616 [221/2958]
+[2026-02-09 15:33:54] Đang xử lý [222/2958] - ID: 617
+[2026-02-09 15:34:10] ✓ Hoàn thành ID: 617 [222/2958]
+[2026-02-09 15:34:12] Đang xử lý [223/2958] - ID: 618
+[2026-02-09 15:34:29] ✓ Hoàn thành ID: 618 [223/2958]
+[2026-02-09 15:34:31] Đang xử lý [224/2958] - ID: 619
+[2026-02-09 15:34:39] ✓ Hoàn thành ID: 619 [224/2958]
+[2026-02-09 15:34:41] Đang xử lý [225/2958] - ID: 620
+[2026-02-09 15:34:54] ✓ Hoàn thành ID: 620 [225/2958]
+[2026-02-09 15:34:56] Đang xử lý [226/2958] - ID: 621
+[2026-02-09 15:35:14] ✓ Hoàn thành ID: 621 [226/2958]
+[2026-02-09 15:35:15] Đang xử lý [227/2958] - ID: 622
+[2026-02-09 15:35:23] ✓ Hoàn thành ID: 622 [227/2958]
+[2026-02-09 15:35:25] Đang xử lý [228/2958] - ID: 623
+[2026-02-09 15:35:31] ✓ Hoàn thành ID: 623 [228/2958]
+[2026-02-09 15:35:33] Đang xử lý [229/2958] - ID: 624
+[2026-02-09 15:35:38] ✓ Hoàn thành ID: 624 [229/2958]
+[2026-02-09 15:35:40] Đang xử lý [230/2958] - ID: 625
+[2026-02-09 15:35:47] ✓ Hoàn thành ID: 625 [230/2958]
+[2026-02-09 15:35:49] Đang xử lý [231/2958] - ID: 626
+[2026-02-09 15:35:55] ✓ Hoàn thành ID: 626 [231/2958]
+[2026-02-09 15:35:56] Đang xử lý [232/2958] - ID: 627
+[2026-02-09 15:36:14] ✓ Hoàn thành ID: 627 [232/2958]
+[2026-02-09 15:36:15] Đang xử lý [233/2958] - ID: 628
+[2026-02-09 15:36:21] ✓ Hoàn thành ID: 628 [233/2958]
+[2026-02-09 15:36:22] Đang xử lý [234/2958] - ID: 629
+[2026-02-09 15:36:28] ✓ Hoàn thành ID: 629 [234/2958]
+[2026-02-09 15:36:29] Đang xử lý [235/2958] - ID: 630
+[2026-02-09 15:36:35] ✓ Hoàn thành ID: 630 [235/2958]
+[2026-02-09 15:36:36] Đang xử lý [236/2958] - ID: 631
+[2026-02-09 15:36:49] ✓ Hoàn thành ID: 631 [236/2958]
+[2026-02-09 15:36:50] Đang xử lý [237/2958] - ID: 632
+[2026-02-09 15:36:56] ✓ Hoàn thành ID: 632 [237/2958]
+[2026-02-09 15:36:58] Đang xử lý [238/2958] - ID: 633
+[2026-02-09 15:37:04] ✓ Hoàn thành ID: 633 [238/2958]
+[2026-02-09 15:37:05] Đang xử lý [239/2958] - ID: 634
+[2026-02-09 15:37:07] HTTP 402: {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 65535 tokens, but can only afford 13262. To increase, visit https://openrouter.ai/settings/credits and add more credits","code":402,"metadata":{"provider_name":null}},"user_id":"user_38rqRJZo50BGLNrNDFUcpJPRMQc"}
+[2026-02-09 15:37:07] Lỗi HTTP (lần 1/3): 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions
+[2026-02-09 15:37:11] HTTP 402: {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 65535 tokens, but can only afford 13262. To increase, visit https://openrouter.ai/settings/credits and add more credits","code":402,"metadata":{"provider_name":null}},"user_id":"user_38rqRJZo50BGLNrNDFUcpJPRMQc"}
+[2026-02-09 15:37:11] Lỗi HTTP (lần 2/3): 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions
+[2026-02-09 15:37:14] HTTP 402: {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 65535 tokens, but can only afford 13262. To increase, visit https://openrouter.ai/settings/credits and add more credits","code":402,"metadata":{"provider_name":null}},"user_id":"user_38rqRJZo50BGLNrNDFUcpJPRMQc"}
+[2026-02-09 15:37:14] Lỗi HTTP (lần 3/3): 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions
+[2026-02-09 15:37:14] ✗ Lỗi xử lý ID 634: 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions
+[2026-02-09 15:37:14] Đang xử lý [240/2958] - ID: 635
+[2026-02-09 15:37:15] HTTP 402: {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 65535 tokens, but can only afford 13262. To increase, visit https://openrouter.ai/settings/credits and add more credits","code":402,"metadata":{"provider_name":null}},"user_id":"user_38rqRJZo50BGLNrNDFUcpJPRMQc"}
+[2026-02-09 15:37:15] Lỗi HTTP (lần 1/3): 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions
+[2026-02-09 15:37:18] HTTP 402: {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 13262. To increase, visit https://openrouter.ai/settings/credits and add more credits","code":402,"metadata":{"provider_name":null}},"user_id":"user_38rqRJZo50BGLNrNDFUcpJPRMQc"}
+[2026-02-09 15:37:18] Lỗi HTTP (lần 2/3): 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions
+[2026-02-09 15:37:22] HTTP 402: {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 13262. To increase, visit https://openrouter.ai/settings/credits and add more credits","code":402,"metadata":{"provider_name":null}},"user_id":"user_38rqRJZo50BGLNrNDFUcpJPRMQc"}
+[2026-02-09 15:37:22] Lỗi HTTP (lần 3/3): 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions
+[2026-02-09 15:37:22] ✗ Lỗi xử lý ID 635: 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions
+[2026-02-09 15:37:22] Đang xử lý [241/2958] - ID: 636
+[2026-02-09 15:37:22] HTTP 402: {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 65535 tokens, but can only afford 13262. To increase, visit https://openrouter.ai/settings/credits and add more credits","code":402,"metadata":{"provider_name":null}},"user_id":"user_38rqRJZo50BGLNrNDFUcpJPRMQc"}
+[2026-02-09 15:37:22] Lỗi HTTP (lần 1/3): 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions
+[2026-02-09 15:37:27] HTTP 402: {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 13262. To increase, visit https://openrouter.ai/settings/credits and add more credits","code":402,"metadata":{"provider_name":null}},"user_id":"user_38rqRJZo50BGLNrNDFUcpJPRMQc"}
+[2026-02-09 15:37:27] Lỗi HTTP (lần 2/3): 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions
+[2026-02-09 15:37:30] HTTP 402: {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 13262. To increase, visit https://openrouter.ai/settings/credits and add more credits","code":402,"metadata":{"provider_name":null}},"user_id":"user_38rqRJZo50BGLNrNDFUcpJPRMQc"}
+[2026-02-09 15:37:30] Lỗi HTTP (lần 3/3): 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions
+[2026-02-09 15:37:30] ✗ Lỗi xử lý ID 636: 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions
+[2026-02-09 15:37:30] Đang xử lý [242/2958] - ID: 637
+[2026-02-09 15:37:31] HTTP 402: {"error":{"message":"This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 13262. To increase, visit https://openrouter.ai/settings/credits and add more credits","code":402,"metadata":{"provider_name":null}},"user_id":"user_38rqRJZo50BGLNrNDFUcpJPRMQc"}
+[2026-02-09 15:37:31] Lỗi HTTP (lần 1/3): 402 Client Error: Payment Required for url: https://openrouter.ai/api/v1/chat/completions
+
+==================================================
+Bắt đầu chuyển đổi: 2026-02-09 16:25:09.677728
+==================================================
+[2026-02-09 16:25:19] Tổng số mẫu cần xử lý: 67
+[2026-02-09 16:25:19] Đang xử lý [1/67] - ID: 634
+[2026-02-09 16:25:47] ✓ Hoàn thành ID: 634 [1/67]
+[2026-02-09 16:25:48] Đang xử lý [2/67] - ID: 635
+[2026-02-09 16:26:09] ✓ Hoàn thành ID: 635 [2/67]
+[2026-02-09 16:26:10] Đang xử lý [3/67] - ID: 636
+[2026-02-09 16:26:27] ✓ Hoàn thành ID: 636 [3/67]
+[2026-02-09 16:26:28] Đang xử lý [4/67] - ID: 637
+[2026-02-09 16:26:55] ✓ Hoàn thành ID: 637 [4/67]
+[2026-02-09 16:26:56] Đang xử lý [5/67] - ID: 638
+[2026-02-09 16:27:18] ✓ Hoàn thành ID: 638 [5/67]
+[2026-02-09 16:27:19] Đang xử lý [6/67] - ID: 639
+[2026-02-09 16:27:35] ✓ Hoàn thành ID: 639 [6/67]
+[2026-02-09 16:27:36] Đang xử lý [7/67] - ID: 640
+[2026-02-09 16:27:58] ✓ Hoàn thành ID: 640 [7/67]
+[2026-02-09 16:27:59] Đang xử lý [8/67] - ID: 641
+[2026-02-09 16:28:12] ✓ Hoàn thành ID: 641 [8/67]
+[2026-02-09 16:28:13] Đang xử lý [9/67] - ID: 642
+[2026-02-09 16:28:28] ✓ Hoàn thành ID: 642 [9/67]
+[2026-02-09 16:28:29] Đang xử lý [10/67] - ID: 643
+[2026-02-09 16:28:50] ✓ Hoàn thành ID: 643 [10/67]
+[2026-02-09 16:28:51] Đang xử lý [11/67] - ID: 644
+[2026-02-09 16:29:05] ✓ Hoàn thành ID: 644 [11/67]
+[2026-02-09 16:29:06] Đang xử lý [12/67] - ID: 645
+[2026-02-09 16:29:21] ✓ Hoàn thành ID: 645 [12/67]
+[2026-02-09 16:29:22] Đang xử lý [13/67] - ID: 646
+[2026-02-09 16:29:37] ✓ Hoàn thành ID: 646 [13/67]
+[2026-02-09 16:29:38] Đang xử lý [14/67] - ID: 647
+[2026-02-09 16:29:52] ✓ Hoàn thành ID: 647 [14/67]
+[2026-02-09 16:29:53] Đang xử lý [15/67] - ID: 648
+[2026-02-09 16:30:06] ✓ Hoàn thành ID: 648 [15/67]
+[2026-02-09 16:30:07] Đang xử lý [16/67] - ID: 649
+[2026-02-09 16:30:19] ✓ Hoàn thành ID: 649 [16/67]
+[2026-02-09 16:30:20] Đang xử lý [17/67] - ID: 650
+[2026-02-09 16:30:31] ✓ Hoàn thành ID: 650 [17/67]
+[2026-02-09 16:30:32] Đang xử lý [18/67] - ID: 651
+[2026-02-09 16:30:53] ✓ Hoàn thành ID: 651 [18/67]
+[2026-02-09 16:30:54] Đang xử lý [19/67] - ID: 652
+[2026-02-09 16:30:55] Lỗi API (lần 1/3): 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 6.716756738s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 6
+}
+]
+[2026-02-09 16:30:57] Lỗi API (lần 2/3): 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 4.588971886s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 4
+}
+]
+[2026-02-09 16:30:59] Lỗi API (lần 3/3): 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 2.479672748s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 2
+}
+]
+[2026-02-09 16:30:59] ✗ Lỗi xử lý ID 652: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 2.479672748s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 2
+}
+]
+[2026-02-09 16:30:59] Đang xử lý [20/67] - ID: 653
+[2026-02-09 16:30:59] Lỗi API (lần 1/3): 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 2.361897596s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 2
+}
+]
+[2026-02-09 16:31:01] Lỗi API (lần 2/3): 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 255.604146ms. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+}
+]
+[2026-02-09 16:31:03] Lỗi API (lần 3/3): 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 58.115352771s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 58
+}
+]
+[2026-02-09 16:31:03] ✗ Lỗi xử lý ID 653: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 58.115352771s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 58
+}
+]
+[2026-02-09 16:31:03] Đang xử lý [21/67] - ID: 654
+[2026-02-09 16:31:03] Lỗi API (lần 1/3): 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 57.976027336s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 57
+}
+]
+[2026-02-09 16:31:05] Lỗi API (lần 2/3): 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 55.86713772s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 55
+}
+]
+[2026-02-09 16:31:08] Lỗi API (lần 3/3): 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 53.719703412s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 53
+}
+]
+[2026-02-09 16:31:08] ✗ Lỗi xử lý ID 654: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 53.719703412s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 53
+}
+]
+[2026-02-09 16:31:08] Đang xử lý [22/67] - ID: 655
+[2026-02-09 16:31:08] Lỗi API (lần 1/3): 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 53.605919395s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 53
+}
+]
+[2026-02-09 16:31:10] Lỗi API (lần 2/3): 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 51.501779724s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 51
+}
+]
+[2026-02-09 16:31:12] Lỗi API (lần 3/3): 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 49.359032808s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 49
+}
+]
+[2026-02-09 16:31:12] ✗ Lỗi xử lý ID 655: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 49.359032808s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 49
+}
+]
+[2026-02-09 16:31:12] Đang xử lý [23/67] - ID: 656
+[2026-02-09 16:31:12] Lỗi API (lần 1/3): 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 49.244766212s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 49
+}
+]
+[2026-02-09 16:31:14] Lỗi API (lần 2/3): 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash
+Please retry in 47.138257545s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 47
+}
+]
+
+==================================================
+Bắt đầu chuyển đổi: 2026-02-09 16:32:42.605792
+==================================================
+[2026-02-09 16:32:42] 🤖 Sử dụng model: google/gemini-3-flash-preview
+[2026-02-09 16:32:44] ID cuối cùng đã xử lý: 651
+[2026-02-09 16:32:44] 🔄 Tự động tiếp tục từ ID: 652
+[2026-02-09 16:32:44] Tổng số mẫu cần xử lý: 2702
+[2026-02-09 16:32:44] Đang xử lý [1/2702] - ID: 652
+[2026-02-09 16:32:57] ✓ Hoàn thành ID: 652 [1/2702]
+[2026-02-09 16:32:58] Đang xử lý [2/2702] - ID: 653
+[2026-02-09 16:33:04] ✓ Hoàn thành ID: 653 [2/2702]
+[2026-02-09 16:33:05] Đang xử lý [3/2702] - ID: 654
+[2026-02-09 16:33:10] ✓ Hoàn thành ID: 654 [3/2702]
+[2026-02-09 16:33:12] Đang xử lý [4/2702] - ID: 655
+[2026-02-09 16:33:18] ✓ Hoàn thành ID: 655 [4/2702]
+[2026-02-09 16:33:20] Đang xử lý [5/2702] - ID: 656
+[2026-02-09 16:33:26] ✓ Hoàn thành ID: 656 [5/2702]
+[2026-02-09 16:33:27] Đang xử lý [6/2702] - ID: 657
+[2026-02-09 16:33:33] ✓ Hoàn thành ID: 657 [6/2702]
+[2026-02-09 16:33:35] Đang xử lý [7/2702] - ID: 658
+[2026-02-09 16:33:40] ✓ Hoàn thành ID: 658 [7/2702]
+[2026-02-09 16:33:41] Đang xử lý [8/2702] - ID: 659
+[2026-02-09 16:33:57] ✓ Hoàn thành ID: 659 [8/2702]
+[2026-02-09 16:33:59] Đang xử lý [9/2702] - ID: 660
+[2026-02-09 16:34:04] ✓ Hoàn thành ID: 660 [9/2702]
+[2026-02-09 16:34:06] Đang xử lý [10/2702] - ID: 661
+[2026-02-09 16:34:11] ✓ Hoàn thành ID: 661 [10/2702]
+[2026-02-09 16:34:13] Đang xử lý [11/2702] - ID: 662
+[2026-02-09 16:34:19] ✓ Hoàn thành ID: 662 [11/2702]
+[2026-02-09 16:34:20] Đang xử lý [12/2702] - ID: 663
+[2026-02-09 16:34:25] Lỗi parse JSON (lần 1/3): Expecting value: line 13 column 5 (char 1675)
+[2026-02-09 16:34:25] Response text: {
+    "dialogue": [
+        {"role": "người gọi", "content": "Alo, cho hỏi có phải số của Hoa không ạ?"},
+        {"role": "người nghe", "content": "Vâng đúng rồi, ai đấy ạ?"},
+        {"role": "người...
+[2026-02-09 16:34:32] ✓ Hoàn thành ID: 663 [12/2702]
+[2026-02-09 16:34:34] Đang xử lý [13/2702] - ID: 664
+[2026-02-09 16:34:41] ✓ Hoàn thành ID: 664 [13/2702]
+[2026-02-09 16:34:43] Đang xử lý [14/2702] - ID: 665
+[2026-02-09 16:34:49] ✓ Hoàn thành ID: 665 [14/2702]
+[2026-02-09 16:34:50] Đang xử lý [15/2702] - ID: 666
+[2026-02-09 16:34:54] ✓ Hoàn thành ID: 666 [15/2702]
+[2026-02-09 16:34:56] Đang xử lý [16/2702] - ID: 667
+[2026-02-09 16:35:01] ✓ Hoàn thành ID: 667 [16/2702]
+[2026-02-09 16:35:02] Đang xử lý [17/2702] - ID: 668
+[2026-02-09 16:35:08] ✓ Hoàn thành ID: 668 [17/2702]
+[2026-02-09 16:35:10] Đang xử lý [18/2702] - ID: 669
+[2026-02-09 16:35:15] ✓ Hoàn thành ID: 669 [18/2702]
+[2026-02-09 16:35:17] Đang xử lý [19/2702] - ID: 670
+[2026-02-09 16:35:33] ✓ Hoàn thành ID: 670 [19/2702]
+[2026-02-09 16:35:35] Đang xử lý [20/2702] - ID: 671
+[2026-02-09 16:35:40] ✓ Hoàn thành ID: 671 [20/2702]
+[2026-02-09 16:35:42] Đang xử lý [21/2702] - ID: 672
+[2026-02-09 16:35:48] ✓ Hoàn thành ID: 672 [21/2702]
+[2026-02-09 16:35:50] Đang xử lý [22/2702] - ID: 673
+[2026-02-09 16:35:55] ✓ Hoàn thành ID: 673 [22/2702]
+[2026-02-09 16:35:57] Đang xử lý [23/2702] - ID: 674
+[2026-02-09 16:36:02] ✓ Hoàn thành ID: 674 [23/2702]
+[2026-02-09 16:36:04] Đang xử lý [24/2702] - ID: 675
+[2026-02-09 16:36:09] Lỗi parse JSON (lần 1/3): Expecting value: line 1 column 1 (char 0)
+[2026-02-09 16:36:09] Response text: thought
+{
+    "dialogue": [
+        {
+            "role": "người gọi",
+            "content": "Dạ chào anh, em là nhân viên chăm sóc khách hàng bên ngân hàng VietinBank, mã số nhân viên của em là 6789...
+[2026-02-09 16:36:16] ✓ Hoàn thành ID: 675 [24/2702]
+[2026-02-09 16:36:18] Đang xử lý [25/2702] - ID: 676
+[2026-02-09 16:36:23] ✓ Hoàn thành ID: 676 [25/2702]
+[2026-02-09 16:36:25] Đang xử lý [26/2702] - ID: 677
+[2026-02-09 16:36:29] ✓ Hoàn thành ID: 677 [26/2702]
+[2026-02-09 16:36:31] Đang xử lý [27/2702] - ID: 678
+[2026-02-09 16:36:36] ✓ Hoàn thành ID: 678 [27/2702]
+[2026-02-09 16:36:37] Đang xử lý [28/2702] - ID: 679
+[2026-02-09 16:36:43] ✓ Hoàn thành ID: 679 [28/2702]
+[2026-02-09 16:36:44] Đang xử lý [29/2702] - ID: 680
+[2026-02-09 16:36:50] ✓ Hoàn thành ID: 680 [29/2702]
+[2026-02-09 16:36:51] Đang xử lý [30/2702] - ID: 681
+[2026-02-09 16:36:57] ✓ Hoàn thành ID: 681 [30/2702]
+[2026-02-09 16:36:59] Đang xử lý [31/2702] - ID: 682
+[2026-02-09 16:37:10] ✓ Hoàn thành ID: 682 [31/2702]
+[2026-02-09 16:37:12] Đang xử lý [32/2702] - ID: 683
+[2026-02-09 16:37:17] ✓ Hoàn thành ID: 683 [32/2702]
+[2026-02-09 16:37:18] Đang xử lý [33/2702] - ID: 684
+[2026-02-09 16:37:24] ✓ Hoàn thành ID: 684 [33/2702]
+[2026-02-09 16:37:25] Đang xử lý [34/2702] - ID: 685
+[2026-02-09 16:37:30] ✓ Hoàn thành ID: 685 [34/2702]
+[2026-02-09 16:37:32] Đang xử lý [35/2702] - ID: 686
+[2026-02-09 16:37:39] ✓ Hoàn thành ID: 686 [35/2702]
+[2026-02-09 16:37:40] Đang xử lý [36/2702] - ID: 687
+[2026-02-09 16:37:45] ✓ Hoàn thành ID: 687 [36/2702]
+[2026-02-09 16:37:47] Đang xử lý [37/2702] - ID: 688
+[2026-02-09 16:37:53] ✓ Hoàn thành ID: 688 [37/2702]
+[2026-02-09 16:37:54] Đang xử lý [38/2702] - ID: 689
+[2026-02-09 16:38:00] ✓ Hoàn thành ID: 689 [38/2702]
+[2026-02-09 16:38:01] Đang xử lý [39/2702] - ID: 690
+[2026-02-09 16:38:07] ✓ Hoàn thành ID: 690 [39/2702]
+[2026-02-09 16:38:08] Đang xử lý [40/2702] - ID: 691
+[2026-02-09 16:38:26] ✓ Hoàn thành ID: 691 [40/2702]
+[2026-02-09 16:38:27] Đang xử lý [41/2702] - ID: 692
+[2026-02-09 16:38:39] ✓ Hoàn thành ID: 692 [41/2702]
+[2026-02-09 16:38:41] Đang xử lý [42/2702] - ID: 693
+[2026-02-09 16:38:47] ✓ Hoàn thành ID: 693 [42/2702]
+[2026-02-09 16:38:49] Đang xử lý [43/2702] - ID: 694
+[2026-02-09 16:38:54] ✓ Hoàn thành ID: 694 [43/2702]
+[2026-02-09 16:38:55] Đang xử lý [44/2702] - ID: 695
+[2026-02-09 16:39:02] ✓ Hoàn thành ID: 695 [44/2702]
+[2026-02-09 16:39:03] Đang xử lý [45/2702] - ID: 696
+[2026-02-09 16:39:09] ✓ Hoàn thành ID: 696 [45/2702]
+[2026-02-09 16:39:11] Đang xử lý [46/2702] - ID: 697
+[2026-02-09 16:39:20] ✓ Hoàn thành ID: 697 [46/2702]
+[2026-02-09 16:39:22] Đang xử lý [47/2702] - ID: 698
+[2026-02-09 16:39:28] ✓ Hoàn thành ID: 698 [47/2702]
+[2026-02-09 16:39:29] Đang xử lý [48/2702] - ID: 699
+[2026-02-09 16:39:42] ✓ Hoàn thành ID: 699 [48/2702]
+[2026-02-09 16:39:43] Đang xử lý [49/2702] - ID: 700
+[2026-02-09 16:39:49] ✓ Hoàn thành ID: 700 [49/2702]
+[2026-02-09 16:39:50] Đang xử lý [50/2702] - ID: 701
+[2026-02-09 16:40:03] ✓ Hoàn thành ID: 701 [50/2702]
+[2026-02-09 16:40:04] Đang xử lý [51/2702] - ID: 702
+[2026-02-09 16:40:09] ✓ Hoàn thành ID: 702 [51/2702]
+[2026-02-09 16:40:10] Đang xử lý [52/2702] - ID: 703
+[2026-02-09 16:40:16] ✓ Hoàn thành ID: 703 [52/2702]
+[2026-02-09 16:40:17] Đang xử lý [53/2702] - ID: 704
+[2026-02-09 16:40:24] ✓ Hoàn thành ID: 704 [53/2702]
+[2026-02-09 16:40:26] Đang xử lý [54/2702] - ID: 705
+[2026-02-09 16:40:37] ✓ Hoàn thành ID: 705 [54/2702]
+[2026-02-09 16:40:39] Đang xử lý [55/2702] - ID: 706
+[2026-02-09 16:40:44] ✓ Hoàn thành ID: 706 [55/2702]
+[2026-02-09 16:40:46] Đang xử lý [56/2702] - ID: 707
+[2026-02-09 16:40:51] ✓ Hoàn thành ID: 707 [56/2702]
+[2026-02-09 16:40:52] Đang xử lý [57/2702] - ID: 708
+[2026-02-09 16:40:59] ✓ Hoàn thành ID: 708 [57/2702]
+[2026-02-09 16:41:01] Đang xử lý [58/2702] - ID: 709
+[2026-02-09 16:41:06] ✓ Hoàn thành ID: 709 [58/2702]
+[2026-02-09 16:41:08] Đang xử lý [59/2702] - ID: 710
+[2026-02-09 16:41:14] ✓ Hoàn thành ID: 710 [59/2702]
+[2026-02-09 16:41:15] Đang xử lý [60/2702] - ID: 711
+[2026-02-09 16:41:21] ✓ Hoàn thành ID: 711 [60/2702]
+[2026-02-09 16:41:22] Đang xử lý [61/2702] - ID: 712
+[2026-02-09 16:41:27] ✓ Hoàn thành ID: 712 [61/2702]
+[2026-02-09 16:41:29] Đang xử lý [62/2702] - ID: 713
+[2026-02-09 16:41:33] ✓ Hoàn thành ID: 713 [62/2702]
+[2026-02-09 16:41:34] Đang xử lý [63/2702] - ID: 714
+[2026-02-09 16:41:40] ✓ Hoàn thành ID: 714 [63/2702]
+[2026-02-09 16:41:41] Đang xử lý [64/2702] - ID: 715
+[2026-02-09 16:41:46] ✓ Hoàn thành ID: 715 [64/2702]
+[2026-02-09 16:41:48] Đang xử lý [65/2702] - ID: 716
+[2026-02-09 16:41:54] ✓ Hoàn thành ID: 716 [65/2702]
+[2026-02-09 16:41:55] Đang xử lý [66/2702] - ID: 717
+[2026-02-09 16:42:00] ✓ Hoàn thành ID: 717 [66/2702]
+[2026-02-09 16:42:02] Đang xử lý [67/2702] - ID: 718
+[2026-02-09 16:42:06] ✓ Hoàn thành ID: 718 [67/2702]
+[2026-02-09 16:42:08] Đang xử lý [68/2702] - ID: 719
+[2026-02-09 16:42:13] ✓ Hoàn thành ID: 719 [68/2702]
+[2026-02-09 16:42:15] Đang xử lý [69/2702] - ID: 720
+[2026-02-09 16:42:19] ✓ Hoàn thành ID: 720 [69/2702]
+[2026-02-09 16:42:21] Đang xử lý [70/2702] - ID: 721
+[2026-02-09 16:42:25] ✓ Hoàn thành ID: 721 [70/2702]
+[2026-02-09 16:42:27] Đang xử lý [71/2702] - ID: 722
+[2026-02-09 16:42:29] Lỗi parse JSON (lần 1/3): Expecting value: line 1 column 1 (char 0)
+[2026-02-09 16:42:29] Response text: ...
+[2026-02-09 16:42:37] ✓ Hoàn thành ID: 722 [71/2702]
+[2026-02-09 16:42:38] Đang xử lý [72/2702] - ID: 723
+[2026-02-09 16:42:44] ✓ Hoàn thành ID: 723 [72/2702]
+[2026-02-09 16:42:46] Đang xử lý [73/2702] - ID: 724
+[2026-02-09 16:42:51] ✓ Hoàn thành ID: 724 [73/2702]
+[2026-02-09 16:42:53] Đang xử lý [74/2702] - ID: 725
+[2026-02-09 16:42:59] ✓ Hoàn thành ID: 725 [74/2702]
+[2026-02-09 16:43:00] Đang xử lý [75/2702] - ID: 726
+[2026-02-09 16:43:05] ✓ Hoàn thành ID: 726 [75/2702]
+[2026-02-09 16:43:06] Đang xử lý [76/2702] - ID: 727
+[2026-02-09 16:43:12] ✓ Hoàn thành ID: 727 [76/2702]
+[2026-02-09 16:43:13] Đang xử lý [77/2702] - ID: 728
+[2026-02-09 16:43:19] ✓ Hoàn thành ID: 728 [77/2702]
+[2026-02-09 16:43:20] Đang xử lý [78/2702] - ID: 729
+[2026-02-09 16:43:25] ✓ Hoàn thành ID: 729 [78/2702]
+[2026-02-09 16:43:27] Đang xử lý [79/2702] - ID: 730
+[2026-02-09 16:43:32] ✓ Hoàn thành ID: 730 [79/2702]
+[2026-02-09 16:43:33] Đang xử lý [80/2702] - ID: 731
+[2026-02-09 16:43:38] ✓ Hoàn thành ID: 731 [80/2702]
+[2026-02-09 16:43:40] Đang xử lý [81/2702] - ID: 732
+[2026-02-09 16:43:46] ✓ Hoàn thành ID: 732 [81/2702]
+[2026-02-09 16:43:48] Đang xử lý [82/2702] - ID: 733
+[2026-02-09 16:43:54] ✓ Hoàn thành ID: 733 [82/2702]
+[2026-02-09 16:43:55] Đang xử lý [83/2702] - ID: 734
+[2026-02-09 16:44:02] ✓ Hoàn thành ID: 734 [83/2702]
+[2026-02-09 16:44:04] Đang xử lý [84/2702] - ID: 735
+[2026-02-09 16:44:12] ✓ Hoàn thành ID: 735 [84/2702]
+[2026-02-09 16:44:13] Đang xử lý [85/2702] - ID: 736
+[2026-02-09 16:44:19] ✓ Hoàn thành ID: 736 [85/2702]
+[2026-02-09 16:44:20] Đang xử lý [86/2702] - ID: 737
+[2026-02-09 16:44:26] ✓ Hoàn thành ID: 737 [86/2702]
+[2026-02-09 16:44:28] Đang xử lý [87/2702] - ID: 738
+[2026-02-09 16:44:34] ✓ Hoàn thành ID: 738 [87/2702]
+[2026-02-09 16:44:35] Đang xử lý [88/2702] - ID: 739
+[2026-02-09 16:44:41] ✓ Hoàn thành ID: 739 [88/2702]
+[2026-02-09 16:44:43] Đang xử lý [89/2702] - ID: 740
+[2026-02-09 16:44:48] ✓ Hoàn thành ID: 740 [89/2702]
+[2026-02-09 16:44:50] Đang xử lý [90/2702] - ID: 741
+[2026-02-09 16:44:55] ✓ Hoàn thành ID: 741 [90/2702]
+[2026-02-09 16:44:56] Đang xử lý [91/2702] - ID: 742
+[2026-02-09 16:45:01] ✓ Hoàn thành ID: 742 [91/2702]
+[2026-02-09 16:45:02] Đang xử lý [92/2702] - ID: 743
+[2026-02-09 16:45:10] ✓ Hoàn thành ID: 743 [92/2702]
+[2026-02-09 16:45:11] Đang xử lý [93/2702] - ID: 744
+[2026-02-09 16:45:18] ✓ Hoàn thành ID: 744 [93/2702]
+[2026-02-09 16:45:19] Đang xử lý [94/2702] - ID: 745
+[2026-02-09 16:45:27] ✓ Hoàn thành ID: 745 [94/2702]
+[2026-02-09 16:45:28] Đang xử lý [95/2702] - ID: 746
+[2026-02-09 16:45:34] ✓ Hoàn thành ID: 746 [95/2702]
+[2026-02-09 16:45:36] Đang xử lý [96/2702] - ID: 747
+[2026-02-09 16:45:43] ✓ Hoàn thành ID: 747 [96/2702]
+[2026-02-09 16:45:44] Đang xử lý [97/2702] - ID: 748
+[2026-02-09 16:45:50] ✓ Hoàn thành ID: 748 [97/2702]
+[2026-02-09 16:45:52] Đang xử lý [98/2702] - ID: 749
+[2026-02-09 16:45:57] ✓ Hoàn thành ID: 749 [98/2702]
+[2026-02-09 16:45:58] Đang xử lý [99/2702] - ID: 750
+[2026-02-09 16:46:03] ✓ Hoàn thành ID: 750 [99/2702]
+[2026-02-09 16:46:05] Đang xử lý [100/2702] - ID: 751
+[2026-02-09 16:46:10] ✓ Hoàn thành ID: 751 [100/2702]
+[2026-02-09 16:46:12] Đang xử lý [101/2702] - ID: 752
+[2026-02-09 16:46:18] ✓ Hoàn thành ID: 752 [101/2702]
+[2026-02-09 16:46:20] Đang xử lý [102/2702] - ID: 753
+[2026-02-09 16:46:25] ✓ Hoàn thành ID: 753 [102/2702]
+[2026-02-09 16:46:26] Đang xử lý [103/2702] - ID: 754
+[2026-02-09 16:46:31] ✓ Hoàn thành ID: 754 [103/2702]
+[2026-02-09 16:46:33] Đang xử lý [104/2702] - ID: 755
+[2026-02-09 16:46:37] ✓ Hoàn thành ID: 755 [104/2702]
+[2026-02-09 16:46:39] Đang xử lý [105/2702] - ID: 756
+[2026-02-09 16:46:46] ✓ Hoàn thành ID: 756 [105/2702]
+[2026-02-09 16:46:48] Đang xử lý [106/2702] - ID: 757
+[2026-02-09 16:46:53] ✓ Hoàn thành ID: 757 [106/2702]
+[2026-02-09 16:46:54] Đang xử lý [107/2702] - ID: 758
+[2026-02-09 16:47:01] ✓ Hoàn thành ID: 758 [107/2702]
+[2026-02-09 16:47:03] Đang xử lý [108/2702] - ID: 759
+[2026-02-09 16:47:14] ✓ Hoàn thành ID: 759 [108/2702]
+[2026-02-09 16:47:16] Đang xử lý [109/2702] - ID: 760
+[2026-02-09 16:47:22] ✓ Hoàn thành ID: 760 [109/2702]
+[2026-02-09 16:47:23] Đang xử lý [110/2702] - ID: 761
+[2026-02-09 16:47:30] ✓ Hoàn thành ID: 761 [110/2702]
+[2026-02-09 16:47:31] Đang xử lý [111/2702] - ID: 762
+[2026-02-09 16:47:37] ✓ Hoàn thành ID: 762 [111/2702]
+[2026-02-09 16:47:39] Đang xử lý [112/2702] - ID: 763
+[2026-02-09 16:47:45] ✓ Hoàn thành ID: 763 [112/2702]
+[2026-02-09 16:47:47] Đang xử lý [113/2702] - ID: 764
+[2026-02-09 16:47:52] ✓ Hoàn thành ID: 764 [113/2702]
+[2026-02-09 16:47:54] Đang xử lý [114/2702] - ID: 765
+[2026-02-09 16:48:00] ✓ Hoàn thành ID: 765 [114/2702]
+[2026-02-09 16:48:02] Đang xử lý [115/2702] - ID: 766
+[2026-02-09 16:48:07] ✓ Hoàn thành ID: 766 [115/2702]
+[2026-02-09 16:48:08] Đang xử lý [116/2702] - ID: 767
+[2026-02-09 16:48:13] ✓ Hoàn thành ID: 767 [116/2702]
+[2026-02-09 16:48:15] Đang xử lý [117/2702] - ID: 768
+[2026-02-09 16:48:21] ✓ Hoàn thành ID: 768 [117/2702]
+[2026-02-09 16:48:23] Đang xử lý [118/2702] - ID: 769
+[2026-02-09 16:48:29] ✓ Hoàn thành ID: 769 [118/2702]
+[2026-02-09 16:48:31] Đang xử lý [119/2702] - ID: 770
+[2026-02-09 16:48:36] ✓ Hoàn thành ID: 770 [119/2702]
+[2026-02-09 16:48:38] Đang xử lý [120/2702] - ID: 771
+[2026-02-09 16:48:44] ✓ Hoàn thành ID: 771 [120/2702]
+[2026-02-09 16:48:45] Đang xử lý [121/2702] - ID: 772
+[2026-02-09 16:48:51] ✓ Hoàn thành ID: 772 [121/2702]
+[2026-02-09 16:48:53] Đang xử lý [122/2702] - ID: 773
+[2026-02-09 16:48:58] ✓ Hoàn thành ID: 773 [122/2702]
+[2026-02-09 16:48:59] Đang xử lý [123/2702] - ID: 774
+[2026-02-09 16:49:05] ✓ Hoàn thành ID: 774 [123/2702]
+[2026-02-09 16:49:07] Đang xử lý [124/2702] - ID: 775
+[2026-02-09 16:49:13] ✓ Hoàn thành ID: 775 [124/2702]
+[2026-02-09 16:49:15] Đang xử lý [125/2702] - ID: 776
+[2026-02-09 16:49:20] ✓ Hoàn thành ID: 776 [125/2702]
+[2026-02-09 16:49:21] Đang xử lý [126/2702] - ID: 777
+[2026-02-09 16:49:27] ✓ Hoàn thành ID: 777 [126/2702]
+[2026-02-09 16:49:28] Đang xử lý [127/2702] - ID: 778
+[2026-02-09 16:49:35] ✓ Hoàn thành ID: 778 [127/2702]
+[2026-02-09 16:49:37] Đang xử lý [128/2702] - ID: 779
+[2026-02-09 16:49:43] ✓ Hoàn thành ID: 779 [128/2702]
+[2026-02-09 16:49:44] Đang xử lý [129/2702] - ID: 780
+[2026-02-09 16:49:49] ✓ Hoàn thành ID: 780 [129/2702]
+[2026-02-09 16:49:50] Đang xử lý [130/2702] - ID: 781
+[2026-02-09 16:49:56] ✓ Hoàn thành ID: 781 [130/2702]
+[2026-02-09 16:49:57] Đang xử lý [131/2702] - ID: 782
+[2026-02-09 16:50:04] ✓ Hoàn thành ID: 782 [131/2702]
+[2026-02-09 16:50:05] Đang xử lý [132/2702] - ID: 783
+[2026-02-09 16:50:11] ✓ Hoàn thành ID: 783 [132/2702]
+[2026-02-09 16:50:12] Đang xử lý [133/2702] - ID: 784
+[2026-02-09 16:50:18] ✓ Hoàn thành ID: 784 [133/2702]
+[2026-02-09 16:50:20] Đang xử lý [134/2702] - ID: 785
+[2026-02-09 16:50:26] ✓ Hoàn thành ID: 785 [134/2702]
+[2026-02-09 16:50:27] Đang xử lý [135/2702] - ID: 786
+[2026-02-09 16:50:32] ✓ Hoàn thành ID: 786 [135/2702]
+[2026-02-09 16:50:34] Đang xử lý [136/2702] - ID: 787
+[2026-02-09 16:50:39] ✓ Hoàn thành ID: 787 [136/2702]
+[2026-02-09 16:50:41] Đang xử lý [137/2702] - ID: 788
+[2026-02-09 16:50:46] ✓ Hoàn thành ID: 788 [137/2702]
+[2026-02-09 16:50:48] Đang xử lý [138/2702] - ID: 789
+[2026-02-09 16:50:54] ✓ Hoàn thành ID: 789 [138/2702]
+[2026-02-09 16:50:56] Đang xử lý [139/2702] - ID: 790
+[2026-02-09 16:51:01] ✓ Hoàn thành ID: 790 [139/2702]
+[2026-02-09 16:51:03] Đang xử lý [140/2702] - ID: 791
+[2026-02-09 16:51:09] ✓ Hoàn thành ID: 791 [140/2702]
+[2026-02-09 16:51:11] Đang xử lý [141/2702] - ID: 792
+[2026-02-09 16:51:16] ✓ Hoàn thành ID: 792 [141/2702]
+[2026-02-09 16:51:18] Đang xử lý [142/2702] - ID: 793
+[2026-02-09 16:51:22] ✓ Hoàn thành ID: 793 [142/2702]
+[2026-02-09 16:51:24] Đang xử lý [143/2702] - ID: 794
+[2026-02-09 16:51:29] ✓ Hoàn thành ID: 794 [143/2702]
+[2026-02-09 16:51:31] Đang xử lý [144/2702] - ID: 795
+[2026-02-09 16:51:37] ✓ Hoàn thành ID: 795 [144/2702]
+[2026-02-09 16:51:38] Đang xử lý [145/2702] - ID: 796
+[2026-02-09 16:51:43] ✓ Hoàn thành ID: 796 [145/2702]
+[2026-02-09 16:51:44] Đang xử lý [146/2702] - ID: 797
+[2026-02-09 16:51:51] ✓ Hoàn thành ID: 797 [146/2702]
+[2026-02-09 16:51:52] Đang xử lý [147/2702] - ID: 798
+[2026-02-09 16:51:57] ✓ Hoàn thành ID: 798 [147/2702]
+[2026-02-09 16:51:59] Đang xử lý [148/2702] - ID: 799
+[2026-02-09 16:52:05] ✓ Hoàn thành ID: 799 [148/2702]
+[2026-02-09 16:52:06] Đang xử lý [149/2702] - ID: 800
+[2026-02-09 16:52:12] ✓ Hoàn thành ID: 800 [149/2702]
+[2026-02-09 16:52:14] Đang xử lý [150/2702] - ID: 801
+[2026-02-09 16:52:20] ✓ Hoàn thành ID: 801 [150/2702]
+[2026-02-09 16:52:22] Đang xử lý [151/2702] - ID: 802
+[2026-02-09 16:52:27] ✓ Hoàn thành ID: 802 [151/2702]
+[2026-02-09 16:52:28] Đang xử lý [152/2702] - ID: 803
+[2026-02-09 16:52:34] ✓ Hoàn thành ID: 803 [152/2702]
+[2026-02-09 16:52:35] Đang xử lý [153/2702] - ID: 804
+[2026-02-09 16:52:41] ✓ Hoàn thành ID: 804 [153/2702]
+[2026-02-09 16:52:42] Đang xử lý [154/2702] - ID: 805
+[2026-02-09 16:52:48] ✓ Hoàn thành ID: 805 [154/2702]
+[2026-02-09 16:52:49] Đang xử lý [155/2702] - ID: 806
+[2026-02-09 16:52:56] ✓ Hoàn thành ID: 806 [155/2702]
+[2026-02-09 16:52:57] Đang xử lý [156/2702] - ID: 807
+[2026-02-09 16:53:04] ✓ Hoàn thành ID: 807 [156/2702]
+[2026-02-09 16:53:06] Đang xử lý [157/2702] - ID: 808
+[2026-02-09 16:53:13] ✓ Hoàn thành ID: 808 [157/2702]
+[2026-02-09 16:53:15] Đang xử lý [158/2702] - ID: 809
+[2026-02-09 16:53:20] ✓ Hoàn thành ID: 809 [158/2702]
+[2026-02-09 16:53:21] Đang xử lý [159/2702] - ID: 810
+[2026-02-09 16:53:28] ✓ Hoàn thành ID: 810 [159/2702]
+[2026-02-09 16:53:29] Đang xử lý [160/2702] - ID: 811
+[2026-02-09 16:53:35] ✓ Hoàn thành ID: 811 [160/2702]
+[2026-02-09 16:53:37] Đang xử lý [161/2702] - ID: 812
+[2026-02-09 16:53:43] ✓ Hoàn thành ID: 812 [161/2702]
+[2026-02-09 16:53:44] Đang xử lý [162/2702] - ID: 813
+[2026-02-09 16:53:49] ✓ Hoàn thành ID: 813 [162/2702]
+[2026-02-09 16:53:51] Đang xử lý [163/2702] - ID: 814
+[2026-02-09 16:53:57] ✓ Hoàn thành ID: 814 [163/2702]
+[2026-02-09 16:53:59] Đang xử lý [164/2702] - ID: 815
+[2026-02-09 16:54:04] ✓ Hoàn thành ID: 815 [164/2702]
+[2026-02-09 16:54:06] Đang xử lý [165/2702] - ID: 816
+[2026-02-09 16:54:12] ✓ Hoàn thành ID: 816 [165/2702]
+[2026-02-09 16:54:13] Đang xử lý [166/2702] - ID: 817
+[2026-02-09 16:54:19] ✓ Hoàn thành ID: 817 [166/2702]
+[2026-02-09 16:54:21] Đang xử lý [167/2702] - ID: 818
+[2026-02-09 16:54:26] ✓ Hoàn thành ID: 818 [167/2702]
+[2026-02-09 16:54:28] Đang xử lý [168/2702] - ID: 819
+[2026-02-09 16:54:32] ✓ Hoàn thành ID: 819 [168/2702]
+[2026-02-09 16:54:34] Đang xử lý [169/2702] - ID: 820
+[2026-02-09 16:54:39] ✓ Hoàn thành ID: 820 [169/2702]
+[2026-02-09 16:54:40] Đang xử lý [170/2702] - ID: 821
+[2026-02-09 16:54:47] ✓ Hoàn thành ID: 821 [170/2702]
+[2026-02-09 16:54:49] Đang xử lý [171/2702] - ID: 822
+[2026-02-09 16:54:55] ✓ Hoàn thành ID: 822 [171/2702]
+[2026-02-09 16:54:57] Đang xử lý [172/2702] - ID: 823
+[2026-02-09 16:55:03] ✓ Hoàn thành ID: 823 [172/2702]
+[2026-02-09 16:55:04] Đang xử lý [173/2702] - ID: 824
+[2026-02-09 16:55:10] ✓ Hoàn thành ID: 824 [173/2702]
+[2026-02-09 16:55:11] Đang xử lý [174/2702] - ID: 825
+[2026-02-09 16:55:17] ✓ Hoàn thành ID: 825 [174/2702]
+[2026-02-09 16:55:19] Đang xử lý [175/2702] - ID: 826
+[2026-02-09 16:55:26] ✓ Hoàn thành ID: 826 [175/2702]
+[2026-02-09 16:55:27] Đang xử lý [176/2702] - ID: 827
+[2026-02-09 16:55:32] ✓ Hoàn thành ID: 827 [176/2702]
+[2026-02-09 16:55:33] Đang xử lý [177/2702] - ID: 828
+[2026-02-09 16:55:40] ✓ Hoàn thành ID: 828 [177/2702]
+[2026-02-09 16:55:41] Đang xử lý [178/2702] - ID: 829
+[2026-02-09 16:55:47] ✓ Hoàn thành ID: 829 [178/2702]
+[2026-02-09 16:55:49] Đang xử lý [179/2702] - ID: 830
+[2026-02-09 16:55:55] ✓ Hoàn thành ID: 830 [179/2702]
+[2026-02-09 16:55:56] Đang xử lý [180/2702] - ID: 831
+[2026-02-09 16:56:02] ✓ Hoàn thành ID: 831 [180/2702]
+[2026-02-09 16:56:03] Đang xử lý [181/2702] - ID: 832
+[2026-02-09 16:56:10] ✓ Hoàn thành ID: 832 [181/2702]
+[2026-02-09 16:56:11] Đang xử lý [182/2702] - ID: 833
+[2026-02-09 16:56:16] ✓ Hoàn thành ID: 833 [182/2702]
+[2026-02-09 16:56:18] Đang xử lý [183/2702] - ID: 834
+[2026-02-09 16:56:23] ✓ Hoàn thành ID: 834 [183/2702]
+[2026-02-09 16:56:24] Đang xử lý [184/2702] - ID: 835
+[2026-02-09 16:56:30] ✓ Hoàn thành ID: 835 [184/2702]
+[2026-02-09 16:56:32] Đang xử lý [185/2702] - ID: 836
+[2026-02-09 16:56:39] ✓ Hoàn thành ID: 836 [185/2702]
+[2026-02-09 16:56:40] Đang xử lý [186/2702] - ID: 837
+[2026-02-09 16:56:46] ✓ Hoàn thành ID: 837 [186/2702]
+[2026-02-09 16:56:48] Đang xử lý [187/2702] - ID: 838
+[2026-02-09 16:56:53] ✓ Hoàn thành ID: 838 [187/2702]
+[2026-02-09 16:56:54] Đang xử lý [188/2702] - ID: 839
+[2026-02-09 16:57:01] ✓ Hoàn thành ID: 839 [188/2702]
+[2026-02-09 16:57:02] Đang xử lý [189/2702] - ID: 840
+[2026-02-09 16:57:10] ✓ Hoàn thành ID: 840 [189/2702]
+[2026-02-09 16:57:11] Đang xử lý [190/2702] - ID: 841
+[2026-02-09 16:57:17] ✓ Hoàn thành ID: 841 [190/2702]
+[2026-02-09 16:57:18] Đang xử lý [191/2702] - ID: 842
+[2026-02-09 16:57:24] ✓ Hoàn thành ID: 842 [191/2702]
+[2026-02-09 16:57:25] Đang xử lý [192/2702] - ID: 843
+[2026-02-09 16:57:30] ✓ Hoàn thành ID: 843 [192/2702]
+[2026-02-09 16:57:31] Đang xử lý [193/2702] - ID: 844
+[2026-02-09 16:57:37] ✓ Hoàn thành ID: 844 [193/2702]
+[2026-02-09 16:57:39] Đang xử lý [194/2702] - ID: 845
+[2026-02-09 16:57:47] ✓ Hoàn thành ID: 845 [194/2702]
+[2026-02-09 16:57:48] Đang xử lý [195/2702] - ID: 846
+[2026-02-09 16:57:54] ✓ Hoàn thành ID: 846 [195/2702]
+[2026-02-09 16:57:56] Đang xử lý [196/2702] - ID: 847
+[2026-02-09 16:58:01] ✓ Hoàn thành ID: 847 [196/2702]
+[2026-02-09 16:58:03] Đang xử lý [197/2702] - ID: 848
+[2026-02-09 16:58:09] ✓ Hoàn thành ID: 848 [197/2702]
+[2026-02-09 16:58:10] Đang xử lý [198/2702] - ID: 849
+[2026-02-09 16:58:16] ✓ Hoàn thành ID: 849 [198/2702]
+[2026-02-09 16:58:17] Đang xử lý [199/2702] - ID: 850
+[2026-02-09 16:58:23] ✓ Hoàn thành ID: 850 [199/2702]
+[2026-02-09 16:58:24] Đang xử lý [200/2702] - ID: 851
+[2026-02-09 16:58:29] Lỗi parse JSON (lần 1/3): Expecting value: line 1 column 1 (char 0)
+[2026-02-09 16:58:29] Response text: thoughtful
+{
+    "dialogue": [
+        {
+            "role": "người gọi",
+            "content": "Alo ạ, xin chào anh, em là Linh gọi cho mình từ phía ngân hàng VPBank ạ."
+        },
+        {
+       ...
+[2026-02-09 16:58:37] ✓ Hoàn thành ID: 851 [200/2702]
+[2026-02-09 16:58:39] Đang xử lý [201/2702] - ID: 852
+[2026-02-09 16:58:45] ✓ Hoàn thành ID: 852 [201/2702]
+[2026-02-09 16:58:46] Đang xử lý [202/2702] - ID: 853
+[2026-02-09 16:58:51] ✓ Hoàn thành ID: 853 [202/2702]
+[2026-02-09 16:58:53] Đang xử lý [203/2702] - ID: 854
+[2026-02-09 16:58:58] ✓ Hoàn thành ID: 854 [203/2702]
+[2026-02-09 16:59:00] Đang xử lý [204/2702] - ID: 855
+[2026-02-09 16:59:05] ✓ Hoàn thành ID: 855 [204/2702]
+[2026-02-09 16:59:07] Đang xử lý [205/2702] - ID: 856
+[2026-02-09 16:59:13] ✓ Hoàn thành ID: 856 [205/2702]
+[2026-02-09 16:59:15] Đang xử lý [206/2702] - ID: 857
+[2026-02-09 16:59:20] ✓ Hoàn thành ID: 857 [206/2702]
+[2026-02-09 16:59:22] Đang xử lý [207/2702] - ID: 858
+[2026-02-09 16:59:28] ✓ Hoàn thành ID: 858 [207/2702]
+[2026-02-09 16:59:30] Đang xử lý [208/2702] - ID: 859
+[2026-02-09 16:59:36] ✓ Hoàn thành ID: 859 [208/2702]
+[2026-02-09 16:59:38] Đang xử lý [209/2702] - ID: 860
+[2026-02-09 16:59:44] ✓ Hoàn thành ID: 860 [209/2702]
+[2026-02-09 16:59:46] Đang xử lý [210/2702] - ID: 861
+[2026-02-09 16:59:51] ✓ Hoàn thành ID: 861 [210/2702]
+[2026-02-09 16:59:52] Đang xử lý [211/2702] - ID: 862
+[2026-02-09 16:59:58] ✓ Hoàn thành ID: 862 [211/2702]
+[2026-02-09 17:00:00] Đang xử lý [212/2702] - ID: 863
+[2026-02-09 17:00:07] ✓ Hoàn thành ID: 863 [212/2702]
+[2026-02-09 17:00:09] Đang xử lý [213/2702] - ID: 864
+[2026-02-09 17:00:15] ✓ Hoàn thành ID: 864 [213/2702]
+[2026-02-09 17:00:16] Đang xử lý [214/2702] - ID: 865
+[2026-02-09 17:00:22] ✓ Hoàn thành ID: 865 [214/2702]
+[2026-02-09 17:00:23] Đang xử lý [215/2702] - ID: 866
+[2026-02-09 17:00:29] ✓ Hoàn thành ID: 866 [215/2702]
+[2026-02-09 17:00:31] Đang xử lý [216/2702] - ID: 867
+[2026-02-09 17:00:36] ✓ Hoàn thành ID: 867 [216/2702]
+[2026-02-09 17:00:38] Đang xử lý [217/2702] - ID: 868
+[2026-02-09 17:00:43] ✓ Hoàn thành ID: 868 [217/2702]
+[2026-02-09 17:00:44] Đang xử lý [218/2702] - ID: 869
+[2026-02-09 17:00:50] ✓ Hoàn thành ID: 869 [218/2702]
+[2026-02-09 17:00:51] Đang xử lý [219/2702] - ID: 870
+[2026-02-09 17:00:58] ✓ Hoàn thành ID: 870 [219/2702]
+[2026-02-09 17:00:59] Đang xử lý [220/2702] - ID: 871
+[2026-02-09 17:01:05] ✓ Hoàn thành ID: 871 [220/2702]
+[2026-02-09 17:01:06] Đang xử lý [221/2702] - ID: 872
+[2026-02-09 17:01:12] ✓ Hoàn thành ID: 872 [221/2702]
+[2026-02-09 17:01:13] Đang xử lý [222/2702] - ID: 873
+[2026-02-09 17:01:20] ✓ Hoàn thành ID: 873 [222/2702]
+[2026-02-09 17:01:21] Đang xử lý [223/2702] - ID: 874
+[2026-02-09 17:01:28] ✓ Hoàn thành ID: 874 [223/2702]
+[2026-02-09 17:01:29] Đang xử lý [224/2702] - ID: 875
+[2026-02-09 17:01:35] ✓ Hoàn thành ID: 875 [224/2702]
+[2026-02-09 17:01:36] Đang xử lý [225/2702] - ID: 876
+[2026-02-09 17:01:42] ✓ Hoàn thành ID: 876 [225/2702]
+[2026-02-09 17:01:43] Đang xử lý [226/2702] - ID: 877
+[2026-02-09 17:01:49] ✓ Hoàn thành ID: 877 [226/2702]
+[2026-02-09 17:01:50] Đang xử lý [227/2702] - ID: 878
+[2026-02-09 17:01:56] ✓ Hoàn thành ID: 878 [227/2702]
+[2026-02-09 17:01:58] Đang xử lý [228/2702] - ID: 879
+[2026-02-09 17:02:03] ✓ Hoàn thành ID: 879 [228/2702]
+[2026-02-09 17:02:04] Đang xử lý [229/2702] - ID: 880
+[2026-02-09 17:02:10] ✓ Hoàn thành ID: 880 [229/2702]
+[2026-02-09 17:02:11] Đang xử lý [230/2702] - ID: 881
+[2026-02-09 17:02:22] ✓ Hoàn thành ID: 881 [230/2702]
+[2026-02-09 17:02:24] Đang xử lý [231/2702] - ID: 882
+[2026-02-09 17:02:29] ✓ Hoàn thành ID: 882 [231/2702]
+[2026-02-09 17:02:31] Đang xử lý [232/2702] - ID: 883
+[2026-02-09 17:02:38] ✓ Hoàn thành ID: 883 [232/2702]
+[2026-02-09 17:02:40] Đang xử lý [233/2702] - ID: 884
+[2026-02-09 17:02:45] ✓ Hoàn thành ID: 884 [233/2702]
+[2026-02-09 17:02:47] Đang xử lý [234/2702] - ID: 885
+[2026-02-09 17:02:51] ✓ Hoàn thành ID: 885 [234/2702]
+[2026-02-09 17:02:53] Đang xử lý [235/2702] - ID: 886
+[2026-02-09 17:02:59] ✓ Hoàn thành ID: 886 [235/2702]
+[2026-02-09 17:03:01] Đang xử lý [236/2702] - ID: 887
+[2026-02-09 17:03:06] ✓ Hoàn thành ID: 887 [236/2702]
+[2026-02-09 17:03:08] Đang xử lý [237/2702] - ID: 888
+[2026-02-09 17:03:13] ✓ Hoàn thành ID: 888 [237/2702]
+[2026-02-09 17:03:14] Đang xử lý [238/2702] - ID: 889
+[2026-02-09 17:03:20] ✓ Hoàn thành ID: 889 [238/2702]
+[2026-02-09 17:03:22] Đang xử lý [239/2702] - ID: 890
+[2026-02-09 17:03:28] ✓ Hoàn thành ID: 890 [239/2702]
+[2026-02-09 17:03:29] Đang xử lý [240/2702] - ID: 891
+[2026-02-09 17:03:36] ✓ Hoàn thành ID: 891 [240/2702]
+[2026-02-09 17:03:37] Đang xử lý [241/2702] - ID: 892
+[2026-02-09 17:03:44] ✓ Hoàn thành ID: 892 [241/2702]
+[2026-02-09 17:03:46] Đang xử lý [242/2702] - ID: 893
+[2026-02-09 17:03:50] ✓ Hoàn thành ID: 893 [242/2702]
+[2026-02-09 17:03:52] Đang xử lý [243/2702] - ID: 894
+[2026-02-09 17:03:58] ✓ Hoàn thành ID: 894 [243/2702]
+[2026-02-09 17:04:00] Đang xử lý [244/2702] - ID: 895
+[2026-02-09 17:04:05] ✓ Hoàn thành ID: 895 [244/2702]
+[2026-02-09 17:04:07] Đang xử lý [245/2702] - ID: 896
+[2026-02-09 17:04:13] ✓ Hoàn thành ID: 896 [245/2702]
+[2026-02-09 17:04:14] Đang xử lý [246/2702] - ID: 897
+[2026-02-09 17:04:21] ✓ Hoàn thành ID: 897 [246/2702]
+[2026-02-09 17:04:22] Đang xử lý [247/2702] - ID: 898
+[2026-02-09 17:04:27] ✓ Hoàn thành ID: 898 [247/2702]
+[2026-02-09 17:04:29] Đang xử lý [248/2702] - ID: 899
+[2026-02-09 17:04:35] ✓ Hoàn thành ID: 899 [248/2702]
+[2026-02-09 17:04:36] Đang xử lý [249/2702] - ID: 900
+[2026-02-09 17:04:41] ✓ Hoàn thành ID: 900 [249/2702]
+[2026-02-09 17:04:43] Đang xử lý [250/2702] - ID: 901
+[2026-02-09 17:04:48] ✓ Hoàn thành ID: 901 [250/2702]
+[2026-02-09 17:04:50] Đang xử lý [251/2702] - ID: 902
+[2026-02-09 17:04:53] Lỗi parse JSON (lần 1/3): Expecting value: line 13 column 5 (char 1251)
+[2026-02-09 17:04:53] Response text: {
+    "dialogue": [
+        {"role": "người gọi", "content": "Alo xin chào anh ạ, em là Trường bên bộ phận chăm sóc khách hàng của Công ty Công nghệ Alpha đây ạ."},
+        {"role": "người nghe", "con...
+[2026-02-09 17:05:01] ✓ Hoàn thành ID: 902 [251/2702]
+[2026-02-09 17:05:02] Đang xử lý [252/2702] - ID: 903
+[2026-02-09 17:05:07] ✓ Hoàn thành ID: 903 [252/2702]
+[2026-02-09 17:05:09] Đang xử lý [253/2702] - ID: 904
+[2026-02-09 17:05:15] ✓ Hoàn thành ID: 904 [253/2702]
+[2026-02-09 17:05:16] Đang xử lý [254/2702] - ID: 905
+[2026-02-09 17:05:22] ✓ Hoàn thành ID: 905 [254/2702]
+[2026-02-09 17:05:23] Đang xử lý [255/2702] - ID: 906
+[2026-02-09 17:05:28] ✓ Hoàn thành ID: 906 [255/2702]
+[2026-02-09 17:05:30] Đang xử lý [256/2702] - ID: 907
+[2026-02-09 17:05:37] ✓ Hoàn thành ID: 907 [256/2702]
+[2026-02-09 17:05:39] Đang xử lý [257/2702] - ID: 908
+[2026-02-09 17:05:44] ✓ Hoàn thành ID: 908 [257/2702]
+[2026-02-09 17:05:46] Đang xử lý [258/2702] - ID: 909
+[2026-02-09 17:05:51] ✓ Hoàn thành ID: 909 [258/2702]
+[2026-02-09 17:05:52] Đang xử lý [259/2702] - ID: 910
+[2026-02-09 17:05:58] ✓ Hoàn thành ID: 910 [259/2702]
+[2026-02-09 17:06:00] Đang xử lý [260/2702] - ID: 911
+[2026-02-09 17:06:06] ✓ Hoàn thành ID: 911 [260/2702]
+[2026-02-09 17:06:08] Đang xử lý [261/2702] - ID: 912
+[2026-02-09 17:06:14] ✓ Hoàn thành ID: 912 [261/2702]
+[2026-02-09 17:06:15] Đang xử lý [262/2702] - ID: 913
+[2026-02-09 17:06:22] ✓ Hoàn thành ID: 913 [262/2702]
+[2026-02-09 17:06:23] Đang xử lý [263/2702] - ID: 914
+[2026-02-09 17:06:29] ✓ Hoàn thành ID: 914 [263/2702]
+[2026-02-09 17:06:31] Đang xử lý [264/2702] - ID: 915
+[2026-02-09 17:06:36] ✓ Hoàn thành ID: 915 [264/2702]
+[2026-02-09 17:06:37] Đang xử lý [265/2702] - ID: 916
+[2026-02-09 17:06:44] ✓ Hoàn thành ID: 916 [265/2702]
+[2026-02-09 17:06:45] Đang xử lý [266/2702] - ID: 917
+[2026-02-09 17:06:51] Lỗi parse JSON (lần 1/3): Expecting ',' delimiter: line 21 column 136 (char 885)
+[2026-02-09 17:06:51] Response text: {
+    "dialogue": [
+        {
+            "role": "người gọi",
+            "content": "A lô, xin chào ạ. Em là Linh, quản lý khách hàng bên Ngân hàng Agribank chi nhánh mình đây ạ."
+        },
+       ...
+[2026-02-09 17:06:58] ✓ Hoàn thành ID: 917 [266/2702]
+[2026-02-09 17:07:00] Đang xử lý [267/2702] - ID: 918
+[2026-02-09 17:07:06] ✓ Hoàn thành ID: 918 [267/2702]
+[2026-02-09 17:07:08] Đang xử lý [268/2702] - ID: 919
+[2026-02-09 17:07:14] ✓ Hoàn thành ID: 919 [268/2702]
+[2026-02-09 17:07:16] Đang xử lý [269/2702] - ID: 920
+[2026-02-09 17:07:22] ✓ Hoàn thành ID: 920 [269/2702]
+[2026-02-09 17:07:24] Đang xử lý [270/2702] - ID: 921
+[2026-02-09 17:07:29] ✓ Hoàn thành ID: 921 [270/2702]
+[2026-02-09 17:07:31] Đang xử lý [271/2702] - ID: 922
+[2026-02-09 17:07:36] ✓ Hoàn thành ID: 922 [271/2702]
+[2026-02-09 17:07:38] Đang xử lý [272/2702] - ID: 923
+[2026-02-09 17:07:44] ✓ Hoàn thành ID: 923 [272/2702]
+[2026-02-09 17:07:45] Đang xử lý [273/2702] - ID: 924
+[2026-02-09 17:07:52] ✓ Hoàn thành ID: 924 [273/2702]
+[2026-02-09 17:07:54] Đang xử lý [274/2702] - ID: 925
+[2026-02-09 17:07:58] ✓ Hoàn thành ID: 925 [274/2702]
+[2026-02-09 17:08:00] Đang xử lý [275/2702] - ID: 926
+[2026-02-09 17:08:05] ✓ Hoàn thành ID: 926 [275/2702]
+[2026-02-09 17:08:06] Đang xử lý [276/2702] - ID: 927
+[2026-02-09 17:08:12] ✓ Hoàn thành ID: 927 [276/2702]
+[2026-02-09 17:08:14] Đang xử lý [277/2702] - ID: 928
+[2026-02-09 17:08:19] ✓ Hoàn thành ID: 928 [277/2702]
+[2026-02-09 17:08:20] Đang xử lý [278/2702] - ID: 929
+[2026-02-09 17:08:25] ✓ Hoàn thành ID: 929 [278/2702]
+[2026-02-09 17:08:27] Đang xử lý [279/2702] - ID: 930
+[2026-02-09 17:08:33] ✓ Hoàn thành ID: 930 [279/2702]
+[2026-02-09 17:08:35] Đang xử lý [280/2702] - ID: 931
+[2026-02-09 17:08:42] ✓ Hoàn thành ID: 931 [280/2702]
+[2026-02-09 17:08:44] Đang xử lý [281/2702] - ID: 932
+[2026-02-09 17:08:49] ✓ Hoàn thành ID: 932 [281/2702]
+[2026-02-09 17:08:51] Đang xử lý [282/2702] - ID: 933
+[2026-02-09 17:08:56] ✓ Hoàn thành ID: 933 [282/2702]
+[2026-02-09 17:08:58] Đang xử lý [283/2702] - ID: 934
+[2026-02-09 17:09:03] ✓ Hoàn thành ID: 934 [283/2702]
+[2026-02-09 17:09:05] Đang xử lý [284/2702] - ID: 935
+[2026-02-09 17:09:10] ✓ Hoàn thành ID: 935 [284/2702]
+[2026-02-09 17:09:12] Đang xử lý [285/2702] - ID: 936
+[2026-02-09 17:09:18] ✓ Hoàn thành ID: 936 [285/2702]
+[2026-02-09 17:09:20] Đang xử lý [286/2702] - ID: 937
+[2026-02-09 17:09:26] ✓ Hoàn thành ID: 937 [286/2702]
+[2026-02-09 17:09:27] Đang xử lý [287/2702] - ID: 938
+[2026-02-09 17:09:32] ✓ Hoàn thành ID: 938 [287/2702]
+[2026-02-09 17:09:34] Đang xử lý [288/2702] - ID: 939
+[2026-02-09 17:09:41] ✓ Hoàn thành ID: 939 [288/2702]
+[2026-02-09 17:09:42] Đang xử lý [289/2702] - ID: 940
+[2026-02-09 17:09:48] ✓ Hoàn thành ID: 940 [289/2702]
+[2026-02-09 17:09:49] Đang xử lý [290/2702] - ID: 941
+[2026-02-09 17:09:54] ✓ Hoàn thành ID: 941 [290/2702]
+[2026-02-09 17:09:56] Đang xử lý [291/2702] - ID: 942
+[2026-02-09 17:10:04] ✓ Hoàn thành ID: 942 [291/2702]
+[2026-02-09 17:10:06] Đang xử lý [292/2702] - ID: 943
+[2026-02-09 17:10:11] ✓ Hoàn thành ID: 943 [292/2702]
+[2026-02-09 17:10:12] Đang xử lý [293/2702] - ID: 944
+[2026-02-09 17:10:19] ✓ Hoàn thành ID: 944 [293/2702]
+[2026-02-09 17:10:21] Đang xử lý [294/2702] - ID: 945
+[2026-02-09 17:10:28] ✓ Hoàn thành ID: 945 [294/2702]
+[2026-02-09 17:10:29] Đang xử lý [295/2702] - ID: 946
+[2026-02-09 17:10:34] ✓ Hoàn thành ID: 946 [295/2702]
+[2026-02-09 17:10:36] Đang xử lý [296/2702] - ID: 947
+[2026-02-09 17:10:41] ✓ Hoàn thành ID: 947 [296/2702]
+[2026-02-09 17:10:42] Đang xử lý [297/2702] - ID: 948
+[2026-02-09 17:10:47] ✓ Hoàn thành ID: 948 [297/2702]
+[2026-02-09 17:10:48] Đang xử lý [298/2702] - ID: 949
+[2026-02-09 17:10:54] ✓ Hoàn thành ID: 949 [298/2702]
+[2026-02-09 17:10:55] Đang xử lý [299/2702] - ID: 950
+[2026-02-09 17:11:07] ✓ Hoàn thành ID: 950 [299/2702]
+[2026-02-09 17:11:08] Đang xử lý [300/2702] - ID: 951
+[2026-02-09 17:11:20] ✓ Hoàn thành ID: 951 [300/2702]
+[2026-02-09 17:11:22] Đang xử lý [301/2702] - ID: 952
+[2026-02-09 17:11:27] ✓ Hoàn thành ID: 952 [301/2702]
+[2026-02-09 17:11:29] Đang xử lý [302/2702] - ID: 953
+[2026-02-09 17:11:36] ✓ Hoàn thành ID: 953 [302/2702]
+[2026-02-09 17:11:38] Đang xử lý [303/2702] - ID: 954
+[2026-02-09 17:11:44] ✓ Hoàn thành ID: 954 [303/2702]
+[2026-02-09 17:11:45] Đang xử lý [304/2702] - ID: 955
+[2026-02-09 17:11:53] ✓ Hoàn thành ID: 955 [304/2702]
+[2026-02-09 17:11:54] Đang xử lý [305/2702] - ID: 956
+[2026-02-09 17:11:58] ✓ Hoàn thành ID: 956 [305/2702]
+[2026-02-09 17:12:00] Đang xử lý [306/2702] - ID: 957
+[2026-02-09 17:12:07] ✓ Hoàn thành ID: 957 [306/2702]
+[2026-02-09 17:12:08] Đang xử lý [307/2702] - ID: 958
+[2026-02-09 17:12:13] ✓ Hoàn thành ID: 958 [307/2702]
+[2026-02-09 17:12:14] Đang xử lý [308/2702] - ID: 959
+[2026-02-09 17:12:31] ✓ Hoàn thành ID: 959 [308/2702]
+[2026-02-09 17:12:32] Đang xử lý [309/2702] - ID: 960
+[2026-02-09 17:12:38] ✓ Hoàn thành ID: 960 [309/2702]
+[2026-02-09 17:12:39] Đang xử lý [310/2702] - ID: 961
+[2026-02-09 17:12:45] ✓ Hoàn thành ID: 961 [310/2702]
+[2026-02-09 17:12:47] Đang xử lý [311/2702] - ID: 962
+[2026-02-09 17:12:52] ✓ Hoàn thành ID: 962 [311/2702]
+[2026-02-09 17:12:53] Đang xử lý [312/2702] - ID: 963
+[2026-02-09 17:12:59] ✓ Hoàn thành ID: 963 [312/2702]
+[2026-02-09 17:13:00] Đang xử lý [313/2702] - ID: 964
+[2026-02-09 17:13:06] ✓ Hoàn thành ID: 964 [313/2702]
+[2026-02-09 17:13:08] Đang xử lý [314/2702] - ID: 965
+[2026-02-09 17:13:13] ✓ Hoàn thành ID: 965 [314/2702]
+[2026-02-09 17:13:14] Đang xử lý [315/2702] - ID: 966
+[2026-02-09 17:13:20] ✓ Hoàn thành ID: 966 [315/2702]
+[2026-02-09 17:13:22] Đang xử lý [316/2702] - ID: 967
+[2026-02-09 17:13:28] ✓ Hoàn thành ID: 967 [316/2702]
+[2026-02-09 17:13:29] Đang xử lý [317/2702] - ID: 968
+[2026-02-09 17:13:36] ✓ Hoàn thành ID: 968 [317/2702]
+[2026-02-09 17:13:37] Đang xử lý [318/2702] - ID: 969
+[2026-02-09 17:13:42] ✓ Hoàn thành ID: 969 [318/2702]
+[2026-02-09 17:13:44] Đang xử lý [319/2702] - ID: 970
+[2026-02-09 17:13:49] ✓ Hoàn thành ID: 970 [319/2702]
+[2026-02-09 17:13:50] Đang xử lý [320/2702] - ID: 971
+[2026-02-09 17:13:58] ✓ Hoàn thành ID: 971 [320/2702]
+[2026-02-09 17:14:00] Đang xử lý [321/2702] - ID: 972
+[2026-02-09 17:14:05] ✓ Hoàn thành ID: 972 [321/2702]
+[2026-02-09 17:14:06] Đang xử lý [322/2702] - ID: 973
+[2026-02-09 17:14:13] ✓ Hoàn thành ID: 973 [322/2702]
+[2026-02-09 17:14:14] Đang xử lý [323/2702] - ID: 974
+[2026-02-09 17:14:21] ✓ Hoàn thành ID: 974 [323/2702]
+[2026-02-09 17:14:23] Đang xử lý [324/2702] - ID: 975
+[2026-02-09 17:14:29] ✓ Hoàn thành ID: 975 [324/2702]
+[2026-02-09 17:14:31] Đang xử lý [325/2702] - ID: 976
+[2026-02-09 17:14:36] Lỗi parse JSON (lần 1/3): Expecting value: line 13 column 5 (char 1642)
+[2026-02-09 17:14:36] Response text: {
+    "dialogue": [
+        {"role": "người gọi", "content": "Alo, dạ cho hỏi đây có phải là số máy của chị Hoa không ạ?"},
+        {"role": "người nghe", "content": "Đúng rồi, mà ai gọi đấy ạ?"},
+   ...
+[2026-02-09 17:14:43] ✓ Hoàn thành ID: 976 [325/2702]
+[2026-02-09 17:14:45] Đang xử lý [326/2702] - ID: 977
+[2026-02-09 17:14:51] ✓ Hoàn thành ID: 977 [326/2702]
+[2026-02-09 17:14:53] Đang xử lý [327/2702] - ID: 978
+[2026-02-09 17:14:58] ✓ Hoàn thành ID: 978 [327/2702]
+[2026-02-09 17:15:00] Đang xử lý [328/2702] - ID: 979
+[2026-02-09 17:15:05] ✓ Hoàn thành ID: 979 [328/2702]
+[2026-02-09 17:15:07] Đang xử lý [329/2702] - ID: 980
+[2026-02-09 17:15:12] ✓ Hoàn thành ID: 980 [329/2702]
+[2026-02-09 17:15:14] Đang xử lý [330/2702] - ID: 981
+[2026-02-09 17:15:31] ✓ Hoàn thành ID: 981 [330/2702]
+[2026-02-09 17:15:32] Đang xử lý [331/2702] - ID: 982
+[2026-02-09 17:15:38] ✓ Hoàn thành ID: 982 [331/2702]
+[2026-02-09 17:15:40] Đang xử lý [332/2702] - ID: 983
+[2026-02-09 17:15:45] ✓ Hoàn thành ID: 983 [332/2702]
+[2026-02-09 17:15:47] Đang xử lý [333/2702] - ID: 984
+[2026-02-09 17:15:52] ✓ Hoàn thành ID: 984 [333/2702]
+[2026-02-09 17:15:53] Đang xử lý [334/2702] - ID: 985
+[2026-02-09 17:15:59] ✓ Hoàn thành ID: 985 [334/2702]
+[2026-02-09 17:16:01] Đang xử lý [335/2702] - ID: 986
+[2026-02-09 17:16:06] ✓ Hoàn thành ID: 986 [335/2702]
+[2026-02-09 17:16:08] Đang xử lý [336/2702] - ID: 987
+[2026-02-09 17:16:13] ✓ Hoàn thành ID: 987 [336/2702]
+[2026-02-09 17:16:15] Đang xử lý [337/2702] - ID: 988
+[2026-02-09 17:16:32] ✓ Hoàn thành ID: 988 [337/2702]
+[2026-02-09 17:16:33] Đang xử lý [338/2702] - ID: 989
+[2026-02-09 17:16:38] Lỗi parse JSON (lần 1/3): Expecting value: line 1 column 1 (char 0)
+[2026-02-09 17:16:38] Response text: thought
+{
+    "dialogue": [
+        {
+            "role": "người gọi",
+            "content": "Dạ alo, em chào anh ạ. Em gọi cho mình từ bộ phận chăm sóc khách hàng của Shopee đây ạ. Vừa rồi anh có đặ...
+[2026-02-09 17:16:45] ✓ Hoàn thành ID: 989 [338/2702]
+[2026-02-09 17:16:47] Đang xử lý [339/2702] - ID: 990
+[2026-02-09 17:16:53] ✓ Hoàn thành ID: 990 [339/2702]
+[2026-02-09 17:16:54] Đang xử lý [340/2702] - ID: 991
+[2026-02-09 17:17:17] ✓ Hoàn thành ID: 991 [340/2702]
+[2026-02-09 17:17:18] Đang xử lý [341/2702] - ID: 992
+[2026-02-09 17:17:23] ✓ Hoàn thành ID: 992 [341/2702]
+[2026-02-09 17:17:25] Đang xử lý [342/2702] - ID: 993
+[2026-02-09 17:17:31] ✓ Hoàn thành ID: 993 [342/2702]
+[2026-02-09 17:17:33] Đang xử lý [343/2702] - ID: 994
+[2026-02-09 17:17:39] ✓ Hoàn thành ID: 994 [343/2702]
+[2026-02-09 17:17:41] Đang xử lý [344/2702] - ID: 995
+[2026-02-09 17:17:45] ✓ Hoàn thành ID: 995 [344/2702]
+[2026-02-09 17:17:47] Đang xử lý [345/2702] - ID: 996
+[2026-02-09 17:17:52] ✓ Hoàn thành ID: 996 [345/2702]
+[2026-02-09 17:17:54] Đang xử lý [346/2702] - ID: 997
+[2026-02-09 17:17:59] ✓ Hoàn thành ID: 997 [346/2702]
+[2026-02-09 17:18:01] Đang xử lý [347/2702] - ID: 998
+[2026-02-09 17:18:07] ✓ Hoàn thành ID: 998 [347/2702]
+[2026-02-09 17:18:09] Đang xử lý [348/2702] - ID: 999
+[2026-02-09 17:18:14] ✓ Hoàn thành ID: 999 [348/2702]
+[2026-02-09 17:18:15] Đang xử lý [349/2702] - ID: 1000
+[2026-02-09 17:18:22] ✓ Hoàn thành ID: 1000 [349/2702]
+[2026-02-09 17:18:23] Đang xử lý [350/2702] - ID: 1001
+[2026-02-09 17:18:35] ✓ Hoàn thành ID: 1001 [350/2702]
+[2026-02-09 17:18:36] Đang xử lý [351/2702] - ID: 1002
+[2026-02-09 17:18:42] ✓ Hoàn thành ID: 1002 [351/2702]
+[2026-02-09 17:18:43] Đang xử lý [352/2702] - ID: 1003
+[2026-02-09 17:18:49] ✓ Hoàn thành ID: 1003 [352/2702]
+[2026-02-09 17:18:50] Đang xử lý [353/2702] - ID: 1004
+[2026-02-09 17:18:56] ✓ Hoàn thành ID: 1004 [353/2702]
+[2026-02-09 17:18:58] Đang xử lý [354/2702] - ID: 1005
+[2026-02-09 17:19:03] ✓ Hoàn thành ID: 1005 [354/2702]
+[2026-02-09 17:19:04] Đang xử lý [355/2702] - ID: 1006
+[2026-02-09 17:19:09] ✓ Hoàn thành ID: 1006 [355/2702]
+[2026-02-09 17:19:10] Đang xử lý [356/2702] - ID: 1007
+[2026-02-09 17:19:18] ✓ Hoàn thành ID: 1007 [356/2702]
+[2026-02-09 17:19:19] Đang xử lý [357/2702] - ID: 1008
+[2026-02-09 17:19:24] ✓ Hoàn thành ID: 1008 [357/2702]
+[2026-02-09 17:19:26] Đang xử lý [358/2702] - ID: 1009
+[2026-02-09 17:19:32] ✓ Hoàn thành ID: 1009 [358/2702]
+[2026-02-09 17:19:33] Đang xử lý [359/2702] - ID: 1010
+[2026-02-09 17:19:40] ✓ Hoàn thành ID: 1010 [359/2702]
+[2026-02-09 17:19:42] Đang xử lý [360/2702] - ID: 1011
+[2026-02-09 17:19:48] ✓ Hoàn thành ID: 1011 [360/2702]
+[2026-02-09 17:19:49] Đang xử lý [361/2702] - ID: 1012
+[2026-02-09 17:19:57] ✓ Hoàn thành ID: 1012 [361/2702]
+[2026-02-09 17:19:59] Đang xử lý [362/2702] - ID: 1013
+[2026-02-09 17:20:15] ✓ Hoàn thành ID: 1013 [362/2702]
+[2026-02-09 17:20:17] Đang xử lý [363/2702] - ID: 1014
+[2026-02-09 17:20:23] ✓ Hoàn thành ID: 1014 [363/2702]
+[2026-02-09 17:20:24] Đang xử lý [364/2702] - ID: 1015
+[2026-02-09 17:20:31] ✓ Hoàn thành ID: 1015 [364/2702]
+[2026-02-09 17:20:32] Đang xử lý [365/2702] - ID: 1016
+[2026-02-09 17:20:38] ✓ Hoàn thành ID: 1016 [365/2702]
+[2026-02-09 17:20:39] Đang xử lý [366/2702] - ID: 1017
+[2026-02-09 17:20:45] ✓ Hoàn thành ID: 1017 [366/2702]
+[2026-02-09 17:20:46] Đang xử lý [367/2702] - ID: 1018
+[2026-02-09 17:20:52] ✓ Hoàn thành ID: 1018 [367/2702]
+[2026-02-09 17:20:54] Đang xử lý [368/2702] - ID: 1019
+[2026-02-09 17:21:01] ✓ Hoàn thành ID: 1019 [368/2702]
+[2026-02-09 17:21:03] Đang xử lý [369/2702] - ID: 1020
+[2026-02-09 17:21:12] ✓ Hoàn thành ID: 1020 [369/2702]
+[2026-02-09 17:21:14] Đang xử lý [370/2702] - ID: 1021
+[2026-02-09 17:21:21] ✓ Hoàn thành ID: 1021 [370/2702]
+[2026-02-09 17:21:23] Đang xử lý [371/2702] - ID: 1022
+[2026-02-09 17:21:28] ✓ Hoàn thành ID: 1022 [371/2702]
+[2026-02-09 17:21:29] Đang xử lý [372/2702] - ID: 1023
+[2026-02-09 17:21:34] ✓ Hoàn thành ID: 1023 [372/2702]
+[2026-02-09 17:21:36] Đang xử lý [373/2702] - ID: 1024
+[2026-02-09 17:21:42] ✓ Hoàn thành ID: 1024 [373/2702]
+[2026-02-09 17:21:44] Đang xử lý [374/2702] - ID: 1025
+[2026-02-09 17:21:50] ✓ Hoàn thành ID: 1025 [374/2702]
+[2026-02-09 17:21:51] Đang xử lý [375/2702] - ID: 1026
+[2026-02-09 17:22:00] ✓ Hoàn thành ID: 1026 [375/2702]
+[2026-02-09 17:22:02] Đang xử lý [376/2702] - ID: 1027
+[2026-02-09 17:22:07] ✓ Hoàn thành ID: 1027 [376/2702]
+[2026-02-09 17:22:09] Đang xử lý [377/2702] - ID: 1028
+[2026-02-09 17:22:15] ✓ Hoàn thành ID: 1028 [377/2702]
+[2026-02-09 17:22:16] Đang xử lý [378/2702] - ID: 1029
+[2026-02-09 17:22:22] ✓ Hoàn thành ID: 1029 [378/2702]
+[2026-02-09 17:22:24] Đang xử lý [379/2702] - ID: 1030
+[2026-02-09 17:22:30] ✓ Hoàn thành ID: 1030 [379/2702]
+[2026-02-09 17:22:32] Đang xử lý [380/2702] - ID: 1031
+[2026-02-09 17:22:37] ✓ Hoàn thành ID: 1031 [380/2702]
+[2026-02-09 17:22:39] Đang xử lý [381/2702] - ID: 1032
+[2026-02-09 17:22:44] ✓ Hoàn thành ID: 1032 [381/2702]
+[2026-02-09 17:22:46] Đang xử lý [382/2702] - ID: 1033
+[2026-02-09 17:22:51] Lỗi parse JSON (lần 1/3): Expecting value: line 1 column 1 (char 0)
+[2026-02-09 17:22:51] Response text: thought
+{
+    "dialogue": [
+        {
+            "role": "người gọi",
+            "content": "A lô, em chào anh ạ. Em là nhân viên bên ngân hàng VietinBank, không biết dạo này anh có đang quan tâm ha...
+[2026-02-09 17:22:58] ✓ Hoàn thành ID: 1033 [382/2702]
+[2026-02-09 17:23:00] Đang xử lý [383/2702] - ID: 1034
+[2026-02-09 17:23:05] ✓ Hoàn thành ID: 1034 [383/2702]
+[2026-02-09 17:23:06] Đang xử lý [384/2702] - ID: 1035
+[2026-02-09 17:23:11] ✓ Hoàn thành ID: 1035 [384/2702]
+[2026-02-09 17:23:13] Đang xử lý [385/2702] - ID: 1036
+[2026-02-09 17:23:17] ✓ Hoàn thành ID: 1036 [385/2702]
+[2026-02-09 17:23:19] Đang xử lý [386/2702] - ID: 1037
+[2026-02-09 17:23:32] ✓ Hoàn thành ID: 1037 [386/2702]
+[2026-02-09 17:23:33] Đang xử lý [387/2702] - ID: 1038
+[2026-02-09 17:23:50] ✓ Hoàn thành ID: 1038 [387/2702]
+[2026-02-09 17:23:52] Đang xử lý [388/2702] - ID: 1039
+[2026-02-09 17:23:57] ✓ Hoàn thành ID: 1039 [388/2702]
+[2026-02-09 17:23:58] Đang xử lý [389/2702] - ID: 1040
+[2026-02-09 17:24:10] Lỗi khác (lần 1/3): 'choices'
+[2026-02-09 17:24:17] ✓ Hoàn thành ID: 1040 [389/2702]
+[2026-02-09 17:24:19] Đang xử lý [390/2702] - ID: 1041
+[2026-02-09 17:24:31] ✓ Hoàn thành ID: 1041 [390/2702]
+[2026-02-09 17:24:32] Đang xử lý [391/2702] - ID: 1042
+[2026-02-09 17:24:38] ✓ Hoàn thành ID: 1042 [391/2702]
+[2026-02-09 17:24:39] Đang xử lý [392/2702] - ID: 1043
+[2026-02-09 17:24:44] ✓ Hoàn thành ID: 1043 [392/2702]
+[2026-02-09 17:24:45] Đang xử lý [393/2702] - ID: 1044
+[2026-02-09 17:24:50] ✓ Hoàn thành ID: 1044 [393/2702]
+[2026-02-09 17:24:52] Đang xử lý [394/2702] - ID: 1045
+[2026-02-09 17:24:58] ✓ Hoàn thành ID: 1045 [394/2702]
+[2026-02-09 17:24:59] Đang xử lý [395/2702] - ID: 1046
+[2026-02-09 17:25:05] ✓ Hoàn thành ID: 1046 [395/2702]
+[2026-02-09 17:25:07] Đang xử lý [396/2702] - ID: 1047
+[2026-02-09 17:25:24] ✓ Hoàn thành ID: 1047 [396/2702]
+[2026-02-09 17:25:25] Đang xử lý [397/2702] - ID: 1048
+[2026-02-09 17:25:32] ✓ Hoàn thành ID: 1048 [397/2702]
+[2026-02-09 17:25:33] Đang xử lý [398/2702] - ID: 1049
+[2026-02-09 17:25:39] ✓ Hoàn thành ID: 1049 [398/2702]
+[2026-02-09 17:25:41] Đang xử lý [399/2702] - ID: 1050
+[2026-02-09 17:25:46] ✓ Hoàn thành ID: 1050 [399/2702]
+[2026-02-09 17:25:48] Đang xử lý [400/2702] - ID: 1051
+[2026-02-09 17:25:54] ✓ Hoàn thành ID: 1051 [400/2702]
+[2026-02-09 17:25:55] Đang xử lý [401/2702] - ID: 1052
+[2026-02-09 17:26:02] ✓ Hoàn thành ID: 1052 [401/2702]
+[2026-02-09 17:26:03] Đang xử lý [402/2702] - ID: 1053
+[2026-02-09 17:26:09] ✓ Hoàn thành ID: 1053 [402/2702]
+[2026-02-09 17:26:11] Đang xử lý [403/2702] - ID: 1054
+[2026-02-09 17:26:16] ✓ Hoàn thành ID: 1054 [403/2702]
+[2026-02-09 17:26:17] Đang xử lý [404/2702] - ID: 1055
+[2026-02-09 17:26:22] ✓ Hoàn thành ID: 1055 [404/2702]
+[2026-02-09 17:26:24] Đang xử lý [405/2702] - ID: 1056
+[2026-02-09 17:26:36] ✓ Hoàn thành ID: 1056 [405/2702]
+[2026-02-09 17:26:38] Đang xử lý [406/2702] - ID: 1057
+[2026-02-09 17:26:44] ✓ Hoàn thành ID: 1057 [406/2702]
+[2026-02-09 17:26:45] Đang xử lý [407/2702] - ID: 1058
+[2026-02-09 17:26:50] ✓ Hoàn thành ID: 1058 [407/2702]
+[2026-02-09 17:26:52] Đang xử lý [408/2702] - ID: 1059
+[2026-02-09 17:27:01] ✓ Hoàn thành ID: 1059 [408/2702]
+[2026-02-09 17:27:03] Đang xử lý [409/2702] - ID: 1060
+[2026-02-09 17:27:08] ✓ Hoàn thành ID: 1060 [409/2702]
+[2026-02-09 17:27:10] Đang xử lý [410/2702] - ID: 1061
+[2026-02-09 17:27:22] ✓ Hoàn thành ID: 1061 [410/2702]
+[2026-02-09 17:27:23] Đang xử lý [411/2702] - ID: 1062
+[2026-02-09 17:27:29] ✓ Hoàn thành ID: 1062 [411/2702]
+[2026-02-09 17:27:30] Đang xử lý [412/2702] - ID: 1063
+[2026-02-09 17:27:35] ✓ Hoàn thành ID: 1063 [412/2702]
+[2026-02-09 17:27:37] Đang xử lý [413/2702] - ID: 1064
+[2026-02-09 17:27:42] ✓ Hoàn thành ID: 1064 [413/2702]
+[2026-02-09 17:27:43] Đang xử lý [414/2702] - ID: 1065
+[2026-02-09 17:27:53] ✓ Hoàn thành ID: 1065 [414/2702]
+[2026-02-09 17:27:54] Đang xử lý [415/2702] - ID: 1066
+[2026-02-09 17:27:59] ✓ Hoàn thành ID: 1066 [415/2702]
+[2026-02-09 17:28:01] Đang xử lý [416/2702] - ID: 1067
+[2026-02-09 17:28:07] ✓ Hoàn thành ID: 1067 [416/2702]
+[2026-02-09 17:28:09] Đang xử lý [417/2702] - ID: 1068
+[2026-02-09 17:28:17] ✓ Hoàn thành ID: 1068 [417/2702]
+[2026-02-09 17:28:18] Đang xử lý [418/2702] - ID: 1069
+[2026-02-09 17:28:24] ✓ Hoàn thành ID: 1069 [418/2702]
+[2026-02-09 17:28:26] Đang xử lý [419/2702] - ID: 1070
+[2026-02-09 17:28:33] ✓ Hoàn thành ID: 1070 [419/2702]
+[2026-02-09 17:28:34] Đang xử lý [420/2702] - ID: 1071
+[2026-02-09 17:28:39] ✓ Hoàn thành ID: 1071 [420/2702]
+[2026-02-09 17:28:40] Đang xử lý [421/2702] - ID: 1072
+[2026-02-09 17:28:47] ✓ Hoàn thành ID: 1072 [421/2702]
+[2026-02-09 17:28:48] Đang xử lý [422/2702] - ID: 1073
+[2026-02-09 17:28:55] ✓ Hoàn thành ID: 1073 [422/2702]
+[2026-02-09 17:28:56] Đang xử lý [423/2702] - ID: 1074
+[2026-02-09 17:29:03] ✓ Hoàn thành ID: 1074 [423/2702]
+[2026-02-09 17:29:04] Đang xử lý [424/2702] - ID: 1075
+[2026-02-09 17:29:12] ✓ Hoàn thành ID: 1075 [424/2702]
+[2026-02-09 17:29:14] Đang xử lý [425/2702] - ID: 1076
+[2026-02-09 17:29:23] ✓ Hoàn thành ID: 1076 [425/2702]
+[2026-02-09 17:29:25] Đang xử lý [426/2702] - ID: 1077
+[2026-02-09 17:29:30] ✓ Hoàn thành ID: 1077 [426/2702]
+[2026-02-09 17:29:32] Đang xử lý [427/2702] - ID: 1078
+[2026-02-09 17:29:37] ✓ Hoàn thành ID: 1078 [427/2702]
+[2026-02-09 17:29:39] Đang xử lý [428/2702] - ID: 1079
+[2026-02-09 17:29:45] ✓ Hoàn thành ID: 1079 [428/2702]
+[2026-02-09 17:29:46] Đang xử lý [429/2702] - ID: 1080
+[2026-02-09 17:29:54] ✓ Hoàn thành ID: 1080 [429/2702]
+[2026-02-09 17:29:55] Đang xử lý [430/2702] - ID: 1081
+[2026-02-09 17:30:00] ✓ Hoàn thành ID: 1081 [430/2702]
+[2026-02-09 17:30:02] Đang xử lý [431/2702] - ID: 1082
+[2026-02-09 17:30:09] ✓ Hoàn thành ID: 1082 [431/2702]
+[2026-02-09 17:30:10] Đang xử lý [432/2702] - ID: 1083
+[2026-02-09 17:30:17] ✓ Hoàn thành ID: 1083 [432/2702]
+[2026-02-09 17:30:18] Đang xử lý [433/2702] - ID: 1084
+[2026-02-09 17:30:25] ✓ Hoàn thành ID: 1084 [433/2702]
+[2026-02-09 17:30:27] Đang xử lý [434/2702] - ID: 1085
+[2026-02-09 17:30:32] ✓ Hoàn thành ID: 1085 [434/2702]
+[2026-02-09 17:30:33] Đang xử lý [435/2702] - ID: 1086
+[2026-02-09 17:30:38] ✓ Hoàn thành ID: 1086 [435/2702]
+[2026-02-09 17:30:40] Đang xử lý [436/2702] - ID: 1087
+[2026-02-09 17:30:45] ✓ Hoàn thành ID: 1087 [436/2702]
+[2026-02-09 17:30:46] Đang xử lý [437/2702] - ID: 1088
+[2026-02-09 17:30:52] ✓ Hoàn thành ID: 1088 [437/2702]
+[2026-02-09 17:30:54] Đang xử lý [438/2702] - ID: 1089
+[2026-02-09 17:30:59] ✓ Hoàn thành ID: 1089 [438/2702]
+[2026-02-09 17:31:00] Đang xử lý [439/2702] - ID: 1090
+[2026-02-09 17:31:08] ✓ Hoàn thành ID: 1090 [439/2702]
+[2026-02-09 17:31:09] Đang xử lý [440/2702] - ID: 1091
+[2026-02-09 17:31:17] ✓ Hoàn thành ID: 1091 [440/2702]
+[2026-02-09 17:31:19] Đang xử lý [441/2702] - ID: 1092
+[2026-02-09 17:31:35] ✓ Hoàn thành ID: 1092 [441/2702]
+[2026-02-09 17:31:37] Đang xử lý [442/2702] - ID: 1093
+[2026-02-09 17:31:45] ✓ Hoàn thành ID: 1093 [442/2702]
+[2026-02-09 17:31:46] Đang xử lý [443/2702] - ID: 1094
+[2026-02-09 17:31:52] ✓ Hoàn thành ID: 1094 [443/2702]
+[2026-02-09 17:31:54] Đang xử lý [444/2702] - ID: 1095
+[2026-02-09 17:31:58] ✓ Hoàn thành ID: 1095 [444/2702]
+[2026-02-09 17:32:00] Đang xử lý [445/2702] - ID: 1096
+[2026-02-09 17:32:05] ✓ Hoàn thành ID: 1096 [445/2702]
+[2026-02-09 17:32:07] Đang xử lý [446/2702] - ID: 1097
+[2026-02-09 17:32:12] ✓ Hoàn thành ID: 1097 [446/2702]
+[2026-02-09 17:32:14] Đang xử lý [447/2702] - ID: 1098
+[2026-02-09 17:32:19] ✓ Hoàn thành ID: 1098 [447/2702]
+[2026-02-09 17:32:21] Đang xử lý [448/2702] - ID: 1099
+[2026-02-09 17:32:26] Lỗi parse JSON (lần 1/3): Expecting value: line 1 column 1 (char 0)
+[2026-02-09 17:32:26] Response text: thought
+{
+    "dialogue": [
+        {
+            "role": "người gọi",
+            "content": "A lô, xin chào anh ạ. Em là quản lý khách hàng bên chi nhánh ngân hàng Vietcombank chi nhánh Thủ Đức đây ...
+[2026-02-09 17:32:35] ✓ Hoàn thành ID: 1099 [448/2702]
+[2026-02-09 17:32:36] Đang xử lý [449/2702] - ID: 1100
+[2026-02-09 17:32:42] ✓ Hoàn thành ID: 1100 [449/2702]
+[2026-02-09 17:32:43] Đang xử lý [450/2702] - ID: 1101
+[2026-02-09 17:32:49] ✓ Hoàn thành ID: 1101 [450/2702]
+[2026-02-09 17:32:51] Đang xử lý [451/2702] - ID: 1102
+[2026-02-09 17:32:56] ✓ Hoàn thành ID: 1102 [451/2702]
+[2026-02-09 17:32:58] Đang xử lý [452/2702] - ID: 1103
+[2026-02-09 17:33:03] ✓ Hoàn thành ID: 1103 [452/2702]
+[2026-02-09 17:33:05] Đang xử lý [453/2702] - ID: 1104
+[2026-02-09 17:33:11] ✓ Hoàn thành ID: 1104 [453/2702]
+[2026-02-09 17:33:12] Đang xử lý [454/2702] - ID: 1105
+[2026-02-09 17:33:18] ✓ Hoàn thành ID: 1105 [454/2702]
+[2026-02-09 17:33:20] Đang xử lý [455/2702] - ID: 1106
+[2026-02-09 17:33:26] ✓ Hoàn thành ID: 1106 [455/2702]
+[2026-02-09 17:33:28] Đang xử lý [456/2702] - ID: 1107
+[2026-02-09 17:33:34] ✓ Hoàn thành ID: 1107 [456/2702]
+[2026-02-09 17:33:35] Đang xử lý [457/2702] - ID: 1108
+[2026-02-09 17:33:40] ✓ Hoàn thành ID: 1108 [457/2702]
+[2026-02-09 17:33:42] Đang xử lý [458/2702] - ID: 1109
+[2026-02-09 17:33:46] ✓ Hoàn thành ID: 1109 [458/2702]
+[2026-02-09 17:33:48] Đang xử lý [459/2702] - ID: 1110
+[2026-02-09 17:33:55] ✓ Hoàn thành ID: 1110 [459/2702]
+[2026-02-09 17:33:57] Đang xử lý [460/2702] - ID: 1111
+[2026-02-09 17:34:11] ✓ Hoàn thành ID: 1111 [460/2702]
+[2026-02-09 17:34:13] Đang xử lý [461/2702] - ID: 1112
+[2026-02-09 17:34:18] ✓ Hoàn thành ID: 1112 [461/2702]
