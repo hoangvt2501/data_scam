@@ -333,9 +333,9 @@ def list_available_models():
 
 def main():
     # Cấu hình
-    INPUT_FILE = r"F:\Projetcs\data_scam\translate\tele28k_scam_translate.json"
-    OUTPUT_FILE = r"F:\Projetcs\data_scam\localization\tele28k_scam.json"
-    LOG_FILE = r"F:\Projetcs\data_scam\conversion_log.txt"
+    INPUT_FILE = r"F:\Projetcs\data_scam\translate\tele28k_harmless_translate.json"
+    OUTPUT_FILE = r"F:\Projetcs\data_scam\localization\tele28k_harmless.json"
+    LOG_FILE = r"F:\Projetcs\data_scam\conversion1_log.txt"
     
     print("="*60)
     print("CHƯƠNG TRÌNH CHUYỂN ĐỔI NGỮ CẢNH TIẾNG VIỆT")

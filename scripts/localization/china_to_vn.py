@@ -184,8 +184,8 @@ CHỈ TRẢ VỀ JSON, KHÔNG THÊM BẤT KỲ TEXT NÀO KHÁC."""
 
 def main():
     # Cấu hình
-    INPUT_FILE = r"F:\Projetcs\data_scam\translate\tele28k_scam_translate.json"   # File dữ liệu đầu vào
-    OUTPUT_FILE = r"F:\Projetcs\data_scam\localization\tele28k_scam.json" # File kết quả
+    INPUT_FILE = r"F:\Projetcs\data_scam\translate\tele28k_harmless_translate.json"   # File dữ liệu đầu vào
+    OUTPUT_FILE = r"F:\Projetcs\data_scam\localization\tele28k_harmless.json" # File kết quả
     LOG_FILE = r"F:\Projetcs\data_scam\conversion_log.txt"  # File log
     
     print("="*60)
