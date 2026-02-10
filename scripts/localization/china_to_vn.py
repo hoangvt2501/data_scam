@@ -184,9 +184,9 @@ CHỈ TRẢ VỀ JSON, KHÔNG THÊM BẤT KỲ TEXT NÀO KHÁC."""
 
 def main():
     # Cấu hình
-    INPUT_FILE = r"F:\Projetcs\data_scam\translate\tele28k_harmless_translate.json"   # File dữ liệu đầu vào
-    OUTPUT_FILE = r"F:\Projetcs\data_scam\localization\tele28k_harmless.json" # File kết quả
-    LOG_FILE = r"F:\Projetcs\data_scam\conversion_log.txt"  # File log
+    INPUT_FILE = r"C:\Users\admin\Desktop\Hoangvt\data_scam\translate\tele28k_harmless_translate.json"   # File dữ liệu đầu vào
+    OUTPUT_FILE = r"C:\Users\admin\Desktop\Hoangvt\data_scam\localization\tele28k_harmless.json" # File kết quả
+    LOG_FILE = r"C:\Users\admin\Desktop\Hoangvt\data_scam\conversion2_log.txt"  # File log
     
     print("="*60)
     print("CHƯƠNG TRÌNH CHUYỂN ĐỔI NGỮ CẢNH TIẾNG VIỆT")

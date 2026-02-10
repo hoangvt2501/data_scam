@@ -67440,5 +67440,3305 @@
         "content": "Cảm ơn em, em cũng đi đường cẩn thận nha, chào em."
       }
     ]
+  },
+  {
+    "_id": 1373,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Dạ alo, em chào anh ạ. Em gọi cho mình từ bên ShopeeFood về đơn hàng trà chanh Hong Kong với trà đào anh đặt ấy ạ. Dạ hiện tại hai món này bên em đang tạm hết hàng mất rồi, mong anh thông cảm ạ."
+      },
+      {
+        "role": "người nghe",
+        "content": "Ừm, vậy giờ có món nào khác để thay thế không em?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ bên em hiện còn nước táo với nước xoài bản nhập khẩu, ngoài ra còn có cả nước lựu với nước mía nữa ạ."
+      },
+      {
+        "role": "người nghe",
+        "content": "Nước lựu với nước mía thì cũng được, mà chị gái anh lại đang muốn uống trà đào cơ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ tiếc quá, hôm nay trà đào bên em lại không có hàng rồi. Hay là anh dùng thử trà chanh Sunshine xem sao, không biết anh có muốn đổi sang loại này không ạ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Trà chanh Sunshine hả? Có phải cái loại màu xanh không em?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ loại trà chanh Hong Kong màu xanh hôm nay cũng hết rồi ạ, nhưng em có loại đóng lon Sunshine này uống cũng rất ngon, anh thấy có được không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Hàng đóng lon thì cũng được, thôi lấy cho anh loại lon đi."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ vâng, vậy em đổi cho mình sang trà chanh Sunshine đóng lon nhé. À ngoài ra bên em còn có cả loại hộp giấy nữa, anh có muốn lấy thêm không ạ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Hộp giấy cũng được, vậy lấy luôn cho anh cả hai loại nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ vâng ạ, em cảm ơn anh đã thông cảm giúp shop. Em sẽ sắp xếp đóng gói và giao sớm nhất cho mình ạ."
+      },
+      {
+        "role": "người nghe",
+        "content": "Ok em, cảm ơn em nhé, chào em."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ em chào anh, chúc anh một ngày tốt lành ạ."
+      }
+    ]
+  },
+  {
+    "_id": 1374,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Dạ alo em chào anh, em là Linh bên sửa điện lạnh đây ạ. Về việc sửa cái máy lạnh anh hẹn hôm trước, bên em đã sắp xếp lịch xong xuôi rồi anh nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "À chào Linh nhé, tốt quá. Thế cụ thể thì khi nào em qua được nhỉ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ tầm 10 giờ sáng mai em qua, anh có tiện ở nhà không ạ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Được em, sáng mai anh có nhà. Có gì trước khi đến em cứ gọi điện báo trước cho anh một tiếng nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ vâng chắc chắn rồi ạ, trước khi qua em sẽ gọi báo anh. Lần này qua em sẽ kiểm tra kỹ cả cục nóng lẫn cục lạnh xem có phải do lưới lọc bị tắc hay máy bị thiếu gas không để xử lý dứt điểm luôn."
+      },
+      {
+        "role": "người nghe",
+        "content": "Ok em, nhờ các em nhé. Hôm trước anh cũng tự tháo ra lau chùi sơ qua rồi mà hình như vẫn không ăn thua."
+      },
+      {
+        "role": "người gọi",
+        "content": "Không sao đâu anh, để mai em qua kiểm tra kỹ cho, đảm bảo máy sẽ chạy ngon lành. Nếu có bộ phận nào hỏng cần thay thế, em sẽ báo giá và hỏi ý kiến anh trước rồi mới làm ạ."
+      },
+      {
+        "role": "người nghe",
+        "content": "Được rồi, phiền các em nhé. Mà chi phí đợt này tính thế nào em?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ nếu chỉ là vệ sinh máy với nạp thêm gas thôi thì hết khoảng ba trăm nghìn anh ạ. Còn nếu phát sinh linh kiện nào cần thay thì em sẽ báo giá dựa trên tình hình thực tế sau nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Rồi, anh hiểu rồi, cảm ơn em. Vậy cứ chốt lịch thế nhé, hẹn gặp em sáng mai."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ vâng, hẹn gặp anh sáng mai ạ. Anh cứ yên tâm, tụi em sẽ xử lý cẩn thận cho anh."
+      }
+    ]
+  },
+  {
+    "_id": 1375,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo, dạo này sao rồi? Khỏe không bạn?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Chào bạn nhé, mình vẫn khỏe, còn bạn thì thế nào?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Mình cũng bình thường à. Dạo này công việc ổn cả chứ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Cũng tạm ổn, mỗi tội hơi lu bù tí thôi. Còn bên bạn sao rồi?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Mình cũng vậy thôi, mà hôm nay định xả hơi một chút, ra ngoài đi dạo cho khuây khỏa."
+      },
+      {
+        "role": "người nghe",
+        "content": "Nghe hay đấy, thế định đi đâu chơi chưa?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Mình cũng chưa chốt nữa, chắc là ra công viên hoặc ghé hiệu sách thôi. Bạn có chỗ nào hay hay gợi ý cho mình không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Nếu bạn thích kiểu yên tĩnh thì thử qua phố sách mới mở xem, ở đấy có mấy tiệm sách với quán cà phê chill phết."
+      },
+      {
+        "role": "người gọi",
+        "content": "Ý hay đó, cảm ơn bạn đã gợi ý nhé! Để mình qua đó xem thử luôn."
+      },
+      {
+        "role": "người nghe",
+        "content": "Không có gì đâu, chúc bạn đi chơi vui nhé. Hôm nào rảnh anh em mình gặp nhau sau."
+      },
+      {
+        "role": "người gọi",
+        "content": "Ok bạn, bạn cũng giữ gìn sức khỏe nhé. Tạm biệt!"
+      }
+    ]
+  },
+  {
+    "_id": 1376,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo, chào bạn, mình đang đợi bạn ở ngay cổng khu đô thị rồi nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Chào bạn, mình cũng sắp đến nơi rồi, bên đó có chỗ đỗ xe thuận tiện không nhỉ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Có chứ, bên này chỗ đỗ xe thoải mái lắm, bạn cứ yên tâm."
+      },
+      {
+        "role": "người nghe",
+        "content": "Thế thì tốt quá. Tầm 10 phút nữa mình có mặt, bạn cứ đợi ở đó nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Ok bạn, mình sẽ đợi ở đây. Lúc nào đến nơi thì cứ gọi cho mình."
+      },
+      {
+        "role": "người nghe",
+        "content": "Nhất trí. Mà hôm nay bạn qua gửi đồ gì cho bên mình thế?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Đúng rồi, lát mình qua gửi mấy bộ tài liệu cho bên công ty bạn."
+      },
+      {
+        "role": "người nghe",
+        "content": "Vâng, mình rõ rồi. Cứ đến nơi thì gọi nhé, mình sẽ xuống đón bạn vào."
+      },
+      {
+        "role": "người gọi",
+        "content": "Được rồi, hẹn gặp lại bạn lát nữa nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Ok, đi đường cẩn thận nha."
+      }
+    ]
+  },
+  {
+    "_id": 1377,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ alo, tiệm em nghe ạ. Em có thể giúp gì được cho mình không ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Chào em, anh muốn hỏi xem cuối tuần này bên mình còn lịch trống không, anh muốn đặt chỗ qua cắt tóc."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ để em kiểm tra một chút ạ... Hiện tại cuối tuần này lịch bên em cũng đang khá thoáng, không biết anh muốn đặt vào ngày nào và khung giờ nào cụ thể ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Tầm 3 giờ chiều thứ Bảy này có được không em?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ 3 giờ chiều thứ Bảy vẫn còn chỗ anh nhé. Anh cho em xin tên với số điện thoại để em vào lịch cho mình nha."
+      },
+      {
+        "role": "người gọi",
+        "content": "Anh tên Cường, số điện thoại của anh là 0908123456."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ rồi, em xác nhận đặt lịch cho anh Cường vào lúc 3 giờ chiều thứ Bảy ạ. Hôm đó anh nhớ đến đúng giờ giúp em nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Ok em, cảm ơn nhé. À cho anh hỏi thêm là bên mình có dịch vụ gội đầu luôn không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ có chứ anh, thường thì bên em sẽ gội đầu cho mình trước khi cắt để tóc sạch và dễ tạo kiểu hơn ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Vậy thì tốt quá, cảm ơn em. Hẹn gặp vào thứ Bảy nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ vâng, hẹn gặp anh vào thứ Bảy ạ. Chúc anh một ngày vui vẻ!"
+      }
+    ]
+  },
+  {
+    "_id": 1378,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ alo, em nghe ạ. Em có thể hỗ trợ gì được cho mình không ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Chào bạn, mình thấy trên website của bên bạn đang có chương trình khuyến mãi cho ốp lưng điện thoại, nên mình muốn gọi để hỏi kỹ hơn chút."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ vâng ạ. Không biết là anh đang quan tâm đến mẫu ốp của dòng điện thoại nào để em tư vấn cho mình kỹ hơn ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Mình đang xem cái ốp cho iPhone 13, thấy bảo bên bạn đang có chương trình mua một tặng một đúng không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ đúng rồi anh ơi. Hiện tại bên em đang áp dụng ưu đãi này ạ. Chỉ cần anh mua bất kỳ mẫu ốp nào cho iPhone 13 là sẽ được tặng kèm một chiếc cùng loại hoàn toàn miễn phí luôn ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Thế chương trình này bao giờ thì kết thúc hả bạn?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ, khuyến mãi này bên em sẽ kéo dài đến hết tháng này thôi ạ. Nếu anh ưng mẫu nào rồi thì mình tranh thủ đặt sớm nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Ok bạn, vậy để lát mình đặt luôn. À, thường thì bên bạn giao hàng trong bao lâu nhỉ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ, thông thường bên em sẽ đóng gói và gửi hàng đi trong vòng 24 giờ sau khi anh đặt ạ. Tùy vào khu vực mình ở mà tầm 1 đến 3 ngày là hàng sẽ tới nơi thôi ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Giao nhanh thế thì tốt quá, cảm ơn bạn đã hỗ trợ nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ không có gì ạ. Nếu anh còn thắc mắc gì thêm thì cứ thoải mái liên hệ bên em nha. Chúc anh một ngày mua sắm vui vẻ ạ!"
+      }
+    ]
+  },
+  {
+    "_id": 1379,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo, chào em. Anh là Vương, anh vừa đặt lịch cắt tóc lúc 10 giờ sáng mai trên website bên mình, em kiểm tra xác nhận lại giúp anh xem được chưa nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ em chào anh Vương. Em là Linh, nhân viên chăm sóc khách hàng ạ. Em đã thấy lịch đặt của anh vào lúc 10 giờ sáng mai rồi, thông tin đã chính xác anh nhé. Bên em sẽ giữ chỗ cho anh vào khung giờ này ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Ok em, vậy sáng mai anh cứ trực tiếp qua tiệm thôi đúng không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ đúng rồi ạ. Ngày mai anh cứ đến cửa hàng, báo tên với bạn lễ tân là bên em sẽ sắp xếp chỗ cho anh ngay ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Mà nếu chẳng may anh đến muộn một chút thì có sao không em?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ, bên em sẽ cố gắng hỗ trợ giữ chỗ cho anh, nhưng nếu mình đến muộn quá 30 phút thì lịch hẹn có thể bị hủy và mình phải đặt lại lịch khác đấy ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Anh hiểu rồi, vậy anh sẽ cố gắng đến đúng giờ. À, cho anh hỏi thêm là anh đặt lịch với thợ nào ấy nhỉ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ, anh đã đặt lịch với thợ chính là anh Nam ạ. Anh Nam có nhiều năm kinh nghiệm và tay nghề rất cứng nên anh cứ yên tâm nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Tuyệt quá, vậy thì anh yên tâm rồi. Cảm ơn em đã hỗ trợ nhé, chào em."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ không có gì ạ. Nếu cần hỗ trợ gì thêm anh cứ gọi cho bên em bất cứ lúc nào nhé. Chúc anh một ngày vui vẻ, chào anh ạ!"
+      }
+    ]
+  },
+  {
+    "_id": 1380,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo, cho mình hỏi về dịch vụ cắt tóc bên tiệm mình với ạ."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ em chào anh, bên em nghe đây ạ. Không biết anh cần tư vấn thông tin gì không ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Mình muốn hỏi giá cắt tóc với xem đặt lịch thế nào ấy em."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ, giá cắt tóc bên em là 150 nghìn ạ, còn nếu anh muốn tạo kiểu thì giá sẽ cao hơn một chút, khoảng 200 nghìn. Anh muốn đặt lịch vào khung giờ nào để em kiểm tra cho mình ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Vậy 4 giờ chiều mai có được không em?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ được anh, 4 giờ chiều mai vẫn còn chỗ ạ. Em sẽ đặt lịch cho anh vào giờ đó nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Ok em. Thế mình có cần đến sớm không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ anh nên đến sớm khoảng 10 phút để thợ bên em có thời gian tư vấn kỹ hơn về kiểu tóc mà anh muốn nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Được rồi, vậy đúng 4 giờ chiều mai mình qua."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ vâng, hẹn gặp anh vào chiều mai ạ. Chúc anh một ngày vui vẻ!"
+      },
+      {
+        "role": "người gọi",
+        "content": "Cảm ơn em, chào em nhé."
+      }
+    ]
+  },
+  {
+    "_id": 1381,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo, mình tới gần chỗ bạn rồi này, mà không rành đường lắm, bạn chỉ mình đường vào với?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Alo nghe đây! Thế bạn đang đi từ hướng nào qua?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Mình đang đi từ phía ga tàu lại."
+      },
+      {
+        "role": "người nghe",
+        "content": "À ok, từ phía ga bạn cứ rẽ trái, đi thẳng thêm khoảng 500 mét nữa là thấy một cái hộp thư màu đỏ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Rồi, thấy cái hộp thư đỏ rồi sao nữa?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Đến chỗ hộp thư đỏ đó bạn rẽ phải, cứ đi dọc theo con đường nhỏ là thấy tiếp một cái hộp thư màu xanh."
+      },
+      {
+        "role": "người gọi",
+        "content": "Mình thấy cái hộp thư xanh rồi, giờ đi sao nữa bạn?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Từ chỗ hộp thư xanh đó bạn cứ đi thẳng là thấy một cái công viên nhỏ, nhà mình nằm ngay đối diện công viên luôn đó."
+      },
+      {
+        "role": "người gọi",
+        "content": "Ok mình thấy rồi, sắp tới nơi rồi nhé, cảm ơn bạn nhiều!"
+      },
+      {
+        "role": "người nghe",
+        "content": "Không có gì đâu, đi đường cẩn thận nha."
+      }
+    ]
+  },
+  {
+    "_id": 1382,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo, chào em. Anh là Nam, anh muốn hỏi về mẫu điện thoại mới nhất bên mình, không biết cửa hàng còn hàng sẵn không em?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ em chào anh Nam, em là Trang nhân viên tư vấn ạ. Dòng máy anh hỏi bên em đang có sẵn, nhưng để em kiểm tra lại chính xác về màu sắc và phiên bản trong kho nhé. Anh đang quan tâm đến màu nào ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Anh muốn lấy màu xanh, bản flagship (cao cấp nhất) ấy."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ vâng, anh chờ em một chút để em check kho ngay cho mình nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Ok em, cảm ơn em."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ anh Nam ơi, em vừa kiểm tra xong, hiện tại bên em vẫn còn sẵn bản flagship màu xanh ạ. Không biết khoảng khi nào thì anh qua xem máy được ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Chiều mai anh rảnh, tầm đó anh qua cửa hàng mình được không em?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ được ạ, chiều mai tầm từ 3 giờ đến 5 giờ anh cứ ghé qua nhé, em sẽ chuẩn bị máy sẵn cho mình ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Ok em, vậy chốt tầm 4 giờ chiều mai anh qua nhé. Cảm ơn em."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ không có gì ạ. Hẹn gặp lại anh vào chiều mai nhé, chúc anh một ngày tốt lành!"
+      }
+    ]
+  },
+  {
+    "_id": 1383,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo Nam đây, dạo này thế nào, khỏe không cậu?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Chào Nam nhé, tớ vẫn khỏe, còn cậu thì sao? Dạo này đang bận rộn gì à?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Tớ á, dạo này đang chạy dự án nên bù đầu luôn. Còn cậu, có gì mới không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Tớ mới nhảy việc sang chỗ mới, vẫn đang trong giai đoạn thích nghi nên cũng hơi áp lực."
+      },
+      {
+        "role": "người gọi",
+        "content": "Ồ, mới đổi việc à? Công việc mới thế nào, có ổn không cậu?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Cũng tốt, đồng nghiệp ở đây thân thiện lắm, việc cũng thú vị, chỉ là lúc mới bắt đầu còn hơi bỡ ngỡ tí thôi."
+      },
+      {
+        "role": "người gọi",
+        "content": "Thế thì tốt rồi, cứ từ từ, quen việc là ổn hết ấy mà. À, cuối tuần này rảnh không? Anh em mình gặp nhau tí đi?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Được đấy, cuối tuần tớ rảnh, định đi đâu gặp nhau nhỉ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Có cái quán này mới mở ăn ổn lắm, hay mình qua đó thử xem sao?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Nghe hay đấy, chốt vậy nhé. Cụ thể là mấy giờ cậu nhỉ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Tầm 5 giờ chiều được không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Ok, chốt 5 giờ nhé. Hẹn gặp cậu cuối tuần!"
+      }
+    ]
+  },
+  {
+    "_id": 1384,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Dạ chào anh/chị, em thấy bên mình đang đăng tuyển nhân viên phục vụ nên muốn gọi điện tìm hiểu kỹ hơn về công việc này ạ."
+      },
+      {
+        "role": "người nghe",
+        "content": "Chào em, đúng rồi em ơi, bên anh vẫn đang tuyển phục vụ nè. Không biết em có đang quan tâm và muốn ứng tuyển vị trí này không?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ em đang rất quan tâm ạ. Anh cho em hỏi chút về thời gian làm việc cũng như mức lương bên mình như thế nào vậy anh?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Được chứ, ca làm của vị trí này là từ 10 giờ sáng đến 8 giờ tối hàng ngày, mỗi tuần em được nghỉ 2 ngày nhé. Về lương thì sẽ gồm lương cứng cộng với hoa hồng, lương cứng bên anh là 7 triệu, còn hoa hồng thì sẽ tính dựa trên năng suất làm việc của em nữa."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ nghe cũng ổn quá ạ. Trước đây em cũng từng làm qua mảng nhà hàng ăn uống rồi, không biết kinh nghiệm như vậy có đáp ứng được yêu cầu bên mình không anh?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Có kinh nghiệm thì chắc chắn là điểm cộng lớn rồi. Hay là thế này, em cứ ghé qua cửa hàng thử việc một buổi đi, lúc đó hai bên trao đổi trực tiếp thì anh cũng dễ nắm bắt năng lực của em hơn."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ vâng, vậy khi nào thì em có thể qua phỏng vấn được ạ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Tầm 2 giờ chiều mai em qua được không? Giờ đó có tiện cho em không?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ 2 giờ chiều mai em ghé được ạ, em ghi lại lịch rồi. Mình phỏng vấn ngay tại địa chỉ cửa hàng luôn đúng không anh?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Đúng rồi em, địa chỉ ở số 45 đường Lê Lợi nhé. Đến nơi em cứ báo với nhân viên là có hẹn phỏng vấn sẽ có người đón. Nếu có thay đổi hay trục trặc gì thì cứ gọi trước cho anh nha."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ vâng, em cảm ơn anh đã giải đáp kỹ ạ. Chiều mai em sẽ đến đúng giờ."
+      },
+      {
+        "role": "người nghe",
+        "content": "Không có gì đâu, hẹn gặp em ngày mai nhé. Chúc em một ngày thuận lợi!"
+      }
+    ]
+  },
+  {
+    "_id": 1385,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "A lô!"
+      },
+      {
+        "role": "người nghe",
+        "content": "Ơi chào cậu, có phải Thành đó không?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Chào cậu, Thành đây, dạo này ông bạn thế nào rồi?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Tớ vẫn khỏe, cảm ơn cậu nhé. Còn cậu thì sao?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Tớ cũng ổn, dạo này đang bận chạy cái dự án mới nên cũng hơi lu bù."
+      },
+      {
+        "role": "người nghe",
+        "content": "Ồ, thế à? Có cần tớ hỗ trợ gì không đấy?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Không cần đâu, cảm ơn cậu nhé. À, cuối tuần này rảnh không? Anh em mình đi ăn bữa đi."
+      },
+      {
+        "role": "người nghe",
+        "content": "Cuối tuần à, để tớ check lại lịch đã. Thứ Bảy thì ok, chứ Chủ nhật thì tớ kẹt mất rồi."
+      },
+      {
+        "role": "người gọi",
+        "content": "Vậy chốt sáu giờ chiều thứ Bảy tuần này nhé, tớ đợi cậu ở chỗ cũ."
+      },
+      {
+        "role": "người nghe",
+        "content": "Nhất trí, sáu giờ chiều thứ Bảy ở chỗ cũ nha. Hẹn gặp cậu lúc đó."
+      },
+      {
+        "role": "người gọi",
+        "content": "Ok, hẹn gặp lại cậu. Chào nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Chào cậu nha."
+      }
+    ]
+  },
+  {
+    "_id": 1386,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo, chào bạn nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ chào bạn, mình có thể hỗ trợ gì cho bạn không ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "À, mình vừa thấy quảng cáo của quán trên Facebook nên muốn gọi hỏi xem thực đơn mới đợt này có món gì hấp dẫn không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ tất nhiên rồi ạ! Đợt này bên em vừa ra mắt mấy món mới như gà xào sả ớt, cá chẽm hấp xì dầu với rau củ xào thập cẩm. Không biết mình quan tâm đến món nào ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Món gà xào sả ớt nghe có vẻ ngon đấy, giá một phần là bao nhiêu vậy bạn?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ món gà đó bên em đang bán 145 ngàn một đĩa ạ. Một phần này khá đầy đặn, rất thích hợp để gọi ăn chung với bạn bè đấy ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Quán mình mở cửa đến mấy giờ thế nhỉ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ bên em mở từ 10 giờ sáng đến 10 giờ tối, phục vụ xuyên suốt cả buổi trưa và buổi tối luôn ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Ok, vậy chắc cuối tuần này mình ghé qua thử. Bên bạn có nhận đặt bàn trước không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ có ạ, mình có thể gọi điện trực tiếp hoặc nhắn qua Zalo của quán nhé. Bạn có cần mình gửi link đặt bàn qua cho không ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Được rồi, làm phiền bạn quá. Để tối nay về mình xem lại lịch rồi đặt sau nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ vâng ạ, lúc nào mình đặt thì cứ báo em một tiếng, em sẽ lưu ý giữ chỗ đẹp cho mình. Hy vọng bạn sẽ có một bữa ăn ngon miệng tại quán em ạ!"
+      },
+      {
+        "role": "người gọi",
+        "content": "Cảm ơn bạn nhé, chào bạn!"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ chào bạn, hẹn sớm gặp lại ạ!"
+      }
+    ]
+  },
+  {
+    "_id": 1387,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo chào em, anh muốn hỏi về dịch vụ sửa chữa bên mình chút."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ chào anh, đây là trung tâm dịch vụ sửa chữa ạ, anh cần bên em hỗ trợ gì không ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Cái điều hòa nhà anh đang bị hỏng, em cho anh hỏi làm sao để đặt lịch thợ qua kiểm tra được nhỉ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ vâng, anh cho em xin địa chỉ cụ thể với số điện thoại liên hệ, bên em sẽ sắp xếp thợ qua nhà mình sớm nhất có thể ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Nhà anh ở Chung cư Hạnh Phúc, Tòa A, Phòng 402 nhé. Số điện thoại của anh là 0912 345 678."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ em đã lưu thông tin rồi ạ. Dự kiến khoảng 9 giờ đến 11 giờ sáng mai sẽ có thợ qua, anh nhớ để ý điện thoại giúp em nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Ok em, cảm ơn nhé. Thế anh có cần phải chuẩn bị gì trước không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ không cần chuẩn bị gì đặc biệt đâu anh, anh cứ để không gian trong nhà thông thoáng là được ạ, thợ bên em sẽ mang theo đầy đủ dụng cụ cần thiết rồi."
+      },
+      {
+        "role": "người gọi",
+        "content": "Anh hiểu rồi, vậy chi phí sửa chữa bên mình tính thế nào em nhỉ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ, tiền phí sẽ được tính dựa trên tình trạng hỏng hóc thực tế và linh kiện cần thay thế ạ. Sau khi thợ đến nơi, họ sẽ kiểm tra sơ bộ và báo giá cho anh, anh xác nhận đồng ý thì bên em mới tiến hành sửa chữa ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Được rồi, vậy nhờ các em nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ không có gì ạ, bên em sẽ nhanh chóng xử lý cho anh. Nếu có thắc mắc gì thêm, anh cứ liên hệ với bên em bất cứ lúc nào nhé."
+      }
+    ]
+  },
+  {
+    "_id": 1388,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Chào bạn, mình là Minh. Mình vừa thấy thông tin tuyển dụng trên website của bên bạn nên muốn gọi điện để tìm hiểu kỹ hơn một chút."
+      },
+      {
+        "role": "người nghe",
+        "content": "Chào Minh, mình là Linh, phụ trách tuyển dụng của công ty. Rất vui vì bạn đã quan tâm đến vị trí bên mình đang tuyển, không biết bạn muốn hỏi về vị trí nào nhỉ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Mình thấy bên bạn đang tuyển kỹ sư phần mềm, mình muốn hỏi rõ hơn về yêu cầu cụ thể cũng như mô tả công việc của vị trí này."
+      },
+      {
+        "role": "người nghe",
+        "content": "À vâng, với vị trí kỹ sư phần mềm thì nhiệm vụ chính là phát triển và bảo trì hệ thống, đòi hỏi khả năng lập trình tốt và có kinh nghiệm quản lý dự án. Bên mình yêu cầu ít nhất 2 năm kinh nghiệm làm việc thực tế, thành thạo Java và Python bạn nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Hiện tại mình đã có 3 năm kinh nghiệm làm Java rồi, còn Python thì mình cũng có tự mày mò học thêm trong thời gian rảnh. Cho mình hỏi quy trình phỏng vấn bên bạn như thế nào?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Về quy trình thì đầu tiên chúng ta sẽ có một buổi phỏng vấn sơ loại qua điện thoại để trao đổi về thông tin cơ bản và kinh nghiệm của bạn. Nếu vượt qua, bạn sẽ làm việc với bộ phận kỹ thuật để kiểm tra chuyên môn. Cuối cùng là buổi gặp gỡ với quản lý để trao đổi sâu hơn về định hướng nghề nghiệp và khả năng làm việc nhóm."
+      },
+      {
+        "role": "người gọi",
+        "content": "Quy trình nghe có vẻ rất bài bản và kỹ lưỡng. Vậy mình có cần chuẩn bị hồ sơ hay tài liệu gì đặc biệt không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Bạn chỉ cần chuẩn bị một bản CV thật chi tiết, nếu có các dự án thực tế đã tham gia thì càng tốt. Sau khi nhận được CV của bạn, bên mình sẽ sắp xếp lịch phỏng vấn điện thoại trong vòng 5 ngày làm việc."
+      },
+      {
+        "role": "người gọi",
+        "content": "Được rồi, mình sẽ gửi hồ sơ qua email cho bên bạn sớm nhất có thể. Cảm ơn bạn đã tư vấn rất nhiệt tình nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Không có gì đâu Minh. Nếu còn thắc mắc gì thêm, bạn cứ liên hệ với mình bất cứ lúc nào nhé. Rất mong nhận được hồ sơ của bạn, chúc bạn may mắn!"
+      }
+    ]
+  },
+  {
+    "_id": 1389,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "A lô, chào em."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ vâng, chào anh ạ. Nhà hàng em có thể giúp gì được cho mình không ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Anh muốn hỏi chút về thực đơn bên mình và giờ mở cửa thế nào em nhỉ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ, nhà hàng em phục vụ cả món Á và món Âu ạ. Bên em mở cửa từ 10 giờ sáng đến 10 giờ tối hằng ngày anh nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Vậy bên mình có món nào ngon, được khách gọi nhiều để gợi ý cho anh không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ, món đặc trưng nhất của nhà hàng là gà xào Kung Pao và bít tết ạ, hai món này khách bên em ai dùng cũng khen lắm."
+      },
+      {
+        "role": "người gọi",
+        "content": "Nghe hấp dẫn đấy, thế giá cả của mấy món này tầm khoảng bao nhiêu?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ, món gà Kung Pao khoảng 120.000 đồng, còn bít tết thì tùy theo định lượng sẽ dao động từ 350.000 đến 500.000 đồng một phần ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Được rồi, vậy anh muốn đặt bàn vào 7 giờ tối mai thì có còn chỗ không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ được chứ anh, khung giờ 7 giờ tối mai hiện vẫn còn bàn ạ. Em xin phép giữ trước cho mình một bàn 4 người nhé?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Tuyệt quá, vậy mai tụi anh sẽ đến đúng giờ. À mà bên mình có nhận đặt món mang về không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ bên em có nhận đặt mang về ạ. Tuy nhiên anh vui lòng báo trước giúp em khoảng 2 tiếng để nhà hàng chuẩn bị, đảm bảo món ăn lúc giao đi vẫn luôn nóng hổi và ngon nhất ạ."
+      }
+    ]
+  },
+  {
+    "_id": 1390,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo, chào em."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ chào anh, em có thể giúp gì được cho mình ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Anh thấy bên mình có đăng quảng cáo trên Chợ Tốt là có bán dòng xe tải van điện đúng không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ xe tải điện ạ? Bên em hiện tại chủ yếu chuyên các dòng sedan chạy điện thôi, còn xe tải thì hiện bên em chưa có hàng anh ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Vậy bên em đang có những mẫu xe điện nào khác không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ có chứ ạ, bên em đang có vài mẫu sedan điện với quãng đường di chuyển mỗi lần sạc khá xa, không biết anh có muốn tham khảo thử không?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Được đó, em giới thiệu sơ qua cho anh một chút đi."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ vâng. Hiện tại bên em có mẫu sedan cỡ nhỏ, đi được khoảng 300km, rất phù hợp để đi lại trong thành phố. Ngoài ra còn có dòng phân khúc tầm trung, đi được tới 400km, nội thất và tiện nghi cũng đầy đủ hơn ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Nghe cũng ổn đấy, dạo này anh cũng đang tính mua một chiếc xe điện, bên mình có cho lái thử không em?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ có ạ, bên em luôn có sẵn xe cho khách lái thử, mời anh ghé showroom để trải nghiệm thực tế nhé. Không biết khi nào anh bận ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Tầm cuối tuần này được không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ cuối tuần được ạ, anh thấy thứ Bảy hay Chủ Nhật thì tiện cho mình hơn?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Khoảng 10 giờ sáng thứ Bảy được không em?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ vâng, vậy chốt 10 giờ sáng thứ Bảy em đợi anh ở showroom nhé."
+      }
+    ]
+  },
+  {
+    "_id": 1391,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Alo, ai đấy ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Minh hả? Lưu đây, đồng nghiệp cũ đây, còn nhớ tớ không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "À Lưu hả! Nhớ chứ, gọi tớ có chuyện gì thế?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Tối nay có buổi liên hoan, cậu đi cùng cho vui không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Được chứ, mấy giờ vậy cậu?"
+      },
+      {
+        "role": "người gọi",
+        "content": "7 giờ nhé, ở quán cũ mình hay ngồi ấy, cậu còn nhớ không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Nhớ rồi, ok cậu, tớ sẽ đến đúng giờ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Ok, vậy hẹn gặp lại cậu lúc đó nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Ok, hẹn gặp lại nhé. Chào cậu!"
+      }
+    ]
+  },
+  {
+    "_id": 1392,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Chào bạn nhé, dạo này có bộ phim nào hay ho không giới thiệu mình với?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Chào bạn! Có bộ phim mới ra mắt tên là 'Mùa Hè Kỳ Diệu' thấy dân tình đánh giá cao lắm, bạn thử đi xem xem sao."
+      },
+      {
+        "role": "người gọi",
+        "content": "À, bộ 'Summer Romance' đó hả? Phim này thuộc thể loại tình cảm đúng không bạn?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Đúng rồi, phim lãng mạn lắm. Nội dung kể về một cặp đôi trẻ tình cờ gặp gỡ rồi yêu nhau vào mùa hè, xem 'chill' cực kỳ luôn."
+      },
+      {
+        "role": "người gọi",
+        "content": "Nghe hấp dẫn đấy, để cuối tuần này mình đi xem. Mà bạn có biết rạp nào đang chiếu phim này không nhỉ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Bên rạp CGV ở mạn trung tâm thành phố có chiếu đấy, bạn cứ lên trang chủ hoặc ứng dụng của họ kiểm tra lịch chiếu cụ thể cho tiện nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Ok bạn, cảm ơn bạn đã gợi ý nha. Chắc chắn cuối tuần này mình sẽ đi xem."
+      },
+      {
+        "role": "người nghe",
+        "content": "Không có gì đâu nè. Hy vọng bạn sẽ thích phim, có thời gian thì về nhắn tin kể cảm nhận cho mình nghe với nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Nhất trí luôn, hẹn gặp bạn cuối tuần nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Ok, cuối tuần gặp lại nha. Chúc bạn có kỳ nghỉ cuối tuần thật vui vẻ!"
+      }
+    ]
+  },
+  {
+    "_id": 1393,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Dạ alo, em chào anh ạ. Em gọi từ bộ phận chăm sóc khách hàng của sàn thương mại điện tử Shopee, em muốn gọi điện để nhắc mình là trong tài khoản của anh đang có một lượng điểm tích lũy sắp hết hạn và sẽ bị xóa vào lúc 12 giờ đêm nay ấy ạ. Không biết là anh đã nắm được thông tin này chưa ạ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Ơ thế hả em? Anh cũng không để ý nữa, sao lại không thấy thông báo gì nhỉ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ vâng, hiện tại tài khoản của mình đang tích lũy được 200.000 điểm rồi ạ. Số điểm này nếu anh quy đổi ra thì cũng tương đương với hơn 200.000 đồng để mua sắm đấy ạ."
+      },
+      {
+        "role": "người nghe",
+        "content": "À ra vậy, thế giờ anh phải dùng số điểm này như thế nào em nhỉ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ, anh có thể dùng điểm tích lũy trực tiếp trên ứng dụng của bên em để đổi lấy rất nhiều sản phẩm khác nhau, như là đồ gia dụng, đồ điện tử, hay thậm chí là các voucher du lịch, nghỉ dưỡng nữa ạ."
+      },
+      {
+        "role": "người nghe",
+        "content": "Nghe cũng hay đấy nhỉ, trước giờ anh cứ để đấy thôi chứ cũng chưa dùng điểm này bao giờ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ vâng, nhiều khách hàng bên em cũng hay đổi điểm để nhận được những món đồ mình yêu thích lắm ạ. Bây giờ anh có thể đăng nhập vào ứng dụng để xem cụ thể các danh mục quà tặng mà mình muốn đổi nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Rồi ok em, để anh vào xem thử luôn. Cảm ơn em đã gọi nhắc anh nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ không có gì ạ. Nếu trong quá trình thực hiện mà có vấn đề gì, anh cứ liên hệ với tổng đài bên em bất cứ lúc nào nhé. Chúc anh chọn được món quà ưng ý ạ!"
+      },
+      {
+        "role": "người nghe",
+        "content": "Rồi, anh cảm ơn nhé, chào em."
+      }
+    ]
+  },
+  {
+    "_id": 1394,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo, Nam đấy à em?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ đúng rồi, ai đầu dây đấy ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Anh đây, anh họ của em đây, dạo này thế nào rồi em?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Ôi, anh ạ! Lâu quá không gặp, em vẫn khỏe, còn anh thì sao?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Anh cũng bình thường, dạo này công việc hơi bận rộn tí. Thế bên em có gì mới không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Cũng ổn anh ạ, dạo này em đang tập tành học nấu ăn, thấy cũng hay hay."
+      },
+      {
+        "role": "người gọi",
+        "content": "Hay đấy, biết nấu nướng cũng tốt mà. Thế món nào em nấu \"đỉnh\" nhất?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Món tủ của em là gà kho sả ớt, làm cũng đơn giản mà ăn cuốn phết anh ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Thế thì lần tới gặp nhau, nhất định phải trổ tài đấy nhé, mọi người đang rất mong chờ được nếm thử tay nghề của em đây."
+      },
+      {
+        "role": "người nghe",
+        "content": "Vâng, chắc chắn rồi, lúc đó em sẽ vào bếp chiêu đãi cả nhà một bữa."
+      }
+    ]
+  },
+  {
+    "_id": 1395,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo chào em, anh là Vương. Anh mới đặt bộ quần áo trên website bên mình, em kiểm tra giúp anh xem tầm bao giờ thì hàng giao đến nơi nhỉ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ em chào anh Vương, em là Linh bên bộ phận chăm sóc khách hàng ạ. Đơn hàng của anh bên em đã tiếp nhận rồi, dự kiến sẽ giao trong khoảng từ 3 đến 5 ngày tới. Anh có cần em kiểm tra lịch trình cụ thể không ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Có em ơi, tại sắp tới anh phải đi công tác nên muốn biết chính xác ngày nào hàng đến để còn sắp xếp nhận."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ em hiểu rồi, để em check cho anh nhé. Anh đọc giúp em mã đơn hàng được không ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Được em, mã đơn của anh là 1 2 3 4 5 6 7."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ anh chờ em một chút ạ... À đây rồi, đơn của anh hiển thị là sẽ được giao trước 4 giờ chiều mai ạ. Tầm đó anh có tiện nhận hàng không anh?"
+      },
+      {
+        "role": "người gọi",
+        "content": "4 giờ chiều mai thì cũng được, nhưng chiều mai anh bận họp nên chắc là về nhà hơi muộn. Bên em có thể lùi giờ giao muộn hơn một chút giúp anh được không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ được ạ, để em ghi chú lại trên đơn cho nhân viên giao hàng là chuyển sang sau 6 giờ tối cho anh nhé. Như vậy có được không anh?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Thế thì tốt quá, cảm ơn em Linh nhiều nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ không có gì ạ, đây là trách nhiệm của bên em mà. Nếu cần hỗ trợ gì thêm anh cứ liên hệ bên em bất cứ lúc nào nhé. Chúc anh một ngày vui vẻ ạ!"
+      }
+    ]
+  },
+  {
+    "_id": 1396,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo ạ."
+      },
+      {
+        "role": "người nghe",
+        "content": "Vâng, tôi nghe đây ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Chào anh, em là nhân viên bên bộ phận khách hàng của Trung tâm thương mại Vincom, em gọi để hỏi thăm về tình hình chỗ đỗ xe bên mình ạ."
+      },
+      {
+        "role": "người nghe",
+        "content": "À chào em, bên anh hiện tại đang còn trống hai chỗ đỗ xe nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ, cho em hỏi phí thuê mỗi tháng bên mình tính như thế nào ạ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Phí thuê mỗi tháng là một triệu đồng em nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Một triệu một tháng ạ... Thế nếu bên em thuê luôn ba tháng thì có được giảm giá hay ưu đãi gì không anh?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Nếu em ký hợp đồng ba tháng luôn thì bên anh giảm cho 150 nghìn nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ vâng, để em cân nhắc thêm chút. Mà bên mình có sẵn hợp đồng cho thuê theo tháng không ạ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Có chứ, bên anh có sẵn mẫu hợp đồng rồi, khi nào chốt thuê thì qua ký trực tiếp luôn em nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ vâng, để em xem lại rồi có gì sẽ liên lạc lại với anh sau ạ."
+      },
+      {
+        "role": "người nghe",
+        "content": "Được rồi, không vấn đề gì đâu, cần tư vấn gì thêm em cứ gọi cho bên anh bất cứ lúc nào nhé."
+      }
+    ]
+  },
+  {
+    "_id": 1397,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo, chào bạn nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Alo chào bạn, cho mình hỏi bạn tìm ai đấy?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Mình là Nam đây, mình đang tìm Quân để hỏi chút việc ấy mà."
+      },
+      {
+        "role": "người nghe",
+        "content": "À, Quân hả? Cậu ấy vừa chạy ra ngoài rồi, hiện không có ở nhà đâu. Bạn có chuyện gì gấp không?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Chuyện là thế này, bọn mình hẹn nhau hôm nay ra thư viện ôn thi, mà tự dưng chẳng thấy cậu ấy nói năng gì đã đi đâu mất. Bạn có biết tầm mấy giờ cậu ấy về không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Chắc tầm 3 giờ chiều là cậu ấy về đấy. Nếu bạn vội thì cứ qua nhà đợi cũng được, địa chỉ ở số 123 đường Hạnh Phúc nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Ok, cảm ơn bạn nhiều nha. Để mình sắp xếp thời gian xem sao, nếu không đợi được mình sẽ qua thẳng nhà Quân luôn."
+      },
+      {
+        "role": "người nghe",
+        "content": "Không có gì đâu, lúc nào đến thì bạn cứ gọi nhé. Nếu lúc đó cậu ấy về rồi, mình sẽ bảo cậu ấy đợi bạn."
+      },
+      {
+        "role": "người gọi",
+        "content": "Vâng, thế mình cảm ơn bạn trước nhé, có gì mình sẽ ghé qua sau. Chào bạn!"
+      },
+      {
+        "role": "người nghe",
+        "content": "Ok, đi đường cẩn thận nhé. Chào bạn!"
+      }
+    ]
+  },
+  {
+    "_id": 1398,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo, chào em. Anh muốn hỏi chút về dịch vụ sửa chữa bên mình."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ vâng ạ, trung tâm bảo hành và sửa chữa xin nghe. Anh đang cần hỗ trợ gì cho máy nhà mình ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Cái điều hòa nhà anh tự nhiên không lạnh nữa, em xem có thợ nào qua kiểm tra giúp anh được không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ được chứ anh. Anh cho em xin địa chỉ cụ thể để em báo kỹ thuật qua nhà mình nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Địa chỉ nhà anh là phòng 602, tòa nhà CT3, khu đô thị Quang Minh nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ em đã ghi lại rồi ạ. Anh muốn bên em qua vào khung giờ nào thì tiện cho mình nhất ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Tốt nhất là sáng mai nhé, vì sáng mai anh có nhà."
+      },
+      {
+        "role": "người nghe",
+        "content": "Vâng, vậy em sắp xếp thợ qua nhà mình vào khoảng 10 giờ sáng mai anh nhé. Trước khi đến thợ sẽ gọi điện xác nhận lại với anh một lần nữa ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Ok em. Mà cho anh hỏi thêm là phí dịch vụ tại nhà thì tính thế nào, có cần đặt cọc hay trả phí kiểm tra không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ, bên em miễn phí hoàn toàn công kiểm tra lần đầu ạ. Sau khi kiểm tra xong, thợ sẽ báo tình trạng và chi phí sửa chữa cụ thể cho anh, nếu anh đồng ý thì bên em mới tiến hành làm ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Rồi anh hiểu rồi, vậy anh chờ điện thoại bên em nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ vâng ạ. Nếu cần hỗ trợ gì thêm anh cứ gọi hotline bên em bất cứ lúc nào nhé. Chúc anh một ngày tốt lành, em chào anh ạ."
+      }
+    ]
+  },
+  {
+    "_id": 1399,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo, mình bên giao hàng đây ạ."
+      },
+      {
+        "role": "người nghe",
+        "content": "Alo, vâng ạ, mình nghe đây."
+      },
+      {
+        "role": "người gọi",
+        "content": "Đồ ăn của bạn đến rồi nhé, bạn đang đứng ở đâu để mình chạy qua giao luôn?"
+      },
+      {
+        "role": "người nghe",
+        "content": "À, mình đang đứng ngay cổng khu chung cư này, bạn cứ chạy tới đi, mình nhìn thấy bạn rồi."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ vâng, mình qua liền. Đơn của bạn là món lẩu cay đúng không nhỉ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Đúng rồi, đúng món đấy rồi bạn."
+      },
+      {
+        "role": "người gọi",
+        "content": "Gửi bạn nhé. Chúc bạn ngon miệng, nếu hài lòng thì cho mình xin cái đánh giá 5 sao nha."
+      },
+      {
+        "role": "người nghe",
+        "content": "Ok bạn nhé, cảm ơn bạn nhiều, vất vả quá."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ không có gì đâu ạ, có vấn đề gì bạn cứ gọi lại cho mình bất cứ lúc nào nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Ok bạn, chào bạn nhé."
+      }
+    ]
+  },
+  {
+    "_id": 1400,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo, chào em. Hôm qua anh có thuê xe bên mình ấy, mà giờ anh đang gặp chút trục trặc."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ em chào anh, xe mình gặp vấn đề gì vậy ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Anh vừa lái xe về trả rồi, mà trên hệ thống nó vẫn báo là chưa trả xe thành công."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ, tức là hệ thống đang báo việc hoàn tất trả xe không thành công đúng không anh?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Đúng rồi, với cả chìa khóa anh lỡ để quên trong xe rồi nó tự khóa cửa luôn rồi."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ cho em hỏi là mình đã đổ đầy bình xăng chưa ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Anh đổ đầy bình rồi nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ vậy thì anh cứ yên tâm, chắc là do hệ thống cập nhật hơi chậm một chút thôi. Anh cứ đi trước đi ạ, bên em sẽ xử lý ổn thỏa phần còn lại."
+      },
+      {
+        "role": "người gọi",
+        "content": "Vậy giờ anh đi luôn được rồi đúng không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ vâng, anh cứ đi đi ạ, chuyện trả xe cứ để bên em lo. Nếu cần anh hỗ trợ gì thêm, bên em sẽ chủ động liên lạc lại với anh sau nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Ok em, cảm ơn nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ không có gì ạ, chúc anh có một chuyến đi an toàn nhé."
+      }
+    ]
+  },
+  {
+    "_id": 1401,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Chào bạn, mình là Linh, mình muốn gọi điện để hỏi về các khóa học yoga bên mình."
+      },
+      {
+        "role": "người nghe",
+        "content": "Chào Linh nhé, mình là Vương, nhân viên tư vấn của phòng tập. Hiện tại bên mình có nhiều lớp lắm, từ yoga cơ bản, Power Yoga đến Yin Yoga, không biết Linh đang quan tâm đến dòng nào nhỉ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Mình muốn tìm hiểu lớp cơ bản trước, không biết người mới bắt đầu như mình thì có tập được không bạn?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Chắc chắn là được chứ Linh. Lớp cơ bản chủ yếu giúp các bạn mới làm quen với các tư thế và cách hít thở đúng kỹ thuật, cực kỳ phù hợp cho những ai mới bắt đầu làm quen với yoga luôn."
+      },
+      {
+        "role": "người gọi",
+        "content": "Thế lớp này một tuần tập mấy buổi vậy bạn?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Lớp yoga cơ bản bên mình sẽ tập 3 buổi một tuần, vào các tối thứ Hai, thứ Tư và thứ Sáu, khung giờ từ 7 giờ rưỡi đến 8 giờ rưỡi tối nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Ok bạn, thế mình có cần phải đặt lịch trước không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Bạn nên đặt chỗ trước để bên mình đảm bảo còn vị trí tốt cho bạn nhé. Bạn có thể nhắn tin qua Zalo, gọi điện trực tiếp hoặc ghé qua quầy lễ tân của phòng tập để đăng ký đều được."
+      },
+      {
+        "role": "người gọi",
+        "content": "Vậy mai mình muốn qua tập trải nghiệm thử một buổi thì làm thế nào nhỉ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Bạn cứ gọi hotline hoặc nhắn qua Fanpage để đặt lịch nhé. Mà mai là thứ Ba nên chưa có lớp này, bạn đặt lịch vào ngày kia (thứ Tư) là đẹp nhất nè."
+      },
+      {
+        "role": "người gọi",
+        "content": "Rồi mình rõ rồi. Cảm ơn Vương đã tư vấn nhiệt tình nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Không có gì đâu Linh ơi, cần hỗ trợ gì thêm cứ nhắn mình bất cứ lúc nào nha. Chúc bạn sớm có những buổi tập thật vui!"
+      }
+    ]
+  },
+  {
+    "_id": 1402,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo chào em, mình muốn hỏi chút về menu với giá cả bên nhà hàng mình."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ chào anh, vâng ạ. Không biết anh đang quan tâm đến món nào bên em nhỉ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Em cho mình hỏi món \"tủ\" của quán là món gì, với giá cả thế nào em?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ, món đặc sản của bên em là sườn xào chua ngọt, giá là 180.000 một đĩa ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Nghe hấp dẫn đấy, mà giờ giấc mở cửa của bên mình thế nào em?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ bên em mở cửa từ 11 giờ sáng đến 10 giờ tối tất cả các ngày trong tuần ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Ok em, vậy chắc cuối tuần này mình ghé quán, có cần phải đặt chỗ trước không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ có ạ, thường thì cuối tuần khách khá đông nên em khuyên anh nên đặt bàn trước để chắc chắn có chỗ ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Thế đặt giúp mình một bàn 4 người, khoảng 6 giờ chiều thứ Bảy mình qua nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ vâng, em đã lưu thông tin đặt bàn 4 người lúc 6 giờ chiều thứ Bảy cho mình rồi ạ. Hẹn gặp anh tại nhà hàng nhé!"
+      }
+    ]
+  },
+  {
+    "_id": 1403,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Chào bạn, mình vừa mới tới thành phố này, đang muốn tìm chỗ nào ăn ngon chút, bạn có gợi ý gì cho mình không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Chào bạn nha! Ở đây thì nhiều quán ăn với nhà hàng ngon lắm, không biết bạn có sở thích đặc biệt nào hay yêu cầu gì về tầm giá không?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Mình muốn tìm quán nào không gian ổn một chút, giá cả phải chăng mà quan trọng là có mấy món đặc sản địa phương ấy."
+      },
+      {
+        "role": "người nghe",
+        "content": "Thế thì mình khuyên bạn nên ghé thử quán \"Bếp Việt\" nhé. Đồ ăn ở đó chuẩn vị lắm, không gian cũng thoáng đãng mà giá cả lại rất hợp lý."
+      },
+      {
+        "role": "người gọi",
+        "content": "Nghe hay đấy. Giờ mình đang ở gần ga tàu, bạn chỉ mình đường đi tới đó với được không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "À, từ ga tàu ra bạn cứ đi thẳng theo đường chính tầm 500m là thấy trạm xe buýt. Bạn bắt xe số 03 rồi xuống ở điểm dừng thứ 5 nhé. Xuống xe bạn rẽ trái, đi bộ thêm khoảng 100m nữa là thấy quán ngay."
+      },
+      {
+        "role": "người gọi",
+        "content": "Ok bạn, thế đi mất khoảng bao lâu thì tới nơi nhỉ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Nếu bạn đi bộ nhanh thì chắc tầm 20 phút, còn đi xe buýt tính cả thời gian chờ thì khoảng 30 đến 40 phút là tới thôi."
+      },
+      {
+        "role": "người gọi",
+        "content": "Cảm ơn bạn nhiều nhé, để mình đi luôn bây giờ đây."
+      },
+      {
+        "role": "người nghe",
+        "content": "Không có gì đâu nè, chúc bạn có một bữa ăn ngon miệng nhé! Cần hỗ trợ gì thêm cứ gọi mình bất cứ lúc nào. Chào bạn!"
+      }
+    ]
+  },
+  {
+    "_id": 1404,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "A lô, dạo này sao rồi ông? Khỏe không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Chào ông nhé, tôi vẫn ổn, còn ông thì sao?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Tôi cũng bình thường thôi, cảm ơn ông. Dạo này công việc thế nào, có bận lắm không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Cũng tàm tạm, mỗi tội dạo này việc hơi nhiều tí. Còn ông thế nào?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Tôi thì vẫn vậy, đang lu bù chuẩn bị cho cái dự án mới."
+      },
+      {
+        "role": "người nghe",
+        "content": "Nghe xịn đấy chứ! Có cần tôi hỗ trợ gì không?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Hiện tại thì chưa cần đâu, cảm ơn ông nhé. Mà cuối tuần này ông có rảnh không? Anh em mình đi làm bữa."
+      },
+      {
+        "role": "người nghe",
+        "content": "Được chứ! Ông thích ăn gì không? Tôi biết mấy quán này ổn lắm."
+      },
+      {
+        "role": "người gọi",
+        "content": "Tùy ông thôi, thấy quán nào hợp ý thì cứ chọn đi, tôi theo hết."
+      },
+      {
+        "role": "người nghe",
+        "content": "Ok, để tôi xem thử rồi chọn chỗ nhé, có gì tôi nhắn ông sau."
+      }
+    ]
+  },
+  {
+    "_id": 1405,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ alo, tiệm bánh xin nghe ạ. Em có thể giúp gì được cho mình không ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Chào em, chị muốn hỏi chút là bánh kem bên mình làm như thế nào nhỉ? Có đảm bảo tươi mới không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ chị yên tâm, bánh nhà em đều là bánh mới ra lò trong ngày, nguyên liệu được bên em chọn lọc kỹ càng lắm ạ. Không biết chị đang quan tâm đến hương vị nào ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Chị muốn mua một cái vị socola, giá bên mình thế nào em?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ, bánh socola bên em có giá là 250.000 đồng một cái ạ. Chị có muốn đặt một ổ luôn không ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Có em nhé. Mà nếu đặt bây giờ thì khoảng khi nào chị có bánh?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ nếu chị đặt luôn bây giờ thì khoảng hai tiếng nữa là xong ạ. Chị có thể ghé tiệm lấy hoặc bên em ship tận nhà cho mình, chị thấy cách nào tiện hơn ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Vậy em giao đến nhà giúp chị nhé, địa chỉ là số 123 đường Hạnh Phúc."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ em đã ghi nhận địa chỉ số 123 đường Hạnh Phúc ạ. Bên em sẽ cố gắng giao qua sớm nhất cho mình, tầm một tiếng nữa chị chú ý điện thoại của shipper giúp em nha."
+      },
+      {
+        "role": "người gọi",
+        "content": "Ok em, chị cảm ơn nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ không có gì ạ. Nếu có vấn đề gì chị cứ liên hệ lại bên em bất cứ lúc nào nhé. Chúc chị một ngày vui vẻ ạ!"
+      }
+    ]
+  },
+  {
+    "_id": 1406,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Chào bạn, mình thấy bên bạn đang đăng tuyển dụng trên Chợ Tốt, mình gọi điện muốn tìm hiểu thêm thông tin một chút."
+      },
+      {
+        "role": "người nghe",
+        "content": "Chào bạn nhé, không biết bạn đang quan tâm đến vị trí nào bên mình vậy?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Mình thấy có tuyển phụ bếp, vị trí đó hiện còn nhận người không bạn?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Vẫn còn bạn nhé. Trước đây bạn đã có kinh nghiệm làm việc ở vị trí tương đương chưa?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Có chứ, mình từng làm phụ bếp cho một nhà hàng gần đây được khoảng 2 năm rồi."
+      },
+      {
+        "role": "người nghe",
+        "content": "Vậy thì tốt quá. Ngày mai bạn có sắp xếp thời gian qua bên mình phỏng vấn được không?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Ngày mai thì mình đi được, mà cụ thể là mấy giờ vậy bạn nhỉ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "10 giờ sáng mai nhé. Khi đi bạn nhớ mang theo căn cước công dân với giấy khám sức khỏe, rồi vào phòng nhân sự ở tầng 1 của khách sạn Kim Sa bên mình."
+      },
+      {
+        "role": "người gọi",
+        "content": "Vâng mình nhớ rồi. Cho mình hỏi lại địa chỉ cụ thể là ở đâu vậy bạn?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Địa chỉ là số 108 đường Hải Bân bạn nhé. Ngay trước cửa khách sạn có cái đài phun nước, bên tay phải có một con đường nhỏ, bạn cứ đi vào đó là tới."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ mình rõ rồi, cảm ơn bạn đã chỉ dẫn nhiệt tình nhé. Hẹn gặp lại bạn vào ngày mai."
+      },
+      {
+        "role": "người nghe",
+        "content": "Không có gì đâu, chúc bạn có buổi phỏng vấn thuận lợi nhé. Hẹn gặp lại bạn!"
+      }
+    ]
+  },
+  {
+    "_id": 1407,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "A lô, chào em. Anh là Chương, anh muốn hỏi xem nhà hàng mình có món gì đặc sản không em nhỉ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ chào anh Chương, em là Linh, nhân viên phục vụ ạ. Rất vui được tư vấn cho anh. Các món đặc sắc nhất bên em hiện có thịt kho tộ, cá hấp và gà xào Cung Bảo, đều là những món khách bên em rất chuộng ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Món gà xào Cung Bảo nghe có vẻ hấp dẫn đấy, em nói rõ hơn về cách làm với hương vị của nó được không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ tất nhiên rồi ạ. Món gà xào Cung Bảo bên em dùng ức gà tươi xào cùng đậu phộng và ớt khô. Vị của nó cay nồng, thơm nức và rất đưa cơm, cực kỳ kích thích vị giác luôn anh ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Nghe em tả mà anh thấy thèm quá rồi. Thế nhà hàng mình mở cửa đến mấy giờ em?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ bên em mở từ 11 giờ sáng đến 9 giờ tối, phục vụ xuyên suốt cả ngày nên anh qua lúc nào cũng được ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Vậy chắc tầm 7 giờ tối nay anh qua, có cần phải đặt chỗ trước không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ tầm 7 giờ tối là giờ cao điểm nên quán khá đông khách. Em nghĩ anh nên đặt bàn trước để bên em sắp xếp chỗ ngồi tốt nhất cho mình ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Được rồi, vậy đặt cho anh một bàn 2 người nhé, tên Chương."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ vâng anh Chương, em đã ghi nhận lịch đặt bàn cho 2 người vào lúc 7 giờ tối nay rồi ạ. Lúc đến anh chỉ cần báo tên là nhân viên dẫn vào bàn nhé. Rất mong được đón tiếp anh ạ!"
+      }
+    ]
+  },
+  {
+    "_id": 1408,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo, chào bạn ạ."
+      },
+      {
+        "role": "người nghe",
+        "content": "Chào bạn, mình nghe đây, có việc gì không bạn?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Mình thấy bạn đăng tin cho thuê phòng trên Chợ Tốt, có phải là căn hộ ở khu chung cư Hải Cảng không nhỉ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Đúng rồi bạn, căn đó 1 phòng ngủ, 1 phòng khách với 1 vệ sinh ở khu chung cư ven biển, hiện vẫn đang trống nhé. Khi nào bạn rảnh qua xem phòng được?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Thứ Tư tuần sau mình qua xem có tiện cho bạn không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Được chứ, tầm 10 giờ sáng thứ Tư bạn thấy có ổn không?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ được, vậy chốt 10 giờ sáng thứ Tư mình qua nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Ok bạn, vậy hôm đó mình sẽ đợi bạn ở ngay cổng khu chung cư."
+      },
+      {
+        "role": "người gọi",
+        "content": "Vâng, phiền bạn quá. Hẹn gặp bạn vào thứ Tư nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Không có gì đâu, hẹn gặp bạn sau nhé."
+      }
+    ]
+  },
+  {
+    "_id": 1409,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo, chào em."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ chào anh, có phải anh đang cần hỗ trợ từ tổng đài ShopeeFood không ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Đúng rồi em, anh muốn hỏi là đơn đồ ăn anh vừa đặt sao nãy giờ vẫn chưa thấy cập nhật gì vậy?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ, anh vui lòng đọc giúp em mã đơn hàng để em kiểm tra hệ thống cho mình nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Được em, mã đơn của anh là 1234567890."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ em đã kiểm tra rồi ạ. Hiện tại nhà hàng vẫn đang chuẩn bị món cho mình, do đang vào giờ cao điểm nên có thể sẽ hơi chậm một chút, mong anh thông cảm ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Vậy khoảng bao lâu nữa thì mới giao đến nơi hả em?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ theo tình hình hiện tại thì tầm 30 phút nữa anh sẽ nhận được hàng ạ. Bên em sẽ cố gắng điều phối để giao cho anh sớm nhất có thể."
+      },
+      {
+        "role": "người gọi",
+        "content": "Ok em, vậy nhờ em hối bên quán làm nhanh giúp anh một chút nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ vâng, em sẽ liên hệ báo ngay với nhà hàng để họ ưu tiên chuẩn bị đơn của mình nhanh hơn ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Cảm ơn em, hy vọng là không phải đợi lâu quá."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ không có chi ạ, bên em sẽ xử lý nhanh nhất cho mình. Nếu cần hỗ trợ gì thêm, anh cứ liên hệ lại tổng đài bất cứ lúc nào nhé."
+      }
+    ]
+  },
+  {
+    "_id": 1410,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo, chào em nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ em chào anh, em có thể hỗ trợ gì cho mình không ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "À, sắp tới anh đang tính đổi cái điện thoại mới, bên mình có mẫu nào ổn ổn tư vấn giúp anh với."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ tất nhiên rồi ạ. Hiện bên em đang có vài mẫu mới về, giá cả rất phải chăng mà dùng cực thích luôn. Không biết nhu cầu chính của anh khi dùng điện thoại là gì ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Anh thì chủ yếu để xem phim, cày game với thỉnh thoảng xử lý mấy việc văn phòng thôi."
+      },
+      {
+        "role": "người nghe",
+        "content": "Thế thì em giới thiệu anh mẫu smartphone đời mới nhất này nhé. Pin siêu bền, màn hình hiển thị sắc nét mà tốc độ xử lý lại nhanh nữa, cực kỳ hợp với nhu cầu của anh luôn ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Nghe vẻ được đấy, mà con này giá rổ thế nào em nhỉ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ mẫu này đang có giá là 13 triệu rưỡi ạ. Đặc biệt là hiện tại bên em đang có chương trình khuyến mãi, nếu anh mua bây giờ sẽ được tặng kèm một tai nghe Bluetooth chính hãng nữa đó ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Mức giá đấy cũng khá hợp lý, để anh cân nhắc thêm chút. Mà bên mình có hỗ trợ trả góp không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ có chứ ạ. Bên em hỗ trợ rất nhiều hình thức trả góp linh hoạt, anh cứ chọn phương án nào phù hợp với tài chính của mình nhất là được ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Ok em, cảm ơn em đã tư vấn nhiệt tình nhé, để anh suy nghĩ thêm một tí rồi có gì anh báo."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ không có gì đâu ạ. Nếu anh còn thắc mắc gì thì cứ gọi cho em bất cứ lúc nào nhé. Chúc anh một ngày vui vẻ ạ!"
+      }
+    ]
+  },
+  {
+    "_id": 1411,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo, dạ em chào anh ạ. Em gọi từ nhà hàng để xác nhận lại thông tin, mình có đặt bàn lúc 6 giờ tối nay đúng không anh?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Chào em, đúng rồi, mình có đặt bàn. Mà nhà hàng mình nằm ở đoạn nào em nhỉ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ nhà hàng em ở số 80 đường Nguyễn Chí Thanh, ngay cạnh Thư viện Tổng hợp ạ. Anh đi từ ga tàu điện ra chỉ mất chừng 5 phút đi bộ là tới nơi ạ."
+      },
+      {
+        "role": "người nghe",
+        "content": "À rồi mình biết chỗ đó. Bàn mình đặt có phải là chỗ gần cửa sổ không em?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ vâng, bên em đã giữ chỗ gần cửa sổ cho anh rồi ạ. Chỗ này nhìn ra view phố rất đẹp, hy vọng anh sẽ hài lòng."
+      },
+      {
+        "role": "người nghe",
+        "content": "Thế thì tốt quá, mình rất thích ngồi gần cửa sổ. À mà lát nữa mình dẫn thêm bạn đến thì có cần báo trước để thêm chỗ không em?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ hiện tại trên hệ thống đang ghi nhận mình đặt cho 4 người ạ. Nếu có thêm người thì anh cứ báo trước để tụi em sắp xếp lại bàn cho rộng rãi và thoải mái ạ."
+      },
+      {
+        "role": "người nghe",
+        "content": "Vậy lát mình sẽ đi cùng 5 người bạn, em chuẩn bị thêm 1 chỗ ngồi giúp mình nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ được ạ, vậy em sẽ chuẩn bị sẵn bàn 5 người cho mình. Ngoài ra anh có yêu cầu đặc biệt nào về thực đơn của bên em không ạ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Mình thì không yêu cầu gì nhiều, nhưng có điều mình bị dị ứng hải sản nên nhờ các bạn lưu ý tránh các món có chứa hải sản giúp mình nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ em đã nắm được thông tin rồi ạ. Bên em sẽ đặc biệt lưu ý để đảm bảo anh có một bữa tối ngon miệng nhất. Nếu cần hỗ trợ gì thêm anh cứ gọi cho tụi em bất cứ lúc nào nhé."
+      }
+    ]
+  },
+  {
+    "_id": 1412,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "A lô, em chào anh ạ. Em là Nam ở cửa hàng điện thoại anh ghé mua hôm qua đây ạ. Không biết máy mình dùng từ hôm qua đến giờ có vấn đề gì không anh?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Chào Nam nhé. À, cái điện thoại đó đang có chút trục trặc em ạ, thỉnh thoảng nó cứ tự khởi động lại."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ vậy ạ? Em rất xin lỗi anh về sự cố này. Để em kiểm tra nhanh xem nguyên nhân do đâu nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Được rồi, cảm ơn em."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ em vừa check qua, có thể là do quá trình cập nhật hệ thống chưa hoàn tất nên bị lỗi ạ. Giờ anh thử khởi động lại máy, sau đó vào phần cài đặt để cập nhật lại hệ thống xem sao nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Ok em, để anh thử khởi động lại rồi cập nhật xem nó có hết không."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ vâng, nếu làm vậy mà vẫn còn vấn đề thì anh cứ mang máy qua cửa hàng bất cứ lúc nào, bên em sẽ hỗ trợ kiểm tra kỹ lại cho mình ạ."
+      },
+      {
+        "role": "người nghe",
+        "content": "Được rồi, cảm ơn em đã hỗ trợ nhé. Có gì anh sẽ liên lạc lại sau."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ không có gì đâu ạ, hỗ trợ khách là trách nhiệm của tụi em mà. Hi vọng máy của anh sớm ổn định lại. Em chào anh nhé!"
+      },
+      {
+        "role": "người nghe",
+        "content": "Chào em, cảm ơn em nhiều!"
+      }
+    ]
+  },
+  {
+    "_id": 1413,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo, chào bạn."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ chào bạn, mình nghe ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Mình vừa đặt cái đơn mang về bên shop, mà sao tới giờ vẫn chưa thấy giao đến nhỉ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ chào bạn, bên mình đã nhận được đơn rồi ạ. Hiện tại shipper đang trên đường giao, nhưng do đường hơi kẹt nên có thể sẽ chậm hơn một chút, bạn thông cảm giúp shop nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Vậy khoảng bao lâu nữa thì tới nơi bạn ơi?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ theo tình hình giao thông bây giờ thì chắc tầm 15 đến 20 phút nữa là tới ạ. Không biết mình đợi thêm một chút được không bạn?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Ok, vậy để mình đợi thêm tí. À, cái đơn này mình có dặn là không cho ớt, nhớ nhắc bếp giúp mình nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ vâng, yêu cầu đặc biệt của bạn bên mình đã ghi chú kỹ rồi ạ, đầu bếp sẽ lưu ý không bỏ ớt khi làm món cho mình đâu ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Được rồi, cảm ơn bạn. À còn nữa, hôm trước mình có đặt một đơn mà quên chưa đánh giá, giờ có bổ sung được không nhỉ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ được ạ, bạn chỉ cần vào phần lịch sử đơn hàng trên ứng dụng là có thể đánh giá lại đơn đó được rồi ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Ok mình biết rồi. Vậy lát nữa đồ ăn đến nơi thì nhớ báo mình một tiếng nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ vâng, bên mình sẽ thông báo cho bạn ngay khi shipper đến. Cảm ơn bạn đã ủng hộ, chúc bạn ngon miệng ạ!"
+      }
+    ]
+  },
+  {
+    "_id": 1414,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo, cho mình hỏi đây có phải là nhà hàng mình không ạ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ vâng đúng rồi ạ, em chào anh. Em có thể giúp gì được cho mình không ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "À, mình muốn hỏi chút là nhà hàng mình mở cửa đến mấy giờ em nhỉ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ, bên em mở cửa từ 10 giờ sáng đến 10 giờ tối, phục vụ xuyên suốt không nghỉ trưa đâu ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Ok em. Vậy bên mình có món nào là đặc sản hay món \"tủ\" không, tư vấn cho mình với?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ, quán em có vịt quay đặc sản, cá hấp với lẩu cay là những món khách bên em hay gọi nhất, đảm bảo rất vừa miệng ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Nghe hấp dẫn đấy. Tầm 12 giờ trưa mai mình định qua ăn, thì có cần phải đặt bàn trước không em?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ nếu được thì anh nên đặt trước cho chắc ạ, nhất là vào cuối tuần hay ngày lễ bên em thường rất đông khách."
+      },
+      {
+        "role": "người gọi",
+        "content": "Thế thì đặt giúp mình một bàn cho 4 người vào trưa mai nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ vâng ạ. Em đã chốt lịch đặt bàn cho mình 4 người vào lúc 12 giờ trưa mai rồi nhé. Lúc đó anh cứ đến thẳng nhà hàng là có nhân viên sắp xếp bàn cho mình luôn ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Tuyệt quá, cảm ơn em nhiều nhé!"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ không có gì ạ, rất hân hạnh được đón tiếp anh và bạn bè. Em chào anh nhé!"
+      }
+    ]
+  },
+  {
+    "_id": 1415,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo, chào shop ạ. Mình là Linh, mình muốn đặt lịch cắt tóc vào ngày mai."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ chào Linh, mình là Vương ở bên salon đây ạ. Không biết Linh muốn đặt lịch vào khung giờ nào ngày mai nhỉ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Tầm 2 giờ chiều mai có được không bạn?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ 2 giờ chiều mai thì được ạ, nhưng vì khung giờ này thường khá đông khách nên mình cần xác nhận lại với Linh một chút nha."
+      },
+      {
+        "role": "người gọi",
+        "content": "Ok bạn, vậy mình cần xác nhận như thế nào?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Sáng mai tầm từ 9 đến 10 giờ, Linh gọi lại cho bên mình để chốt lịch chắc chắn là được nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Được rồi, mình nhớ rồi. À cho mình hỏi thêm là cắt tóc thì mất khoảng bao lâu xong nhỉ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ thường thì cả combo gội đầu và cắt tóc sẽ mất khoảng một tiếng nha bạn."
+      },
+      {
+        "role": "người gọi",
+        "content": "Ok mình rõ rồi, cảm ơn bạn. Hẹn gặp lại vào ngày mai nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Vâng ạ, hẹn gặp Linh vào ngày mai nha. Chúc bạn đi đường bình an!"
+      }
+    ]
+  },
+  {
+    "_id": 1416,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo, em chào anh ạ. Em là Vương, shipper bên ShopeeFood đây, đồ ăn của anh xong rồi, giờ em giao qua cho anh luôn nhé?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Chào Vương nhé, em giao qua đi, anh cũng vừa về đến nhà rồi. Phiền em mang lên tận phòng giúp anh với nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ vâng được ạ, em qua ngay đây. Anh đọc lại giúp em địa chỉ chính xác với ạ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Nhà anh ở phòng 402, tòa B, chung cư Sunshine Garden em nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ em nhớ rồi, tầm 10 phút nữa em tới, anh để ý điện thoại rồi nhận hàng giúp em nha."
+      },
+      {
+        "role": "người nghe",
+        "content": "Ok em, anh chờ. Đi đường cẩn thận nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ em cảm ơn, em sẽ đến sớm ạ."
+      },
+      {
+        "role": "người nghe",
+        "content": "Được rồi, đến nơi thì alo anh."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ vâng, em chào anh ạ."
+      },
+      {
+        "role": "người nghe",
+        "content": "Chào em nhé."
+      }
+    ]
+  },
+  {
+    "_id": 1417,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "A lô, chào em, anh là Vương đây. Hôm nay anh muốn đặt đồ ăn mang về, bên mình có món nào ngon gợi ý cho anh không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ chào anh Vương ạ. Bên em có nhiều lựa chọn lắm, từ các món Hoa, món Việt cho đến đồ Tây. Bình thường anh hay thích ăn khẩu vị thế nào để em tư vấn ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạo này anh đang muốn đổi vị chút, thử món nước ngoài xem sao. Em có món gì hay không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ, hiện bên em có quán Thái với món cà ri gà rất được lòng khách, hoặc quán Ý có pizza cũng cực kỳ ngon, anh có muốn thử không ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Nghe cũng ổn đấy, vậy cho anh thử món cà ri gà Thái nhé, với cả gọi thêm một phần rau xào nữa."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ vâng, một cà ri gà và một phần rau xào đã được thêm vào đơn của anh rồi ạ. Tầm 30 phút nữa là shipper giao tới, anh thấy thời gian như vậy có ổn không?"
+      },
+      {
+        "role": "người gọi",
+        "content": "30 phút thì được, mà tầm mấy giờ thì anh nhận được hàng nhỉ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ sau khi chốt đơn thì khoảng 2 giờ chiều là anh nhận được ạ. Nếu có bất kỳ thay đổi nào, bên em sẽ liên hệ báo trước cho anh ngay."
+      },
+      {
+        "role": "người gọi",
+        "content": "Được rồi, vậy anh đợi ở nhà nhé. À, lần trước anh đặt món canh lúc giao đến bị nguội mất rồi, lần này em lưu ý kỹ giùm anh một chút được không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ em thành thật xin lỗi anh về trải nghiệm không tốt lần trước ạ. Lần này bên em chắc chắn sẽ lưu ý kỹ khâu đóng gói và giữ nhiệt để đảm bảo món ăn giao đến tay anh vẫn còn nóng hổi ạ."
+      }
+    ]
+  },
+  {
+    "_id": 1418,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Dạ alo, cho em hỏi bên mình còn tuyển nhân viên làm thêm như thông tin đăng trên website không ạ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Chào em, đúng rồi em nhé, bên chị vẫn đang tuyển đây. Không biết khi nào thì em tiện qua bên chị trao đổi công việc nhỉ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ em rảnh vào buổi chiều ạ. Không biết bên mình làm việc đến mấy giờ chị nhỉ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Bên chị làm từ 9 giờ sáng đến 6 giờ tối, có gì em cứ ghé qua văn phòng rồi chị em mình nói chuyện kỹ hơn nha."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ vâng, vậy tầm 4 giờ chiều nay em qua có được không ạ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "4 giờ chiều thì thoải mái em nhé. Đến nơi em cứ bảo cho gặp chị Minh nha."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ chị Minh ạ, em nhớ rồi. Hẹn gặp chị lúc 4 giờ nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Ok em, hẹn gặp em lúc 4 giờ. À, lúc đi em nhớ mang theo căn cước công dân với bộ sơ yếu lý lịch nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ vâng, em rõ rồi ạ. Em cảm ơn chị."
+      },
+      {
+        "role": "người nghe",
+        "content": "Không có gì đâu, hẹn gặp em lúc đó nhé."
+      }
+    ]
+  },
+  {
+    "_id": 1419,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "A lô, em chào anh ạ. Em là Linh, nhân viên chăm sóc khách hàng bên hệ thống tích điểm VinMall. Dạ, em gọi để thông báo là tài khoản của mình hiện đang có khá nhiều điểm thành viên, không biết anh đã nắm được thông tin này chưa ạ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Ơ, thế hả em? Anh cũng không để ý là mình có điểm tích lũy để đổi quà đấy."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ vâng, điểm này mình đổi được nhiều món giá trị lắm ạ, như đồ điện tử hay đồ gia dụng trong nhà ấy. Nhưng mà có một lưu ý là nếu mình không đổi trước 12 giờ đêm nay thì số điểm này sẽ hết hạn và bị xóa khỏi hệ thống anh ạ."
+      },
+      {
+        "role": "người nghe",
+        "content": "Tiếc nhỉ, may mà có em gọi nhắc. Dạo này anh cũng đang tính mua cái đồng hồ thông minh, không biết dùng điểm này có đổi được không em?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ được chứ ạ, đồng hồ thông minh là một trong những món quà được khách bên em đổi nhiều nhất đấy ạ. Hiện tại anh đang có khoảng bao nhiêu điểm rồi để em kiểm tra giúp mình ạ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Để anh xem nào... À, trong tài khoản báo là có hơn hai trăm sáu mươi nghìn điểm em ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Ôi tuyệt quá, số điểm này là dư sức để anh đổi một chiếc đồng hồ thông minh rồi ạ. Nếu anh thực hiện đổi ngay bây giờ, em còn có thể hỗ trợ đăng ký thêm cho mình một gói quà tặng hậu mãi, bao gồm cả dịch vụ đổi trả miễn phí nữa ạ."
+      },
+      {
+        "role": "người nghe",
+        "content": "Nghe hay đấy, thế giờ anh phải thao tác thế nào để đổi quà em nhỉ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ, mình có thể đổi trực tiếp trên ứng dụng hoặc trang web bên em ạ. Để tiện nhất, em xin phép gửi cho anh một đường link đổi quà nhanh qua tin nhắn nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Ok em, phiền em quá. Để anh vào đổi luôn không lại quên mất, cảm ơn em đã nhắc nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ không có gì ạ, nếu cần hỗ trợ gì thêm anh cứ gọi em bất cứ lúc nào nhé. Chúc anh chọn được món quà ưng ý ạ!"
+      }
+    ]
+  },
+  {
+    "_id": 1420,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo, cho mình hỏi bên mình có bán mì bò không ạ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ bên em có ạ, anh muốn dùng mì bò vị gì để em làm cho mình ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Mình muốn ăn vị cay, không biết món cay bên mình thế nào?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ mì bò cay là món \"bestseller\" bên em đó ạ. Độ cay thì anh có thể tùy chỉnh, anh muốn ăn cay cấp mấy để em làm ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Vậy làm cho mình tô cay vừa phải thôi nhé. À mà quán mình mấy giờ đóng cửa vậy bạn?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ 10 giờ tối bên em mới đóng cửa ạ, giờ anh qua là vừa đẹp luôn, em sẽ chuẩn bị mì cho anh ngay và luôn."
+      },
+      {
+        "role": "người gọi",
+        "content": "Ok, mình qua liền đây, cảm ơn nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ không có gì ạ, mời anh qua quán, anh đi đường cẩn thận nhé."
+      }
+    ]
+  },
+  {
+    "_id": 1421,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo, em đang chờ anh ở giữa cổng C1 với C2 nhé, bên này hơi tắc đường, anh tranh thủ qua nhanh nha."
+      },
+      {
+        "role": "người nghe",
+        "content": "Ok, anh sắp tới rồi, bên đó còn chỗ đỗ xe không em?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Còn anh ơi, vẫn còn chỗ trống đấy, anh sắp đến chưa?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Tới rồi tới rồi, anh đang ở ngay lối vào C2, thấy xe em rồi nha."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ vâng, anh chạy qua đây đi, mà ngay cạnh em có mấy anh giao thông đang đứng, anh đi cẩn thận tí nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Anh thấy rồi, để anh lái cẩn thận, sắp tới chỗ em rồi đây."
+      },
+      {
+        "role": "người gọi",
+        "content": "Vâng, đoạn này xe cộ đang hơi lộn xộn, anh chú ý an toàn nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Anh biết rồi, đợi anh tí, anh qua liền."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ ok, em đợi ở đây, anh đi cho an toàn nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Rồi, anh tới đây."
+      }
+    ]
+  },
+  {
+    "_id": 1422,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo, chào bạn nhé, mình là Linh đây, hôm nay tụi mình có hẹn gặp nhau ấy."
+      },
+      {
+        "role": "người nghe",
+        "content": "Alo Linh hả, chào bạn nha. Mình đang trên đường tới rồi, bạn đang đứng đợi ở đâu thế?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Mình đang đứng ở ngay cổng công viên này, bạn đã nhìn thấy cái biển hiệu công viên chưa?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Thấy rồi, thấy rồi! Chắc tầm 5 phút nữa là mình tới nơi thôi."
+      },
+      {
+        "role": "người gọi",
+        "content": "À, mình thấy bạn rồi nhé. Bạn cứ bật đèn ưu tiên lên đi, mình đang đứng ngay đây chờ bạn rồi."
+      },
+      {
+        "role": "người nghe",
+        "content": "Ok bạn, mình chạy qua ngay đây, đợi mình một xíu nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Không sao đâu, cứ thong thả đi, mình vẫn đang đợi ở đây mà, không phải vội."
+      },
+      {
+        "role": "người nghe",
+        "content": "Cảm ơn bạn nhé, mình tới nơi rồi nè, bạn có thấy mình không?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Thấy rồi, thấy rồi! Để mình đi bộ ra chỗ bạn nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Được rồi, vậy mình đứng đây chờ bạn nha."
+      }
+    ]
+  },
+  {
+    "_id": 1423,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo, dạ cho em hỏi bên mình còn tuyển tài xế không ạ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Chào em, bên anh hiện tại vẫn đang cần tuyển thêm vài tài xế nữa nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ, vậy yêu cầu công việc bên mình thế nào anh?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Em cần có bằng lái phù hợp, ít nhất 2 năm kinh nghiệm lái xe và quan trọng là không có tiền sử gây tai nạn giao thông nghiêm trọng nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ vâng, thế còn mức lương với chế độ đãi ngộ thì sao ạ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Bên mình trả lương cứng cộng với hoa hồng, thu nhập một tháng tầm 10 đến 12 triệu em nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ, thời gian làm việc của mình sắp xếp thế nào anh?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Thường là làm từ 8 giờ sáng đến 6 giờ tối, trưa em được nghỉ 2 tiếng."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ, em có cần phải tự chuẩn bị xe không ạ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Không cần đâu, công ty có sẵn xe cho em rồi, nhưng em cần chịu trách nhiệm chăm sóc và bảo dưỡng xe định kỳ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ rõ rồi ạ, vậy khi nào em có thể qua phỏng vấn được ạ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "10 giờ sáng mai em qua địa chỉ số 45 đường Lê Lợi để phỏng vấn trực tiếp nhé."
+      }
+    ]
+  },
+  {
+    "_id": 1424,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Chào bạn, mình là Trường. Nghe bạn mình giới thiệu phòng gym bên bạn chất lượng lắm nên mình muốn gọi điện tìm hiểu thêm chút thông tin."
+      },
+      {
+        "role": "người nghe",
+        "content": "Chào Trường nhé, mình là Tuấn, huấn luyện viên tại đây. Rất vui được hỗ trợ bạn. Không biết bạn đang quan tâm đến gói tập hay dịch vụ nào bên mình nhỉ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Mình muốn hỏi về các gói hội viên, bảng giá cụ thể với cả giờ giấc mở cửa của bên mình như thế nào ấy."
+      },
+      {
+        "role": "người nghe",
+        "content": "Bên mình có gói tập theo ngày, theo tháng và theo năm bạn nhé. Vé lẻ là 100 nghìn, gói tháng là 800 nghìn, còn gói năm là 6 triệu đồng. Phòng tập mở cửa từ 6 giờ sáng đến 10 giờ tối tất cả các ngày trong tuần."
+      },
+      {
+        "role": "người gọi",
+        "content": "Thế nếu mình đăng ký gói năm luôn thì có ưu đãi hay khuyến mãi gì thêm không bạn?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Hiện tại nếu làm thẻ năm, bạn sẽ được tặng một buổi tập kèm 1-1 với huấn luyện viên cá nhân, cùng với quyền sử dụng miễn phí bể bơi và phòng xông hơi của trung tâm luôn."
+      },
+      {
+        "role": "người gọi",
+        "content": "Nghe hấp dẫn đấy, vậy mình có cần phải đặt lịch trước khi đến không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Để đảm bảo chất lượng phục vụ tốt nhất, bạn nên đặt lịch trước nhé. Bạn có thể gọi trực tiếp số này hoặc nhắn tin qua Zalo chính thức của bên mình là được."
+      },
+      {
+        "role": "người gọi",
+        "content": "Ok bạn, vậy ngày mai mình muốn qua xem phòng tập trực tiếp có được không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Tất nhiên rồi! Mai tầm mấy giờ bạn rảnh nhỉ? Mình sẽ đợi để dẫn bạn đi tham quan một vòng phòng tập nhé."
+      }
+    ]
+  },
+  {
+    "_id": 1425,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo, chào anh ạ. Em gọi từ Salon Tóc Thủ Đô, anh có đặt lịch cắt tóc lúc 10 giờ sáng mai, không biết giờ đó có còn tiện cho anh không ạ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Chào em, 10 giờ sáng mai thì được, nhưng mà anh qua sớm tầm 9 rưỡi được không?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ được chứ anh, anh cứ qua sớm nhé, bên em sẽ sắp xếp phục vụ anh đúng giờ luôn ạ."
+      },
+      {
+        "role": "người nghe",
+        "content": "Ok em, cảm ơn nhé, vậy 9 rưỡi sáng mai anh qua."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ vâng ạ, mai anh nhớ mang theo thẻ thành viên để được áp dụng giảm giá nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Được rồi, anh sẽ mang theo thẻ. Mà cho anh hỏi bên mình có chỗ đỗ xe không em?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ có anh ơi, ngay phía sau tiệm có bãi đỗ xe nhỏ, anh cứ đỗ ở đó hoàn toàn miễn phí ạ."
+      },
+      {
+        "role": "người nghe",
+        "content": "Tuyệt quá, vậy mai anh sẽ đỗ xe ở phía sau."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ vâng, đỗ phía sau cho tiện ạ. Nếu mai anh đến mà không tìm thấy chỗ thì cứ gọi trực tiếp vào số máy của tiệm, bên em sẽ có người ra hướng dẫn anh ngay."
+      },
+      {
+        "role": "người nghe",
+        "content": "Cảm ơn em nhiều nhé, vậy hẹn mai gặp."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ vâng, hẹn gặp anh vào ngày mai ạ. Chúc anh một ngày vui vẻ!"
+      }
+    ]
+  },
+  {
+    "_id": 1426,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo, chào bạn. Mình là Vương, hôm qua mình có mua cái áo ở shop mình, mà hôm nay xem lại thấy có chút vấn đề nên muốn hỏi xem bên mình xử lý thế nào."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ chào anh Vương, em là Trang bên bộ phận chăm sóc khách hàng ạ. Dạ áo mình gặp vấn đề gì anh cứ nói, em sẽ hỗ trợ giải quyết cho mình ngay ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Cái áo này phần tay hơi rộng quá, mình sợ mặc lên không được đẹp. Không biết bên shop có cho đổi sang mẫu khác hoặc trả hàng không nhỉ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ được anh ơi. Bên em có chính sách đổi trả trong vòng 7 ngày không cần lý do ạ. Chỉ cần anh giữ áo còn nguyên tem mác, chưa qua giặt ủi là được. Anh có thể ghé trực tiếp cửa hàng hoặc gửi bưu điện lại cho bên em nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Vậy giờ mình phải làm gì? Có cần đăng ký trước không hay cứ thế gửi lại luôn em?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ, anh vui lòng lên website chính thức của bên em, vào mục quản lý đơn hàng để gửi yêu cầu đổi trả trước giúp em. Sau khi xác nhận, bên em sẽ gửi địa chỉ kèm các lưu ý cụ thể cho mình ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Ok em. À, mà phí ship gửi trả hàng là mình tự trả đúng không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ, nếu áo có lỗi sản xuất thì bên em sẽ chịu phí ạ. Còn nếu mình đổi theo ý thích cá nhân thì anh vui lòng thanh toán phí vận chuyển giúp shop nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Rồi, mình hiểu rồi. Vậy để mình lên web làm yêu cầu luôn. Cảm ơn em đã hỗ trợ nhé!"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ không có gì ạ. Cần hỗ trợ gì thêm anh cứ gọi hotline bên em nhé. Chúc anh một ngày vui vẻ!"
+      }
+    ]
+  },
+  {
+    "_id": 1427,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo, chào bạn. Mình là Ly, không biết bên mình hiện tại còn chỗ đăng ký tập không nhỉ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Chào chị Ly ạ, em là Trang bên bộ phận chăm sóc khách hàng. Bên em hiện có khá nhiều gói dịch vụ khác nhau, không biết chị đang quan tâm đến bộ môn nào để em tư vấn cho mình ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Mình đang muốn tìm hiểu về các khóa tập thể dục bên bạn, dạo này mình thấy người hơi yếu nên muốn bắt đầu đi tập tành chút."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ vâng, các lớp bên em hiện được nhiều khách đăng ký lắm ạ. Có nhiều lựa chọn như Yoga, Pilates hay Aerobic, chị thấy mình hứng thú với bộ môn nào hơn?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Mình đang khá quan tâm đến Yoga, bạn nói rõ hơn cho mình về các lớp Yoga bên mình được không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ tất nhiên rồi ạ. Lớp Yoga bên em bắt đầu lúc 7 giờ tối vào các ngày thứ 2, thứ 4 và thứ 6 hàng tuần, mỗi buổi tập kéo dài khoảng 1 tiếng. Bộ môn này thì lứa tuổi nào cũng tập được chị ạ, vừa giúp thư giãn tâm trí, vừa tăng độ dẻo dai và khả năng cân bằng cho cơ thể rất tốt."
+      },
+      {
+        "role": "người gọi",
+        "content": "Nghe cũng hay đấy, vậy giờ mình muốn đăng ký thì phải làm sao?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Chị có thể ghé trực tiếp quầy lễ tân bên em để đăng ký, hoặc đặt chỗ online qua website chính thức của trung tâm cũng được ạ. Nếu chị quyết định đăng ký luôn bây giờ thì em sẽ hỗ trợ giữ chỗ cho mình trước nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Chắc để mình ghé qua trung tâm xem cơ sở vật chất thế nào đã, tiện thể trải nghiệm thử lớp học xem sao."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ vâng, vậy thì tốt quá ạ. Trước khi qua chị cứ gọi điện xác nhận trước một chút để em sắp xếp người đón tiếp mình chu đáo nhé. Rất mong được gặp chị tại trung tâm ạ!"
+      }
+    ]
+  },
+  {
+    "_id": 1428,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo, chào em."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ chào anh, em có thể giúp gì được cho mình ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Anh muốn đặt lịch cắt tóc vào chiều mai, không biết bên mình còn chỗ không em?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ chiều mai bên em vẫn còn lịch trống ạ. Anh định qua tầm mấy giờ để em sắp xếp cho mình nhỉ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Tầm 3 giờ chiều được không em?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ 3 giờ ok anh nhé, em đã chốt lịch cho mình rồi ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Hay quá, vậy anh có cần phải đến sớm hơn không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ không cần đâu ạ, anh cứ đến đúng giờ là được, bên em sẽ chuẩn bị sẵn sàng để làm cho anh luôn."
+      },
+      {
+        "role": "người gọi",
+        "content": "Ok em. À mà đây là lần đầu anh qua tiệm, em cho anh xin lại cái địa chỉ chính xác với."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ vâng, tiệm em ở số 100 đường Hạnh Phúc, ngay đoạn gần công viên ấy ạ, chỗ này cũng rất dễ tìm anh nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Rồi anh rõ rồi, hẹn gặp lại em chiều mai nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ vâng, hẹn gặp lại anh vào ngày mai ạ. Anh đi đường cẩn thận nhé!"
+      }
+    ]
+  },
+  {
+    "_id": 1429,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "A lô, em chào anh ạ. Em gọi từ nhà hàng để xác nhận lại lịch đặt bàn lúc 6 giờ tối nay của mình, không biết có đúng không anh nhỉ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Chào em, đúng rồi, là anh đặt đấy. Bên mình sắp xếp bàn xong chưa em?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ rồi ạ, bên em đã giữ sẵn cho anh một bàn ngay cạnh cửa sổ, nhìn thẳng ra phía hồ rất thoáng luôn ạ."
+      },
+      {
+        "role": "người nghe",
+        "content": "Thế thì tốt quá, anh cũng thích ngồi vị trí đấy cho thoải mái."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ vâng, thế bạn của anh đã đến chưa ạ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Vẫn chưa em ơi, chắc mấy người bạn của anh phải lát nữa mới tới được."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ không sao ạ, vậy em cứ chuẩn bị sẵn trà nước cho anh trước nhé. Lát nữa bạn anh đến thì tụi em sẽ dẫn mọi người vào bàn ngay ạ."
+      },
+      {
+        "role": "người nghe",
+        "content": "Cảm ơn em nhé, vậy giờ anh chạy ra bãi đỗ xe đợi mấy người bạn cái đã."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ vâng, bãi đỗ xe nằm ngay phía sau nhà hàng mình thôi, anh cứ chạy thẳng xe vào đó là thấy ạ. Nếu cần hỗ trợ gì thêm anh cứ nhắn nhân viên bên em nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Ok em, anh rõ rồi. Cảm ơn em nhiều nhé!"
+      }
+    ]
+  },
+  {
+    "_id": 1430,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo, chào bạn nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Chào bạn, ai đầu dây đấy nhỉ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Mình đây, bạn cũ mà. Dạo này thế nào rồi, khỏe không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Vẫn ổn cả, còn bạn thì sao? Dạo này đang bận bịu gì đấy?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Mình cũng bình thường thôi, dạo này việc hơi lu bù tí. Thế bên đấy có gì mới không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạo này mình đang tập tành nấu nướng, thấy cũng khá ổn rồi đấy. Hôm nào có dịp qua mình trổ tài cho xem."
+      },
+      {
+        "role": "người gọi",
+        "content": "Thế á? Hay quá nhỉ! Mình cũng đang muốn học mấy món cơm gia đình, bữa nào chỉ giáo cho mình với nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Chuyện nhỏ, khi nào rảnh bạn cứ xếp lịch qua đây."
+      },
+      {
+        "role": "người gọi",
+        "content": "Thế cuối tuần này luôn được không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Được chứ, thế mấy giờ bạn qua?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Tầm 3 giờ chiều nhé, mà có khi mình qua muộn một tẹo vì còn vướng chút việc cần xử lý."
+      },
+      {
+        "role": "người nghe",
+        "content": "Không sao đâu, tầm đấy bạn qua mình bắt đầu chuẩn bị đồ là vừa đẹp."
+      }
+    ]
+  },
+  {
+    "_id": 1431,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo, chào em. Anh là Minh, anh muốn gọi điện hỏi chút về việc đặt bàn bên mình."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ chào anh Minh ạ. Em là nhân viên nhà hàng, em có thể giúp gì được cho anh không ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Anh muốn đặt một bàn cho 4 người, không biết là bên mình cần phải đặt trước bao lâu em nhỉ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ, bên em khuyến khích mình nên đặt trước ít nhất một ngày để nhà hàng sắp xếp được chỗ ngồi thoải mái và phù hợp nhất cho mình ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Ok em, vậy anh muốn đặt bàn vào lúc 7 giờ tối mai thì có được không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ được ạ. 7 giờ tối mai, bàn cho 4 người em đã ghi nhận đặt cho anh rồi nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Cảm ơn em. Vậy anh có cần phải gọi điện xác nhận lại lần nữa trước khi qua không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ không cần đâu ạ, anh cứ đến đúng giờ là được. Nhưng nếu có thay đổi gì về số lượng người hay giờ giấc thì anh báo sớm giúp em một tiếng nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Anh rõ rồi. À, bên mình có món nào đặc sắc gợi ý cho anh không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ, món \"tủ\" của nhà hàng em có cá vược hấp, bông cải xanh xào tỏi với đầu cá chép om cay, mấy món này khách bên em đều rất chuộng ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Nghe hấp dẫn đấy, để mai qua anh sẽ dùng thử. Cảm ơn em đã hỗ trợ nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ không có gì ạ. Nếu cần thêm thông tin gì anh cứ gọi cho em bất cứ lúc nào nhé. Chúc anh có một bữa tối ngon miệng ạ!"
+      }
+    ]
+  },
+  {
+    "_id": 1432,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo, anh có nghe rõ em nói không ạ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Nghe rõ em ơi. Chào em, có chuyện gì thế?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ chào anh, em là nhân viên bên Ban quản lý chung cư mình ạ. Em gọi để thông báo là hóa đơn điện nước nhà mình đã quá hạn một tuần rồi, anh sắp xếp thanh toán sớm giúp bên em nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "À thế hả, chết thật, đợt này anh đi công tác suốt nên quên bẵng đi mất."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ không sao đâu anh, nếu bận quá anh có thể thanh toán qua app cư dân hoặc chuyển khoản ngân hàng cho tiện cũng được ạ."
+      },
+      {
+        "role": "người nghe",
+        "content": "Thế thanh toán trên app thì thao tác như nào em nhỉ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ, anh cứ đăng nhập vào app hoặc web chính thức của bên em, nhập mã khách hàng và tên mình vào, sau đó chọn mục thanh toán điện nước rồi làm theo hướng dẫn là xong thôi ạ."
+      },
+      {
+        "role": "người nghe",
+        "content": "Ok em, để tí anh thử xem sao. À mà này, mấy nay nhà anh thỉnh thoảng lại bị mất nước, có chuyện gì vậy em?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ về việc này bên em cũng nhận được phản ánh của nhiều hộ rồi ạ. Do thành phố đang bảo trì đường ống nước sạch nên bị ảnh hưởng chút, dự kiến là trước 12 giờ đêm nay sẽ có nước lại bình thường anh nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Rồi anh hiểu rồi, cảm ơn em đã hỗ trợ nhé."
+      }
+    ]
+  },
+  {
+    "_id": 1433,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Dạ alo em chào chị ạ, em là nhân viên chăm sóc khách hàng bên mỹ phẩm Mỹ Mỹ. Em gọi điện muốn hỏi thăm xem dạo này chị dùng bộ sản phẩm dưỡng da bên em thấy thế nào rồi ạ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Chào em, chị dùng thấy cũng ổn lắm, da dẻ ẩm mượt hơn hẳn."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ nghe chị phản hồi vậy em mừng quá ạ. Tiện đây em cũng muốn giới thiệu là bên em vừa mới ra mắt dòng kem dưỡng mới, chị xem qua thử xem có nhu cầu không nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Loại mới này có gì đặc biệt hơn không em?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ dòng này được bổ sung thêm các tinh chất từ thảo mộc thiên nhiên nên phục hồi da rất tốt, lại còn cực kỳ dịu nhẹ, hoàn toàn không gây kích ứng đâu chị."
+      },
+      {
+        "role": "người nghe",
+        "content": "Nghe cũng thích nhỉ, mà giá cả thế nào hả em?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ giá niêm yết là 1.350.000 đồng, nhưng hiện tại đang có chương trình khuyến mãi chỉ còn 1.050.000 đồng thôi ạ, còn được tặng kèm thêm một bộ mẫu thử nhỏ nữa chị nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Giá này cũng hợp lý đấy, để chị cân nhắc một chút xem sao."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ vâng ạ, khi nào chị quyết định thì cứ liên hệ lại với em nhé. Nếu chị có bất kỳ thắc mắc nào cần tư vấn thêm thì cứ gọi cho em bất cứ lúc nào ạ."
+      },
+      {
+        "role": "người nghe",
+        "content": "Được rồi, cảm ơn em nhé."
+      }
+    ]
+  },
+  {
+    "_id": 1434,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "A lô, chào em, anh là Trường. Anh muốn hỏi chút về dịch vụ massage bên mình."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ chào anh Trường, em là nhân viên tư vấn của trung tâm ạ. Không biết em có thể hỗ trợ gì cho mình ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Anh đang quan tâm đến gói massage toàn thân, không biết một liệu trình là bao lâu và giá cả thế nào em nhỉ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ, gói massage toàn thân bên em thường làm trong vòng 60 phút, mức giá là 400.000 đồng anh ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "À, giá này cũng khá hợp lý đấy. Vậy anh có thể đặt lịch vào lúc nào thì tiện?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ, chiều thứ Tư hoặc thứ Sáu tuần này bên em vẫn còn chỗ trong khoảng từ 3 giờ đến 5 giờ chiều ạ. Khung giờ này thường khá vắng nên sẽ rất thoải mái."
+      },
+      {
+        "role": "người gọi",
+        "content": "Vậy cho anh đặt vào lúc 3 giờ chiều thứ Sáu nhé?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ vâng, em đã nhận lịch của anh vào 3 giờ chiều thứ Sáu rồi ạ. Em sẽ giữ chỗ cho mình nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Được rồi, cảm ơn em. Mà anh có cần phải đến sớm không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ, nếu được anh nên đến sớm khoảng 15 phút ạ. Như vậy mình sẽ có thời gian ngồi nghỉ ngơi, thư giãn trước thì khi vào massage sẽ đạt hiệu quả tốt nhất ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Ok em, anh sẽ đến đúng giờ. Cảm ơn em đã tư vấn nhé, chào em."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ không có gì ạ, rất mong được đón tiếp anh. Em chào anh!"
+      }
+    ]
+  },
+  {
+    "_id": 1435,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo."
+      },
+      {
+        "role": "người nghe",
+        "content": "Alo, nhà hàng em xin nghe ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Cho mình hỏi bên mình hôm nay có mở cửa không bạn?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ có ạ, bên em mở cửa xuyên suốt từ 10 giờ sáng đến 10 giờ tối anh nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Vậy quán mình có món nào ngon gợi ý giúp mình với?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ bên em có mấy món \"tủ\" như lẩu Thái, cá chẽm hấp Hong Kong với cơm chiên dưa bò, khách gọi nhiều lắm ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Ok, vậy lát nữa mình ghé qua ăn luôn."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ vâng, anh có muốn đặt chỗ trước luôn không ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Có chứ, cho mình đặt bàn 4 người, tầm 5 rưỡi chiều nay có được không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ được ạ, em đã giữ bàn cho mình rồi. Hẹn gặp anh lúc 5 rưỡi chiều nay nhé."
+      }
+    ]
+  },
+  {
+    "_id": 1436,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo, cho hỏi shop mình còn mở cửa không ạ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ chào chị, bên em mở cửa đến 10 giờ tối ạ, giờ chị qua vẫn kịp nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "May quá, chị vừa mới tan làm xong, muốn ghé qua mua ít đồ."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ vâng, hiện bên em có nhiều lựa chọn lắm, chị đang muốn tìm mua gì ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạo này da chị hơi khô nên muốn tìm mấy dòng sản phẩm dưỡng ẩm ấy mà."
+      },
+      {
+        "role": "người nghe",
+        "content": "Thế thì đúng bài rồi, bên em mới về dòng kem dưỡng ẩm này dùng thích lắm, hiệu quả rất tốt mà khách nhà em ai dùng cũng phản hồi tích cực ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Vậy hả em? Thế hũ kem dưỡng này giá bao nhiêu tiền?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ, sản phẩm này giá gốc là 150.000 đồng, hiện đang có chương trình khuyến mãi giảm 20% nên chỉ còn 120.000 đồng thôi chị ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Nghe được đấy, để lát chị ghé qua xem thử nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ vâng, bên em đợi chị nhé. Có gì thắc mắc chị cứ hỏi trực tiếp, em sẽ tư vấn thêm cho ạ."
+      }
+    ]
+  },
+  {
+    "_id": 1437,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo bạn ơi, mình đang ở ga tàu điện mà tìm mãi không thấy lối ra số 4, bạn chỉ đường giúp mình với được không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Chào bạn nhé. Giờ bạn xuống tàu rồi thì cứ đi theo biển chỉ dẫn rẽ trái, đến chỗ ngã rẽ thứ hai thì quẹo phải. Bạn sẽ thấy cái biển quảng cáo lớn lắm, lối ra số 4 nằm ngay sát bên cạnh cái biển đó luôn."
+      },
+      {
+        "role": "người gọi",
+        "content": "Ok, để mình thử xem sao. Mà lỡ vẫn không thấy thì làm thế nào nhỉ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Nếu tìm không ra thì bạn cứ hỏi mấy anh chị nhân viên trực ở nhà ga nhé, họ sẽ chỉ tận nơi cho bạn."
+      },
+      {
+        "role": "người gọi",
+        "content": "Vâng, cảm ơn bạn nhiều nha. Công nhận mấy cái ga này nhiều lối ra thật, đi không quen dễ bị lạc quá."
+      },
+      {
+        "role": "người nghe",
+        "content": "Không có gì đâu nè. Chúc bạn tìm được đường thuận lợi nhé. Cần gì thì cứ gọi cho mình bất cứ lúc nào."
+      },
+      {
+        "role": "người gọi",
+        "content": "Được rồi, để mình đi tìm thử. Cảm ơn bạn lần nữa nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Ok bạn, mọi việc suôn sẻ nhé. Tạm biệt bạn."
+      },
+      {
+        "role": "người gọi",
+        "content": "Chào bạn nha."
+      }
+    ]
+  },
+  {
+    "_id": 1438,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Dạ alo, em chào anh ạ."
+      },
+      {
+        "role": "người nghe",
+        "content": "Alo, ai đấy ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ em là Ly bên cửa hàng điện thoại đây ạ. Không biết dạo này anh có đang tính lên đời điện thoại mới không anh? Bên em vừa về mẫu smartphone mới, đang có chương trình khuyến mãi tốt lắm ạ."
+      },
+      {
+        "role": "người nghe",
+        "content": "À, thực ra dạo này mình cũng đang tính đổi máy thật, bên bạn có mẫu nào hay gợi ý cho mình không?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ, mẫu mới nhất bên em cấu hình cực mạnh, chụp hình siêu nét mà đặc biệt là pin rất trâu, dùng cả ngày thoải mái, rất hợp để mình dùng làm việc hay giải trí hằng ngày ạ."
+      },
+      {
+        "role": "người nghe",
+        "content": "Nghe cũng ổn đấy, thế chiếc này giá bao nhiêu em?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ hiện tại đang đợt sale nên giá chỉ còn 13 triệu 500 thôi anh, giảm sâu so với giá gốc lúc mới ra mắt đấy ạ."
+      },
+      {
+        "role": "người nghe",
+        "content": "Giá đó cũng được, nhưng chắc để mình cân nhắc thêm chút đã nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ vâng không sao đâu ạ, khi nào anh suy nghĩ kỹ thì cứ liên hệ em bất cứ lúc nào nhé. Nếu anh quyết định chốt máy, em sẽ cố gắng xin sếp thêm cho mình vài ưu đãi hoặc quà tặng kèm riêng ạ."
+      },
+      {
+        "role": "người nghe",
+        "content": "Được rồi, cảm ơn em đã tư vấn nhé. Để mình xem lại chút rồi có gì mình gọi lại sau."
+      }
+    ]
+  },
+  {
+    "_id": 1439,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "Alo chào bạn, cho mình hỏi một chút được không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ chào bạn, mình có thể hỗ trợ gì cho bạn ạ?"
+      },
+      {
+        "role": "người gọi",
+        "content": "Mình vừa đi ngang qua cửa hàng, thấy ghi giờ mở cửa là từ 9 giờ sáng đến 9 giờ tối, không biết có đúng không bạn nhỉ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ đúng rồi ạ, bên mình mở cửa liên tục từ 9 giờ sáng đến 9 giờ tối hàng ngày bạn nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Vậy tầm 3 giờ chiều nay mình ghé qua shop được không?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ tất nhiên là được rồi ạ, lúc đó bên mình vẫn đang mở cửa, rất hoan nghênh bạn ghé chơi."
+      },
+      {
+        "role": "người gọi",
+        "content": "Ok bạn, tại mình chủ yếu đang muốn xem bên bạn có mẫu giày thể thao nào màu xanh không ấy mà."
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ có bạn nhé, hiện tại shop đang sẵn rất nhiều mẫu mã và kiểu dáng giày thể thao, màu xanh cũng có nhiều mẫu đẹp lắm ạ."
+      },
+      {
+        "role": "người gọi",
+        "content": "Thế thì tốt quá, vậy chiều nay mình sẽ qua xem sao. Cảm ơn bạn nhé!"
+      },
+      {
+        "role": "người nghe",
+        "content": "Dạ không có gì ạ, rất mong được đón tiếp bạn tại cửa hàng!"
+      }
+    ]
+  },
+  {
+    "_id": 1440,
+    "dialogue": [
+      {
+        "role": "người gọi",
+        "content": "A lô, em chào chị ạ. Em là Lan, nhân viên chăm sóc khách hàng bên ShopeeFood. Không biết đơn hàng hôm trước chị đặt, mình dùng bữa có thấy ngon miệng và hài lòng không ạ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "À, đồ ăn ngon lắm em, cảm ơn em nhé."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ vâng, nghe chị khen vậy là bên em vui rồi ạ. Bên em lúc nào cũng nỗ lực để mang đến những bữa ăn chất lượng nhất cho khách hàng."
+      },
+      {
+        "role": "người nghe",
+        "content": "Ừ, chị thấy dịch vụ bên mình đợt này khá ổn đấy."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ, nhân tiện cho em hỏi một chút, chị có góp ý gì thêm về thời gian giao hàng hay thái độ phục vụ của shipper bên em không ạ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Giao hàng nhanh lắm em, bạn shipper cũng rất lịch sự, chị không có gì phàn nàn cả."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ em cảm ơn chị đã phản hồi ạ, bên em sẽ cố gắng phát huy hơn nữa. Lần tới nếu chị đặt hàng, mình có thể tham khảo đăng ký gói hội viên bên em nhé, sẽ có rất nhiều mã giảm giá và ưu đãi hời dành riêng cho chị ạ."
+      },
+      {
+        "role": "người nghe",
+        "content": "Ok em, để có gì chị xem thử."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ với cả dạo gần đây bên em mới ra mắt thêm mấy món mới trên thực đơn, không biết chị có hứng thú dùng thử không ạ?"
+      },
+      {
+        "role": "người nghe",
+        "content": "Được chứ, món mới nghe có vẻ hấp dẫn đấy."
+      },
+      {
+        "role": "người gọi",
+        "content": "Dạ vâng, vậy lần sau đặt hàng chị nhớ để ý mục món mới nhé, hy vọng chị sẽ thích ạ. Nếu có bất kỳ vấn đề gì cần hỗ trợ, chị cứ liên hệ với bên em bất cứ lúc nào nhé."
+      },
+      {
+        "role": "người nghe",
+        "content": "Rồi, chị cảm ơn em nhé."
+      }
+    ]
   }
 ]
