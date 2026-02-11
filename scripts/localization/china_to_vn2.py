@@ -1,3 +1,5 @@
+# convert_vietnamese_context_llama.py
+
 import json
 import os
 from datetime import datetime
@@ -11,8 +13,7 @@ load_dotenv()
 
 class VietnameseContextConverter:
     
-    def __init__(self, input_file: str, output_file: str, log_file: str, model_name: str = None):
-
+    def __init__(self, input_file: str, output_file: str, log_file: str):
         api_key = os.getenv('OPENROUTER_API_KEY')
         if not api_key:
             raise ValueError("Không tìm thấy OPENROUTER_API_KEY trong file .env")
@@ -20,8 +21,11 @@ class VietnameseContextConverter:
         self.api_key = api_key
         self.api_url = "https://openrouter.ai/api/v1/chat/completions"
         
-        # Sử dụng model được chỉ định hoặc default
-        self.model = model_name or "google/gemini-flash-1.5-8b-exp-0827"
+        # Sử dụng Llama 3.3 70B Instruct FREE
+        # self.model = "google/gemma-3-4b-it:free"
+        # self.model = "openrouter/pony-alpha"
+        # self.model = "nvidia/nemotron-3-nano-30b-a3b:free"
+        self.model = "stepfun/step-3.5-flash:nitro"
         
         self.input_file = input_file
         self.output_file = output_file
@@ -32,7 +36,6 @@ class VietnameseContextConverter:
     
     def _init_files(self):
         """Khởi tạo các file"""
-
         if not os.path.exists(self.output_file):
             with open(self.output_file, 'w', encoding='utf-8') as f:
                 json.dump([], f, ensure_ascii=False)
@@ -40,6 +43,7 @@ class VietnameseContextConverter:
         with open(self.log_file, 'a', encoding='utf-8') as f:
             f.write(f"\n{'='*50}\n")
             f.write(f"Bắt đầu chuyển đổi: {datetime.now()}\n")
+            f.write(f"Model: {self.model}\n")
             f.write(f"{'='*50}\n")
     
     def _log(self, message: str, print_console: bool = True):
@@ -67,40 +71,98 @@ class VietnameseContextConverter:
             self._log(f"Lỗi khi đọc file output: {e}")
         
         return None
-    
+
     def _create_prompt(self, dialogue: List[Dict]) -> str:
-        """Tạo prompt cho AI"""
+        """Tạo prompt cho Llama 3.3"""
         dialogue_text = "\n".join([
             f"{turn['role']}: {turn['content']}" 
             for turn in dialogue
         ])
         
-        prompt = f"""Bạn là chuyên gia ngôn ngữ tiếng Việt. Nhiệm vụ của bạn là chuyển đổi đoạn hội thoại sau sang ngữ cảnh tiếng Việt TỰ NHIÊN hơn.
+        prompt = f"""Bạn là chuyên gia bản địa hóa tiếng Việt. Đoạn hội thoại dưới đây ĐÃ ĐƯỢC DỊCH sang tiếng Việt nhưng còn mang dấu ấn Trung Quốc. Hãy BẢN ĐỊA HÓA cho tự nhiên như người Việt nói chuyện thật.
 
-YÊU CẦU QUAN TRỌNG:
-1. GIỮ NGUYÊN NỘI DUNG và Ý NGHĨA của cuộc hội thoại có thể thêm bớt các turn sao cho phù hợp với nội dung nhất!
-2. Xưng hô phải THỐNG NHẤT và TỰ NHIÊN xuyên suốt (anh/em, bạn, mày/tao, chị/em, etc.)
-3. Phân tích ngữ cảnh để chọn cách xưng hô phù hợp:
-   - Nếu là cuộc gọi chính thức/công việc → dùng "anh/chị/em" hoặc "bạn"
-   - Nếu là bạn bè thân thiết → có thể dùng "mày/tao", "bạn", "cậu/tớ"
-   - Nếu là người lạ lịch sự → dùng "bạn" hoặc "anh/chị"
-4. Chuyển các tên riêng Trung Quốc sang tên Việt Nam phù hợp (Tiểu Lý → Linh, Thiên Hà Ngân hàng → Ngân hàng Vietcombank, etc.)
-5. Điều chỉnh ngữ cảnh, địa danh, đơn vị tiền tệ sang Việt Nam
-6. Giữ nguyên cấu trúc role: "người gọi" và "người nghe"
-7. Ngôn ngữ phải tự nhiên như người Việt nói chuyện thật không máy móc
+    NHIỆM VỤ:
 
-Đoạn hội thoại cần chuyển đổi:
-{dialogue_text}
+    1. XƯNG HÔ - Chọn 1 cặp và giữ THỐNG NHẤT xuyên suốt:
+    • Công việc/chính thức: anh/em, chị/em
+    • Bạn bè thân: mày/tao, cậu/tớ, bạn  
+    • Người lạ lịch sự: anh/chị, bạn
+    ⚠️ TUYỆT ĐỐI không đổi xưng hô giữa chừng!
 
-Hãy trả về kết quả dưới dạng JSON với format:
-{{
+    2. NGÔN NGỮ TỰ NHIÊN như người Việt nói thật:
+    ✓ Thêm: ừ, à, ơ, nhé, nha, hả, vậy à, thế à
+    ✓ Cảm thán: ối, trời ơi, ủa, hả
+    ✓ Câu ngắn, súc tích
+    ✗ Tránh văn viết cứng nhắc
+
+    3. BẢN ĐỊA HÓA - Chuyển ngữ cảnh Việt Nam:
+    
+    TÊN NGƯỜI:
+    • Tiểu Lý, Lý Na → Linh, Mai, Hương
+    • Vương Minh, Trương Vỹ → Minh, Tuấn, Dũng
+    • A Cường, Tiểu Hồng → Cường, Hồng, Lan
+    
+    ĐỊA DANH:
+    • Bắc Kinh → Hà Nội
+    • Thượng Hải → TP.HCM  
+    • Quảng Châu → Đà Nẵng
+    • Thâm Quyến → Hải Phòng
+    
+    NGÂN HÀNG/CÔNG TY:
+    • Ngân hàng Công Thương TQ → Vietcombank
+    • Ngân hàng Nông nghiệp → Agribank
+    • Alipay/WeChat Pay → MoMo/ZaloPay
+    • Taobao/Tmall → Shopee/Lazada
+    
+    TIỀN TỆ (nhân ~3500):
+    • 100 nhân dân tệ → 350,000đ
+    • 1000 tệ → 3,500,000đ
+    • 5000 tệ → 17,500,000đ
+    
+    SỐ ĐIỆN THOẠI:
+    • Format Việt: 09xx-xxx-xxx hoặc 03xx-xxx-xxx
+
+    4. GIỮ NGUYÊN:
+    ✓ Nội dung và ý nghĩa chính xác
+    ✓ Role: "người gọi" và "người nghe"  
+    ✓ Cảm xúc, giọng điệu
+
+    VÍ DỤ:
+
+    Input (chưa localize):
+    người gọi: Xin chào, tôi là Tiểu Lý từ Ngân hàng Công Thương Trung Quốc
+    người nghe: Xin chào, anh cần gì?
+
+    Output (đã localize):
+    {{
+    "dialogue": [
+        {{"role": "người gọi", "content": "Alo, chào anh. Em là Linh, bên Vietcombank ạ"}},
+        {{"role": "người nghe", "content": "Ừ chào em, em cần gì?"}}
+    ]
+    }}
+
+    Input:
+    người gọi: Anh ơi, tài khoản anh có 500 nhân dân tệ bị đóng băng
+    người nghe: Tại sao lại như vậy?
+
+    Output:
+    {{
+    "dialogue": [
+        {{"role": "người gọi", "content": "Anh ơi, tài khoản anh có 1,750,000đ bị phong tỏa"}},
+        {{"role": "người nghe", "content": "Hả? Sao lại thế?"}}
+    ]
+    }}
+
+    ĐOẠN HỘI THOẠI CẦN BẢN ĐỊA HÓA:
+    {dialogue_text}
+
+    TRẢ VỀ CHỈ JSON, KHÔNG GIẢI THÍCH:
+    {{
     "dialogue": [
         {{"role": "người gọi", "content": "..."}},
         {{"role": "người nghe", "content": "..."}}
     ]
-}}
-
-CHỈ TRẢ VỀ JSON, KHÔNG THÊM BẤT KỲ TEXT NÀO KHÁC."""
+    }}"""
 
         return prompt
     
@@ -110,7 +172,6 @@ CHỈ TRẢ VỀ JSON, KHÔNG THÊM BẤT KỲ TEXT NÀO KHÁC."""
         
         for attempt in range(retry_count):
             try:
-                # Headers đầy đủ cho OpenRouter
                 headers = {
                     "Authorization": f"Bearer {self.api_key}",
                     "Content-Type": "application/json",
@@ -125,17 +186,18 @@ CHỈ TRẢ VỀ JSON, KHÔNG THÊM BẤT KỲ TEXT NÀO KHÁC."""
                             "role": "user",
                             "content": prompt
                         }
-                    ]
+                    ],
+                    "temperature": 0.3,  # Giảm nhiệt độ cho kết quả ổn định
+                    "max_tokens": 5000   # Tăng token limit
                 }
                 
                 response = requests.post(
                     self.api_url,
                     headers=headers,
                     json=payload,
-                    timeout=60
+                    timeout=90  # Tăng timeout vì model lớn
                 )
                 
-                # Log chi tiết lỗi nếu có
                 if response.status_code != 200:
                     self._log(f"HTTP {response.status_code}: {response.text}")
                     response.raise_for_status()
@@ -143,38 +205,43 @@ CHỈ TRẢ VỀ JSON, KHÔNG THÊM BẤT KỲ TEXT NÀO KHÁC."""
                 result_data = response.json()
                 result_text = result_data['choices'][0]['message']['content'].strip()
                 
-                # Loại bỏ markdown code block nếu có
+                # Loại bỏ markdown code block
                 if result_text.startswith('```'):
                     result_text = result_text.split('```')[1]
                     if result_text.startswith('json'):
                         result_text = result_text[4:]
                     result_text = result_text.strip()
                 
+                # Loại bỏ phần text thừa trước/sau JSON
+                if '{' in result_text and '}' in result_text:
+                    start = result_text.find('{')
+                    end = result_text.rfind('}') + 1
+                    result_text = result_text[start:end]
+                
                 result = json.loads(result_text)
                 return result['dialogue']
                 
             except json.JSONDecodeError as e:
                 self._log(f"Lỗi parse JSON (lần {attempt + 1}/{retry_count}): {e}")
-                self._log(f"Response text: {result_text[:200]}...")
+                self._log(f"Response text: {result_text[:300]}...")
                 if attempt == retry_count - 1:
                     raise
-                time.sleep(2)
+                time.sleep(3)
                 
             except requests.exceptions.RequestException as e:
                 self._log(f"Lỗi HTTP (lần {attempt + 1}/{retry_count}): {e}")
                 if attempt == retry_count - 1:
                     raise
-                time.sleep(3)
+                time.sleep(5)
                 
             except Exception as e:
                 self._log(f"Lỗi khác (lần {attempt + 1}/{retry_count}): {e}")
                 if attempt == retry_count - 1:
                     raise
-                time.sleep(2)
+                time.sleep(3)
     
     def _save_single_result(self, item: Dict):
         """Lưu kết quả từng sample vào file"""
-
         with open(self.output_file, 'r', encoding='utf-8') as f:
             data = json.load(f)
         
@@ -240,7 +307,8 @@ CHỈ TRẢ VỀ JSON, KHÔNG THÊM BẤT KỲ TEXT NÀO KHÁC."""
                 success_count += 1
                 self._log(f"✓ Hoàn thành ID: {item_id} [{success_count}/{total}]")
                 
-                time.sleep(1.5)
+                # Delay 2 giây để tránh rate limit (Llama 3.3 70B free có rate limit)
+                time.sleep(2)
                 
             except Exception as e:
                 error_count += 1
@@ -255,131 +323,32 @@ CHỈ TRẢ VỀ JSON, KHÔNG THÊM BẤT KỲ TEXT NÀO KHÁC."""
         self._log(f"{'='*50}\n")
 
 
-def list_available_models():
-    """Liệt kê các model có sẵn trên OpenRouter"""
-    api_key = os.getenv('OPENROUTER_API_KEY')
-    if not api_key:
-        print("❌ Không tìm thấy OPENROUTER_API_KEY")
-        return []
-    
-    try:
-        print("\n🔍 Đang tải danh sách models từ OpenRouter...")
-        response = requests.get(
-            "https://openrouter.ai/api/v1/models",
-            headers={"Authorization": f"Bearer {api_key}"}
-        )
-        
-        if response.status_code == 200:
-            models = response.json()['data']
-            
-            print("\n" + "="*80)
-            print("CÁC MODEL KHẢ DỤNG TRÊN OPENROUTER")
-            print("="*80)
-            
-            # Lọc models miễn phí và Gemini
-            free_models = []
-            gemini_models = []
-            
-            for model in models:
-                model_id = model['id']
-                model_name = model.get('name', model_id)
-                pricing = model.get('pricing', {})
-                
-                # Kiểm tra miễn phí
-                is_free = (
-                    pricing.get('prompt') == '0' or 
-                    ':free' in model_id.lower()
-                )
-                
-                if is_free:
-                    free_models.append({
-                        'id': model_id,
-                        'name': model_name
-                    })
-                
-                if 'gemini' in model_id.lower():
-                    gemini_models.append({
-                        'id': model_id,
-                        'name': model_name,
-                        'free': is_free
-                    })
-            
-            # Hiển thị models miễn phí
-            print("\n📌 MODELS MIỄN PHÍ (FREE):")
-            print("-" * 80)
-            for idx, model in enumerate(free_models[:10], 1):
-                print(f"{idx}. {model['id']}")
-                print(f"   {model['name']}")
-            
-            # Hiển thị Gemini models
-            print("\n📌 TẤT CẢ GEMINI MODELS:")
-            print("-" * 80)
-            for idx, model in enumerate(gemini_models, 1):
-                free_tag = "✅ FREE" if model['free'] else "💰 PAID"
-                print(f"{idx}. {free_tag} - {model['id']}")
-            
-            print("\n" + "="*80)
-            
-            return free_models
-            
-        else:
-            print(f"❌ Lỗi {response.status_code}: {response.text}")
-            return []
-            
-    except Exception as e:
-        print(f"❌ Lỗi khi lấy danh sách models: {e}")
-        return []
-
-
 def main():
     # Cấu hình
     INPUT_FILE = r"F:\Projetcs\data_scam\translate\tele28k_harmless_translate.json"
-    OUTPUT_FILE = r"F:\Projetcs\data_scam\localization\tele28k_harmless.json"
-    LOG_FILE = r"F:\Projetcs\data_scam\conversion1_log.txt"
+    OUTPUT_FILE = r"F:\Projetcs\data_scam\localization\tele28k_harmless_llama.json"
+    LOG_FILE = r"F:\Projetcs\data_scam\conversion_llama_log.txt"
     
     print("="*60)
     print("CHƯƠNG TRÌNH CHUYỂN ĐỔI NGỮ CẢNH TIẾNG VIỆT")
+    print("Model: Llama 3.3 70B Instruct (FREE)")
     print("="*60)
     
     try:
-        # Tùy chọn xem models
-        view_models = input("\nBạn có muốn xem danh sách models? (y/n): ").strip().lower()
-        
-        if view_models == 'y':
-            list_available_models()
-        
-        # Nhập tên model
-        print("\n📝 Một số model phổ biến:")
-        print("1. google/gemini-flash-1.5-8b-exp-0827 (FREE)")
-        print("2. google/gemini-pro-1.5-exp (FREE thử nghiệm)")
-        print("3. meta-llama/llama-3.1-8b-instruct:free (FREE)")
-        print("4. Nhập tên model khác")
-        
-        choice = input("\nNhập lựa chọn (1-4, Enter = 1): ").strip()
-        
-        if choice == "2":
-            model_name = "google/gemini-pro-1.5-exp"
-        elif choice == "3":
-            model_name = "meta-llama/llama-3.1-8b-instruct:free"
-        elif choice == "4":
-            model_name = input("Nhập tên model: ").strip()
-        else:
-            model_name = "google/gemini-2.5-flash-lite"
-        
         # Khởi tạo converter
         converter = VietnameseContextConverter(
             input_file=INPUT_FILE,
             output_file=OUTPUT_FILE,
-            log_file=LOG_FILE,
-            model_name=model_name
+            log_file=LOG_FILE
         )
         
         print("\nChọn cách xử lý:")
         print("1. Tự động tiếp tục từ ID cuối cùng (khuyến nghị)")
         print("2. Chạy lại từ đầu")
         print("3. Chọn ID range tùy chỉnh")
+        print("4. Test 3 mẫu đầu tiên")
         
-        choice = input("\nNhập lựa chọn (1/2/3): ").strip()
+        choice = input("\nNhập lựa chọn (1/2/3/4): ").strip()
         
         if choice == "1":
             converter.convert(auto_resume=True)
@@ -401,6 +370,10 @@ def main():
             end_id = int(end_id) if end_id else None
             
             converter.convert(start_id=start_id, end_id=end_id, auto_resume=False)
+            
+        elif choice == "4":
+            print("\n🔍 TEST: Chạy thử 3 mẫu đầu tiên...")
+            converter.convert(start_id=1, end_id=3, auto_resume=False)
         else:
             print("Lựa chọn không hợp lệ!")
         
