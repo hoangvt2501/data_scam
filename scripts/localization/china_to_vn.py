@@ -117,7 +117,7 @@ class VietnameseContextConverter:
             for turn in dialogue
         ])
         
-        prompt = f"""Bạn là chuyên gia ngôn ngữ tiếng Việt. Nhiệm vụ của bạn là chuyển đổi đoạn hội thoại sau sang ngữ cảnh tiếng Việt TỰ NHIÊN, GẦN GŨI hơn.
+        prompt = f"""Bạn là chuyên gia ngôn ngữ tiếng Việt. Nhiệm vụ của bạn là chuyển đổi đoạn hội thoại sau sang ngữ cảnh tiếng Việt TỰ NHIÊN, GẦN GŨI hơn nhưng đừng máy móc quá hay khách sáo quá mức.
 
 YÊU CẦU QUAN TRỌNG:
 1. GIỮ NGUYÊN HOÀN TOÀN NỘI DUNG và Ý NGHĨA của cuộc hội thoại
